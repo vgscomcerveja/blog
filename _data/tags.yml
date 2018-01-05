@@ -1,0 +1,194 @@
+- slug: analise
+  name: Análises
+  link: jogando/analise
+- slug: especial
+  name: Especiais
+  link: jogando/especial
+- slug: game-over
+  name: Série Game Over
+  link: jogando/game-over
+- slug: lists
+  name: Listas
+  link: lists
+- slug: toplist
+  name: Série Toplist
+  link: jogando/toplist
+- slug: trofeus
+  name: Troféus
+  link: jogando/trofeus
+- slug: utilidade-publica
+  name: Utilidade Pública
+  link: utilidade-publica
+
+- slug: android
+  name: Android
+- slug: atari
+  name: Atari
+- slug: arcades
+  name: Arcades
+- slug: bgs
+  name: Brasil Game Show
+- slug: call-of-duty
+  name: Call of Duty (Série)
+- slug: capcom
+  name: CAPCOM
+- slug: core-design
+  name: CORE Design
+- slug: criterion
+  name: Criterion
+- slug: crystal-dynamics
+  name: Crystal Dynamics
+- slug: disney
+  name: Disney
+- slug: donkey-kong
+  name: Donkey Kong (Série)
+- slug: dreamcast
+  name: Dreamcast
+- slug: drinkbox
+  name: DrinkBox Studios
+- slug: e3
+  name: E3
+- slug: eidos
+  name: EIDOS
+- slug: eletronic-arts
+  name: Eletronic Arts
+- slug: farcry
+  name: Far Cry (Série)
+- slug: game-boy
+  name: Game Boy
+- slug: game-cube
+  name: GameCube
+- slug: game-gear
+  name: Game Gear
+- slug: game-music
+  name: Game Music
+- slug: games-with-gold
+  name: Games with Gold
+- slug: gba
+  name: Game Boy Advance
+- slug: gbc
+  name: Game Boy Color
+- slug: god-of-war
+  name: God of War (Série)
+- slug: gog
+  name: GOG.com
+- slug: gran-turismo
+  name: Gran Turismo (Série)
+- slug: guitar-hero
+  name: Guitar Hero (Série)
+- slug: indie
+  name: Indies
+- slug: kojima
+  name: Hideo Kojima
+- slug: konami
+  name: Konami
+- slug: lego
+  name: LEGO (Série)
+- slug: livros
+  name: Livros
+- slug: mario
+  name: Super Mario (Série)
+- slug: master-system
+  name: Master System
+- slug: mega-drive
+  name: Mega Drive
+- slug: mercado-brasileiro
+  name: Mercado Brasileiro
+- slug: metal-gear-solid
+  name: Metal Gear Solid (Série)
+- slug: mickey
+  name: Mickey
+- slug: microsoft
+  name: Microsoft
+- slug: mortal-kombat
+  name: Mortal Kombat (Série)
+- slug: naughty-dog
+  name: Naughty Dog
+- slug: nds
+  name: Nintendo DS
+- slug: need-for-speed
+  name: Need for Speed (Série)
+- slug: nes
+  name: NES
+- slug: nintendo
+  name: Nintendo
+- slug: n64
+  name: Nintendo 64
+- slug: pc
+  name: PC
+- slug: playtronic
+  name: Playtronic
+- slug: ps-plus
+  name: PS+
+- slug: ps1
+  name: PlayStation
+- slug: ps2
+  name: PlayStation 2
+- slug: ps3
+  name: PlayStation 3
+- slug: ps4
+  name: PlayStation 4
+- slug: psp
+  name: PSP
+- slug: psvita
+  name: PS Vita
+- slug: razer
+  name: Razer
+- slug: rare
+  name: Rare
+- slug: resident-evil
+  name: Resident Evil (Série)
+- slug: rockband
+  name: Rockband (Série)
+- slug: saturn
+  name: Saturn
+- slug: sega
+  name: Sega
+- slug: silent-hill
+  name: Silent Hill (Série)
+- slug: silicon-knights
+  name: Silicon Knights
+- slug: snes
+  name: Super Nintendo
+- slug: sonic
+  name: Sonic (Série)
+- slug: sony
+  name: Sony
+- slug: spotify
+  name: Spotify
+- slug: square-enix
+  name: Square-Enix
+- slug: switch
+  name: Switch
+- slug: tectoy
+  name: Tectoy
+- slug: tequila-works
+  name: Tequila Works
+- slug: telltale
+  name: Telltale Games
+- slug: tomb-raider
+  name: Tomb Raider (Série)
+- slug: ubisoft
+  name: Ubisoft
+- slug: uncharted
+  name: Série Uncharted
+- slug: wii
+  name: Nintendo Wii
+- slug: wiiu
+  name: Nintendo WiiU
+- slug: xbox
+  name: Xbox Clássico
+- slug: xbox-360
+  name: Xbox 360
+- slug: xbox-live
+  name: Xbox LIVE
+- slug: xbox-one
+  name: Xbox One
+- slug: xperia-play
+  name: Xperia PLAY
+- slug: zelda
+  name: The Legend of Zelda (Série)
+
+- slug: horizon-zero-dawn
+  name: Horizon Zero Dawn
+  link: game/horizon-zero-dawn

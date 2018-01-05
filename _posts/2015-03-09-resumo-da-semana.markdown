@@ -3,10 +3,12 @@ layout:     post
 title:      "Resumo da Semana - Metal Gear Solid V: The Phantom Pain ganhou data de lançamento; Rockband 4 será lançado; Battletoads de volta?; Jogos grátis e mais.."
 date:       2015-03-09 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 09
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/10_resumo04/post_thumbnail_zpsdwuqxh4r.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/10_resumo04/post_header_zpsd5fclzin.jpg
+tags:       [sony, ps-plus, microsoft, xbox-live, games-with-gold, metal-gear-solid, rockband]
+games:      [metal-gear-solid-v, rockband-4, shovel-knight, syndicate]
+thumbnail:  /imgs/posts/news/10_resumo04/post_thumbnail.jpg
+cover:      /imgs/posts/news/10_resumo04/post_header.jpg
 sinopse: >
    Confira as novidades da semana do dia 02/03 à 08/03 de 2015!
 ---
@@ -23,7 +25,7 @@ O provável último jogo da saga **Metal Gear Solid** tem data de lançamento: 1
 
 A **Harmonix** confirmou semana passada que um novo game da franquia será lançado, ainda este ano, para PS4 e Xbox ONE.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/10_resumo04/1020x574_MCZBlogRotator-1020x574_zpsazvusg9b.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/10_resumo04/rockband-4.jpg" %}
 
 A boa notícia é que você poderá utilizar seus *hardwares* (guitarras, baterias e microfones) dos jogos anteriores. Além disso, o jogo será compatível com todo o conteúdo em disco dos jogos anteriores também, ou seja, todas suas músicas poderão ser transferidas gratuitamente para o novo jogo. Mas como nem tudo são flores, a Harmonix não garantirá essa transferência em plataformas cruzadas, isto significa, que se você jogava Rockband no PS3, não poderá transferir seu conteúdo para o Xbox ONE, somente para o PS4.
 
@@ -41,7 +43,7 @@ No anúncio da versão para Xbox ONE de **Shovel Knight** uma surpresa: os sapos
 
 **Syndicate**, o cultuado clássico do *cyberpunk* produzido pela **Bullfrog Productions** está grátis no [Por Conta da Casa!](https://www.origin.com/pt-br/store/free-games/on-the-house) deste mês no **Origin** para PC, sim, o clássico jogo de estratégia e ação tática de 1993. O preço original dele era de R$ 9,90.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/10_resumo04/sydnicate_pcbox_zpsnzo1fadb.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/10_resumo04/syndicate.jpg" %}
 
 Só a critério de curiosidade, em 2012 teve um *reboot* do jogo totalmente remodelado, onde foi transformado em um jogo de tiro em primeira pessoa desenvolvido pela **Starbreeze Studios**.
 

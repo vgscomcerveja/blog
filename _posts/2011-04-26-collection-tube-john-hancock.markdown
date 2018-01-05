@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "Colecionador John Hancock"
-date:   2011-04-26 19:00
-author: Felipe B. Barbosa
-session: Collection Tube &#35 02
+layout:     post
+title:      "Colecionador John Hancock"
+date:       2011-04-26 19:00
+author:     Felipe B. Barbosa
+session:    Collection Tube &#35 02
 categories: colecionando collection-tube
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/02_john_hancock/post_thumbnail_zpsehy3paei.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/02_john_hancock/post_header_zps0srfdejz.jpg
+thumbnail:  /imgs/posts/collection_tube/02_john_hancock/post_thumbnail.jpg
+cover:      /imgs/posts/collection_tube/02_john_hancock/post_header.jpg
 sinopse: >
   E vamos a mais um Collection Tube! O vídeo de hoje mostra uma entrevista que a RecycledGamer
   fez com o colecionador John Hancock, se você não o conhece, entre e confira!

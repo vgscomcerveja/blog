@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Aquisição - PlayStation 3 Slim"
-date:   2010-07-15 19:00
-author: Felipe B. Barbosa
-session: Coleção Pessoal
+layout:     post
+title:      "Aquisição - PlayStation 3 Slim"
+date:       2010-07-15 19:00
+author:     Felipe B. Barbosa
+session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/02_ps3/post_thumbnail_zpsnzqpnqgv.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/02_ps3/post_header_zpsy3fezkmo.jpg
+tags:       [sony, ps3]
+thumbnail:  /imgs/posts/colecao/02_ps3/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/02_ps3/post_header.jpg
 sinopse: >
   Este foi um grande achado! Comprei um PS3 novo por incríveis R$ 899,00 e ainda pude parcelar
   sem juros, e o melhor, foi numa grande loja de varejo brasileira! Como isso? Simples, foi numa

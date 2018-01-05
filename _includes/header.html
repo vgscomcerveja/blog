@@ -5,8 +5,9 @@
       <object id="logo-grande" data="{{ '/imgs/logo_verde.svg' | prepend: site.baseurl }}" type="image/svg+xml">
         <!-- TODO: carregar imagem de fallback -->
       </object>
-      <object id="logo-pequeno" data="{{ '/imgs/logo_branco.svg' | prepend: site.baseurl }}" type="image/svg+xml">
-        <!-- TODO: carregar imagem de fallback -->
+
+      <img id="logo-pequeno" src="{{ '/imgs/logo_branco.svg' | prepend: site.baseurl }}"
+          onerror="this.src={{ '/imgs/logo-branco.png' | prepend: site.baseurl }}">
       </object>
     </a>
   </div>
@@ -20,8 +21,9 @@
       {% for nav in site.data.menu %}
         {% if nav.subitems != null %}
           <li class="submenu-link">
-            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}">
-              {{ nav.title }}<span class="icon-angle-down">
+            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}"
+                title="{{ nav.title }}">
+              <span class="nav-link-title">{{ nav.title }}</span><span class="icon-angle-down">
             </a>
             <ul class="submenu">
               {% for sub in nav.subitems %}
@@ -35,8 +37,15 @@
           </li>
         {% else %}
           <li>
-            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}">
-              {{ nav.title }}
+            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}"
+                title="{{ nav.title }}">
+
+              <span class="nav-link-title nav-link-title-without-sub">
+                {% if nav.showtitle %}
+                  {{ nav.title }}
+                {% endif %}
+              </span>
+
             </a>
           </li>
         {% endif %}

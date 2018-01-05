@@ -5,8 +5,10 @@ date:       2014-08-03 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 18
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/post_thumbnail_zpslpxxygas.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/post_header_zps8yab8i6h.jpg
+tags:       [sony, psp, silent-hill, konami, analise, game-over]
+games:      [silent-hill-origins]
+thumbnail:  /imgs/posts/game_over/18_silent_hill_origins/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/18_silent_hill_origins/post_header.jpg
 sinopse: >
   Após praticamente um ano depois de ter comprado o PSP de um amigo que eu finalmente terminei um jogo nele! E esse jogo foi Silent Hill: Origins, o jogo que explica como tudo começou, pois ele se passa sete anos antes dos acontecimentos do primeiro Silent Hill.
 game_cover:
@@ -24,7 +26,7 @@ Após praticamente um ano depois de ter comprado o PSP de um amigo que eu finalm
 
 Assim começa a história do jogo, alías, é assim que começa a história da série toda, pois esse jogo se passa sete anos antes dos acontecimentos do primeiro SH, e explica muita coisa da série.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/foto1_zps3mhlcb60.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/18_silent_hill_origins/foto1.jpg" description="" %}
 
 Lançado em 2007 pela **Konami**, porém desenvolvido em parceria com a **Climax Studios**, este foi o primeiro jogo da série a ser lançado para PSP e era para ser exclusivo, mas em 2008, ele recebeu uma versão para PS2 desenvolvida pela **Monolith Productions**.
 
@@ -36,17 +38,17 @@ Você começa o jogo sem nenhuma arma de fogo, então você é obrigado a enfren
 
 Os chefões são muito mais medonhos que as criaturas encontradas pelo caminho, porém, não são difíceis de derrotar, basta estar preparado. Aliás, o sistema de dano não se recupera sozinho, então é sempre bom estar com medicamentos para enfrentá-los.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/foto3_zpszkwzrvod.jpg" description="Isso aí é somente uma criatura 'comum' do jogo, imagine o chefão! ^^" %}
+{% include image.html url="/imgs/posts/game_over/18_silent_hill_origins/foto3.jpg" description="Isso aí é somente uma criatura 'comum' do jogo, imagine o chefão! ^^" %}
 
 O jogo possui um sistema de *saves* das antigas, pois você só pode salvar em pontos específicos do jogo, ou seja, toda vez que você ver um triângulo vermelho na parede, lá é seu ponto de *save*, corra já para lá! :D
 
 Ah, uma das coisas legais é o mapa, sem ele eu ficaria perdido, através dele, você pode se orientar melhor, pois os lugares que você já passou são marcados automaticamente.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/foto2_zps0znkfftq.jpg" description="Outra criatura bizarra!" %}
+{% include image.html url="/imgs/posts/game_over/18_silent_hill_origins/foto2.jpg" description="Outra criatura bizarra!" %}
 
 Enfim, SH: Origins é um jogo muito bom, terminei o jogo apenas uma vez, mas como é de praxe da série, o jogo conta com vários finais alternativos, inclusive o final que o produtores tiram uma onda: o final UFO! :D
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/foto4_zpsehbcr8l9.jpg" description="Meus resultados no jogo, usei só um pouco o mapa! ^^" %}
+{% include image.html url="/imgs/posts/game_over/18_silent_hill_origins/foto4.jpg" description="Meus resultados no jogo, usei só um pouco o mapa! ^^" %}
 
 {% include ficha.html
   titulo='Silent Hill: Origins'
@@ -56,4 +58,4 @@ Enfim, SH: Origins é um jogo muito bom, terminei o jogo apenas uma vez, mas com
   lancamento='2007'
   genero='Ação / Survival Horror'
   data='25 de Julho de 2014'
-  nota='9.0' %}
+  nota=4 %}

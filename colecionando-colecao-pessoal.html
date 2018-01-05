@@ -3,15 +3,24 @@ layout: default
 permalink: /colecionando/colecao-pessoal/
 ---
 <div class="page-title">
-  <img class="icon icons8-Box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAADVElEQVR4Xu2cTXITMRSEnxb2lnCD5ATATcIJGBZWeQecgHACwlZeMJyA3CTJCcIRkq2myqJETVITBZdHHr2Ztt1epkbvtfpz68dJbIQvKAcMlBqKEQIBexMQCIGAOQAmhwlBBWKtDWDajkqOc+5fOJ4SQiDT8ieQaf1/0Z1A9g3IIzEw3QcjJ90itiaEQHTZE4iuv9nVCSTbMt0BBKLrb3Z1Asm2THcAgej6m12dQLIt0x1AILr+ZlcnkGzLdAcQiK6/2dUJJNsy3QEEoutvdnUCybZMdwCB6PqbXZ1Asi3THZANRFcOq6cObP19CC0b1wECGdfvrd0IZKtF4z7wAkjaftOmM67Mw+nW18+Nf7nYt8DhWKY7k75+Eoguh6fqBDKS0X3bEEhfp0Z6jkBGMrpvGwLp69RIzxHISEb3bbMXQKqqOpnP559CCOfGmLd9J6fxXAjhxhhz5b3/Udf1feke8ECstechhJ/GmJPSkx9SL4Rwb4z56Jy7GlJn14v2JPeQCENEfpecsEKt9yWhwCYkLlOz2ewOLRkp0JiUpmnOSi1fsECstRci8rVjwIOIXHjv61KTz01Lu5dVUYeIvOqM/+aciz8b/IIFslgsrpMN/Itz7nLwjAsUsNZ+FpHvj6XiRr9ard4VKC2wQFJh3vvXUyUjNXq5XJ6u1+u77s9L/eMSgezwtj5WIDci8qbjF+ySJSK3zrki9yPkhDzb1ONpJm6mTdP8mmrpak9+H6KO5PR3+Jt6e6L5k5xmdlhg1Ic8eO9PS71JYBMSbeTFUGTTYWGSm3oHSg2YlHgvqkre0tv5PvsuGTggUWS7fMWzf/wopbvRq69H/2lwKyLxw8XLUstUtwf0kjWF21P3JJCpCST9CYRAwBwAk8OEEAiYA2BymBACAXMATA4TQiBgDoDJYUIIBMwBMDlMCIGAOQAmhwkhEDAHwOQwIQQC5gCYHCaEQMAcAJPDhBAImANgcpgQAgFzAEwOE0IgYA6AyWFCCATMATA5TAiBgDkAJocJIRAwB8DkMCEEAuYAmBwmhEDAHACTw4QQCJgDYHKYEAIBcwBMTvGEgM1v7+UM/iaHvXcAbAIEQiBgDoDJyU4ImP6jkbPx65mOxgGwiRIIgYA5ACbnL5EKQZInSosoAAAAAElFTkSuQmCC" width="100" height="100">
-  <br>
+  <img width="96" height="96" src="/imgs/icone-colecao-pessoal.png"><br>
   <h1>Coleção Pessoal</h1>
 </div>
 
-<div class="post-list">
-  {% for post in site.categories.colecionando %}
-    {% if post.categories contains "colecionando" and post.categories contains "colecao-pessoal" %}
-      {% include article-preview.html show_category="false" %}
-    {% endif %}
-  {% endfor %}
+<div class="home">
+  <div class="post-list">
+    {% for post in site.categories.colecionando %}
+      {% if post.categories contains "colecionando" and post.categories contains "colecao-pessoal" %}
+        {% include article-preview.html show_category="false" %}
+
+        {% assign loopindex = forloop.index | modulo: 5 %}
+        {% if loopindex == 1 %}
+          {% include googleads.html %}
+        {% endif %}
+
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
+
+{% include side-menu.html %}

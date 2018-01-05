@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Lista de Jogos Sem Troféus do PS3"
-date:   2016-07-13 19:00
-author: Felipe B. Barbosa
-session: Utilidade Pública
+layout:     post
+title:      "Lista de jogos sem troféus do PS3"
+date:       2016-07-13 19:00
+author:     Felipe B. Barbosa
+session:    Utilidade Pública &#35 08
 categories: jogando utilidade-publica
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/08_jogos_ps3_sem_trofeus/post_thumbnail_zpskso5i7cc.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/08_jogos_ps3_sem_trofeus/post_header_zpscsquloqy.jpg
+tags:       [sony, ps3, trofeus, lists, utilidade-publica]
+thumbnail:  /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_thumbnail.jpg
+cover:      /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_header.jpg
 sinopse: >
   Uma das inovações que mais gosto da geração passada de videogames é o sistema de conquistas/troféus! Criada pela Microsoft para o Xbox 360 em 2005, as Conquistas surgiram para "premiar" o jogador após a realização de um determinado objetivo no jogo, que por muitas vezes não fazem parte do objetivo principal do jogo. A idéia deu tão certo, que a Sony copiou, digo, desenvolveu um sistema similar com os Troféus no PS3, e por ter desenvolvido após seu lançamento, existem vários jogos que não possuem suporte. Confira quais são eles!
 ---

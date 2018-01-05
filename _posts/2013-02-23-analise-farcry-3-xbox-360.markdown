@@ -5,21 +5,23 @@ date:       2013-02-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 01
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/post_thumbnail_zpszhgbgn3l.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/post_header_zps6zvtdrm8.jpg
+tags:       [microsft, xbox-360, ubisoft, farcry, analise, game-over]
+games:      [farcry-3]
+thumbnail:  /imgs/posts/game_over/01_farcry3/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/01_farcry3/post_header.jpg
 sinopse: >
-  Começando com as mudanças no blog com uma nova sessão, a Game Over. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que Far Cry 3 para Xbox 360, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
+  Começando com as mudanças no blog com uma nova seção, a Game Over. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que Far Cry 3 para Xbox 360, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
 game_cover:
 ---
-Começando com as mudanças no blog com uma nova sessão, a **Game Over**. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que **Far Cry 3** para **Xbox 360**, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
+Começando com as mudanças no blog com uma nova seção, a **Game Over**. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que **Far Cry 3** para **Xbox 360**, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
 
 FC3 foi minha surpresa de final de ano, comprei porque estava numa promoção muito boa! Lógico que já tinha lido algumas análises que diziam que o jogo era bom, mas eu não tinha jogado nenhum outro jogo da série. Mesmo assim, resolvi arriscar e comprei! Para mim, fechei o ano com chave de ouro! Um jogão!
 
 Você é **Jason Brody**, um cara comum que resolveu curtir as férias com os amigos em uma ilha paradisíaca. Tudo começa bem com praia, sol, festas.. até que de repente, estão aprisionados por piratas que são liderados por **Vaas Montenegro**.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/foto1_zps745zcysx.jpg" description="No começo é só festa..." %}
+{% include image.html url="/imgs/posts/game_over/01_farcry3/farcry3_1.jpg" description="No começo é só festa..." %}
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/foto2_zpsdimvqbfg.jpg" description="..mas depois!" %}
+{% include image.html url="/imgs/posts/game_over/01_farcry3/farcry3_2.jpg" description="..mas depois!" %}
 
 Você consegue escapar dos piratas e conhece os membros da tribo **Rakyat** que estão em guerra contra o exército de Vaas. A história do jogo é basicamente se aliar com a tribo, lutar contra os piratas e salvar seus amigos. Mas o que torna FC3 ótimo é que ele é um jogo de mundo aberto muito bem feito.
 
@@ -37,4 +39,4 @@ Bom é isso, eu recomendo Far Cry 3 sem pensar duas vezes, é um jogo muito bom 
   lancamento='2012'
   genero='FPS'
   data='5 de Janeiro de 2013'
-  nota='9.5' %}
+  nota=4.5 %}

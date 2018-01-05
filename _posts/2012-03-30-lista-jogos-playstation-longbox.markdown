@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "Lista de Jogos PlayStation no Formato Longbox"
-date:   2012-03-30 19:00
-author: Felipe B. Barbosa
-session: Utilidade Pública
+layout:     post
+title:      "Lista de todos os jogos PlayStation no formato Longbox"
+date:       2012-03-30 19:00
+author:     Felipe B. Barbosa
+session:    Utilidade Pública &#35 05
 categories: colecionando utilidade-publica
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/post_thumbnail_zpsst4rdhmx.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/post_header_zpsrxhihkpa.jpg
+tags:       [sony, ps1, resident-evil, lists, utilidade-publica]
+games:      [resident-evil, space-hulk, doom]
+thumbnail:  /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_thumbnail.jpg
+cover:      /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_header.jpg
 sinopse: >
   Se tem uma coisa que curto demais, são listas! E a lista de hoje é dos primeiros jogos para PlayStation lançados no formato Longbox. Para quem não sabe, nos primeiros anos de vida, os jogos de PS1 eram lançados em caixas grandes similares à dos jogos do Sega Saturn.
 ---
@@ -28,7 +30,7 @@ Este jogo é bem curioso e não está na lista, pois há uma discussão muito gr
 
 Mas tem uma ou duas cópias deste jogo no formato *longbox* conhecidas no mundo. Porém, estão sem o manual! Sendo assim, acredita-se que estas caixas foram feitas antes do lançamento do jogo e foram usadas apenas para exibição promocional, já que no lançamento oficial do jogo foi já no formato de caixa de CD mesmo.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/space-hulk-ps1-playstation-1-psx-long-box_zps7vgi1yhb.jpg" description="" %}
+{% include image.html url="/imgs/posts/utilidade_publica/05_jogos_ps1_longbox/space-hulk-ps1-playstation-1-psx-long-box.jpg" %}
 
 Entretanto, mesmo sendo uma caixa promocional, ela é considerada um dos itens mais raros para PS1.
 

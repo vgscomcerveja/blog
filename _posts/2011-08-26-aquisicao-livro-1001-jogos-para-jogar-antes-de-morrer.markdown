@@ -5,8 +5,9 @@ date:       2011-08-26 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/09_livro1001/post_thumbnail_zpskywdksoh.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/09_livro1001/post_header_zpsko1ywibr.jpg
+tags:       [livros]
+thumbnail:  /imgs/posts/colecao/09_livro_1001_jogos/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/09_livro_1001_jogos/post_header.jpg
 sinopse: >
   Pronto! Fiz minha primeira compra no site Amazon.com! Como a importação de livros não possui
   impostos, resolvi experimentar o site comprando o livro "1001 Video Games You Must Play Before

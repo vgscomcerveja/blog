@@ -5,8 +5,10 @@ date:       2015-03-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 22
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/post_thumbnail_zpsd2hkhaky.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/post_header_zpsbj14bout.jpg
+tags:       [microsoft, xbox-360, analise, game-over]
+games:      [dead-island]
+thumbnail:  /imgs/posts/game_over/22_dead_island/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/22_dead_island/post_header.jpg
 sinopse: >
   Encerrei meu ano gamístico de 2014 com um jogo que tinha ótimos ingredientes, porém, o modo de preparo não foi muito legal, resultando em um jogo não muito satisfatório para mim! Mas pode ser que eu que não segui a receita direito.
 game_cover:
@@ -21,7 +23,7 @@ Desenvolvido pela **Techland**, publicado pela **Deep Silver** e lançado em 201
 
 O jogo se passa na ilha de *Banoi*, um lugar paradisíaco, onde é muito frequentado por turistas para relaxarem e terem paz. Entretanto, algo acontece na ilha e tudo se torna o caos e morte. Você assume o papel de uma das quatro pessoas de um grupo sobrevivente: Purna, Logan, Sam B ou Xian Mei e sua principal missão é simplesmente sobreviver e escapar da ilha.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/foto3_zps7znyhx0f.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/22_dead_island/foto3.jpg" %}
 
 Cada personagem possui uma história e personalidade diferente, mas creio que sua escolha não afetará a história do jogo, pois eles sempre andarão juntos durante a trama, mesmo que você jogue sozinho. Entretanto, se você jogar sozinho, os outros personagens não aparecem durante o jogo, somente nas animações.
 
@@ -43,7 +45,7 @@ Além disso, cada arma possui um nível de qualidade: comum (representada na cor
 
 Bom, voltando aos personagens... Como dito acima, você faz parte de um grupo de quatro pessoas, sendo assim, você pode optar por jogar sozinho ou então, no modo que deve ser mais divertido: em co-op com até mais três amigos online. Você também pode optar por jogar com jogadores desconhecidos também.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/foto2_zps63ytsjkq.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/22_dead_island/foto2.jpg" %}
 
 Conforme você enfrenta os inimigos, você ganha pontos de experiência e sobe de nível. A cada nível avançado, você também ganha pontos de habilidades, que são usados para comprar novas habilidades e bônus. Há três "árvores" de habilidades disponíveis: fúria, combate e sobrevivência. Cada uma delas contém um conjunto diferente de melhorias.
 
@@ -55,7 +57,7 @@ Você terá várias missões para ajudar o pessoal da ilha, e como em todo jogo 
 
 ## Inimigos
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/foto4_zpssad3royf.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/22_dead_island/foto4.jpg" %}
 
 A variedade de inimigos é razoável, sendo a maioria zumbis mesmo, mas você também enfrenta humanos. Conheça cada um deles:
 
@@ -72,7 +74,7 @@ A variedade de inimigos é razoável, sendo a maioria zumbis mesmo, mas você ta
 
 E por fim o jogo possui gráficos muitos bons, não são ótimos, mas são completamente aceitáveis. A ilha é muito bem detalhada com muita variedade de ambientes. Já o som eu achei meio fraco, pois eu joguei com fone de ouvido e às vezes, não dá para perceber que qual direção o inimigo está vindo ou até mesmo se ele já morreu. Porém, a trilha sonora é muito boa!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/foto1_zpsdn48q4vk.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/22_dead_island/foto1.jpg" %}
 
 ## Resumindo
 
@@ -86,4 +88,4 @@ O jogo tinha tudo para ser um excelente jogo, porém, no início senti o jogo mu
   lancamento='2011'
   genero='FPS / Survival Horror'
   data='31 de Dezembro de 2014'
-  nota='7.5' %}
+  nota=3.5 %}

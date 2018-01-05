@@ -3,10 +3,12 @@ layout:     post
 title:      "Resumo da Semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Freak (e não é Pokémon); Trailer de LEGO Jurassic World e mais.."
 date:       2015-03-16 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 10
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/11_resumo05/post_thumbnail_zps3p9tvuuj.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/11_resumo05/post_header_zpsh78crd04.jpg
+tags:       [naughty-dog, uncharted, arcade, ps4, sony, lego]
+games:      [uncharted-4, tembo, lego-jurassic-world]
+thumbnail:  /imgs/posts/news/11_resumo05/post_thumbnail.jpg
+cover:      /imgs/posts/news/11_resumo05/post_header.jpg
 sinopse: >
   Confira as novidades da semana do dia 09/03 à 15/03 de 2015!
 ---
@@ -18,8 +20,6 @@ E essa semana temos uma notícia não muito boa:
 ## Uncharted 4 é adiado para 2016!
 
 Pois é, o jogo que estou mais ansioso para jogar desta nova geração, só sairá o ano que vem! Segundo o pessoal da **Naughty Dog**, eles precisam de mais tempo para garantir que a história de *Nathan Drake* receba o final que merece. A previsão é para a primavera americana de 2016.
-
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/11_resumo05/U4_E3_1920x1080_zpsxehem3jy.jpg" description="" %}
 
 Fonte: [PlayStation Blog](http://blog.br.playstation.com/2015/03/11/uncharted-4-a-thiefs-end-chegara-na-primavera-americana-de-2016/)
 

@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "Lista de Jogos de Master System Exclusivos Tectoy"
-date:   2011-01-22 19:00
-author: Felipe B. Barbosa
-session: Utilidade Pública
+layout:     post
+title:      "Lista de jogos de Master System exclusivos Tectoy para o Brasil"
+date:       2011-01-22 19:00
+author:     Felipe B. Barbosa
+session:    Utilidade Pública &#35 01
 categories: colecionando utilidade-publica
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/01_ms_ex_tectoy/post_thumbnail_zps9ffzfle9.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/01_ms_ex_tectoy/post_header_zpsewakmyay.jpg
+tags:       [sega, master-system, tectoy, lists, utilidade-publica]
+games:      [phantasy-star]
+thumbnail:  /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_thumbnail.jpg
+cover:      /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_header.jpg
 sinopse: >
   A Tectoy foi sinônimo de Sega na década de 90 para os brasileiros! Pois, além de ser
   representante da marca no Brasil, a Tectoy fez um trabalho impressionante no mercado brasileiro

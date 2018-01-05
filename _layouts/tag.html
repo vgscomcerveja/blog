@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="page-title">
+  {% if page.logo %}
+    <img src="{{ page.logo }}" style="margin: 20px 0; max-height: 120px; max-width: 400px;">
+    {% if page.show_title %}
+      <br><h1>{{ page.title }}</h1>
+    {% endif %}
+  {% else %}
+    <!-- Tags icon by Icons8 -->
+    <img class="icon icons8-Tags" width="80" height="80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAEJklEQVR4Xu2cgY3UMBRE5yoAOoAKgAqACoAKgA6gAqACKAEqACo4qACoAKgAqAA0ki1ZVmInnm9/n2RLJ+3u90/slxl7N3buAqtIBC6k7JWMBVAUwQK4AIoExPSlwAVQJCCmLwUugCIBMX0pcAEUCYjpMynwOoBLAHfEPp1N/waAf+8BfD6bPAtAL3g5LwJ8EYAeYjkDwBTedwD3AfwJrS/FDnXwQCUq/hGA5wCuhXM/OArRG6A3vJQv2/IWwJMzED0BzgQvBfkuQKSdqcRi8QJoBY+TDkvsaO19jQfjbNvPYGcetzixeABU4OWAYuc4brLU3t8E8CaZ6Tn7ctIgsLS8AvAyzMxPS9RHA1TgbQE6oqhYh/C+BoWleZyw7mYQObGwLgEztltGAlThnYG1VfcjgIcAvoRZl3X42T0An5LPYu6/8KLIaBRABV5u21aQv4P6bmRfk/g5LXwrO/A0ABV4qm1zq/J7XgqQtv4B4BcAvk7LFABVeK1qK1mYE83jUOFD+OI+pYUVeFa2TUFSYZwUqMK0/A3qi79+phgDFXiWts2VSIj8tRFvWBAov6bk8JjnZmEVnqVtlWO5AFTg9bDtUYBb5x4OUIHX07ZHIOa/YIZbWIV3pJOj6wxToALP07a1CzIEoALP27YpQJcxUIVXU8DI+PAxUIE3s22H/JRT4M1k25rCu4yBKrxao73iQ8ZABd7stu0+BirwrpJtu4yBKjwvW6rnNRkDFXiz2zYC3munCUAenCte+Y4BnrwUu0q23Rr/KBze6mdpXhPhVgcuAfJ2N++fpffMSjHVOt75ueuKm51KdHlluGLF299cvUrLXuyq2/b0XpwSwNIYsBfbsoO3orbOv2fbuL1ua8ja7EcJIG933w4Ly3ydllJsRmC1Np1WXjxgCWDcZEP7xlWsmFeK1Wa3Wmd6xfeGl2Z4tRkm3WRDYM+SnpVisdpsdjazbXqFazsTOAPxxFwKzCGWYr1UZHlcSXlHLBzrWED0mp272PaMAq0getm5i21bADLHQomWFmw5loltWwFaQext5+62VQBaQOxt5+62VQFaQGyxX2uOuW0tAFpBtLLzUNtaAbSAaGXnoba1BGgBsdWapbyutrUGaAXxrJ3dbNsDoAXEs3Z2s20vgBYQFTsPs21PgFYQ9+w5hW17A7SAuGfnKWw7AqAFxCN2drHtKIBWEKez7UiAFhCns+1ogBYQ0za729YDoBXEqeCxU7U1kSMD+Zk6yk3Z6eB5AMyVyCXT1+EZNj7Ly8ew4lOTe7HDi95nrmxr3dEKjO1MlZi3nYAIMX8okPWmguelwAiMkPi/Cfg/WwiLcKg6qpB2TWPc4MRlVca2HgxsFZCc56VAueGzHGABFK/EArgAigTE9KXABVAkIKYvBS6AIgExfSlwARQJiOn/Adsr9GDlhUd6AAAAAElFTkSuQmCC">
+    <br>
+    <h1>{{ page.title }}</h1>
+  {% endif %}
+
+</div>
+
+
+
+<div class="home">
+
+  <div class="post-list">
+    {% if site.tags[page.tag] %}
+      {% for post in site.tags[page.tag] %}
+        {% include article-preview.html show_category="false" %}
+        {% assign loopindex = forloop.index | modulo: 5 %}
+        {% if loopindex == 1 %}
+          {% include googleads.html %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <p>Não tem posts com esta tag!</p>
+    {% endif %}
+  </div>
+
+</div>
+
+{% include side-menu.html %}

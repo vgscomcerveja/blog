@@ -1,31 +1,29 @@
 <article>
+
   {% if include.show_category %}
-  <span class="post-category">{{ post.session }}</span>
+    <span class="post-category" style="margin:none;">{{ post.session }}</span>
   {% endif %}
-
-  <h1 class="post-title">
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h1>
-
-  <div class="post-meta">
-    <span class="post-author icon-user">{{ post.author }}</span>
-    <span class="post-date icon-calendar">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <span class="post-comments icon-comment-empty"><a href="{{ post.url }}#disqus_thread"></a></span>
-  </div>
 
   {% if post.thumbnail %}
     <div class="post-cover">
       <img src="{{ post.thumbnail }}">
     </div>
-    <div class="post-sinopse">
-      <p>{{ post.sinopse }}</p>
-      <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
-    </div>
-  {% else %}
-    <div class="post-sinopse" style="width:100%">
-      <p>{{ post.sinopse }}</p>
-      <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
-    </div>
   {% endif %}
 
+  <h2 class="post-title">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+
+  <div class="post-meta">
+    <a href="https://twitter.com/felipebbarbosa" target="_blank">
+      <span class="post-author icon-user">{{ post.author }}</span>
+    </a>
+    <span class="post-date icon-calendar">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <span class="post-comments icon-comment-empty"><a href="{{ post.url }}#disqus_thread"></a></span>
+  </div>
+
+  <div class="post-sinopse">
+    <p>{{ post.sinopse }}</p>
+    <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
+  </div>
 </article>

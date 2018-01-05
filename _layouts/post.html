@@ -1,6 +1,37 @@
 ---
 layout: default
 ---
+{% assign post = page %}
+{% if post.tags.size > 0 %}
+  {% capture tags_content %}
+    {% if post.tags.size == 1 %}
+      <i class="icon icon-tag"></i>
+    {% else %}
+      <i class="icon icon-tags"></i>
+    {% endif %}
+  {% endcapture %}
+  {% for post_tag in post.tags %}
+    {% for data_tag in site.data.tags %}
+      {% if data_tag.slug == post_tag %}
+        {% assign tag = data_tag %}
+      {% endif %}
+    {% endfor %}
+    {% if tag %}
+      {% capture tags_content_temp %}
+        {{ tags_content }}
+        {% if tag.link != null %}
+          <a href="/{{ tag.link }}/">{{ tag.name }}</a>
+        {% else %}
+          <a href="/tag/{{ tag.slug }}">{{ tag.name }}</a>
+        {% endif %}
+        {% if forloop.last == false %}, {% endif %}
+      {% endcapture %}
+      {% assign tags_content = tags_content_temp %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign tags_content = '' %}
+{% endif %}
 
 <div class="post">
 
@@ -14,39 +45,80 @@ layout: default
     <span class="post-category">{{ page.session }}</span>
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
-      <span class="post-author icon-user">{{ page.author }}</span>
+      <a href="https://twitter.com/felipebbarbosa" target="_blank">
+        <span class="post-author icon-user">{{ page.author }}</span>
+      </a>
       <span class="post-date icon-calendar">{{ page.date | date: "%b %-d, %Y" }}</span>
       <span class="post-comments icon-comment-empty"><a href="{{ page.url }}#disqus_thread"></a></span>
     </div>
+    <div class="post-meta">
+      <small>{{ tags_content }}</small>
+    </div>
+    <div class="post-meta">
+      <small>{{ games_content }}</small>
+    </div>
+
+    <div class="post-share">
+
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Compartilhe no Twitter">
+        <span class="icon-twitter share-twitter"></span>
+      </a>
+      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartilhe no Facebook">
+        <span class="icon-facebook share-facebook"></span>
+      </a>
+      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartilhe no Google+">
+        <span class="icon-google share-google"></span>
+      </a>
+    </div>
+
   </header>
 
-  <article class="post-content">
-    <div class="wrapper">
-      {{ content }}
+  <div class="home">
+    <article class="post-content">
+      <div class="wrapper">
+        {{ content }}
+        {% include googleads.html %}
+      </div>
+    </article>
+  </div>
 
-      <div id="disqus_thread"></div>
-      <script>
-          /**
-           *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-           *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-           */
-          /*
-          var disqus_config = function () {
-              this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-              this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-          };
-          */
-          (function() {
-              var d = document, s = d.createElement('script');
+  {% include side-menu.html %}
 
-              s.src = '//videogamescomcerveja.disqus.com/embed.js';
-
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-          })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  <div class="wrapper">
+    <div class="post-navigation">
+      {% if page.previous.url %}
+        <a class="prev-post" href="{{page.previous.url}}">
+          <small>post anterior</small><br>{{page.previous.title}}
+        </a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next-post" href="{{page.next.url}}">
+          <small>próximo post</small><br>{{page.next.title}}
+        </a>
+      {% endif %}
     </div>
-  </article>
 
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+         */
+        /*
+        var disqus_config = function () {
+            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() {
+            var d = document, s = d.createElement('script');
+
+            s.src = '//videogamescomcerveja.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
 </div>

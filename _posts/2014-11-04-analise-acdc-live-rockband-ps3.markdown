@@ -5,8 +5,10 @@ date:       2014-11-04 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 20
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/post_thumbnail_zpsn4qcpjyr.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/post_header_zpsw3tudwvc.jpg
+tags:       [sony, ps3, rockband, electronic-arts, analise, game-over]
+games:      [acdc-rockband]
+thumbnail:  /imgs/posts/game_over/20_acdc_live/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/20_acdc_live/post_header.jpg
 sinopse: >
   Desde que joguei Guitar Hero pela primeira vez no PlayStation 2 que me tornei fã dos jogos do gênero musical do tipo "de guitarra", porém confesso que sempre joguei de maneira casual e, AC/DC Live: Rockband Track Pack é o primeiro que peguei para jogar até o final o modo carreira.
 game_cover:
@@ -44,7 +46,7 @@ Ele é composto por 18 músicas que não tem o que por nem tirar, em ordem alfab
 
 O jogo segue o mesmo padrão de todos os jogos do gênero, ou seja, você tem que apertar as teclas coloridas (acordes) de acordo com as notas da música que aparecem na tela e no momento certo, apertar a barra central (strum bar), que simula uma palheta, para tocar a nota.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/foto1_zpstyxdzg65.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/20_acdc_live/foto1.jpg" %}
 
 Conforme você toca, você é avaliado através da sua barra de desempenho, se você erra, ela desce para o vermelho, e se você continuar errando muito, você falhará na música e terá que começá-la no início.
 
@@ -54,7 +56,7 @@ Agora, se você acertar as notas na sequência sem errar, você irá aumentar o 
 
 Eu terminei jogando no *Hard* com a guitarra, até porque este jogo **não tem suporte para jogar com controle**. Eu jogo neste nível porque assim todas as cinco teclas coloridas são utilizadas, no modo *Normal*, somente quatro teclas são usadas e é bem mais lento o ritmo. No *Hard* dá para jogar legal! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/foto2_zpsex0kaqp4.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/20_acdc_live/foto2.jpg" %}
 
 No final das contas, não encontrei muita dificuldade para tocas as 18 músicas, entretanto, isso foi sem me preocupar em fazer 100% em cada música, pois tem algumas que são impossíveis! ^^
 
@@ -63,8 +65,8 @@ No final das contas, não encontrei muita dificuldade para tocas as 18 músicas,
   titulo='AC/DC Live: Rockband Track Pack'
   plataforma='PlayStation 3'
   desenvolvedor='Harmonix'
-  publicador='MTV Games / Eletronic Arts'
+  publicador='MTV Games / Electronic Arts'
   lancamento='2008'
   genero='Musical'
   data='09 de Outubro de 2014'
-  nota='8.0' %}
+  nota=3 %}

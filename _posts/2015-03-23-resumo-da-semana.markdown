@@ -3,10 +3,12 @@ layout:     post
 title:      "Resumo da Semana - Novidades da Nintendo; Filme Pixels; Bloodborne; Hideo Kojima; God of War e mais.. "
 date:       2015-03-23 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 11
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/post_thumbnail_zpsimdws7tl.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/post_header_zpsuwdbmcaz.jpg
+tags:       [nintendo, god-of-war, kojima]
+games:      [god-of-war-3, bloodborne]
+thumbnail:  /imgs/posts/news/12_resumo06/post_thumbnail.jpg
+cover:      /imgs/posts/news/12_resumo06/post_header.jpg
 sinopse: >
   Confira as novidades da semana do dia 16/03 à 22/03 de 2015!
 ---
@@ -14,7 +16,7 @@ sinopse: >
 
 Empresa revela que fará jogos para plataforma *mobile* (celulares e tablets) após adquirir 10% de uma empresa chamada **DeNA**. Com isso, formou-se uma parceria onde o foco será o desenvolvimento de jogos novos (e não em adaptações de jogos existentes) para esta plataforma.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/20150317nintendo_zpsgv2vurya.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/12_resumo06/smart-nintendo.jpg" %}
 
 Fonte [MeioBit](http://meiobit.com/312308/nintendo-se-rende-aos-smartphones-e-anuncia-novo-console/)
 
@@ -32,7 +34,7 @@ Pixels é um filme que está previsto para sair no meio deste ano (em Julho). O 
 
 Sexta-feira passada (20/03) a série God of War completou 10 anos! Como presente de aniversário, a Sony anunciou que irá lançar o God of War III remasterizado para o PS4 em Julho deste ano.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/16669807200_403a30c59d_z_zps6dozpeqh.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/12_resumo06/god-of-war3-remaster.jpg" %}
 
 Fonte: [PlayStation Blog](http://blog.br.playstation.com/2015/03/20/god-of-war-iii-remastered-ps4-lanca-em-14-de-julho/)
 
@@ -46,7 +48,7 @@ Depois o twitter oficial do Metal Gear que era @Kojima_Pro_Live passou à ser @M
 
 *"A Konami Digital Entertainment, incluindo o Sr. Kojima, continuarão a desenvolver e dar suporte para os produtos de Metal Gear. Por favor aguardem por anúncios futuros."*
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/Hideo-Kojima-1300x550_zpsgwgxyajw.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/12_resumo06/hideo-kojima.jpg" %}
 
 Lembrando que Metal Gear Solid V: The Phantom Pain tem data prevista para lançamento em Setembro deste ano e ainda tem o novo Silent Hill que também contará com a participação de Kojima.
 
@@ -58,7 +60,7 @@ Fonte: [MeioBit](http://meiobit.com/312532/hideo-kojima-estaria-prestes-a-deixar
 
 Se na [semana passada tivemos uma ação solidária com os arcades nos aeroportos suécos](/noticias/2015/03/16/resumo-da-semana.html), nesta semana, hoje para ser mais preciso (23/03), temos uma campanha da Sony na Dinamarca, onde se você doar sangue, terá garantido uma cópia do jogo Bloodborne para PS4. A campanha visa aumentar o número de doadores no país, que está em baixa.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/sangue_zpsfkmozyh6.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/12_resumo06/campanha-bloodborne.jpg" %}
 
 Além disso, os doadores também concorrerão à um PS4 com a temática do jogo.
 
@@ -70,6 +72,6 @@ Fonte: [GameHall](http://gamehall.uol.com.br/v10/doe-sangue-e-ganhe-uma-copia-de
 
 E para finalizar, uma excelente notícia para todos os entusiastas e amantes de videogames no Brasil: o projeto do [documentário "1983: O Ano dos Videogames no Brasil"](/noticias/2015/03/03/documentario-1983-ano-dos-videogames-no-brasil.html) vai sair do papel!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/12_resumo06/1983logo_zpsvpwlyci5.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/12_resumo06/1983.jpg" %}
 
 A campanha no site Kickante conseguiu atingir a meta de R$ 20 mil! Agora, os responsáveis pelo projeto terão que correr para lançar o documentário em 2016.

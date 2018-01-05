@@ -5,11 +5,12 @@ date:       2013-03-29 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 04
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/post_thumbnail_zpsmnk3kz8a.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/post_header_zps3nizjhlm.jpg
+tags:       [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
+games:      [tomb-raider]
+thumbnail:  /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/04_tomb_raider/post_header.jpg
 sinopse: >
   Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo Tomb Raider lançado pela Square-Enix agora neste mês de Março para PS3, Xbox 360 e PC.
-game_cover:
 ---
 Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo **Tomb Raider** lançado pela **Square-Enix** agora neste mês de Março para PS3, Xbox 360 e PC.
 
@@ -21,7 +22,7 @@ Os gráficos estão ótimos, a jogabilidade está excelente, é um jogo que voc�
 
 A jogabilidade é bem parecida com a série Uncharted, porém um pouco melhorada, como o cover automático, não sendo necessário apertar um botão para se proteger dos inimigos em um tiroteio, ela automaticamente já se esconde! Ainda em comparação com Uncharted, senti falta do uso de granadas e da possibilidade de atirar em seus inimigos quando estiver pendurado na parede, mas nada que prejudique o jogo, é só uma observação! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/foto1_zpsnjewkxk9.jpg" description="Os gráficos já estão muito bonitos no PS3, fico imaginando a versão para PC ^^" %}
+{% include image.html url="/imgs/posts/game_over/04_tomb_raider/foto1.jpg" description="Os gráficos já estão muito bonitos no PS3, fico imaginando a versão para PC ^^" %}
 
 Para quem gosta de exploração, o jogo conta com bastante itens coletáveis, como tesouros GPS, relíquias, diários, além das tumbas opcionais. Ah, tem também os desafios (challenges) de cada parte da ilha, ou seja, para quem gosta (como eu) é um prato cheio! O lado bom, é que mesmo que você termine o jogo sem coletar todos, você pode voltar a ilha simplesmente para coletá-los e terminar o jogo em 100%.
 
@@ -50,4 +51,4 @@ Finalmente consegui platinar o jogo! O pessoal pisou na bola ao colocar um trof�
   lancamento='2013'
   genero='Ação / Aventura'
   data='23 de Março de 2013'
-  nota='10' %}
+  nota=5 %}

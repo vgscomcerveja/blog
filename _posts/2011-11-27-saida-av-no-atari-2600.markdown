@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Coloque Saída A/V no seu Atari 2600"
-date:   2011-11-27 19:00
-author: Felipe B. Barbosa
-session: Utilidade Pública
+layout:     post
+title:      "Coloque saída A/V no seu Atari 2600"
+date:       2011-11-27 19:00
+author:     Felipe B. Barbosa
+session:    Utilidade Pública &#35 03
 categories: jogando utilidade-publica
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/03_av_atari/post_thumbnail_zpshjaoyemu.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/03_av_atari/post_header_zpsktioawtk.jpg
+tags:       [atari, utilidade-publica]
+thumbnail:  /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_thumbnail.jpg
+cover:      /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_header.jpg
 sinopse: >
   Há aproxidamente 6 meses atrás, adquiri um Atari 2600 Polyvox original com dois controles,
   recuperando assim meu primeiro videogame! Sim, o Atari foi o meu primeiro videogame que tive
@@ -20,7 +21,8 @@ contato na vida! Joguei muito nos anos 90 clássicos, como River Raid, Megamania
 Porém, a saída de vídeo original dele é RF e até nas TVs de tubo a imagem não fica boa, a solução
 foi modificá-lo e colocar saída A/V.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/03_av_atari/atari_console_zpsc3srenvq.jpg" description="" %}
+{% include image.html
+  url="/imgs/posts/utilidade_publica/03_saida_av_atari2600/atari_console.jpg" %}
 
 O Atari foi lançado oficialmente aqui no Brasil em 1983 pela **Polyvox** e como todos sabem,
 as televisões de antigamente eram bem diferentes das atuais (obviamente). Sendo assim, a saída
@@ -36,7 +38,9 @@ eletrônico. Sendo assim, não teve nenhum problema em realizar a modificação!
 
 O esquema que utilizamos foi este, o **Atari A/V Reloaded**:
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/03_av_atari/esquema_polyvox_zpstqsemrwt.jpg" description="" %}
+{% include image.html
+  url="/imgs/posts/utilidade_publica/03_saida_av_atari2600/esquema_polyvox.jpg"
+  description="Esquema para o Atari da Polyvox" %}
 
 Este é o esquema que você precisa para modificar seu Atari 2600 para ficar com saída A/V, porém,
 lembrando que este esquema é para o modelo original **Polyvox**, se seu Atari for um Dactar,

@@ -5,8 +5,10 @@ date:       2011-01-09 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/post_thumbnail_zpst0ohjacf.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/post_header_zps9tt4qcjq.jpg
+tags:       [sega, master-system, tectoy]
+games:      [ultima-iv]
+thumbnail:  /imgs/posts/colecao/08_ultima_iv/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/08_ultima_iv/post_header.jpg
 sinopse: >
   Última IV é o quarto jogo da série Última e por curiosidade é o último jogo da série lançado
   para um console da Sega (no caso, Master System). Lançado pela Tectoy aqui no Brasil com caixa
@@ -16,7 +18,7 @@ sinopse: >
 para um console da **Sega** (no caso, Master System). Lançado pela **Tectoy** aqui no Brasil com caixa
 e manual em português, porém o jogo em si é inglês.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/foto1_zpswev4keqf.jpg" description="Última IV" %}
+{% include image.html url="/imgs/posts/colecao/08_ultima_iv/ultima-iv.jpg" description="Última IV" %}
 
 Este jogo tem uma história interessante na minha coleção, eu o adquiri a muito tempo atrás (quando
 eu era criança ainda). Na verdade, esse jogo não fazia parte dos jogos que queria na época, eu me
@@ -29,7 +31,7 @@ do Double Dragon) para vender também. Os jogos eram simplesmente **Phantasy Sta
 Meu pai perguntou se os jogos eram legais também, ela respondeu que sim, mas que a pessoa tinha
 que gostar do gênero. Como não entendiámos muito, levamos os três jogos!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/foto2_zpse8vhehs6.jpg" description="Última IV - Traseira" %}
+{% include image.html url="/imgs/posts/colecao/08_ultima_iv/ultima-iv_back.jpg" description="Última IV - Traseira" %}
 
 Nossa, na época eu pensei: "Oba! Três novos jogos para jogar!". Mas chegando em casa, uma
 decepção, eu não sabia o que era RPG e muito menos sabia jogar! Então, esses dois jogos acabaram
@@ -46,4 +48,4 @@ bom estado. Quem diria?
 Infelizmente meu jogo estava incompleto, estava faltando o manual. Mas no dia 20 de Janeiro de 2011,
 eu consegui o manual que faltava com a ajuda do grande colecionador Frank Jr. Pinto. :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/foto3_zpsjzojz8yt.jpg" description="Manual do Jogo" %}
+{% include image.html url="/imgs/posts/colecao/08_ultima_iv/ultima-iv_manual.jpg" description="Manual do Jogo" %}

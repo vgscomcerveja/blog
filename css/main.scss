@@ -10,27 +10,30 @@ $base-font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
 $base-font-size:   16px;
 $base-font-post: Georgia, sans-serif;
 
-$header-font-family: 'Roboto', sans-serif;
+$header-font-family: 'Open Sans', 'Roboto', sans-serif;
 
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     20px;
 
 $text-color:       #444;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #2980b9;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$verde-vcc:        #61964a;
-$verde-vcc-escuro: #4d7c34;
+$vcc-color:        #61964a;
+$vcc-color-escuro: #4d7c34;
 
+$second-color:      #2489bc;
+$second-color-dark: #1b5e80;
+
+$on-smartphone:    500px;
 $on-palm:          900px;
 $on-laptop:        1024px;
-
 
 
 

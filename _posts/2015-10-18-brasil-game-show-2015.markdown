@@ -5,8 +5,9 @@ date:       2015-10-18 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/02_bgs2015/post_thumbnail_zpsrou3ouyv.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/02_bgs2015/post_header_zpsefluddj1.jpg
+tags:       [bgs, sony, microsoft, especial]
+thumbnail:  /imgs/posts/especial/02_bgs2015/post_thumbnail.jpg
+cover:      /imgs/posts/especial/02_bgs2015/post_header.jpg
 sinopse: >
   Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente não estava nos meus planos ir. Mas como o feriado coincidiu com o dia de folga da minha esposa, resolvemos dar uma volta por lá, e olha, ela que nem joga videogame estava muito mais empolgado do que eu para ir, se não fosse por ela, com certeza, seria mais um ano sem ir.
 ---
@@ -52,7 +53,7 @@ Tinha bastante coisa para jogar lá, mas os que mais me chamaram a atenção for
 
 Uma coisa que achei legal foi o espaço dedicado aos desenvolvedores brasileiros independentes. Não cheguei a ver nada no detalhe, mas parecia ter vários jogos legais por lá!
 
-Mas se quiser saber um pouco sobre os *indies* que estavam por lá, o nosso parceiro [Vão Jogar!](www.vaojogar.com.br) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
+Mas se quiser saber um pouco sobre os *indies* que estavam por lá, o nosso parceiro [Vão Jogar!](http://vaojogar.com.br/) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
 
 ## Resumindo
 
@@ -63,3 +64,39 @@ Outra coisa, no último dia não tinham muitas atrações legais como as apresen
 Fiquei sabendo que ano que vem, a feira mudará para um local maior ainda, e mudará também a data para trazer mais jogos que ainda não foram lançados para o pessoal jogar! Quem sabe o ano que vem eu não vá no dia destinado à impressa com uma credencial do Videogames com Cerveja! ^^'
 
 E para finalizar, confira as poucas fotos que consegui tirar:
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto1.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto2.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto3.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto4.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto5.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto6.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto7.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto8.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto9.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto10.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto11.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto12.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto13.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto14.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto15.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto16.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto17.jpg" %}
+
+{% include image.html url="/imgs/posts/especial/02_bgs2015/foto18.jpg" %}

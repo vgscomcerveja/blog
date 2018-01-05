@@ -5,8 +5,10 @@ date:       2016-02-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 27
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/post_thumbnail_zpsrih5irqv.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/post_header_zpskzbucnrf.jpg
+tags:       [sony, psvita, drinkbox, analise, game-over]
+games:      [guacamelee]
+thumbnail:  /imgs/posts/game_over/27_guacamelee/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/27_guacamelee/post_header.jpg
 sinopse: >
   Para quem viu minha participação no MeMe: "O Que Você Jogou em 2015?" deve ter notado que joguei o tal do Guacamelee!, um "metroidvania" muito divertido e viciante!
 game_cover:
@@ -37,7 +39,7 @@ Uma destas habilidades é o poder de alternar entre o mundo dos vivos com o dos 
 
 A questão de exploração, não é nenhum pouco maçante, muito pelo contrário, a sensação de recompensa é enorme, seja pelo novos poderes adquiridos, como também com os troféus conquistados rapidamente! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/foto1_zpsqaax1wh9.jpg" description="Você consegue sequências de combos incríveis!" %}
+{% include image.html url="/imgs/posts/game_over/27_guacamelee/foto1.jpg" description="Você consegue sequências de combos incríveis!" %}
 
 ## Por falar em troféus..
 
@@ -51,7 +53,7 @@ Uma das coisas mais legais, são as referências à filmes, memes da internet e 
 
 Para você ter uma ideia, tem referências ao Mega Man, Zelda, Metroid, Mario, Grumpy Cat (meme da internet), Alex Kidd, Donkey Kong e vários outros.. Muito legal!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/foto2_zpsphsiuejt.jpg" description="Por exemplo, nesta imagem tem referências à dois jogos! :)" %}
+{% include image.html url="/imgs/posts/game_over/27_guacamelee/foto2.jpg" description="Por exemplo, nesta imagem tem referências à dois jogos! :)" %}
 
 ## Conclusão
 
@@ -65,4 +67,4 @@ O jogo vale muito a pena! É perfeito para jogar no PS Vita, e ele é *cross-ove
   lancamento='2013'
   genero='Ação / Aventura'
   data='20 de Setembro de 2015'
-  nota='10' %}
+  nota=5 %}

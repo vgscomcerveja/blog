@@ -6,21 +6,34 @@ layout: default
 
   <div class="post-list">
     {% for post in paginator.posts %}
-      {% include article-preview.html show_category="true" %}
-    {% endfor %}
 
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
-      {% else %}
-        <span class="previous page-disabled">Anterior</span>
+      {% include article-preview.html show_category="true" %}
+
+      {% assign loopindex = forloop.index | modulo: 5 %}
+      {% if loopindex == 1 %}
+        {% include googleads.html %}
       {% endif %}
-      <span class="page_number ">{{ paginator.page }} de {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
-      {% else %}
-        <span class="next page-disabled">Próxima</span>
-      {% endif %}
-    </div>
+    {% endfor %}
   </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
+    {% else %}
+      <span class="previous page-disabled">Anterior</span>
+    {% endif %}
+    <span class="page_number ">{{ paginator.page }} de {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
+    {% else %}
+      <span class="next page-disabled">Próxima</span>
+    {% endif %}
+  </div>
+
 </div>
+
+
+
+
+
+{% include side-menu.html %}

@@ -5,21 +5,23 @@ date:       2013-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 03
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/03_nfstr/post_thumbnail_zps6rdkinud.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/03_nfstr/post_header_zpszahagvww.jpg
+tags:       [sony, ps3, electronic-arts, need-for-speed, black-box, analise, game-over]
+games:      [need-for-speed-the-run]
+thumbnail:  /imgs/posts/game_over/03_nfs_the_run/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/03_nfs_the_run/post_header.jpg
 sinopse: >
-  Lançado em 2011 pela Eletronic Arts e produzido desta vez pela Black Box, Need for Speed: The Run trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem Jack Rourke que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
+  Lançado em 2011 pela Electronic Arts e produzido desta vez pela Black Box, Need for Speed: The Run trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem Jack Rourke que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
 game_cover:
 ---
-Lançado em 2011 pela **Eletronic Arts** e produzido desta vez pela **Black Box** (o Hot Pursuit, seu antecessor, foi produzido pela Criterion), **Need for Speed: The Run** trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem **Jack Rourke** que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
+Lançado em 2011 pela **Electronic Arts** e produzido desta vez pela **Black Box** (o Hot Pursuit, seu antecessor, foi produzido pela Criterion), **Need for Speed: The Run** trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem **Jack Rourke** que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/03_nfstr/foto1_zps13rzhtho.jpg" description="Este é você.. Jack Rourke" %}
+{% include image.html url="/imgs/posts/game_over/03_nfs_the_run/foto1.jpg" description="Este é você.. Jack Rourke" %}
 
 Outra novidade, que é no mínimo curiosa, é que na história, além de pilotar carros, você também controla o personagem fora do seu carro no decorrer do jogo. Porém, este controle é só por QTE's (Quick Time Events) e não agregam em nada ao jogo, mas tornam as *cut-scenes* mais interativas. Eu particularmente não gostei muito não.
 
 Bom, voltando para dentro do carro, o jogo possui gráficos muito bonitos, pois é um dos primeiros jogos, que não seja de tiro em primeira pessoa (FPS), a usar a *engine* **Frostbite 2**. Ela fornece recursos visuais muito impressionantes e uma jogabilidade distinta, um pouco diferente do Hot Pursuit, ficou mais realista!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/03_nfstr/foto2_zpsdzxpf6es.jpg" description="O jogo conta com um visual impressionante!" %}
+{% include image.html url="/imgs/posts/game_over/03_nfs_the_run/foto2.jpg" description="O jogo conta com um visual impressionante!" %}
 
 ## Troféus / Conquistas
 
@@ -37,8 +39,8 @@ Os troféus do **Challenge Series** (modalidade do jogo) também são meio chati
   titulo='Need for Speed: The Run'
   plataforma='PlayStation 3'
   desenvolvedor='Black Box'
-  publicador='Eletronic Arts'
+  publicador='Electronic Arts'
   lancamento='2011'
   genero='Corrida (Arcade)'
   data='10 de Fevereiro de 2013'
-  nota='8.0' %}
+  nota=3 %}

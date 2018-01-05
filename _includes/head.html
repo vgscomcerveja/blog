@@ -1,18 +1,72 @@
-<head>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
+    {% if page.author %}
+        <meta name="author" content="{{ page.author }}">
+    {% else %}
+        <meta name="author" content="Felipe B. Barbosa">
+    {% endif %}
+
+    <meta property="fb:pages" content="157027331034690">
+
+    <meta property="og:site_name" content="{{ site.title }}">
+
+    {% if page.title %}
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:type" content="article">
+    {% else %}
+        <meta property="og:title" content="{{ site.title }}">
+        <meta property="og:type" content="website">
+    {% endif %}
+
+    {% if page.url %}
+        <meta property="og:url" content="{{ page.url | prepend: site.url }}">
+    {% else %}
+        <meta property="og:url" content="{{ site.url }}">
+    {% endif %}
+
+    {% if page.sinopse %}
+        <meta property="og:description" content="{{ page.sinopse }}">
+    {% else %}
+        <meta property="og:description" content="{{ site.description }}">
+    {% endif %}
+
+    {% if page.thumbnail %}
+        <meta property="og:image" content="{{ page.thumbnail | prepend: site.url }}">
+        <meta name="twitter:image:src" content="{{ page.thumbnail | prepend: site.url }}">
+    {% endif %}
+
+    {% if page.date %}
+        <meta property="article:publisher" content="https://facebook.com/vgscomcerveja">
+        <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+        <meta property="article:author" content="https://twitter.com/felipebbarbosa">
+    {% endif %}
+
+    {% if page.categories %}
+        {% for category in page.categories limit:1 %}
+            <meta property="article:section" content="{{ category }}">
+        {% endfor %}
+    {% endif %}
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twiiter:domain" content="{{ site.title }}">
+    <meta name="twitter:site" content="@vgscomcerveja">
+    <meta name="twitter:creator" content="@felipebbarbosa">
+
     <link rel="shortcut icon" type="image/png" href="{{ '/imgs/favicon.png' }}">
 
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Roboto:400,300,100">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Roboto:400,300,100">
     <link rel="stylesheet" href="{{ '/css/animation.css' | prepend: site.baseurl }}">
     <!--[if IE 7]><link rel="stylesheet" href="{{ '/css/vcc-ie7.css' | prepend: site.baseurl }}><![endif]-->
-    <link rel="stylesheet" href="{{ '/css/vcc.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/css/vcc.min.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/css/lightbox.min.css' | prepend: site.baseurl }}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 

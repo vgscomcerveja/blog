@@ -1,0 +1,15 @@
+<div>
+  {% assign meiaestrela = include.nota | modulo: 2 %}
+  {% for i in (1..5) %}
+    {% if i <= include.nota %}
+      <img src="/imgs/beer-checked.png" width="45px">
+    {% else %}
+      {% if meiaestrela == 0.5 %}
+        <img src="/imgs/beer-half.png" width="45px">
+        {% assign meiaestrela = 1 %}
+      {% else %}
+        <img src="/imgs/beer-no.png" width="45px">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

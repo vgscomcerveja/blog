@@ -5,8 +5,10 @@ date:       2015-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/post_thumbnail_zpspiwelwkw.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/post_header_zpsjgs8rnpy.jpg
+tags:       [microsoft, xbox-360, sony, ps3, naughty-dog, psp, ps1, nintendo, wii, need-for-speed, especial]
+games:      [deadlight, gran-turismo-6, the-last-of-us, spec-ops-the-line, gears-of-war, silent-hill-origins, medal-of-honor, super-mario-galaxy, acdc-rockband, need-for-speed-most-wanted, dead-island]
+thumbnail:  /imgs/posts/especial/01_meme2014/post_thumbnail.jpg
+cover:      /imgs/posts/especial/01_meme2014/post_header.jpg
 sinopse: >
   Feliz Ano Novo! Nada melhor do que começar 2015 relembrando o que jogamos em 2014, né? Por isso estou participando da quarta edição do MeMe O Que Você Jogou No Ano Passado? que já é praticamente uma tradição entre os editores de blogs (e afins) de games e foi iniciada pelo blog Marvox Brasil em 2011.
 
@@ -17,49 +19,49 @@ O legal de participar pela primeira vez de um MeMe, onde os jogadores são "*das
 
 ## Deadlight (Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/1_deadlight_zpslr5ddgrs.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/1_deadlight.jpg" description="" %}
 
 O primeiro jogo que joguei e finalizei em 2014 foi **Deadlight**, um jogo *indie sidescroller* bacana para **Xbox 360** e **PC**. Com a temática de *survival horror* este jogo me conquistou pelos belos gráficos e pela simplificidade da jogabilidade. Fiz uma pequena análise dele no [Game Over 15](/jogando/analise/2014/01/02/analise-deadlight-xbox-360.html).
 
 ## Gran Turismo 6 (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/2_gran_turismo_6_zpsaywf0nmj.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/2_gran_turismo_6.jpg" description="" %}
 
 Estou jogando GT6 desde seu lançamento em 2013, e quase platinei naquele ano mesmo. Porém, continuei jogando em 2014, concluí todos os eventos, mas ainda me falta um troféu para platina: *Autobarmy*. Para conquistá-lo, você tem que percorrer um total de 12.718 km, ou seja, não tem segredo, só demanda tempo mesmo! Tirando isso, o jogo é excelente, eles simplificaram algumas coisas que o deixou mais divertido.
 
 ## The Last of Us: Left Behind (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/3_the_last_of_us_left_behind_zpsb72ewxia.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/3_the_last_of_us_left_behind.jpg" description="" %}
 
 **The Last of Us** foi o melhor jogo de 2013 e talvez, um dos melhores de todos os tempos! Quem ainda não jogou, recomendo fortemente! **Left Behind** é um DLC jogável para ele lançado no ano passado é uma espécie de complemento a história, vale a pena jogá-lo! Escrevi um pouco sobre ele no [Game Over 16](/jogando/analise/2014/03/09/analise-the-last-of-us-left-behind-dlc-ps3.html).
 
 ## The Last of Us (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/4_the_last_of_us_zpscpmujbjb.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/4_the_last_of_us.jpg" description="" %}
 
 Depois de jogar o DLC, me bateu uma vontade de jogá-lo de novo, que não resisti! Joguei e terminei duas vezes, uma no modo *Sobrevivente* e depois no *Sobrevivente+*, que jogo lindo! Mas ainda não peguei todos os troféus, promessa para este ano! Fiz uma análise de dele em 2013 no [Game Over 07](/jogando/analise/2013/06/23/analise-the-last-of-us-ps3.html).
 
 ## Spec Ops: The Line (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/5_spec_ops_the_line_zpsvhq2luzt.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/5_spec_ops_the_line.jpg" description="" %}
 
 Este foi um jogo que me surprendeu ano passado, pois confesso que só joguei porque estava de graça para assinantes da PS+. Com uma história envolvente, uma ótima trilha sonora e uma boa jogabilidade em terceira pessoa, não tem erro! Para saber o que eu achei dele, confira o [Game Over 17](/jogando/analise/2014/07/19/analise-spec-ops-the-line-ps3.html).
 
 ## Gears of War (Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/12_gears_of_war_zpsf3ctv2rc.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/12_gears_of_war.jpg" description="" %}
 
 Depois de escrever sobre meus [pecados gamísticos (sétima geração)](/jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html), resolvi que era hora de começar a "pagar meus pecados" e nada melhor do que começar com **Gears of War**, certo? Errado. Pois ainda não consegui terminá-lo, não sei por qual motivo, eu abandonei! :/
 
 ## Silent Hill: Origins (PSP)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/6_silent_hill_origins_zpst9gwrtnv.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/6_silent_hill_origins.jpg" description="" %}
 
 Resolvi tirar poeira do meu PSP e acabei zerando meu primeiro jogo no portátil: **Silent Hill: Origins**. O jogo é bem interessante, ao estilo clássico da série e é experiência interessante jogar com fones de ouvido e no escuro como é recomendado pelo próprio jogo! Escrevi sobre ele no [Game Over 18](/jogando/analise/2014/08/03/analise-silent-hill-origins-psp.html).
 
 ## Medal of Honor (PS1)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/7_medal_of_honor_zpsen5gge6d.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/7_medal_of_honor.jpg" description="" %}
 
 Quando estava organizando minhas coisas da mudança (para quem não sabe, eu me casei em 2014! :D), bateu uma saudade de jogar novamente **Medal of Honor**. Ele foi o primeiro que coloquei para testar quando liguei minha velha televisão de tubo. Mas como o jogo é muito bom, joguei até o final! :D
 
@@ -67,13 +69,13 @@ Confira o [Game Over 19](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.
 
 ## Super Mario Galaxy (Wii)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/11_super_mario_galaxy_zpsrfg8iifw.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/11_super_mario_galaxy.jpg" description="" %}
 
 Minha segunda tentativa fracassada de "pagar meu pecados" foi com **Super Mario Galaxy**. Comecei a jogá-lo, me empolguei, mas depois abandonei.. Porquê? Não faço a menor ideia! :/
 
 ## AC/DC Live: Rockband Track Pack (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/8_acdc_live_rockband_zpsj8juvmzk.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/8_acdc_live_rockband.jpg" description="" %}
 
 Vira e mexe eu acabou jogando esses "jogos de guitarra", eu gosto bastante, mas sempre jogo casualmente, nunca tinha pego para terminar a campanha principal. Até que resolvi que tava na hora de terminar algum, e o escolhido foi **AC/DC Live - Rockband** que é muito bom por ser puro e simplesmente AC/DC! :D
 
@@ -81,13 +83,13 @@ No [Game Over 20](/jogando/analise/2014/11/04/analise-acdc-live-rockband-ps3.htm
 
 ## Need for Speed: Most Wanted (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/9_need_for_speed_most_wanted_zpsyekgnj05.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/9_need_for_speed_most_wanted.jpg" description="" %}
 
 Me tornei fã da série a partir do **Underground** em 2003, mas joguei os dois *Undergrounds* e depois abandonei a série novamente, voltando apenas em 2010 com o **Hot Pursuit**, apartir daí, venho jogando tudo e o **Most Wanted** foi o último que joguei antes de partir para o **Rivals**. Confira minha análise dele no [Game Over 21](jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html).
 
 ## Dead Island (Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/10_dead_island_zps07aecmbt.jpg" description="" %}
+{% include image.html url="/imgs/posts/especial/01_meme2014/10_dead_island.jpg" description="" %}
 
 E o último jogo que joguei e zerei em 2014 foi **Dead Island**. Este fui meio que insistente para terminá-lo. Não sei se recomendaria este jogo para alguém, pois achei muito maçante no início, que quase cheguei a abandoná-lo. Mas quando resolvi focar apenas na campanha principal (*Main Quest*), até que chegou a ficar mais interessante.
 

@@ -1,18 +1,42 @@
-<div class="ficha-tecnica">
-  <div>
-    <img border="0" src="{{ page.game_cover }}">
+<div class="ficha-tecnica" itemscope itemtype="http://schema.org/Review">
+  {% if include.cover %}
+    <div class="ficha-tecnica-cover">
+      <img border="0" src="{{ include.cover }}">
+    </div>
+  {% endif %}
+
+  <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Game">
+    <h2 itemprop="name">{{ include.titulo }}</h2>
   </div>
-  <div>
-    <h1>{{ include.titulo }}</h1>
-    <h4>{{ include.plataforma }}</h4>
-    <br>
-    <b>Desenvolvido por: </b>{{ include.desenvolvedor }}<br>
-    <b>Publicado por: </b>{{ include.publicador }}<br>
-    <b>Data de Lançamento: </b>{{ include.lancamento }}<br>
-    <b>Gênero: </b>{{ include.genero }}<br>
-    <br>
-    <b>Finalizado em: </b>{{ include.data }}
-    <br><br>
-    <b>Nota: </b>{{ include.nota }}
-  </div>
+  <h3>{{ include.plataforma }}</h3>
+  <br>
+  <b>Desenvolvido por: </b>{{ include.desenvolvedor }}<br>
+  <b>Publicado por: </b>{{ include.publicador }}<br>
+  <b>Data de Lançamento: </b>{{ include.lancamento }}<br>
+  <b>Gênero: </b>{{ include.genero }}<br>
+  <br>
+  <span itemprop="reviewRating"
+        class="rating" itemscope itemtype="http://schema.org/Rating"
+        title="{{ include.nota }} cervejinhas!">
+    <span itemprop="ratingValue" style="display:none">{{ include.nota }}</span>
+    {% assign meiaestrela = include.nota | modulo: 2 %}
+    {% for i in (1..5) %}
+      {% if i <= include.nota %}
+        <!-- <span class="icon-star"></span> -->
+        <img src="/imgs/beer-checked.png">
+      {% else %}
+        {% if meiaestrela == 0.5 %}
+          <!-- <span class="icon-star-half-alt"></span> -->
+          <img src="/imgs/beer-half.png">
+          {% assign meiaestrela =  1 %}
+        {% else %}
+          <!-- <span class=" icon-star-empty"></span> -->
+          <img src="/imgs/beer-no.png">
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </span>
+  <span itemprop="author" style="display:none">{{ page.author }}</span>
+  <br><br>
+  <small><b>Finalizado em: </b>{{ include.data }}</small>
 </div>

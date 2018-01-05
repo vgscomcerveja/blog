@@ -1,12 +1,19 @@
-- title:
+- title: Start
   url: /
   classe: icon-home
-- title:
-  url: /feed.xml
+  showtitle: false
+- title: Feed RSS
+  url: http://feeds.feedburner.com/VideogamesComCerveja
   classe: icon-rss
+  showtitle: false
 - title: Notícias
   url: /noticias/
   classe: icon-newspaper
+  showtitle: false
+- title: Listas
+  url: /lists/
+  classe: icon-list-bullet
+  showtitle: false
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad
@@ -14,30 +21,48 @@
     - title: Análises
       url: /jogando/analise/
     - title: Especiais
-      url: /jogando/especiais/
-    - title: Util. Pública
-      url: /jogando/utilidade-publica/
-    - title: Toplists
+      url: /jogando/especial/
+    - title: Toplist
       url: /jogando/toplist/
+    - title: Troféus
+      url: /jogando/trofeus/
 - title: Colecionando
   url: /colecionando/
   classe: icon-database
   subitems:
     - title: Coleção Pessoal
       url: /colecionando/colecao-pessoal/
-    - title: Edição Colecionador
+    - title: Edição de Colecionador
       url: /colecionando/edicao-colecionador/
     - title: Mosca Branca
       url: /colecionando/mosca-branca/
     - title: Utilidade Pública
-      url: /colecionando/utilidade-publica/
-    - title: Toplists
-      url: /colecionando/toplist/
-- title: Sobre
-  url: /sobre/
-  classe: icon-at
+      url: /utilidade-publica/
+- title: Plataformas
+  url: /
+  classe: icon-hdd
   subitems:
-    - title: Blog
-      url: /sobre/blog/
-    - title: Parceiros
-      url: /sobre/parceiros/
+    - title: Android
+      url: /tag/android
+    - title: Atari
+      url: /tag/atari
+    - title: Microsoft
+      url: /microsoft
+    - title: Nintendo
+      url: /nintendo
+    - title: Sega
+      url: /sega
+    - title: Sony
+      url: /sony
+- title: Twitter
+  url: https://www.twitter.com/vgscomcerveja
+  classe: icon-twitter
+  showtitle: false
+- title: Facebook
+  url: https://www.facebook.com/vgscomcerveja
+  classe: icon-facebook
+  showtitle: false
+- title: Instagram
+  url: https://www.instagram.com/vgscomcerveja
+  classe: icon-instagram
+  showtitle: false

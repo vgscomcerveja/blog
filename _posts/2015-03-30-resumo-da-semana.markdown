@@ -3,18 +3,18 @@ layout:     post
 title:      "Resumo da Semana - Forza Horizon 2 Fast & Furious grátis; Novo Guitar Hero; Batman; Novidades do Xbox; Mais informações de Kojima e mais.. "
 date:       2015-03-30 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 12
 categories: noticias
-thumbnail: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/13_resumo07/post_thumbnail_zps91ne2lmx.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/13_resumo07/post_header_zps2g536w9r.jpg
+tags:       [guitar-hero, konami, kojima, games-with-gold, microsoft, xbox-live]
+games:      [batman-arkham-knight, halo-5, forza-horizon-2]
+thumbnail:  /imgs/posts/news/13_resumo07/post_thumbnail.jpg
+cover:      /imgs/posts/news/13_resumo07/post_header.jpg
 sinopse: >
   Confira as novidades da semana do dia 23/03 à 30/03 de 2015!
 ---
 ## Novo Guitar Hero?
 
 O rumor de que um novo Guitar Hero está por vir surgiu depois que a revista européia Gamereactor deixou escapar um post em seu site (que rapidamente foi retirado do ar), porém os usuários do fórum NeoGAF viram e a notícia se espalhou!
-
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/13_resumo07/Guitar_hero_new_logo.svg_zpspqrtfpov.png" description="" %}
 
 Lembrando que recentemente a Harmonix [anunciou um novo Rockband](/noticias/2015/03/09/resumo-da-semana.html), estariam as duas franquias de volta ao mercado?
 
@@ -26,7 +26,7 @@ Fonte: [IGN](http://m.ign.com/articles/2015/03/23/new-guitar-hero-reportedly-com
 
 Outro rumor da semana foi que a Warner Bros. pretende lançar as versões remasterizadas de Batman: Arkham Asylum e Arkham City para acompanhar o lançamento de Batman: Arkham Knight que sai ainda este ano.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/13_resumo07/batman-arkham-city-0025-wallpaper_zpsgtpwprzm.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/13_resumo07/batman-arkham-city.jpg" %}
 
 Fonte: [Critical Hits](http://criticalhits.com.br/warner-bros-vai-lancar-versoes-remasterizadas-de-batman-arkham-asylum-e-city-para-nova-geracao/)
 
@@ -45,8 +45,6 @@ Fonte: [Select Game](http://gamehall.uol.com.br/selectgame/batman-arkham-knight-
 ## Konami se pronuncia à respeito de Kojima
 
 A Konami por meio da conta japonesa de Metal Gear no Twitter, divulgou um comunicado oficial à respeito de Hideo Kojima, confira na ìntegra:
-
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/13_resumo07/konami_zpsbblcjb1l.png" description="" %}
 
 *"De acordo com as mudanças recentes na organização da produção de toda a Konami, Kojima Productions, assim como outras companhias de produção internas, tiveram seus nomes, etc., mudados para se adequar na estrutura de trabalho corporativa da matriz."*
 

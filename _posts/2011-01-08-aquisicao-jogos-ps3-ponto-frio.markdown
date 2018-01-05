@@ -5,16 +5,18 @@ date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/07_jogos_ps3/post_thumbnail_zpsxeo8nqya.jpg
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/07_jogos_ps3/post_header_zpsg3p8nrjo.jpg
+tags:       [sony, ps3]
+games:      [medal-of-honor, motorstorm]
+thumbnail:  /imgs/posts/colecao/07_jogos_ps3/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/07_jogos_ps3/post_header.jpg
 sinopse: >
-  Consegui dois jogos de PlayStation 3, Medal of Honor e Motor Storm, por incríveis R$ 29,90 cada.
+  Consegui dois jogos de PlayStation 3, Medal of Honor e Motorstorm, por incríveis R$ 29,90 cada.
   E o melhor foram adquiridos em grande loja brasileira.
 ---
-Consegui dois jogos de PlayStation 3, **Medal of Honor** e **Motor Storm**, por incríveis R$ 29,90 cada.
+Consegui dois jogos de PlayStation 3, **Medal of Honor** e **Motorstorm**, por incríveis R$ 29,90 cada.
 E o melhor foram adquiridos em grande loja brasileira.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/07_jogos_ps3/foto_zps5cgtsopf.jpg" description="Medal of Honor e Motor Storm!" %}
+{% include image.html url="/imgs/posts/colecao/07_jogos_ps3/medal-of-honor_motorstorm.jpg" description="Medal of Honor e Motorstorm!" %}
 
 No dia 23 de Dezembro de 2010, a loja virtual do **Ponto Frio** realizou uma mega liquidação
 dos seus jogos para todas as plataformas, essa promoção foi chamada de "Saldão Jogo Justo" e foi

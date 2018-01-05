@@ -5,15 +5,17 @@ date:       2015-06-30 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 24
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/24_smw/post_thumbnail_zpsyhtvbo01.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/24_smw/post_header_zpsbuqo1hvo.jpg
+tags:       [snes, nintendo, mario, analise, game-over]
+games:      [super-mario-world]
+thumbnail:  /imgs/posts/game_over/24_super_mario_world/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/24_super_mario_world/post_header.jpg
 sinopse: >
   No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
 game_cover:
 ---
 No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu, com certeza, falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/24_smw/foto1_zpsjdacnfku.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/24_super_mario_world/foto1.jpg" %}
 
 Antes de mais nada, para quem AINDA não conhece, SMW é um jogo de plataforma desenvolvido e publicado pela Nintendo para o Super NES. O jogo foi lançado em 1991 e vendeu mais de 20 milhões de cópias, um sucesso absoluto!
 
@@ -29,13 +31,13 @@ Naquela época quem "manjava" dos jogos em casa era minha irmã mais velha, era 
 
 Jogamos muito SMW, pois por um bom tempo, era o único jogo que tínhamos. Mas para falar verdade, ele nos atendeu por muito tempo, e além do mais, tínhamos as locadoras para outros jogos! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/24_smw/foto2_zps8yo0tk9w.jpg" description="Nosso querido Super Nintendo com o jogo!" %}
+{% include image.html url="/imgs/posts/game_over/24_super_mario_world/foto2.jpg" description="Nosso querido Super Nintendo com o jogo!" %}
 
 Os anos se passaram, veio o PS1, PS2.. mas sempre que tinha a oportunidade, eu voltava a jogar um pouco de Mario, seja no próprio console ou através de emuladores, mas nunca mais cheguei ao final. Até que neste começo de ano resolvi relembrar como era o final!
 
 O jogo possui muitas fases estão distribuídas em 7 mundos (tirando as fases especiais). Além disso, o jogo conta com um desafio que todos os jogadores *"hardcores"* da época queríam fazer, que era o desafio de abrir as 96 saídas do jogo! Façanha que só fui conseguir agora! :D
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/24_smw/foto3_zpsfijc9zva.jpg" description="Save mostrando as 96 saídas! :)" %}
+{% include image.html url="/imgs/posts/game_over/24_super_mario_world/foto3.jpg" description="Save mostrando as 96 saídas! :)" %}
 
 O jogo é tão fascinante, que possui várias maneiras de chegar ao final, e algumas fases possuem mais de uma saída, que leva para fases diferentes, inclusive, algumas secretas! Mas que no final, todas levam ao mesmo destino: o castelo de Bowser!
 
@@ -64,4 +66,4 @@ Super Mario World se destaca devido à sua excelente jogabilidade somado com um 
   lancamento='1991'
   genero='Aventura / Plataforma'
   data='04 de Janeiro de 2015'
-  nota='10' %}
+  nota=5 %}

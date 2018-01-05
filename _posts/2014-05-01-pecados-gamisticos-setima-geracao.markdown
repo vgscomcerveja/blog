@@ -1,28 +1,30 @@
 ---
 layout:     post
-title:      "Pecados Gamísticos #01 - Sétima Geração"
+title:      "Meus pecados gamísticos da sétima geração de videogames!"
 date:       2014-05-01 19:00
 author:     Felipe B. Barbosa
-session:    Toplist
+session:    Toplist &#35 01 - Pecados Gamísticos &#35 01
 categories: jogando toplist
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/post_thumbnail_zpstgclqajr.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/post_header_zpspal0knnh.jpg
+tags:       [sony, ps3, microsoft, xbox-360, nintendo, wii, indie, zelda, lists, toplist]
+games:      [journey, braid, world-goo, heavy-rain, red-dead-redemption, portal, zelda-skyward-sword, fallout-3, fallout-new-vegas, gears-of-war, new-super-mario, super-mario-galaxy]
+thumbnail:  /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_thumbnail.jpg
+cover:      /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_header.jpg
 sinopse: >
   Que todo mundo tem pecados é fato, e por consequência todo jogador de videogame também tem seus pecados.. pecados gamísticos! Sabe aquele jogo que você nunca terminou ou até mesmo nunca teve a oportunidade de jogar, pois é, esses são seus pecados gamísticos! Hoje vou "confessar" dez pecados gamísticos meus, porém, como tenho muito mais do que isso, resolvi separar por geração de videogames, selecionei dez da sétima geração!
 ---
 Que todo mundo tem pecados é fato, e por consequência todo jogador de videogame também tem seus pecados.. pecados gamísticos! Sabe aquele jogo que você nunca terminou ou até mesmo nunca teve a oportunidade de jogar, pois é, esses são seus pecados gamísticos! Hoje vou "confessar" dez pecados gamísticos meus, porém, como tenho muito mais do que isso, resolvi separar por geração de videogames, selecionei dez da sétima geração!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/capa_zpsg5xa1hla.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/capa.jpg" %}
 
 Para quem não sabe, a sétima geração de videogames é formada basicamente pelos seguintes consoles: Nintendo Wii, Xbox 360 e PlayStation 3, e pelos seguintes portáteis: PSP e Nintendo DS, ou seja, é a geração passada mais atual, pois acabamos de entrar na oitava com o WiiU, PS4 e Xbox ONE.
 
-Esta geração começou para mim no meio do ano de 2010 com o **PlayStation 3**, meu console favorito desta geração, consegui ele através de uma promoção muito boa da extinta loja virtual do Carrefour, que na época estava inaugurando sua sessão de games! Depois veio o portátil **Nintendo DS** no final do mesmo ano. No ano seguinte (2011), comprei um **Nintendo Wii** usado e é um dos meus maiores pecados em questão de console, pois até hoje não terminei nenhum jogo dele. Em 2012, eu ganhei um dos presentes mais legais: um **Xbox 360** a minha querida futura esposa! E ano passado (2013), adquiri um **PSP** de um amigo, ou seja, tenho praticamente todos da geração! ^^
+Esta geração começou para mim no meio do ano de 2010 com o **PlayStation 3**, meu console favorito desta geração, consegui ele através de uma promoção muito boa da extinta loja virtual do Carrefour, que na época estava inaugurando sua seção de games! Depois veio o portátil **Nintendo DS** no final do mesmo ano. No ano seguinte (2011), comprei um **Nintendo Wii** usado e é um dos meus maiores pecados em questão de console, pois até hoje não terminei nenhum jogo dele. Em 2012, eu ganhei um dos presentes mais legais: um **Xbox 360** a minha querida futura esposa! E ano passado (2013), adquiri um **PSP** de um amigo, ou seja, tenho praticamente todos da geração! ^^
 
 Sendo assim, tenho muito pecados! Entretanto, irei focar somente nos jogos de consoles, os de portáteis deixarei para um próximo post.
 
 ## 10. Jogos Indies (Journey, Braid, Limbo, World of Goo..)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_10_zpskwb2ynn7.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/indies.jpg" %}
 
 Um dos maiores destaques desta geração foram os tais jogos *indies*, ou seja, jogos de produtoras independentes. Como eles muita vezes não tem apoio financeiro de grandes publicadores, eles focam totalmente na inovação e na distribuição digital para atrair os jogadores.
 
@@ -30,25 +32,25 @@ E essa geração apoiou muito bem esses desenvolvedores com as redes **Wii Shop 
 
 ## 09. Heavy Rain (PS3)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_09_zpst3vpmfjl.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/heavy-rain.jpg" %}
 
 Lançado em 2010 e exclusivo para PS3, **Heavy Rain** é um jogo diferenciado simplesmente pelo fato de ser um drama interativo, ou seja, você não controla o personagem, só escolhe as decisões que o jogo lhe oferece. Não sei se gosto desse tipo de jogo, mas dizem que vale a pena jogá-lo, então ele é o nono da lista! :)
 
 ## 08. Batman trilogia Arkham (PS3 / Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_08_zps87jpdj4x.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/batman.jpg" %}
 
 Taí uma série que renovou a franquia do herói que nos games não ganhava um título bom à tempos. A trilogia (por enquanto) é composta por: **Batman: Arkham Asylum** (2009), **Batman: Arkham City** (2011) e **Batman: Arkham Origins** (2013). Com exceção do terceiro, a série foi muito elogiada pela crítica e ganhou vários prêmios, sendo assim, oitavo lugar!
 
 ## 07. Red Dead Redemption (PS3 / Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_07_zpsuc02azea.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/red-dead-redemption.jpg" %}
 
 Este só entrou na lista pois vários amigos me indicaram e também por ser considerado por várias críticas especializadas, o melhor jogo do ano de 2010. Eu, sinceramente, tenho minhas dúvidas, pois simplesmente não sou fã de GTA e este jogo é da mesma produtora, a **Rockstar** e tem a mesma ideia de mundo aberto, só que ao invés de ser na cidade é no velho oeste, e só por isso que darei uma chance ao jogo! ;D
 
 ## 06. Série Portal (PS3 / Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_06_zpsdvlntrdl.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/portal.jpg" %}
 
 Desenvolvido pela **Valve**, esse jogo é totalmente inovador, pois trata-se de um jogo de quebra-cabeça diferenciado e inteligente, onde você tem que resolvê-los através de portais de teletransporte. Joguei um pouco o primeiro e achei fantástico.
 
@@ -56,19 +58,19 @@ O primeiro jogo foi lançado em 2007 em um pacote chamado **The Orange Box** que
 
 ## 05. The Legend of Zelda: Skyward Sword (Wii)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_05_zpsfzwsnjud.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/zelda.jpg" %}
 
 Esse pecado é das antigas, desde o primeiro **The Legend of Zelda** no NES que eu quero jogar e terminar os jogos da série. O **Wii** teve dois jogos, porém só considerarei o **Skyward Sword**, pois apesar do **Twilight Princess** ser lançado juntamente com o Wii em 2006, ele foi originalmente lançado para **Game Cube** em 2004, então ele é da geração passada!
 
 ## 04. Série Fallout (PS3 / Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_04_zps2bjsmtyg.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/fallout3.jpg" %}
 
 Jogos de RPG sempre foram meus maiores pecados, pois apesar de não ser muito fã do gênero, eu até me interesso por alguns, mas como eles exigem uma boa dedicação, acabo deixando-os de lado (infelizmente). A série **Fallout** nasceu nos PCs em 1997 e logo em seguida saiu o segundo jogo, mas só retornou em 2008 com **Fallout 3** e fez um enorme sucesso! Sendo assim, está na lista! :)
 
 ## 03. Série Mass Effect (PS3 / Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_03_zpspziitepx.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/mass-effect.jpg" %}
 
 Mesmo caso de **Fallout**, foi até difícil decidir a posição de cada um, mas como as notas de **Mass Effect** no [Metacritic](http://www.metacritic.com/) são um pouco melhores, então resolvi deixá-lo em terceiro!
 
@@ -76,13 +78,13 @@ Mesmo caso de **Fallout**, foi até difícil decidir a posição de cada um, mas
 
 ## 02. Série Gears of War (Xbox 360)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_02_zpsjqm3wztx.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/gears-of-war.jpg" %}
 
 Ter um Xbox 360 e não ter jogado a série **Gears of War** é um pecado GRAVÍSSIMO! Bom, meu pecado não é tão grave, pois cheguei a jogar um pouco, mas AINDA não terminei nenhum! Sem comentários, esta série é muito top!
 
 ## 01. Série Super Mario Galaxy (Nintendo Wii)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/top_10_1_pos_01_zpsr9ih57gj.jpg" description="" %}
+{% include image.html url="/imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/super-mario-galaxy.jpg" %}
 
 Acho que se aplica na mesma categoria de Gears of War, porém só muda o console! Ter um Wii e não jogar **Super Mario Galaxy** é um dos pecados mais graves, e ficou em primeiro, pois é considerado um dos melhores Marios de todos os tempos e pior, eu tenho o jogo e simplesmente ainda NÃO coloquei no console, como isso é possível? :/
 
@@ -92,4 +94,4 @@ Acho que se aplica na mesma categoria de Gears of War, porém só muda o console
 
 Bom é isso! Espero que tenham gostado da ideia e se sintam a vontade para confessar seus pecados também! Agora é partir e correr atrás do prejuízo, vou criar vergonha na cara e jogar esses jogos!
 
-**Menções honrosas**: New Super Mario Bros. Wii, Sleeping Dogs, Donkey Kong Country Returns, Série Forza, Série Assassin's Creed, Série Dead Space, Spec Ops: The Line, Série Rayman, BioShock Infinite..
+**Menções honrosas**: New Super Mario Bros. Wii, Sleeping Dogs, <s>Donkey Kong Country Returns</s>, Série Forza, Série Assassin's Creed, Série Dead Space, <s>Spec Ops: The Line</s>, Série Rayman, BioShock Infinite..

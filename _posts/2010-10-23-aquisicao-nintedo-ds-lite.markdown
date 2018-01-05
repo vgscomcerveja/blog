@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Aquisição - Nintendo DS Lite: Special Edition"
-date:   2010-10-23 19:00
-author: Felipe B. Barbosa
-session: Coleção Pessoal
+layout:     post
+title:      "Aquisição - Nintendo DS Lite: Special Edition"
+date:       2010-10-23 19:00
+author:     Felipe B. Barbosa
+session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/post_thumbnail_zps7av3hryn.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/post_header_zps9rpxezwe.jpg
+tags:       [nintendo, nds]
+thumbnail:  /imgs/posts/colecao/05_nintendo_ds/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/05_nintendo_ds/post_header.jpg
 sinopse: >
   Sempre quis ter um Nintendo DS e agora meu desejo está realizado. Adquiri um Nintendo DS Lite
   edição especial e limitada New Super Mario Bros. que por sinal é muito bonita!
@@ -14,7 +15,7 @@ sinopse: >
 Sempre quis ter um Nintendo DS e agora meu desejo está realizado. Adquiri um **Nintendo DS Lite**
 edição especial e limitada **New Super Mario Bros.** que por sinal é muito bonita!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/foto1_zpsxgkjua9z.jpg" description="Nintendo DS Lite" %}
+{% include image.html url="/imgs/posts/colecao/05_nintendo_ds/nds.jpg" description="Nintendo DS Lite" %}
 
 Comprei pelo site **Deal Extreme** por incríveis R$ 100. Agora só faltam os jogos!
 Quais jogos você me indica?

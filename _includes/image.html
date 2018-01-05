@@ -1,4 +1,24 @@
+{% capture image_title %}
+  {% if include.description != null %}
+    {{ include.description }}
+  {% endif %}
+{% endcapture %}
+
+{% capture data_lightbox %}
+  {% if include.collection != null %}
+    {{ include.collection }}
+  {% else %}
+    {{ include.url }}
+  {% endif %}
+{% endcapture %}
+
 <figure>
-  <img src="{{ include.url }}" alt="{{ include.description }}">
-  <figcaption>{{ include.description }}</figcaption>
+  <a href="{{ include.url }}"
+     data-lightbox="{{ data_lightbox }}"
+     data-title="{{ image_title }}">
+    <img src="{{ include.url }}" alt="{{ image_title }}">
+  </a>
+  {% if include.description != null %}
+    <figcaption>{{ image_title }}</figcaption>
+  {% endif %}
 </figure>

@@ -3,7 +3,7 @@ layout:     post
 title:      "Novidades no Blog!"
 date:       2016-07-02 17:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 15
 categories: noticias
 thumbnail:  
 cover:
@@ -17,11 +17,11 @@ Agora você pode acessar nosso blog através do endereço [vgscomcerveja.com.br]
 
 Embora possa não parecer tão significativa visualmente, houve uma grande mudança no blog, ele foi totalmente migrado do **Blogspot** para uma plataforma independente, desenvolvida praticamente do ZERO!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/16_novidades/antes_depois_zps6myhdsxd.jpg" description="Antes e depois! :)" %}
+{% include image.html url="/imgs/posts/news/16_novidades_blog/antes_depois.jpg" description="Antes e depois! :)" %}
 
 O principal objetivo foi melhorar a performace e disposição de acesso a partir de qualquer dispositivo. Além disso, esta mudança proporcionará uma liberdade maior para desenvolver novos recursos que antes não era possível ou dava muito trabalho para fazer no Blogspot.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/16_novidades/multiple_zps3bxeq5m6.jpg" description="Layout responsivo! ;)" %}
+{% include image.html url="/imgs/posts/news/16_novidades_blog/multiple.jpg" description="Layout responsivo! ;)" %}
 
 Vale lembrar, que o desenvolvimento foi feito todo do zero, e ainda não está 100% concluído (acho que nunca estará), sendo assim, ele está suscetível a falhas! ^^'
 
@@ -34,7 +34,5 @@ Uma outra novidade é quanto a organização dos posts, agora eles estão dividi
 - **Colecionando** - Neste grupo estarão os posts relacionados ao colecionismo de videogames e jogos. Terão posts sobre minha [coleção pessoal](/colecionando/colecao-pessoal/), [edições de colecionadores](/colecionando/edicao-colecionador) bacanas (que gostaria de ter), itens raros ([mosca branca](/colecionando/mosca-branca)), [utilidades públicas](/colecionando/utilidade-publica/) e [toplists](/colecionando/toplist/).  
 
 Bom, acredito que isto tudo irá trazer novos ânimos ao blog, então espero poder trazer mais novidades em breve, e o principal, espero que você tenha gostado! :)
-
-Ah, atualize seu feed **RSS** para [este](/feed.xml)! ;)
 
 Abraço.

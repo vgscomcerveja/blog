@@ -5,8 +5,9 @@ date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/06_md/post_thumbnail_zpsszkwfaii.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/06_md/post_header_zps2p51wgcw.jpg
+tags:       [sega, mega-drive]
+thumbnail:  /imgs/posts/colecao/06_mega_drive/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/06_mega_drive/post_header.jpg
 sinopse: >
   Olha que maravilha de console que ganhei do meu cunhado! Para quem não sabe, trata se de um
   Mega Drive, um MEGA DRIVEE! Eu sempre quis ter um! Agora finalmente, o videogame de 16-bit

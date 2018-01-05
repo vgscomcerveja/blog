@@ -2,20 +2,23 @@
 title: Videogames com Cerveja
 email: vgscomcerveja@gmail.com
 description: >
-  Um blog cujo o objetivo é compartilhar experiências e opiniões gamísticas, tanto no jogo em si quanto no colecionismo..
-  E que adora uma cerveja!
+  Compartilhamos experiências e opiniões gamísticas, tanto ao jogo em si quanto ao seu colecionismo..
+  E que adoramos uma cerveja!
 baseurl: ""
-url: "www.vgscomcerveja.com.br"
+url: "https://www.vgscomcerveja.com.br"
 twitter_username: vgscomcerveja
 github_username:  felipebbarbosa
 
 # Build settings
 markdown: kramdown
 
+sass:
+  style: :compressed
+
 paginate: 7
 paginate_path: "page:num"
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed

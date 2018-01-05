@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      "Sony Lançará PS3 Exclusivos para Copa de 2014"
+title:      "Sony lançará PS3 exclusivos para Copa de 2014"
 date:       2011-07-30 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 04
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/04_ps3_copa2014/post_thumbnail_zpss3zb1p16.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/04_ps3_copa2014/post_header_zpsvzstfxnp.jpg
+tags:       [sony, ps3]
+thumbnail:  /imgs/posts/news/04_ps3_copa2014/post_thumbnail.jpg
+cover:      /imgs/posts/news/04_ps3_copa2014/post_header.jpg
 sinopse: >
    A Sony está investindo forte no mercado brasileiro de videogames, segundo uma matéria do site G1,
    ela fabricou cinco (apenas) consoles de PS3 exclusivos em homenagem a Copa do Mundo FIFA 2014
@@ -19,16 +20,16 @@ que será realizada aqui no Brasil.
 Trata-se de uma série limitadíssima, cujo 3 dos 5 consoles já tem destino certo: serão doados à
 instituições de caridade daqui do Brasil para arrecadar fundos. Os outros dois não sabe o destino.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/04_ps3_copa2014/foto_zpsmfv3dbjr.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/04_ps3_copa2014/foto.jpg" description="Uma edição no mínimo curiosa.." %}
 
 Os consoles foram pintados a mão com o logotipo da Copa e com a bandeira do Brasil. As doações
 serão feitas hoje, dia 30.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/04_ps3_copa2014/Donation_zps2zvom7kb.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/04_ps3_copa2014/Donation.jpg" %}
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/04_ps3_copa2014/Cafu-and-PS3_zpsddsehshw.jpg" description="Cafu recebendo o PS3!" %}
+{% include image.html url="/imgs/posts/news/04_ps3_copa2014/Cafu-and-PS3.jpg" description="Cafu recebendo o PS3!" %}
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/04_ps3_copa2014/Zico-and-PS3_zps8xvstehx.jpg" description="Zico recebendo o PS3!" %}
+{% include image.html url="/imgs/posts/news/04_ps3_copa2014/Zico-and-PS3.jpg" description="Zico recebendo o PS3!" %}
 
 ### PSN Nacional
 

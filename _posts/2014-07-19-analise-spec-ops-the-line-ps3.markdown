@@ -5,8 +5,10 @@ date:       2014-07-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 17
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/post_thumbnail_zpskdagmlbh.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/post_header_zpsd4a8lons.jpg
+tags:       [sony, ps3, analise, game-over]
+games:      [spec-ops-the-line]
+thumbnail:  /imgs/posts/game_over/17_spec_ops_the_line/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/17_spec_ops_the_line/post_header.jpg
 sinopse: >
   Finalmente voltando a ativa, depois de passado a correria do casamento (sim, me casei! :D), volto a jogar e o primeiro jogo terminado como casado foi o surpreendente Spec Ops: The Line.
 game_cover:
@@ -21,7 +23,7 @@ O jogo é de tiro em terceira pessoa um pouco diferente da maioria dos jogos do 
 
 Mas o jogo conta a história do capitão **_Martin Walker_** que, junto com sua equipe *Delta Force*, foram enviados a uma *Dubai* devastada e fictícia em uma missão de resgate do coronel do exército americano, **_John Konrad_**. Porém, essa missão não será tão simples e você logo perceberá! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/foto2_zps3o3fbcza.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/17_spec_ops_the_line/foto2.jpg" %}
 
 Uma das coisas legais que me chamou a atenção foi que a maioria das partes de ação (tiroteios), rola um rock bem empolgante que dá um clima muito bacana ao jogo. Para você ter uma ideia, veja uma parte da lista de músicas licenciadas do jogo (além da trilha original):
 
@@ -39,7 +41,7 @@ Uma das coisas legais que me chamou a atenção foi que a maioria das partes de 
 
 Quanto aos gráficos e jogabilidade, o jogo não peca em nada. Um recurso interessante é que como sempre você anda com sua equipe, você pode coordenar os ataques dos seus parceiros quando achar necessário.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/foto1_zpsbha7mfyz.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/17_spec_ops_the_line/foto1.jpg" %}
 
 Talvez, o ponto fraco do jogo seja a demorada tela de *loading*, que chega a incomodar um pouquinho, pois quando você morre, demora um pouco para retornar a ação.
 
@@ -54,4 +56,4 @@ Bom, é isso, recomendo esse jogo que descobri meio por acaso, pois estava dispo
   lancamento='2012'
   genero='Tiro / Ação'
   data='24 de Junho de 2014'
-  nota='9.5' %}
+  nota=4.5 %}
