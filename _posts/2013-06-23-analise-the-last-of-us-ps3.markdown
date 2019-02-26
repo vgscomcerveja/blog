@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - The Last of Us (PS3)"
 date:       2013-06-23 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 07
 categories: jogando analise
 tags:       [sony, ps3, naughty-dog, analise, game-over]

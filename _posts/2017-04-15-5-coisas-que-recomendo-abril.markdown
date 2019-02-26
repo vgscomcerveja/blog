@@ -2,7 +2,7 @@
 layout:     post
 title:      "5 'coisas' (relacionadas à games) que recomendo!"
 date:       2017-04-15 18:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 06
 categories: jogando toplist
 tags:       [livros, mega-drive, lists, toplist]

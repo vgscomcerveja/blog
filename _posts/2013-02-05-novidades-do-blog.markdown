@@ -2,7 +2,7 @@
 layout:     post
 title:      "Novidades no Blog!"
 date:       2013-02-05 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops
 categories: noticias
 thumbnail:  

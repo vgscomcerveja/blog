@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Dead Island (Xbox 360)"
 date:       2015-03-19 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 22
 categories: jogando analise
 tags:       [microsoft, xbox-360, analise, game-over]

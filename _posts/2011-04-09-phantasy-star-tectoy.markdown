@@ -2,7 +2,7 @@
 layout:     post
 title:      "Phantasy Star (Master System)"
 date:       2011-04-09 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Mosca Branca &#35 01
 categories: colecionando mosca-branca
 tags:       [sega, master-system, tectoy]

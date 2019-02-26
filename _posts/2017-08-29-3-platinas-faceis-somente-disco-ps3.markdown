@@ -2,7 +2,7 @@
 layout:     post
 title:      "3 platinas fáceis, porém somente em disco no PS3!"
 date:       2017-08-29 21:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 09 - Caçadores de Troféus &#35 01
 categories: jogando toplist
 tags:       [sony, ps3, trofeus, lists, toplist]
@@ -33,7 +33,7 @@ Não poderia deixar de começar esta série se não fosse com este jogo, "cláss
 Bom, só o fato de ser um jogo baseado em filme já diz muita coisa, né? Mas no papel de John Connor, numa Los Angeles pós-apocalíptica, você terá que enfrentar vários tipos de máquinas até que chegue ao final (não, não chega nem perto de [Horizon Zero Dawn](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html)..rs). O problema é que apesar de ser um jogo de tiro em terceira pessoa, a única coisa que agrada um pouco é sistema de *cover* que até funciona legal e deixa o jogo um pouco divertido, pois o restante é deprimente (infelizmente), não tem capricho nenhum, gráficos com cenários repetitivos, personagens sem expressão, inteligência artificial fraca.. enfim um jogo bem mediano para ruim!
 
 {% include game-psn-trophies-card.html
-  platinas=1 ouros=11 pratas=0 bronze=0
+  platinas=1 ouros=11 pratas=0 bronzes=0
   dificuldade=1 nota=2
   tempo="2-8 horas"
   online="Não"
@@ -62,7 +62,7 @@ Porém, se você olhar a lista de troféus, tem um que pode parecer complicado: 
 Tirando isso, os outros trofeús não tem segredo nenhum, são basicamente relacionados à história e a troféus estatísticos, como por exemplo, derrotar um número determinado de dinossauros com uma determinada arma e coisas do tipo.
 
 {% include game-psn-trophies-card.html
-  platinas=1 ouros=6 pratas=9 bronze=19
+  platinas=1 ouros=6 pratas=9 bronzes=19
   dificuldade=2 nota=2.5
   tempo="6-10 horas"
   online="Não"
@@ -88,7 +88,7 @@ O jogo chega a ser divertido em alguns momentos, mas assim como os jogos citados
 Sobre os troféus, infelizmente você também terá que terminá-lo duas vezes (uma na dificuldade Agent e outra no Agent Elite que é liberado somente depois da primeira "zerada"), mas não se preocupe, pois o jogo é fácil mesmo na dificuldade mais díficil. A única que tem que atentar-se é na hora de iniciar um novo jogo no modo Elite, é recomendado ir na seleção de capítulos, escolher o primeiro mudando a dificuldade e jogar a partir daí. Pois assim, você mantém todos os upgrades realizados. ;)
 
 {% include game-psn-trophies-card.html
-  platinas=1 ouros=5 pratas=7 bronze=26
+  platinas=1 ouros=5 pratas=7 bronzes=26
   dificuldade=2.5 nota=3
   tempo="10-12 horas"
   online="Não"

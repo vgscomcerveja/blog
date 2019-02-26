@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Guacamelee! (PS Vita)"
 date:       2016-02-15 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 27
 categories: jogando analise
 tags:       [sony, psvita, drinkbox, analise, game-over]

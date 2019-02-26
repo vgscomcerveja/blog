@@ -2,7 +2,7 @@
 layout:     post
 title:      "Documentário quer contar o início da história do videogames no Brasil"
 date:       2015-03-03 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 08
 categories: noticias
 tags:       [livros]

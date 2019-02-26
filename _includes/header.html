@@ -27,18 +27,13 @@
             </a>
             <ul class="submenu">
               {% for sub in nav.subitems %}
-              <li>
-                <a href="{{ sub.url | prepend: site.baseurl }}">
-                  {{ sub.title }}
-                </a>
-              </li>
+                <li><a href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a></li>
               {% endfor %}
             </ul>
           </li>
         {% else %}
           <li>
-            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}"
-                title="{{ nav.title }}">
+            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.title }}">
 
               <span class="nav-link-title nav-link-title-without-sub">
                 {% if nav.showtitle %}

@@ -1,6 +1,9 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="theme-color" content="#61964a">
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -60,6 +63,7 @@
     <meta name="twitter:creator" content="@felipebbarbosa">
 
     <link rel="shortcut icon" type="image/png" href="{{ '/imgs/favicon.png' }}">
+    <link rel="manifest" href="/manifest.json">
 
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Roboto:400,300,100">
@@ -70,5 +74,12 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js')
+          .then(reg => console.info('registered sw', reg))
+          .catch(err => console.error('error registering sw', err));
+      }
+    </script>
 
 </head>

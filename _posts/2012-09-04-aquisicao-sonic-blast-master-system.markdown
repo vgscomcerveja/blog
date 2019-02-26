@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - Sonic Blast (Master System)"
 date:       2012-09-04 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sega, tectoy, master-system, sonic]

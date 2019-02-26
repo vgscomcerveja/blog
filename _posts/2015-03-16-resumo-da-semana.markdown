@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Freak (e não é Pokémon); Trailer de LEGO Jurassic World e mais.."
 date:       2015-03-16 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 10
 categories: noticias
 tags:       [naughty-dog, uncharted, arcade, ps4, sony, lego]

@@ -1,0 +1,174 @@
+---
+layout:     post
+title:      "O que gostei da E3 2018"
+date:       2018-06-13 18:45
+author:     felipebbarbosa
+session:    Especial
+categories: jogando especial
+tags:       [lists, e3, especial, sony, microsoft, naughty-dog, resident-evil, tomb-raider, limitedrun, kojima, indie, square-enix, xbox-one, ps4, capcom]
+thumbnail:  /imgs/posts/especial/06_e32018/post_thumbnail.jpg
+cover:      /imgs/posts/especial/06_e32018/post_header.jpg
+sinopse:
+  Mais uma E3 se passou e, como sempre, muitas novidades foram reveladas. Algumas já conhecidas, mas
+  outras que pegaram todo mundo de surpresa! Confira o que eu curti desta E3...
+
+---
+Olá jogadores cervejeiros, tudo bom?
+
+Mais uma E3 se passou e, como sempre, muitas novidades foram reveladas. Algumas já conhecidas, mas
+outras que pegaram todo mundo de surpresa! Confira o que eu curti desta E3...
+
+## Compras de estúdios pela Microsoft
+
+A conferência da **Microsoft** foi uma das melhores da E3 revelando muitas novidades e, uma delas
+foi anúncio da compra do estúdio [Ninja Theory](http://www.ninjatheory.com), responsável pelo
+premiado Hellblade: Senua's Sacrifice, Enslaved: Odyssey to the West, DmC: Devil May Cry e
+Heavenly Sword.
+
+{% include youtubePlayer.html id="vIxWgVOCexU" %}
+
+Com isso, o estúdio se junta à outros 4 estúdios recém comprados pela Microsoft:
+[Playground Games](https://www.playground-games.com/) (série Forza Horizon),
+[Compulsion Games](https://compulsiongames.com/) (Contrast e [We Happy Few](https://www.youtube.com/watch?v=rW7uapuZERw)),
+[Undead Labs](https://undeadlabs.com/) (State of Decay) e o novo
+[The Initiative](http://initiativegaming.com/). Isso mostra que a Microsoft está investindo
+pesado em um dos pontos fracos dela: os exclusivos. Acredito que virá muita coisa boa por aí! Inclusive,
+ela também anunciou que já trabalhando em um novo console.
+
+## Lançamentos da Limited Run
+
+Para quem não conhece, a [Limited Run Games](https://www.limitedrungames.com/) é uma editora que
+traz edições físicas e limitadas de jogos independentes para PS4, PS Vita e Nintendo Switch.
+Muitos dos jogos são bastantes disputados e se você bobear fica sem, tais como,
+Wonder Boy: The Dragon's Trap, Firewatch, Thimbleweed Park e muitos outros.
+
+E este ano, ela estreou na E3 trazendo muitas novidades que na qual me interessei por algumas:
+
+### Iconoclasts
+
+Eu já tinha colocado este "Metroidvania" na minha lista de interesse da PlayStation Store à algum
+tempo, agora vou esperar e tentar pegar essa versão em mídia física, que ainda não tem data definida.
+
+{% include image.html
+  url="/imgs/posts/especial/06_e32018/limitedrun_iconoclasts.jpg" %}
+
+### Observer
+
+Este é um jogo de terror dos mesmos criadores de **Layers of Fear**, a [Bloober Team](https://www.blooberteam.com/).
+
+{% include image.html
+  url="/imgs/posts/especial/06_e32018/limitedrun_observer.jpg" %}
+
+### Salt & Sanctuary
+
+Este é um indie da [Ska Studios](https://ska-studios.com/) bem interessante, pois é inspirado na série Souls,
+porém é um RPG de ação em 2D.
+
+{% include image.html
+  url="/imgs/posts/especial/06_e32018/limitedrun_salt_sanctuary.jpg" %}
+
+## Doom Eternal
+
+[Gostei demais do último Doom](/jogando/analise/2018/05/02/analise-doom.html), e com certeza,
+será muito interessante jogar sua sequência, que promete trazer o inferno à Terra!
+
+{% include youtubePlayer.html id="TL4CvnUQtz8" %}
+
+Como sabem, Doom é desenvolvido pela [id Software](https://www.idsoftware.com/en-us) e distribuído pela [Bethesda](https://bethesda.net),
+mas ainda não tem previsão de lançamento para PS4 e Xbox One.
+
+## Ghost of Tsushima
+
+A conferência da Sony foi uma das mais bagunçadas da E3, mas foi salva pelo jogos apresentados, que
+apesar de ser já conhecidos, impressionou.. como o belíssimo **Ghost of Tsushima**,
+que já no trailer demonstra ser bem cinematográfico.
+
+{% include youtubePlayer.html id="kSAvzeopPC8" %}
+
+O jogo está sendo desenvolvido pela [Sucker Punch](https://www.suckerpunch.com/) com exclusividade
+para o PS4, ainda sem data prevista de lançamento.
+
+## Death Stranding
+
+O primeiro trabalho "independente" de Hideo Kojima está dando no que falar, cada vez que é
+mostrado algo novo, surgem ainda mais dúvidas do que iremos jogar. O jogo já contava com a presença
+de celebridades como o diretor [Guillermo Del Toro](https://pt.wikipedia.org/wiki/Guillermo_del_Toro),
+[Norman Reedus](https://pt.wikipedia.org/wiki/Norman_Reedus) e
+[Mads Mikkelsen](https://pt.wikipedia.org/wiki/Mads_Mikkelsen). E agora com este trailer,
+foram reveladas mais duas atrizes [Léa Seydoux](https://pt.wikipedia.org/wiki/L%C3%A9a_Seydoux)
+e [Lindsay Wagner](https://pt.wikipedia.org/wiki/Lindsay_Wagner).
+
+{% include youtubePlayer.html id="rP3UngLFou4" %}
+
+O jogo é da [Kojima Productions](http://www.kojimaproductions.jp/en/) e será exclusivo para PS4.
+
+## The Last of Us Part II
+
+A [Naughty Dog](https://www.naughtydog.com/) está elevando para outro nível a produção da sequência de **The Last of Us**.
+Com um visual incrível, um gameplay impressionante e provavelmente uma história envolvente, que na
+qual, Joel (ainda) não aparece, não tem muito à ser dito, apenas ASSISTAM o que foi mostrado nesta E3:
+
+{% include youtubePlayer.html id="btmN-bWwv0A" %}
+
+## Resident Evil 2
+
+Mas a grande surpresa da E3 mesmo foi o anúncio do remake de Resident Evil 2, que todos esperavam
+mas que ninguém tinha certeza se algo iria ser demonstrado. Pois bem, ele deu as caras e... veja por
+si só:
+
+{% include youtubePlayer.html id="a-lEnz5QKuM" %}
+
+{% include youtubePlayer.html id="v8_ovw0QaUM" %}
+
+E já tem data de lançamento: 25 de Janeiro de 2019! Sairá para PC, PS4 e Xbox One. QUERO!
+
+## Outros jogos
+
+Eis outros jogos que também achei interessantes:
+
+- [Battletoads](https://www.youtube.com/watch?v=-yrE9RU6DN4) - Apesar de não ser fã da série,
+mas fiquei muito curioso para saber o que a [Rare](https://www.rare.co.uk/) irá trazer neste novo Battletoads exclusivo para Xbox.
+- [Shadow of the Tomb Raider](https://www.youtube.com/watch?v=NbvOjcn3wfc) - Se é Tomb Raider, vou
+jogar! O jogo sai dia 14 de Setembro para PS4 e Xbox One.
+- [Overkill's The Walking Dead](https://www.youtube.com/watch?v=CsDbQPUYn6E) - Foi "apresentado" o
+gameplay e será lançado no dia 6 de Novembro para PS4 e Xbox One.
+- [Marvel's Spider-Man](https://www.youtube.com/watch?v=X3ricWI0KHE) - Gostei bastante deste novo
+Homem-Aranha, pois lembrou bastante os de PS1! Será lançado exclusivamente para PS4 no dia 2 de Setembro.
+- [Forza Horizon 4](https://www.youtube.com/watch?v=VmQNo8xtcAg) - Apesar de ter jogado apenas o primeiro,
+a série Horizon é muito empolgante e este novo está com um visual impressionante.
+- [Call of Cthulhu](https://www.youtube.com/watch?v=uHrTKSrhgLo) - Me pareceu um jogo de investigação
+interessante.
+- [Days Gone](https://www.youtube.com/watch?v=VDpHSP0e_U4) - Jogo de zumbi? Aceito.
+Data de lançamento: 22 de Fevereiro de 2019 para PS4.
+- [Sable](https://www.youtube.com/watch?v=y8bcIzVtLhQ) - Me chamou a atenção pelo visual curioso.
+- [Sekiro: Shadows Die Twice](https://www.youtube.com/watch?v=7p_F59_7ybk) - Outro jogo de samurai que
+parece ser interessante também! Este é da [FromSoftware](http://www.fromsoftware.jp/ww/) para 2019.
+- [Tom Clancy's The Division 2](https://www.youtube.com/watch?v=dMNH80CuYK8) - Confesso que fiquei
+com vontade de jogar o primeiro depois de ver este trailer do segundo.
+- [Dying Light 2](https://www.youtube.com/watch?v=5PO-Fl_-JxI) - Também não joguei o primeiro, mas
+como fã da temática, gostei do que vi.
+- [Cuphead DLC](https://www.youtube.com/watch?v=3hk50ueWS5E) - Novas fases, chefões e a personagem Ms. Chalice. Previsto para 2019.
+- [Gears 5](https://www.youtube.com/watch?v=R3ooHNIYwhE) - Apesar de ainda não ter terminado nenhum,
+Gears of War é uma série que tenho muita admiração e vontade de jogar!
+- [The Walking Dead - The Final Season](https://www.youtube.com/watch?v=ucTa41ucU_E) - Revelado a
+data da temporada final: 14 de Agosto.
+- [Control](https://www.youtube.com/watch?v=oFjb_vlCsRA) - Um curioso jogo da [Remedy](https://www.remedygames.com/)
+previsto para 2019.
+
+---
+
+E é isso! O que acharam desta E3? Curtiram?
+
+Caso, queiram ver um resumo completo de tudo o que rolou nas conferências,
+confira a cobertura realizada pelo nosso parceiro [Vão Jogar!](https://vaojogar.com.br):
+
+- [EA Games](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-ea)
+- [Microsoft](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-microsoft)
+- [Bethesda](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-bethesda)
+- [Devolver Digital](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-devolver-digital)
+- [Square-Enix](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-square-enix)
+- [Limited Run](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-limited-run)
+- [Ubisoft](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-ubisoft)
+- PC Gaming
+- [Sony](https://vaojogar.com.br/escrito/e3-2018-resumo-da-conferencia-da-sony)
+- [Nintendo](https://vaojogar.com.br/escrito/e3-2018-resumo-do-nintendo-direct)

@@ -2,7 +2,7 @@
 layout:     post
 title:      "As 10 melhores novidades da E3 2015"
 date:       2015-06-27 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 04
 categories: jogando toplist
 tags:       [e3, microsoft, ps4, xbox-one, square-enix, naughty-dog, tomb-raider, sony, lists, toplist]

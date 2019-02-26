@@ -2,7 +2,7 @@
 layout:     post
 title:      "Lista de jogos sem troféus do PS3"
 date:       2016-07-13 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Utilidade Pública &#35 08
 categories: jogando utilidade-publica
 tags:       [sony, ps3, trofeus, lists, utilidade-publica]

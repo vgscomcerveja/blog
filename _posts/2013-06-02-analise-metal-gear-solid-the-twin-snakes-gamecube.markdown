@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Metal Gear Solid: The Twin Snakes (GC)"
 date:       2013-06-02 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 06
 categories: jogando analise
 tags:       [nintendo, game-cube, kojima, metal-gear, konami, silicon-knights, analise, game-over]

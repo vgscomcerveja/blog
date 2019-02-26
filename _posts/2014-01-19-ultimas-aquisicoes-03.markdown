@@ -2,7 +2,7 @@
 layout:     post
 title:      "Últimas Aquisições #03"
 date:       2014-01-19 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [tomb-raider, pc, resident-evil, capcom, mario, nintendo, wii, ps3, sony, sega, tectoy, master-system, xbox-360]

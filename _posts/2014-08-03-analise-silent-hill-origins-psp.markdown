@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Silent Hill: Origins (PSP)"
 date:       2014-08-03 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 18
 categories: jogando analise
 tags:       [sony, psp, silent-hill, konami, analise, game-over]

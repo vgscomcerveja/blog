@@ -2,7 +2,7 @@
 layout:     post
 title:      "Tectoy Wiki"
 date:       2012-11-01 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Utilidade Pública &#35 07
 categories: colecionando utilidade-publica
 tags:       [sega, tectoy, utilidade-publica]

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - Mega Drive"
 date:       2011-01-08 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sega, mega-drive]

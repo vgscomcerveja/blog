@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - Última IV (Master System)"
 date:       2011-01-09 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sega, master-system, tectoy]

@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Flintstones: The Surprise at Dinosaur Peak! (NES)"
 date:       2012-11-05 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Mosca Branca &#35 02
 categories: colecionando mosca-branca
 tags:       [nintendo, nes, playtronic]

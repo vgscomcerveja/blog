@@ -10,10 +10,6 @@
   url: /noticias/
   classe: icon-newspaper
   showtitle: false
-- title: Listas
-  url: /lists/
-  classe: icon-list-bullet
-  showtitle: false
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad

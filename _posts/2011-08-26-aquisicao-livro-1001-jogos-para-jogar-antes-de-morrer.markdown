@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - Livro 1001 Jogos Que Você Deve Jogar Antes de Morrer"
 date:       2011-08-26 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [livros]

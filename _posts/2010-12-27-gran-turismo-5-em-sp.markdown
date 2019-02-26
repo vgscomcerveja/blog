@@ -2,7 +2,7 @@
 layout:     post
 title:      "Evento de Gran Turismo 5 em São Paulo"
 date:       2010-12-27 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 01
 categories: noticias
 tags:       [sony, ps3]

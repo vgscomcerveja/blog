@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - BioShock 2 (Xbox 360)"
 date:       2013-12-26 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 13
 categories: jogando analise
 tags:       [microsoft, xbox-360, analise, game-over]

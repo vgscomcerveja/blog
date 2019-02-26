@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Land of Illusion (Master System)"
 date:       2013-10-13 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 11
 categories: jogando analise
 tags:       [sega, master-system, tectoy, mickey, disney, analise, game-over]

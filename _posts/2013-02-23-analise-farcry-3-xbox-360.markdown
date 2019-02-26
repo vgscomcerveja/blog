@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Far Cry 3 (Xbox 360)"
 date:       2013-02-23 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 01
 categories: jogando analise
 tags:       [microsft, xbox-360, ubisoft, farcry, analise, game-over]

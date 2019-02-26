@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Resident Evil (PS1)"
 date:       2016-03-24 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 28
 categories: jogando analise
 tags:       [sony, ps1, capcom, resident-evil, analise, game-over]

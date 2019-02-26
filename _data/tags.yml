@@ -84,6 +84,8 @@
   name: Konami
 - slug: lego
   name: LEGO (Série)
+- slug: limitedrun
+  name: Limited Run
 - slug: livros
   name: Livros
 - slug: mario
@@ -144,6 +146,8 @@
   name: Saturn
 - slug: sega
   name: Sega
+- slug: sega-cd
+  name: Sega CD
 - slug: silent-hill
   name: Silent Hill (Série)
 - slug: silicon-knights

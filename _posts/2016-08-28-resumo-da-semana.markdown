@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - PlayStation Plus mais cara, Restaurante Nintendo, Games with Gold e mais.."
 date:       2016-08-28 18:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 20
 categories: noticias
 tags:       [sony, ps-plus, microsoft, games-with-gold, nintendo, resident-evil, square-enix, tomb-raider]

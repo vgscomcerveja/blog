@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - The Last Guardian (PS4)"
 date:       2017-03-09 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 36
 categories: jogando analise
 tags:       [sony, ps4, analise, game-over]

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Brasil Game Show 2015"
 date:       2015-10-18 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Especial
 categories: jogando especiais
 tags:       [bgs, sony, microsoft, especial]

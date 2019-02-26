@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Horizon Zero Dawn (PS4)"
 date:       2017-06-25 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 38
 categories: jogando analise
 tags:       [sony, ps4, horizon-zero-dawn, analise, game-over]

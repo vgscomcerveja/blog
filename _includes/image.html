@@ -12,7 +12,12 @@
   {% endif %}
 {% endcapture %}
 
-<figure>
+<figure 
+
+  {% if include.full != null %}
+    style="width:100%"
+  {% endif %}
+>
   <a href="{{ include.url }}"
      data-lightbox="{{ data_lightbox }}"
      data-title="{{ image_title }}">

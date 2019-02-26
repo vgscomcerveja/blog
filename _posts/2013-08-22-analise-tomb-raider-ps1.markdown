@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Tomb Raider (PS1)"
 date:       2013-08-22 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 09
 categories: jogando analise
 tags:       [sony, ps1, eidos, core-design, tomb-raider, analise, game-over]

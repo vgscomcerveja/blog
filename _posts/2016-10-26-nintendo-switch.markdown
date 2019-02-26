@@ -2,7 +2,7 @@
 layout:     post
 title:      "Nintendo Switch - 4 coisas que gostei (e UMA que me incomodou um pouco)"
 date:       2016-10-26 18:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 22
 categories: noticias
 tags:       [nintendo, switch]

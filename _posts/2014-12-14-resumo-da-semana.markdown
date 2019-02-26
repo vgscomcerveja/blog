@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - The Last Guardian, Rise of the Tomb Raider, PS4 edição limitada no Brasil e mais.."
 date:       2014-12-14 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 06
 categories: noticias
 tags:       [sega, tomb-raider, sony, ps4]

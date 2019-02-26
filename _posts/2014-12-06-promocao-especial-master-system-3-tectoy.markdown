@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cartucho de Promoção Especial do Master System III Compact da Tectoy"
 date:       2014-12-06 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Mosca Branca &#35 03
 categories: colecionando mosca-branca
 tags:       [sega, tectoy, master-system, sonic]

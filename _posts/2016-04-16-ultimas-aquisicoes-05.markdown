@@ -2,7 +2,7 @@
 layout:     post
 title:      "Últimas Aquisições #05 - Março/16"
 date:       2016-04-16 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sony, ps3, nintendo, snes, n64, microsoft, xbox, sega, dreamcast, mega-drive, psp, tomb-raider, silent-hill, master-system, tectoy, ps4]

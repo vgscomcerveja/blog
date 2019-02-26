@@ -2,7 +2,7 @@
 layout:     post
 title:      "3x Naughty Dog!"
 date:       2017-08-08 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Edição de Colecionador &#35 05
 categories: colecionando edicao-colecionador
 tags:       [naughty-dog, uncharted, sony, ps3, ps4, lists]

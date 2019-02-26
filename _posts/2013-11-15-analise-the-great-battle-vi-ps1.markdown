@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - The Great Battle VI (PS1)"
 date:       2013-11-15 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 12
 categories: jogando analise
 tags:       [sony, ps1, analise, game-over]

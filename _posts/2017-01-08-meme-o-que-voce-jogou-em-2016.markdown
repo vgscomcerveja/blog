@@ -2,7 +2,7 @@
 layout:     post
 title:      "MeMe - O Que Você Jogou em 2016?"
 date:       2017-01-08 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Especial
 categories: jogando especiais
 tags:       [sony, ps4, uncharted, naughty-dog, psvita, nintendo, wii, ps3, ps1, resident-evil, capcom, xbox-360, snes, xbox, microsoft, ps2, especial]

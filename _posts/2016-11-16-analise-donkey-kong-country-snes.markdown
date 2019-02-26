@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Donkey Kong Country (Super Nintendo)"
 date:       2016-11-16 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 34
 categories: jogando analise
 tags:       [nintendo, snes, rare, donkey-kong, analise, game-over]
@@ -32,7 +32,7 @@ O jogo conta com 40 fases distribuídas em 6 mundos, onde **_Donkey Kong_** (que
 
 ## Trilha Sonora
 
-Depois de se surpreender com os gráficos, você irá ficar impressionado com a trilha sonora, que particularmente considero uma das melhores de todos os tempos (isto incluindo os outros dois jogos da trilogia). Composta por **David Wise**, **Robin Beanland** e **Eveline Fischer**, as trilhas de DKC são tão marcantes quanto o tema de Mario Bros, elas te colocam no clima do jogo!
+Depois de se surpreender com os gráficos, você irá ficar impressionado com a qualidade da trilha sonora, que particularmente considero uma das melhores de todos os tempos (isto incluindo os outros dois jogos da trilogia). Composta por **David Wise**, **Robin Beanland** e **Eveline Fischer**, as trilhas de DKC são tão marcantes quanto o tema de Mario Bros, elas te colocam no clima do jogo!
 
 Se você não conhece, vou indicar apenas uma para você ter uma ideia. Escolhi a trilha **_"Aquatic Ambience"_** de David Wise. Porém, esta é uma versão à capela reproduzida pelo artista [Smooth McGroove](https://www.youtube.com/channel/UCJvBEEqTaLaKclbCPgIjBSQ), que vale muito à pena assistir:
 
@@ -50,7 +50,7 @@ Você pode alternar entre os personagens quando quiser, pois cada um tem suas pa
   url="/imgs/posts/game_over/34_donkey_kong_country/dkc_screen2.jpg"
   description="Fases com tempestades!" %}
 
-O jogo não possui *power-ups*, mas em algumas fases você pode "montar" em alguns animais, assim como o Mario faz com o Yoshi em Super Mario World. Mas aqui, você não pode usar eles em qualquer fase, cada bicho está disponível em fases e trechos específicos. Temos um rinoceronte (Rambi), um peixe espada (Enguarde), um sapo (Winky), um papagaio (Squawks) e um avestruz (Expresso) e cada um deles possui uma habilidade diferente. Com eles, você ganha um apoio extra, pois se você for atingido por um inimigo enquanto estiver montado em um deles, você não perderá um dos Kongs e sim o animal que estiver montado. Mas ainda se for atingido, ele sairá correndo e, caso você seja rápido, você pode recuperá-los ao montar neles novamente (assim como o Yoshi em Super Mario World).
+O jogo não possui *power-ups*, mas em algumas fases você pode "montar" em alguns animais, assim como o Mario faz com o Yoshi em [Super Mario World](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html). Mas aqui, você não pode usar eles em qualquer fase, cada bicho está disponível em fases e trechos específicos. Temos o rinoceronte Rambi, o peixe espada Enguarde, o sapo Winky, o papagaio Squawks e o avestruz Expresso e cada um deles possui uma habilidade diferente. Com eles, você ganha um apoio extra, pois se você for atingido por um inimigo enquanto estiver montado em um deles, você não perderá um dos Kongs e sim o animal que estiver montado. Mas ainda se for atingido, ele sairá correndo e, caso você seja rápido, você pode recuperá-los ao montar neles novamente (assim como o Yoshi em Super Mario World).
 
 As "moedas" do jogo são bananas! Ao juntar 100 delas, você ganha uma vida. Além disso, cada fase possuem as letras "K", "O", "N" e "G" espalhadas, que ao pegar todas, você ganha uma vida também! Ainda temos os barris de bônus, que muitas vezes estão bem escondidos, e ao entrar neles, você é arremessado para a fase bônus, que na qual, você coleta alguns itens que te ajudam a ganhar mais vidas!
 
@@ -60,7 +60,7 @@ E por fim, no final de cada mundo, temos um chefão, que normalmente é a versã
 
 Assim como Super Mario World tinha um desafio extra, que era de fazer [as 96 saídas do jogo](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html), DKC também possui um desafio, um pouco mais simples talvez, que é o de completar o jogo em 101%.
 
-Bom, para realizar tal façanha, basta passar todas as fases entrando em todos os bônus existentes! E para saber se conseguiu encontrar todos os bônus da fase, é só verificar se o nome da fase no mapa está com um ponto de exclamação ("!") após completá-la (por exemplo, Mine Cart Madness!).
+Para realizar tal façanha, basta passar todas as fases entrando em todos os bônus existentes! E para saber se conseguiu encontrar todos os bônus da fase, é só verificar se o nome da fase no mapa está com um ponto de exclamação ("!") após completá-la (por exemplo, Mine Cart Madness **!**).
 
 Confesso, que nunca tinha realizado tal feito, mas meus amigos já, porém fazia muito tempo que eles não jogavam! Sendo assim, os convidei para encararmos este desafio. E depois de muita cerveja, risadas e quase quatro horas e meia: missão dada, missão cumprida!
 

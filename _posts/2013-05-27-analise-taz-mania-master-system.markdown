@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Taz-Mania (Master System)"
 date:       2013-05-27 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 05
 categories: jogando analise
 tags:       [sega, master-system, tectoy, analise, game-over]

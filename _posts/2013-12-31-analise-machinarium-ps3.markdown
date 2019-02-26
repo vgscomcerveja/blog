@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Machinarium (PS3)"
 date:       2013-12-31 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 14
 categories: jogando analise
 tags:       [sony, ps3, indie, analise, game-over]

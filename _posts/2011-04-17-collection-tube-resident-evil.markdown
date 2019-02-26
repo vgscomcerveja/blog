@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resident Evil Collection"
 date:       2011-04-17 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Collection Tube &#35 01
 categories: colecionando collection-tube
 tags:       [resident-evil, capcom]

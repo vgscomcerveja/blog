@@ -2,7 +2,7 @@
 layout:     post
 title:      "Sobre o 'novo' Mega Drive da Tectoy.."
 date:       2016-10-31 18:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 23
 categories: noticias
 tags:       [sega, mega-drive, tectoy]

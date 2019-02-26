@@ -2,7 +2,7 @@
 layout:     post
 title:      "Joel Hopkins, Colecionador Australiano de Games"
 date:       2012-07-12 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Collection Tube &#35 04
 categories: colecionando collection-tube
 tags:       [sega, mega-drive]

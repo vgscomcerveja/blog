@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - PlayStation 3 Slim"
 date:       2010-07-15 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sony, ps3]

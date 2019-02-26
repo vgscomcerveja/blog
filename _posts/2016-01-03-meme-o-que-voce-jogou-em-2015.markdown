@@ -1,30 +1,71 @@
 ---
-layout:     post
-title:      "MeMe - O Que Você Jogou Em 2015?"
-date:       2016-01-03 19:00
-author:     Felipe B. Barbosa
-session:    Especial
+layout: post
+title: "MeMe - O Que Você Jogou Em 2015?"
+date: 2016-01-03 19:00
+author: felipebbarbosa
+session: Especial
 categories: jogando especiais
-tags:       [nintendo, snes, xbox-360, microsoft, n64, sony, psvita, metal-gear-solid, resident-evil, ps1, gran-turismo, guitar-hero, ps3, mortal-kombat, master-system, sega, sonic, especial]
-games:      [super-mario-world, forza-horizon-2, need-for-speed-most-wanted, conkers-bad-fur-day, assassins-creed, uncharted-golden-abyss, metal-gear-solid-v, guacamelee, resident-evil, gran-turismo-6, jurassic-the-hunted, sonic, cars-2, fat-princess, rise-of-the-tomb-raider, terminator-salvation, enslaved, uncharted]
-thumbnail:  /imgs/posts/especial/03_meme2015/post_thumbnail.jpg
-cover:      /imgs/posts/especial/03_meme2015/post_header.jpg
+tags:
+  [
+    nintendo,
+    snes,
+    xbox-360,
+    microsoft,
+    n64,
+    sony,
+    psvita,
+    metal-gear-solid,
+    resident-evil,
+    ps1,
+    gran-turismo,
+    guitar-hero,
+    ps3,
+    mortal-kombat,
+    master-system,
+    sega,
+    sonic,
+    especial,
+  ]
+games:
+  [
+    super-mario-world,
+    forza-horizon-2,
+    need-for-speed-most-wanted,
+    conkers-bad-fur-day,
+    assassins-creed,
+    uncharted-golden-abyss,
+    metal-gear-solid-v,
+    guacamelee,
+    resident-evil,
+    gran-turismo-6,
+    jurassic-the-hunted,
+    sonic,
+    cars-2,
+    fat-princess,
+    rise-of-the-tomb-raider,
+    terminator-salvation,
+    enslaved,
+    uncharted,
+  ]
+thumbnail: /imgs/posts/especial/03_meme2015/post_thumbnail.jpg
+cover: /imgs/posts/especial/03_meme2015/post_header.jpg
 sinopse: >
   Feliz Ano Novo! Já está se tornando uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico, e nada melhor para isso do que participando do MeMe do Marvox Brasil, que chega à sua 5a edição: "O Que Você Jogou Em 2015?". Esta é minha segunda participação, e o que acho mais legal, é que é uma espécie de confraternização entre os editores de blogs de games! Enfim, vamos lá que a lista é grande, selecionei 20 jogos que mais joguei em 2015! ^^'
 ---
+
 Feliz Ano Novo! Já está se tornando uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico, e nada melhor para isso do que participando do MeMe do [Marvox Brasil](https://marvoxbrasil.wordpress.com/), que chega à sua 5a edição: "O Que Você Jogou Em 2015?". Esta é minha segunda participação, e o que acho mais legal, é que é uma espécie de confraternização entre os editores de blogs de games! Enfim, vamos lá que a lista é grande, selecionei 20 jogos que mais joguei em 2015! ^^'
 
 ## Super Mario World (SNES)
 
 {% include image.html url="/imgs/posts/especial/03_meme2015/super-mario-world.jpg" %}
 
-Comecei o ano empolgado, peguei **Super Mario World** para jogar para valer e fiz as 96 saídas pela primeira vez na vida! O jogo em si é um clássico e dispensa comentários, mas eu fiz um pequeno *review* dele no [Game Over 24](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html), caso ainda não tenha lido! :)
+Comecei o ano empolgado, peguei **Super Mario World** para jogar para valer e fiz as 96 saídas pela primeira vez na vida! O jogo em si é um clássico e dispensa comentários, mas eu fiz um pequeno _review_ dele no [Game Over 24](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html), caso ainda não tenha lido! :)
 
 ## Forza Horizon 2 presents Fast & Furious (Xbox 360)
 
 {% include image.html url="/imgs/posts/especial/03_meme2015/forza-horizon2-fast-furious.jpg" %}
 
-Quando soube que esta DLC estava disponível gratuitamente, e que era *standalone*, ou seja, não precisava do Forza Horizon 2 para jogar, corri para baixar e jogar! Como adoro jogos de corrida, gostei bastante apesar de ser muito curto, mas ele dá um gostinho do que é FH2 e também te empolga para ver o filme, que era lançamento na época. Escrevi um pouco sobre ele no [Game Over 23](/jogando/analise/2015/04/09/analise-forza-horizon-2-fast-and-furious-xbox-360.html).
+Quando soube que esta DLC estava disponível gratuitamente, e que era _standalone_, ou seja, não precisava do Forza Horizon 2 para jogar, corri para baixar e jogar! Como adoro jogos de corrida, gostei bastante apesar de ser muito curto, mas ele dá um gostinho do que é FH2 e também te empolga para ver o filme, que era lançamento na época. Escrevi um pouco sobre ele no [Game Over 23](/jogando/analise/2015/04/09/analise-forza-horizon-2-fast-and-furious-xbox-360.html).
 
 ## Need for Speed: Most Wanted (Xbox 360)
 
@@ -38,7 +79,7 @@ Não, a imagem não está errada, é o **Most Wanted** de 2005 mesmo! Ele saiu n
 
 Depois de perceber que tinha passado o primeiro semestre longe dos games, resolvi me organizar melhor e me dedicar mais aos games, e o primeiro deles foi Conker's, cujo o personagem é o mascote do blog! ^^
 
-Joguei até o final e recomendo do começo ao fim, muito bom! Fiz um *review* dele no [Game Over 25](/jogando/analise/2015/11/11/analise-conkers-bad-fur-day-n64.html).
+Joguei até o final e recomendo do começo ao fim, muito bom! Fiz um _review_ dele no [Game Over 25](/jogando/analise/2015/11/11/analise-conkers-bad-fur-day-n64.html).
 
 ## Assassin's Creed (Xbox 360)
 
@@ -104,7 +145,7 @@ Quando cansava um pouco de GH, chaveava para o **Mortal Kombat**. Esta coleção
 
 {% include image.html url="/imgs/posts/especial/03_meme2015/jurassic-the-hunted.jpg" %}
 
-Aí veio a fase caçador de troféus, depois de pegar as platinas de Uncharted e Guacamelee, viciei, queria mais! Então, resolvi pesquisar jogos que eram fáceis de platinar (sim, estava/estou viciado!) e descobri: **Jurassic: The Hunted**. Só que descobri outra coisa, jogos fáceis de platinar são muito incomuns (até mesmo raros) de encontrar, aí meu lado colecionador despertou, e resolvi caçar estes jogos, e não só eles, resolvi dar um *upgrade* na coleção de PS3! :D
+Aí veio a fase caçador de troféus, depois de pegar as platinas de Uncharted e Guacamelee, viciei, queria mais! Então, resolvi pesquisar jogos que eram fáceis de platinar (sim, estava/estou viciado!) e descobri: **Jurassic: The Hunted**. Só que descobri outra coisa, jogos fáceis de platinar são muito incomuns (até mesmo raros) de encontrar, aí meu lado colecionador despertou, e resolvi caçar estes jogos, e não só eles, resolvi dar um _upgrade_ na coleção de PS3! :D
 
 Mas sobre o jogo em si, ele é basicamente um FPS com dinossauros até legalzinho! ^^'
 
@@ -126,9 +167,9 @@ Outro para o clube da platina fácil! ^^ ..Eu até gosto de jogos infantis, ent�
 
 {% include image.html url="/imgs/posts/especial/03_meme2015/fat-princess.jpg" %}
 
-Esse jogo foi uma surpresa! Dando uma navegada na PS Store, notei que tinha este jogo gratuito para PS Vita (*free-to-play*)! O jogo é extremamente viciante, é uma mistura de Bejeweled com RPG. Você controla quatro personagens com habilidades distintas e para avançar no jogo, você tem que derrotar inimigos. Mas aí que vem o detalhe interessante do jogo, como ele é estilo Bejeweled, cada personagem tem seu estilo de pedra, aí se você juntar três ou mais, você solta o poder dele. É muito viciante, tem até *upgrade* dos níveis dos seus personagens, tornando seus golpes mais fortes!
+Esse jogo foi uma surpresa! Dando uma navegada na PS Store, notei que tinha este jogo gratuito para PS Vita (_free-to-play_)! O jogo é extremamente viciante, é uma mistura de Bejeweled com RPG. Você controla quatro personagens com habilidades distintas e para avançar no jogo, você tem que derrotar inimigos. Mas aí que vem o detalhe interessante do jogo, como ele é estilo Bejeweled, cada personagem tem seu estilo de pedra, aí se você juntar três ou mais, você solta o poder dele. É muito viciante, tem até _upgrade_ dos níveis dos seus personagens, tornando seus golpes mais fortes!
 
-Mas esse jogo tem um defeito grave que me fez desanimar completamente dele: chega um certo ponto do jogo, que parece que você é obrigado à gastar dinheiro (com as microtransações dentro do game) para poder avançar, ou então ficar jogando muitas vezes as fases anteriores para evoluir seus personagens. Ou seja, aparentemente, eles dificultaram muito para meio que obrigar a comprar os itens necessários, e como me recuso a comprar coisas dentro de jogos, e não tenho muita paciência para fica *upando*, larguei de lado! :)
+Mas esse jogo tem um defeito grave que me fez desanimar completamente dele: chega um certo ponto do jogo, que parece que você é obrigado à gastar dinheiro (com as microtransações dentro do game) para poder avançar, ou então ficar jogando muitas vezes as fases anteriores para evoluir seus personagens. Ou seja, aparentemente, eles dificultaram muito para meio que obrigar a comprar os itens necessários, e como me recuso a comprar coisas dentro de jogos, e não tenho muita paciência para fica _upando_, larguei de lado! :)
 
 ## Rise of the Tomb Raider (Xbox 360)
 
@@ -136,13 +177,13 @@ Mas esse jogo tem um defeito grave que me fez desanimar completamente dele: cheg
 
 Agora sim, este talvez seja o melhor que joguei no ano! Comprei no dia do lançamento oficial e joguei do começo ao fim até fazer 100% das conquistas e garantir mais 1000G para conta! :D
 
-Jogão! Com lançamento exclusivo temporário para os consoles Xbox, esse segundo jogo da série *reboot* de **Tomb Raider** está fantástico! Joguei no 360 e os gráficos estão excelentes, uma evolução notável em relação ao jogo anterior. Já quanto aos outros elementos, sem muita novidade, muito parecido com seu antecessor, mas, é claro, com pequenas melhorias aqui e ali. Mesmo assim, o jogo vale muito a pena, é um mais do mesmo muito bom, pelo menos para mim, que adoro este estilo de jogo! ^^
+Jogão! Com lançamento exclusivo temporário para os consoles Xbox, esse segundo jogo da série _reboot_ de **Tomb Raider** está fantástico! Joguei no 360 e os gráficos estão excelentes, uma evolução notável em relação ao jogo anterior. Já quanto aos outros elementos, sem muita novidade, muito parecido com seu antecessor, mas, é claro, com pequenas melhorias aqui e ali. Mesmo assim, o jogo vale muito a pena, é um mais do mesmo muito bom, pelo menos para mim, que adoro este estilo de jogo! ^^
 
 ## Terminator Salvation (PS3)
 
 {% include image.html url="/imgs/posts/especial/03_meme2015/terminator-salvation.jpg" %}
 
-Um dos jogos mais cobiçados entre os caçadores de troféus, e o motivo é muito simples, jogo muito fácil de platinar, e o melhor, só possui troféus de ouro e são referentes o término de cada capítulo do jogo! Entretanto, só tem um troféu que é diferente e se você quiser platinar rápido, é bom se atentar a ele! O troféu é o de zerar o jogo no nível *Hard*, então se você não quiser jogar duas vezes o jogo, já comece neste modo!
+Um dos jogos mais cobiçados entre os caçadores de troféus, e o motivo é muito simples, jogo muito fácil de platinar, e o melhor, só possui troféus de ouro e são referentes o término de cada capítulo do jogo! Entretanto, só tem um troféu que é diferente e se você quiser platinar rápido, é bom se atentar a ele! O troféu é o de zerar o jogo no nível _Hard_, então se você não quiser jogar duas vezes o jogo, já comece neste modo!
 
 Foi o que eu fiz, pois o jogo não é tão difícil, tem algumas partes chatinhas de passar, mas nada impossível! O game é até um razoável jogo de ação/tiro em terceira pessoa, mas nada muito além disso, talvez só valha a pena pelos troféus mesmo! :)
 
@@ -150,7 +191,7 @@ Foi o que eu fiz, pois o jogo não é tão difícil, tem algumas partes chatinha
 
 {% include image.html url="/imgs/posts/especial/03_meme2015/enslaved.jpg" %}
 
-Comprei esse jogo à algum tempo por ver diversas indicações dele como jogos esquecidos ou até mesmo "lado B" (também conhecidos como *hidden gems*) que são bons para o console. Aí quando peguei para jogar e pá.. Chegou meu PS4! xD
+Comprei esse jogo à algum tempo por ver diversas indicações dele como jogos esquecidos ou até mesmo "lado B" (também conhecidos como _hidden gems_) que são bons para o console. Aí quando peguei para jogar e pá.. Chegou meu PS4! xD
 
 ## Uncharted: Drake's Fortune Remastered (PS4)
 

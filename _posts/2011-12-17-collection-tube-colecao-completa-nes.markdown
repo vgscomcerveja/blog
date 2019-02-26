@@ -2,7 +2,7 @@
 layout:     post
 title:      "Coleção completa de cartuchos NES"
 date:       2011-12-17 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Collection Tube &#35 03
 categories: colecionando collection-tube
 tags:       [nintendo, nes]

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - The Last of Us: Left Behind (PS3)"
 date:       2014-03-09 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 16
 categories: jogando analise
 tags:       [sony, ps3, naughty-dog, analise, game-over]

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - Nintendo DS Lite: Special Edition"
 date:       2010-10-23 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [nintendo, nds]

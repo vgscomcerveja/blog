@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Medal of Honor (PS1)"
 date:       2014-09-11 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 19
 categories: jogando analise
 tags:       [sony, ps1, electronic-arts, analise, game-over]
@@ -14,17 +14,17 @@ sinopse: >
 game_cover:
 
 ---
-Já fazia um tempinho que queria relembrar **Medal of Honor**. Sim,  o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo.
+Já fazia um tempinho que queria relembrar **Medal of Honor**. Sim,  o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo na frente.
 
-Lançado em 1999 pela **Electronic Arts** e desenvolvido pela **DreamWorks Interactive** (atual **EA Los Angeles**) sob consultoria de ninguém menos que **_Steven Spielberg_**, que tinha acabado de lançar o filme **O Resgate do Soldado Ryan**. MoH é um jogo de tiro em primeira pessoa (FPS - First Person Shooter) ambientado durante a Segunda Guerra Mundial para PS1, ou seja, Spielberg era perfeito para ajudar.
+Lançado em 1999 pela [Electronic Arts](https://www.ea.com/pt-br) e desenvolvido pela **DreamWorks Interactive** (atual **EA Los Angeles**) sob consultoria de ninguém menos que **Steven Spielberg**, que tinha acabado de lançar o filme **O Resgate do Soldado Ryan**. MoH é um jogo de tiro em primeira pessoa (FPS - First Person Shooter) ambientado durante a Segunda Guerra Mundial para PS1, ou seja, Spielberg era o cara perfeito para ajudar.
 
-Na época eu lembro do lançamento do jogo, todas as revistas que eu lia, sempre referenciava o jogo ao filme de Spielberg. Tem uma certa semelhança, mas não, o jogo não é baseado no filme.
+Eu lembro do lançamento do jogo na época, todas as revistas que eu lia, sempre referenciava o jogo ao filme de Spielberg. Tem uma certa semelhança, mas não, o jogo não é baseado no filme.
 
 Ao rejogá-lo, a primeira coisa que você estranhará é a jogabilidade, pois é bem diferente dos jogos atuais do gênero. Você tem que esquecer que existe o analógico direito, porque para mirar, você tem segurar o R2 e direcionar o tiro com o analógico esquerdo e depois atirar apertando X. Os botões L1 e R1 também ajudam na hora da ação, pois eles te movimentam de um lado para outro sempre olhando para frente (como se fosse um siri ^^). Demorei um pouco para pegar o jeito, mas lembro que esta jogabilidade era muito boa na época, hoje talvez nem tanto, mas ainda é jogável.
 
 Uma coisa legal do jogo é que ele realmente te põe num clima de guerra, pois você escuta ao fundo alemães falando nos mega-fones, cachorros latindo e barulhos de tiros sem saber da onde e o que está por vir, chega a ser até um pouco tenso.
 
-Por falar em tenso, tem algumas missões, que você se torna um espião infiltrado dentro da base inimiga. Você não pode dar mole, pois se eles desconfiarem, o alarme será soado e aí coisa fica bem complicada, é melhor passar despecebido! :)
+Por falar em tenso, tem algumas missões, que você se torna um espião infiltrado dentro da base inimiga. Você não pode dar mole, pois se eles desconfiarem, o alarme será soado e aí coisa fica bem complicada, é melhor passar despercebido! :)
 
 {% include image.html url="/imgs/posts/game_over/19_medal_of_honor/foto1.jpg" description="Meu nome é Patterson, Jimmy Patterson!" %}
 
@@ -34,7 +34,9 @@ Ao todo o jogo possui apenas sete missões, porém com algumas fases em cada uma
 
 {% include image.html url="/imgs/posts/game_over/19_medal_of_honor/foto2.jpg" description="Eu particularmente não ganhei muitas medalhas! :(" %}
 
-Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha sonora e jogabilidade! Recomendo para quem gosta de FPS, principalmente para sentir a diferença entre os jogos atuais. Apesar de eu não ser um grande fã do gênero, fiquei curioso para jogar agora o **Goldeneye 007** (N64) para comparar, pois existia um *mimimi* entre *"istas"* da época para ver qual era melhor. Eu acho que ambos contribuiram para indústria.
+Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha sonora e jogabilidade! Recomendo para quem gosta de FPS, principalmente para sentir a diferença entre os jogos atuais. Apesar de eu não ser um grande fã do gênero, fiquei curioso para jogar agora o **Goldeneye 007** (N64) para comparar, pois existia um *mimimi* entre *"istas"* da época para ver qual era melhor. Eu acho que ambos contribuíram para indústria.
+
+Mas **Medal of Honor > Goldeneye 007**! #treta #brincadeira
 
 {% include image.html url="/imgs/posts/game_over/19_medal_of_honor/foto3.jpg" description="Meu desempenho no jogo!" %}
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Meus 10 jogos favoritos do PS1"
 date:       2015-03-04 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 03
 categories: jogando toplist
 tags:       [sony, ps1, capcom, tomb-raider, metal-gear-solid, gran-turismo, lists, toplist]

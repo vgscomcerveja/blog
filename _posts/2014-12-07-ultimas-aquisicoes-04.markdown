@@ -2,7 +2,7 @@
 layout:     post
 title:      "Últimas Aquisições #04"
 date:       2014-12-07 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sega, tectoy, master-system, game-gear, sonic, disney, mickey, nintendo, wii, sony, ps3, saturn, rockband, lego, metal-gear-solid]

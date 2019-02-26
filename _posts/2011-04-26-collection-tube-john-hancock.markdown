@@ -2,7 +2,7 @@
 layout:     post
 title:      "Colecionador John Hancock"
 date:       2011-04-26 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Collection Tube &#35 02
 categories: colecionando collection-tube
 thumbnail:  /imgs/posts/collection_tube/02_john_hancock/post_thumbnail.jpg

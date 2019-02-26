@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Spec Ops: The Line (PS3)"
 date:       2014-07-19 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 17
 categories: jogando analise
 tags:       [sony, ps3, analise, game-over]

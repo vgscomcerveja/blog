@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - Nintendo NX e Jogos Grátis.. "
 date:       2016-07-31 21:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 17
 categories: noticias
 tags:       [nintendo, ps4, tomb-raider, microsoft, games-with-gold, sony, ps-plus]

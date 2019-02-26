@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Need for Speed: Hot Pursuit (PS3)"
 date:       2013-03-03 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 02
 categories: jogando analise
 tags:       [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]

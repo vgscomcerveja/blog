@@ -2,7 +2,7 @@
 layout:     post
 title:      "Últimas Aquisições #06 - Abr~Jun/16"
 date:       2016-08-09 19:50
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [microsoft, xbox, sony, ps4, sega, dreamcast, tectoy, naughty-dog, tomb-raider, ps2, capcom]

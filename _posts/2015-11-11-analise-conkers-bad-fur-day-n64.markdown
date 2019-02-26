@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Conker's Bad Fur Day (Nintendo 64)"
 date:       2015-11-11 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 25
 categories: jogando analise
 tags:       [rare, nintendo, n64, analise, game-over]

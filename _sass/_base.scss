@@ -86,6 +86,9 @@ li {
     }
 }
 
+.home li a {
+    font-weight: bold;
+}
 
 
 /**
@@ -254,7 +257,7 @@ table {
     height: 0;
     overflow: hidden;
     //margin-bottom: 20px;
-    width: 80%;
+    width: 100%;
     margin: 0 auto 20px;
 
     iframe, object, embed {
@@ -265,9 +268,11 @@ table {
         height: 100%;
     }
 
+    /*
     @include media-query($on-palm) {
         width: 100%;
     }
+    */
 }
 
 

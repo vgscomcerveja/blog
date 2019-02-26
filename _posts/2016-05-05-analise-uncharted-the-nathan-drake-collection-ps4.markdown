@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Uncharted: The Nathan Drake Collection (PS4)"
 date:       2016-05-05 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 29
 categories: jogando analise
 tags:       [sony, ps4, uncharted, naughty-dog, analise, game-over]
@@ -23,7 +23,7 @@ O protagonista da série é Nathan Drake, um caçador de tesouros, bem ao estilo
 
 Quando digo isso, não quer dizer que os jogos só possuem *cut-scenes* (como se fosse um filme), não! Pelo contrário, os jogos possuem uma jogabilidade maravilhosa com muita exploração, escaladas, *puzzles*, combates corpo a corpo e tiroteios. Tudo, na minha opinião, na dosagem correta, inclusive as *cut-scenes*!
 
-Se compararmos com o *reboot* de Tomb Raider (2013), a trilogia é relativamente mais simples, pois não tem áreas muito grandes para serem exploradas, e também não tem sistema de *upgrade* de armas e itens, alías, você não tem nenhum item utilizável a não ser armas e granadas.
+Se compararmos com o *reboot* de [Tomb Raider (2013)](/jogando/analise/2013/03/29/analise-tomb-raider-ps3.html), a trilogia é relativamente mais simples, pois não tem áreas muito grandes para serem exploradas, e também não tem sistema de *upgrade* de armas e itens, alías, você não tem nenhum item utilizável a não ser armas e granadas.
 
 Entretanto, existem vários tesouros que podem coletados pelos cenários, que torna um desafio à parte colecionar todos eles. Mas eles não tem benefício nenhum, são apenas colecionáveis, mas não me perguntem porque, eu gosto disso! ;)
 

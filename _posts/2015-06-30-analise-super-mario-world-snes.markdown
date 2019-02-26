@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Super Mario World (Super Nintendo)"
 date:       2015-06-30 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 24
 categories: jogando analise
 tags:       [snes, nintendo, mario, analise, game-over]
@@ -13,7 +13,7 @@ sinopse: >
   No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
 game_cover:
 ---
-No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu, com certeza, falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
+No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu, com certeza, falhei na missão, mas pelo menos consegui terminar um: o Super Mario World! ^^
 
 {% include image.html url="/imgs/posts/game_over/24_super_mario_world/foto1.jpg" %}
 
@@ -21,9 +21,9 @@ Antes de mais nada, para quem AINDA não conhece, SMW é um jogo de plataforma d
 
 ## Paixão à primeira vista..
 
-Meu primeiro contato com o jogo foi quando eu ganhei meu SNES, lá no começo da década de 90, não lembro o ano exatamente (acho que por volta de 1994), mas lembro que veio sem jogos, porém, eu e meus irmãos já tínhamos em mente o que queríamos: o jogo Mario!
+Meu primeiro contato com o jogo foi quando eu ganhei meu SNES, lá no começo da década de 90, não lembro o ano exatamente (acho que por volta de 1994/95), mas lembro que veio sem jogos, porém, eu e meus irmãos já tínhamos em mente o que queríamos: o jogo Mario!
 
-Sendo assim, no mesmo final de semana que ganhamos o videogame, descobrimos através de um anúncio nos classificados do jornal, uma pessoa que estava vendendo o tal jogo do Mario. Era domingo e estávamos na casa da minha avó, sendo assim, iríamos passar para ver a fita no final da tarde.
+Sendo assim, no mesmo final de semana que ganhamos o videogame, descobrimos através de um anúncio nos classificados do jornal, uma pessoa que estava vendendo o tal jogo do Mario. Era domingo e estávamos na casa da minha avó, sendo assim, iríamos passar para ver a fita após o almoço, no final da tarde.
 
 Enfim, quando chegamos ao local combinado pelo vendedor, foi uma surpresa para mim, pois se tratava de uma locadora que estava fechando as portas. Minha lembrança do local era que tinham pilhas e pilhas de jogos à venda, mas só levamos o Mario mesmo.
 

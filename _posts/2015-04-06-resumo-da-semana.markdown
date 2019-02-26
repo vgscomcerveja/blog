@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - Filme de Metal Gear Solid?; Nintendo Direct; Assassin's Creed Chronicles e mais.."
 date:       2015-04-06 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 13
 categories: noticias
 tags:       [metal-gear-solid, nintendo, ps-plus, playstation, ubisoft, kojima]

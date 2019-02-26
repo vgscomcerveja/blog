@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - Spotify, Metal Gear Survive, Resident Evil 7, Fim das Gerações de Videogames? e mais.."
 date:       2016-08-21 18:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 19
 categories: noticias
 tags:       [spotify, metal-gear-solid, resident-evil, microsoft]

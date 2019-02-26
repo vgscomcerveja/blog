@@ -2,7 +2,7 @@
 layout:     post
 title:      "Aquisição - Xbox 360!"
 date:       2012-06-12 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [microsoft, xbox-360]

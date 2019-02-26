@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Gone Home (PS4)"
 date:       2016-09-27 22:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 33
 categories: jogando analise
 tags:       [sony, ps4, ps-plus, analise, game-over]

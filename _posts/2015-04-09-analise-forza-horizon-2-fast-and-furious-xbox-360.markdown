@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Forza Horizon 2: Fast & Furious (Xbox 360)"
 date:       2015-04-09 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 23
 categories: jogando analise
 tags:       [microsoft, xbox-360, analise, game-over]
@@ -24,11 +24,11 @@ Bom, a versão analisada é a do Xbox 360, mas confesso que não joguei Forza Ho
 
 Você já começa de cara com uma tela de abertura apresentando os 10 carros do jogo com a mesma excelente trilha sonora do filme, te deixando totalmente empolgado, aliás, é a mesma do trailer abaixo (entre no clima! ^^):
 
-{% include youtubePlayer.html id='OiUepFDXunM' %}
+{% include youtubePlayer.html id='uPbDdUHg1QE' %}
 
 Bom, aí você aperta o START e já é logo desafiado para uma pequena corrida de teste por um locutor, narrado por **Chris "Ludacris" Bridges** (na versão americana), ator que interpreta **Tej Parker**, o mecânico especialista do filme. Entretanto, como joguei na versão dublada, a voz é um pouco diferente!
 
-Mas enfim, ele te recrutará para uma grande missão, caso você se saia bem nesta primeira corrida! Se finalizada com sucesso, você já é apresentado ao *1970 Dodge Charger R/T* totalmente preparado (só aí, o jogo já me ganhou, isso com menos de 10 minutos).
+Mas enfim, ele te recrutará para uma grande missão, caso você se saia bem nesta primeira corrida! Bom, se finalizada com sucesso, você já é apresentado ao *1970 Dodge Charger R/T* totalmente preparado (só aí, o jogo já me ganhou, isso com menos de 10 minutos).
 
 Sua missão é conseguir os 10 carros procurados por Tej, mas você não pode simplesmente achá-los, você terá que conquistá-los. E para isso, ele te colocará em uma série de desafios com os donos destes carros, onde o vencedor leva o documento do carro.
 
@@ -53,13 +53,13 @@ Os desafios são variados, que vão de uma simples corrida de um ponto ao outro 
 
 ## Gameplay
 
-A jogabilidade é bem parecida com o primeiro Forza Horizon e cada carro possui características distintas, por exemplo, com o Charger R/T é muito fácil sair de traseira, já com a McLaren P1 é bem mais fácil de guiar (ainda assim, prefiro o Charger ^^).
+A jogabilidade é bem parecida com o primeiro Forza Horizon (pois como dito, não joguei o FH2 ainda) e cada carro possui características distintas, por exemplo, com o Charger R/T é muito fácil sair de traseira, já com a McLaren P1 é bem mais fácil de guiar (ainda assim, prefiro o Charger ^^).
 
 Além disso, mesmo o jogo sendo do estilo *arcade*, você tem que usar o freio corretamente, pois senão, com certeza, passará reto nas curvas! :P
 
 ## Áudiovisual
 
-Os gráficos são excelentes, mesmo na versão do Xbox 360, no Xbox ONE então, deve ser um espetáculo! Os carros e os cenários são bem detalhados e o som do motores são muito bons!
+Os gráficos são excelentes mesmo na versão do Xbox 360, no Xbox ONE então, deve ser um espetáculo! Os carros e os cenários são bem detalhados e o som do motores são muito bons!
 
 Agora a trilha sonora é um show à parte, mesmo possuindo apenas uma rádio e poucas músicas, são excelentes! Elas te colocam no clima para disputar uma corrida! :)
 

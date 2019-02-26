@@ -2,7 +2,7 @@
 layout:     post
 title:      "Últimas Aquisições #02"
 date:       2013-10-20 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
 tags:       [sony, ps3, sega, master-system, tomb-raider]

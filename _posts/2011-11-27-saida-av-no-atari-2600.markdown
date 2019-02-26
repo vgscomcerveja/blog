@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Coloque saída A/V no seu Atari 2600"
+title:      "Coloquei saída A/V no meu Atari 2600 Polyvox"
 date:       2011-11-27 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Utilidade Pública &#35 03
 categories: jogando utilidade-publica
 tags:       [atari, utilidade-publica]
@@ -27,14 +27,13 @@ foi modificá-lo e colocar saída A/V.
 O Atari foi lançado oficialmente aqui no Brasil em 1983 pela **Polyvox** e como todos sabem,
 as televisões de antigamente eram bem diferentes das atuais (obviamente). Sendo assim, a saída
 de vídeo original do console é a RF (radiofrequência), que hoje em dia, é praticamente extinta!
-Além do mais, a imagem fica horrível, mesmo nas TVs de tubo!
+Além do mais, a imagem não é muito boa devido aos ruídos, até mesmo nas TVs de tubo!
 
 Pesquisando na internet, encontrei uma solução para isto. Alíás, existem duas soluções de fácil
-acesso: do Eduardo Luccas e do [Victor Trucco](http://www.victortrucco.com/Atari/AtariAVReloaded/AtariAVReloaded)! E com a ajuda do pessoal do **Canal 3** optei
-pela segunda opção (do Victor Trucco), pois é mais simples de se fazer!
+acesso: do Eduardo Luccas e do [Victor Trucco](http://www.victortrucco.com/Atari/AtariAVReloaded/AtariAVReloaded)! E com a ajuda do pessoal do **Canal 3** optei pela segunda opção, pois é a mais simples de se fazer!
 
 Mas como eu não tenho habilidades em eletrônica, pedi ajuda a um colega de trabalho que é engenheiro
-eletrônico. Sendo assim, não teve nenhum problema em realizar a modificação! :)
+eletrônico e, não teve nenhum problema em realizar a modificação! Valeu Alessandre! :)
 
 O esquema que utilizamos foi este, o **Atari A/V Reloaded**:
 
@@ -44,9 +43,7 @@ O esquema que utilizamos foi este, o **Atari A/V Reloaded**:
 
 Este é o esquema que você precisa para modificar seu Atari 2600 para ficar com saída A/V, porém,
 lembrando que este esquema é para o modelo original **Polyvox**, se seu Atari for um Dactar,
-Dynavision ou qualquer outro modelo, dá uma olhada no site do [Victor Trucco](http://www.victortrucco.com/Atari/AtariAVReloaded/AtariAVReloaded) que você encontrará
-o esquema correto para fazer o mesmo.
+Dynavision ou qualquer outro modelo, dá uma olhada no site do [Victor Trucco](http://www.victortrucco.com/Atari/AtariAVReloaded/AtariAVReloaded) que você encontrará o esquema correto para fazer a modificação!
 
-Bom, fizemos a modificação e funcionou belezinha! É uma imagem totalmente limpa, nem se compara
-a saída RF original que é muito chiada! Recomendo a modificação com certeza, mas tome cuidado,
-na dúvida, peça ajuda à alguém que entenda do assunto, não coloque seu videogame em risco! :)
+Bom, fizemos a modificação e funcionou belezinha! É uma imagem totalmente limpa que nem se compara com a imagem "chuviscada" da saída RF original!
+Recomendo a modificação com certeza, mas tome cuidado, na dúvida, peça ajuda à alguém que entenda do assunto. Não coloque seu videogame em risco! :)

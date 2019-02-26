@@ -2,7 +2,7 @@
 layout:     post
 title:      "Meus pecados gamísticos da quinta geração de videogames!"
 date:       2017-08-17 22:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 08 - Pecados Gamísticos &#35 03
 categories: jogando toplist
 tags:       [saturn, n64, ps1, sony, nintendo, sega, rare, donkey-kong, mario, tomb-raider, lists, toplist]

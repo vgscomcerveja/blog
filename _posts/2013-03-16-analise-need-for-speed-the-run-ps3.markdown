@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Need for Speed: The Run (PS3)"
 date:       2013-03-16 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 03
 categories: jogando analise
 tags:       [sony, ps3, electronic-arts, need-for-speed, black-box, analise, game-over]

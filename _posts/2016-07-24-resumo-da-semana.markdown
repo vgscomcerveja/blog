@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resumo da Semana - Gameplay de Cuphead; Novidades do Sonic; Rise of the Tomb Raider para PS4; Pac-Man Championship Edition 2 e mais.. "
 date:       2016-07-24 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Drops &#35 16
 categories: noticias
 tags:       [microsoft, xbox-one, sega, sonic, ps4]

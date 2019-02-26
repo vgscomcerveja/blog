@@ -7,10 +7,26 @@ description: >
 baseurl: ""
 url: "https://www.vgscomcerveja.com.br"
 twitter_username: vgscomcerveja
-github_username:  felipebbarbosa
+github_username: felipebbarbosa
 
 # Build settings
 markdown: kramdown
+
+#files_to_cache:
+#  - "/js/vcc.js"
+
+pages_to_cache:
+  - "/colecionando/"
+  - "/jogando/"
+  - "/loja/"
+  - "/noticias/"
+  - "/parceiros/"
+  - "/sobre/"
+  - "/microsoft/"
+  - "/nintendo/"
+  - "/sega/"
+  - "/sony/"
+  - "/offline/index.html"
 
 sass:
   style: :compressed

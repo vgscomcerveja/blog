@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Severed (PS Vita)"
 date:       2017-05-06 18:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 37
 categories: jogando analise
 tags:       [sony, psvita, drinkbox, analise, game-over]

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Gran Turismo 6 (PS3)"
 date:       2016-09-20 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 32
 categories: jogando analise
 tags:       [sony, ps3, gran-turismo, analise, game-over]
@@ -17,7 +17,7 @@ Quando conheci a série **Gran Turismo** lá em meados de 98/99, foi através de
 
 Quinze anos depois, em 2013, a série chegou à sua sexta edição (sem contar os *spin-offs*, se é que podemos chama-los assim) com **Gran Turismo 6**. Sempre nas mãos de seu criador, **_Kazunori Yamauchi_**, a franquia é exclusiva para os consoles Sony e praticamente mantém uma espécie de padrão de dois jogos principais por plataforma/geração.
 
-No PS3, a série estreou com **GT5 Prologue** no final de 2006 (Japão) que foi só para deixar os jogadores com um gostinho do que estava por vir. Entretanto, a versão definitiva de **Gran Turismo 5** sofreu diversos atrasos e só chegou quatro anos depois, em 2010! Eu particularmente, não sofri com estes atrasos, pois só fui ter condições de adquirir meu PS3 naquele ano mesmo, e alías, diga-se de passagem que GT5 foi um dos principais motivos para eu ter investido no console! ^^'
+No PS3, a série estreou com **GT5 Prologue** no final de 2006 (Japão) que foi só para deixar os jogadores com um gostinho do que estava por vir. Entretanto, a versão definitiva de **Gran Turismo 5**, após diversos atrasos, só chegou quatro anos depois.. em 2010! Eu particularmente, não sofri com estes atrasos, pois só fui ter condições de adquirir meu PS3 naquele ano mesmo, e alías, diga-se de passagem que GT5 foi um dos principais motivos para eu ter investido no console! ^^'
 
 Bom, três anos depois, chegou **GT6**.. uma edição, vamos dizer assim, "melhorada" de GT5. Tanto que o jogo foi o primeiro da história a receber uma certificação da **FIA** (Federação Internacional de Automobilismo)!
 
@@ -25,7 +25,7 @@ Bom, três anos depois, chegou **GT6**.. uma edição, vamos dizer assim, "melho
 
 O jogo conta com uma quantidade absurda de carros e pistas disponíveis, mais de [1200 carros](http://www.gran-turismo.com/local/jp/data1/products/gt6/carlist_en.html) e 70 circuitos (contando as variações), e ainda temos o *Course Maker*, onde podemos criar nossa própria pista, inclusive com a possibilidade de usar dados reais de um GPS ligado em seu carro através de um [aplicativo especial para tablet](http://www.gran-turismo.com/br/products/gt6/trackpatheditor/)!  
 
-Alguns circuitos, são tão fiéis aos reais que a discrepância entre a pista virtual e a real é inferior a um centímetro, como é o caso da pista de **Nürburgring**, por exemplo. O jogo conta com pistas originais da série e também com as mais famosas do mundo, tais como a **Brands Hatch** da Inglaterra, **Indianapolis** e **Laguna Seca** dos EUA, entretanto, ainda não temos o nosso circuito mais popular no jogo. Não, não foi dessa vez que Interlagos esteve presente na franquia! Além disso, tem os circuitos de terra e neve para as provas de rali.
+Alguns circuitos, são tão fiéis aos reais que a discrepância entre a pista virtual e a real é inferior a um centímetro, como é o caso da pista de **Nürburgring**, por exemplo. O jogo conta com pistas originais da série e também com as mais famosas do mundo, tais como a **Brands Hatch** da Inglaterra, **Indianapolis** e **Laguna Seca** dos EUA, entretanto, ainda não temos o nosso circuito mais popular no jogo. Não, não foi dessa vez que **Interlagos** esteve presente na franquia! Além disso, tem os circuitos de terra e neve para as provas de rali.
 
 ## Carros e o Vision GT
 
@@ -33,11 +33,13 @@ Como dito, o jogo conta com uma quantidade muito grande de carros, talvez a maio
 
 Os carros são muito bem produzidos, tanto visualmente quanto fisicamente, mas talvez um detalhe negativo seja em relação ao som dos motores que, tirando algumas exceções, são muito parecidos uns com os outros, [a própria Polyphony já reconheceu isso](http://pitstop.gran-turismo.com/en/article/26)!
 
-E para quem gosta da história dos carros, cada um deles possui um breve histórico de como ele surgiu. E o mais legal, tudo em português BR, inédito na série! :)
+E para quem gosta da história dos carros, cada um deles possui um breve histórico de como ele surgiu. E o mais legal, tudo em português BR, inédito na série!
 
 Ainda sobre os carros, além dos milhares disponíveis, o jogo conta com um espaço chamado [Vision Gran Turismo](http://www.gran-turismo.com/br/vgt/), onde as principais fabricantes mundiais desenvolvem designs de carros protótipos e disponibilizam para você pilotar no jogo! Esses carros são liberados de tempos em tempos nas atualizações. Até o momento deste post (update v1.22), temos carros da SRT, Peugeot, Volkswagem, Lexus, Alpine, MINI, Mazda, Infiniti, Chaparral, Subaru, Toyota, Aston Martin, Nissan, Mitsubishi, BMW e Mercedes-Benz. Cada carro é apresentado através um mini-documentário com a fabricante contando como foi o processo de criação do protótipo e se tornam disponíveis para você comprá-lo e pilotar!
 
-{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/vision_gt_bwm.jpg" %}
+{% include image.html
+  url="/imgs/posts/game_over/32_gran_turismo6/vision_gt_bwm.jpg"
+  description="Esta por exemplo é a belissíma BWM Vision GT" %}
 
 ## Modos de jogo
 
@@ -65,7 +67,7 @@ Logicamente, nem todos os eventos estão liberados desde o início, você precis
 
 {% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6.jpg" %}
 
-Agora, as provas de licença seguem o mesmo padrão: realizar testes de frenagem e curvas nos tempos determinados. Entretanto, na minha opinião, estão bem mais fáceis que nos jogos anteriores, tanto que consegui os troféus de ouro em todas as provas de licença sem muito problemas, feito inédito! :)
+As provas de licença seguem o mesmo padrão: realizar testes de frenagem e curvas nos tempos determinados. Entretanto, na minha opinião, estão bem mais fáceis que nos jogos anteriores, tanto que consegui os troféus de ouro em todas as provas de licença sem muito problemas, feito inédito! :)
 
 Além disso, cada classe possuem, além das provas normais, alguns desafios especiais classificados em três categorias:
 
@@ -99,7 +101,7 @@ Talvez uma das coisas mais fantásticas do jogo! **_Kazunori Yamauchi_**, além 
 
 {% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6-senna.jpg" %}
 
-São 4 capítulos, começando em:
+E o resultado é incrível! São 4 capítulos contando um pouco da história de Senna, começando em:
 
 - 1960-1980 - O início: Da infância aos campeonatos mundiais de kart
 - 1981-1983 - Da Fórmula Ford à F3
@@ -124,19 +126,24 @@ Um detalhe interessante também do jogo é o **Bônus de login** que é uma esp�
 
 ## Gráficos, Jogabilidade e afins
 
-Nestes pontos o jogo apresentou grandes melhorias, os gráficos estão relativamente mais bonitos que GT5 e a jogabilidade continua muito boa, principalmente quando jogada com o volante com *Force Feedback* como o [Logitech G27](http://gaming.logitech.com/pt-br/product/g27-racing-wheel). A física dos carros é ótima e foi melhorada, está ainda mais incrível ver os carros trabalhando nas curvas e frenagens! :)
+Nestes pontos o jogo apresentou grandes melhorias, os gráficos estão relativamente mais bonitos que GT5 e a jogabilidade continua muito boa, principalmente quando jogada com o volante com *Force Feedback* como o [Logitech G27](http://gaming.logitech.com/pt-br/product/g27-racing-wheel)(meu caso). A física dos carros é ótima e foi melhorada, está ainda mais incrível ver os carros trabalhando nas curvas e frenagens! :)
 
 Já quanto à Inteligência Artificial dos carros oponentes, deixa um pouco à desejar, os carros parecem que seguem uma rota fixa, que não duvido se você parar na rota deles, eles vão bater em você sem tentar desviar! É bem fraca! E as vezes, tenho a sensação que eles tiram o pé na última volta para facilitar para você, mas talvez seja somente uma impressão minha!
 
 ## Troféus
 
-Bom, para finalzar, não poderia deixar de falar dos troféus, que neste jogo estão BEM mais fáceis que o temido GT5, para ter uma ideia, não existe o troféu de pegar ouro em todas as provas do jogo como existe em GT5, nem o exagerado troféu de ter 1000 carros em sua garagem, agora são "apenas" 100 carros, que praticamente veem naturalmente! Os troféus mais difíceis de conseguir com certeza são os de obter ouro em todas as provas de Licenças, mas nada muito impossível eu achei!
+Bom, para finalzar, não poderia deixar de falar dos troféus, que neste jogo estão BEM mais fáceis que o temido GT5! Para ter uma ideia, não existe o troféu de pegar ouro em todas as provas do jogo como existe em GT5, nem o exagerado troféu de ter 1000 carros em sua garagem, agora são "apenas" 100 carros, que praticamente veem naturalmente! Os troféus mais difíceis de conseguir com certeza são os de obter ouro em todas as provas de Licenças, mas nada muito impossível eu achei!
 
-Entretanto, tem UM troféu que me impediu de conseguir a platina ainda nos primeiros meses de jogo: **Ás da Autobahn**, onde você tem que "viajar" 12.718 km no total, ou seja, é a extensão total da Autobahn da Alemanha. Demorei praticamente 2 anos consegui-lo, logicamente não foram dois anos jogando continuamente, mas oh troféuzinho chato! :P
+Entretanto, tem UM troféu que me impediu de conseguir a platina ainda nos primeiros meses de jogo: **Ás da Autobahn**, onde você tem que "viajar" 12.718 km no total de todas suas corridas, ou seja, é a extensão total da Autobahn da Alemanha. Demorei praticamente 2 anos consegui-lo, logicamente não foram dois anos jogando continuamente, mas oh troféuzinho chato! :P
 
 ## Conclusão
 
 **Gran Turismo 6** chegou praticamente no final da vida do PS3, em uma época onde já tínhamos **Forza 5** na geração seguinte de consoles (Xbox One), e mesmo assim fez muito bem seu papel! Recomendo, principalmente porque é facilmente encontrado por preços bem acessíveis!
+
+#### Update
+
+No dia 28 de março de 2018, os servidores do jogo foram encerrados! Ou seja, os recursos online como a Comunidade, o Lobby aberto, a Partida rápida e os Eventos Sazonais não estão mais disponíveis. Entretanto, para os caçadores de troféus, uma boa notícia: ainda é possível conquistar o troféu de platina, pois o jogo não possui troféus online! :)
+
 
 {% include ficha.html
   titulo='Gran Turismo 6'
