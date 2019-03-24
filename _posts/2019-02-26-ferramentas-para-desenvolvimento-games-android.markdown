@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Conheça as melhores ferramentas para desenvolvedores de games e apps Android"
-date: 2019-02-23 22:00
+date: 2019-02-26 22:00
 author: udemy
 session: Utilidade Pública &#35 10
 categories: utilidade-publica
-tags: [especial]
-thumbnail: /imgs/posts/especial/07_meme2018/thumbnail.jpg
-cover: /imgs/posts/especial/07_meme2018/header.jpg
+tags: [utilidade-publica, android]
+thumbnail: /imgs/posts/utilidade_publica/10_udemy/thumbnail.jpg
+cover: /imgs/posts/utilidade_publica/10_udemy/header.jpg
 sinopse: >
-  Já é uma tradição, o primeiro post do ano é sempre uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 8a edição: 'O Que Você Jogou em 2018?' e minha quinta participação. Confira!
+  Se engana quem pensa que desenvolver o próprio game ou aplicativo para Android só é possível para grandes empresas. A tarefa, que a princípio pode parecer bem complicada, hoje se encontra mais perto dos usuários, que podem criar seus próprios serviços. Construir jogos e aplicativos é mais fácil do que você imagina.
 ---
 
 Se engana quem pensa que [desenvolver o próprio game](https://www.udemy.com/curso-completo-unity-3d/) ou aplicativo para [Android](https://www.udemy.com/curso-completo-desenvolvedor-android/) só é possível para grandes empresas. A tarefa, que a princípio pode parecer bem complicada, hoje se encontra mais perto dos usuários, que podem criar seus próprios serviços. Construir jogos e aplicativos é mais fácil do que você imagina.
@@ -24,6 +24,10 @@ Com isso decidido, o próximo passo, portanto, é saber quais são as ferramenta
 
 É uma ferramenta de criação de jogos. A maioria dos jogos tridimensionais produzidos para navegadores são feitos através da Unity, mas com a ferramenta também é possível criar jogos para Android. Não se preocupe se você não possui grandes conhecimentos em programação: a Unity disponibiliza opções avançadas que realizam tarefas de desenvolvimento de game.
 
+{% include image.html
+  url="/imgs/posts/utilidade_publica/10_udemy/logo_unity.png"
+  description="Unity é uma das game engines mais usadas no mundo. (Imagem: Wikipédia)" %}
+
 A plataforma tem dois tipos de acesso: pago e gratuito. O acesso gratuito possui algumas limitações de gráfico e licenças. O único requisito para rodar a máquina no seu computador é que ele tenha uma placa de vídeo potente e uma memória RAM expandida.
 
 Para se aprofundar ainda mais sobre o modo de operação da Unity, indicamos o curso [Aprenda Unity programando 7 jogos](https://www.udemy.com/curso-completo-unity-3d/). Com ele, você conhece o essencial sobre o editor da Unity, entende as principais funcionalidades e componentes da ferramenta, aprende o básico da linguagem de programação #C e cria projetos em 2D e 3D inspirados em jogos famosos, como Angry Birds, Candy Crush e Fruit Ninja.
@@ -36,6 +40,10 @@ Esse tópico é indicado para quem quer se especializar em desenvolvimento Andro
 - APK Analyzer, que diminui o tamanho do app Android através de uma inspeção no conteúdo do arquivo;
 - Emulador rápido, para instalar e executar seus apps mais rapidamente;
 - Editor de código inteligente, para desenvolvedores escreverem códigos melhores e mais produtivos com um editor que fornece preenchimento de código para linguagens Kotlin, Java e C/C++.
+
+{% include image.html
+  url="/imgs/posts/utilidade_publica/10_udemy/android-studio.jpg"
+  description="Android Studio (Imagem: Android Developers)" %}
 
 Com o Android Studio, você cria diversos aplicativos Android conforme suas necessidades. Para se aprofundar no uso da ferramenta, indicamos o curso [Android Studio - Curso Completo](https://www.udemy.com/curso-completo-desenvolvedor-android/).
 

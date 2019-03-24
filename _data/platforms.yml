@@ -1,0 +1,83 @@
+- title: Nintendo
+  platforms:
+    - title: NES
+      tag: nes
+      year: 1983
+    - title: Game Boy
+      tag: game-boy
+      year: 1989
+    - title: Super Nintendo
+      tag: snes
+      year: 1990
+    - title: Nintendo 64
+      tag: n64
+      year: 1996
+    - title: Game Boy Color
+      tag: gbc
+      year: 1998
+    - title: GameCube
+      tag: game-cube
+      year: 2001
+    - title: Game Boy Advance
+      tag: gba
+      year: 2001
+    - title: Nintendo DS
+      tag: nds
+      year: 2004
+    - title: Wii
+      tag: wii
+      year: 2006
+    - title: Wii U
+      tag: wiiu
+      year: 2012
+    - title: Switch
+      tag: switch
+      year: 2017
+- title: Microsoft
+  platforms:
+    - title: Xbox
+      tag: xbox
+      year: 2001
+    - title: Xbox 360
+      tag: xbox-360
+      year: 2005
+    - title: Xbox One
+      tag: xbox-one
+      year: 2013
+- title: Sega
+  platforms:
+    - title: Master System
+      tag: master-system
+      year: 1987
+    - title: Mega Drive
+      tag: mega-drive
+      year: 1988
+    - title: Game Gear
+      tag: game-gear
+      year: 1990
+    - title: Saturn
+      tag: saturn
+      year: 1994
+    - title: Dreamcast
+      tag: dreamcast
+      year: 1998
+- title: Sony
+  platforms:
+    - title: PlayStation
+      tag: ps1
+      year: 1994
+    - title: PlayStation 2
+      tag: ps2
+      year: 2000
+    - title: PSP
+      tag: psp
+      year: 2004
+    - title: PlayStation 3
+      tag: ps3
+      year: 2006
+    - title: PS Vita
+      tag: psvita
+      year: 2011
+    - title: PlayStation 4
+      tag: ps4
+      year: 2013

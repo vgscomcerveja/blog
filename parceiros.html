@@ -13,54 +13,35 @@ sitemap:
 
 <div class="home">
 
-  <p>Aqui você encontra todos os parceiros e amigos do blog, cujo os conteúdos são ótimos e recomendo! :)</p>
-  <p>Caso você também tenha um blog/site e interesse em formar uma parceira, entre contato através do link abaixo!</p>
+  <div class="wrapper">
 
-  <p style="text-align:center">
-    <br>
-    <a href="https://goo.gl/forms/K2pYcjgaqFVEwCy42"
-       style="font-size:1em; background-color:#2288bb; border:0; color:white; padding:8px 15px;"
-       target="_blank">Seja um parceiro!</a>
-  </p>
-<br>
-  <table class="partners-table">
-    <tr>
-      <td>
-        <a href="http://www.arquivosdowoo.com.br/" target="_blank" title="Arquivos do Woo">
-          <img src="/imgs/arquivos-woo.png">
+    <p>Aqui você encontra todos os parceiros e amigos do blog, cujo os conteúdos são ótimos e recomendo! :)</p>
+        
+    <div class="cards">
+      {% for partner in site.data.partners %}
+        <a href="{{ partner.site }}" class="card" target="_blank" title="{{ partner.name }}">
+          <img src="{{ partner.logo }}">
+          <b>{{ partner.name }}</b>
+          <small>{{ partner.site }}</small>
         </a>
-      </td>
-      <td><b>Arquivos do Woo</b><br>http://www.arquivosdowoo.com.br</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://gamercaduco.com/" target="_blank" title="Gamer Caduco">
-          <img src="/imgs/gamer-caduco.png">
-        </a>
-      </td>
-      <td><b>Gamer Caduco</b><br>https://gamercaduco.com</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="http://www.locadoraresidentivo.com" target="_blank" title="Locadora Resident Ivo">
-          <img src="/imgs/locadora-resident-ivo.png">
-        </a>
-      </td>
-      <td><b>Locadora Resident Ivo</b><br>http://www.locadoraresidentivo.com</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://vaojogar.com.br/" target="_blank" title="Vão Jogar!">
-          <img src="/imgs/vao-jogar.png">
-        </a>
-      </td>
-      <td><b>Vão Jogar!</b><br>https://vaojogar.com.br</td>
-    </tr>
+      {%  endfor %}
+    </div>
 
-  </table>
+    <p>Caso você também tenha um blog/site e interesse em formar uma parceira, entre contato através do link abaixo!</p>
 
-  <br>{% include googleads.html %}<br>
+    <p style="text-align:center">
+      <br>
+      <a href="https://goo.gl/forms/K2pYcjgaqFVEwCy42"
+        style="font-size:1em; background-color:#2288bb; border:0; color:white; padding:8px 15px;"
+        target="_blank">Seja um parceiro!</a>
+    </p>
+
+    <br>{% include googleads.html %}<br>
+
+  </div>
 
 </div>
 
 {% include side-menu.html %}
+
+

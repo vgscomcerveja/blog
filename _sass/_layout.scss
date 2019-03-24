@@ -342,26 +342,35 @@
 }
 
 .partners {
-  text-align: center;
   img {
     height: 75px;
     margin: 5px;
   }
 }
 
-.partners-table {
-  text-align: center;
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 300px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+
   img {
     max-height: 75px;
     max-width: 180px;
-    margin: 5px;
-  }
-  tr {
-    height: 90px;
-    cursor: pointer;
-  }
-  tr:hover td {
-    background-color: rgba(52, 152, 219, 0.2);
+    width: auto;
+    height: auto;
+    margin: 10px 5px;
   }
 }
 

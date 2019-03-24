@@ -12,28 +12,8 @@ sitemap:
 </div>
 
 <div class="home">
-
   <p>Escolha um console:</p>
-
-  <table class="partners-table">
-    <tr onclick="document.location.href='/tag/xbox'">
-      <td><img src="/imgs/tags/xbox.png"></td>
-      <td><b>Xbox</b><br>2001</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/xbox-360'">
-      <td><img src="/imgs/tags/xbox-360.png"></td>
-      <td><b>Xbox 360</b><br>2005</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/xbox-one'">
-      <td><img src="/imgs/tags/xbox-one.png"></td>
-      <td><b>Xbox One</b><br>2013</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/pc'">
-      <td><img src="/imgs/tags/microsoft.png"></td>
-      <td><b>PC</b><br>---</td>
-    </tr>
-  </table>
-
+  {% include platforms-cards.html name="Microsoft" %}
   {% include googleads.html %}
 
 </div>

@@ -1,0 +1,15 @@
+- name: Arquivos do Woo
+  site: http://www.arquivosdowoo.com.br/
+  logo: /imgs/arquivos-woo.png
+
+- name: Gamer Caduco
+  site: https://gamercaduco.com/
+  logo: /imgs/gamer-caduco.png
+
+- name: Locadora Resident Ivo
+  site: http://www.locadoraresidentivo.com
+  logo: /imgs/locadora-resident-ivo.png
+
+- name: Vão Jogar!
+  site: https://vaojogar.com.br/
+  logo: /imgs/vao-jogar.png

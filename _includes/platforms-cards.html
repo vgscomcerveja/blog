@@ -1,0 +1,13 @@
+{% assign manufacturers = site.data.platforms | where: "title", include.name %}
+
+<div class="cards">      
+    {% for manufacturer in manufacturers %}
+        {% for platform in manufacturer.platforms %}
+            <a href="/tag/{{ platform.tag }}" class="card" target="_blank" title="{{ platform.title }}">
+            <img src="/imgs/tags/{{ platform.tag }}.png">
+            <b>{{ platform.title }}</b>
+            <small>{{ platform.year }}</small>
+            </a>
+        {% endfor %}
+    {% endfor %}
+</div>

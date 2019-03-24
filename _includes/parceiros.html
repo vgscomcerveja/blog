@@ -1,14 +1,7 @@
 <div class="partners">
-  <a href="http://www.arquivosdowoo.com.br/" target="_blank" title="Arquivos do Woo">
-    <img src="/imgs/arquivos-woo.png">
-  </a>
-  <a href="https://gamercaduco.com/" target="_blank" title="Gamer Caduco">
-    <img src="/imgs/gamer-caduco.png">
-  </a>
-  <a href="http://www.locadoraresidentivo.com" target="_blank" title="Locadora Resident Ivo">
-    <img src="/imgs/locadora-resident-ivo.png">
-  </a>
-  <a href="https://vaojogar.com.br/" target="_blank" title="Vão Jogar!">
-    <img src="/imgs/vao-jogar.png">
-  </a>
+  {% for partner in site.data.partners %}
+    <a href="{{ partner.site }}" target="_blank" title="{{ partner.name }}">
+      <img src="{{ partner.logo }}">
+    </a>
+  {%  endfor %}
 </div>

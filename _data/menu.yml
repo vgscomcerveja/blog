@@ -10,6 +10,10 @@
   url: /noticias/
   classe: icon-newspaper
   showtitle: false
+- title: Troféus
+  url: /jogando/trofeus
+  classe: icon-award
+  showtitle: false
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad
@@ -32,24 +36,10 @@
       url: /colecionando/edicao-colecionador/
     - title: Mosca Branca
       url: /colecionando/mosca-branca/
-    - title: Utilidade Pública
-      url: /utilidade-publica/
-- title: Plataformas
-  url: /
-  classe: icon-hdd
-  subitems:
-    - title: Android
-      url: /tag/android
-    - title: Atari
-      url: /tag/atari
-    - title: Microsoft
-      url: /microsoft
-    - title: Nintendo
-      url: /nintendo
-    - title: Sega
-      url: /sega
-    - title: Sony
-      url: /sony
+- title: Utilidade Pública
+  url: /utilidade-publica/
+  classe: icon-fort-awesome
+  showtitle: false
 - title: Twitter
   url: https://www.twitter.com/vgscomcerveja
   classe: icon-twitter

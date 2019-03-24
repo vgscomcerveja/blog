@@ -12,58 +12,11 @@ sitemap:
 </div>
 
 <div class="home">
-
   <p>Escolha um console:</p>
 
-  <table class="partners-table">
-    <tr onclick="document.location.href='/tag/nes'">
-      <td><img src="/imgs/tags/nes.png"></td>
-      <td><b>NES</b><br>1983</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/game-boy'">
-      <td><img src="/imgs/tags/game-boy.png"></td>
-      <td><b>Game Boy</b><br>1989</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/snes'">
-      <td><img src="/imgs/tags/snes.png"></td>
-      <td><b>Super Nintendo</b><br>1990</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/n64'">
-      <td><img src="/imgs/tags/n64.png"></td>
-      <td><b>Nintendo 64</b><br>1996</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/gbc'">
-      <td><img src="/imgs/tags/gbc.png"></td>
-      <td><b>Game Boy Color</b><br>1998</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/game-cube'">
-      <td><img src="/imgs/tags/game-cube.png"></td>
-      <td><b>Nintendo GameCube</b><br>2001</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/gba'">
-      <td><img src="/imgs/tags/gba.png"></td>
-      <td><b>Game Boy Advance</b><br>2001</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/nds'">
-      <td><img src="/imgs/tags/nds.png"></td>
-      <td><b>Nintendo DS</b><br>2004</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/wii'">
-      <td><img src="/imgs/tags/wii.png"></td>
-      <td><b>Nintendo Wii</b><br>2006</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/wiiu'">
-      <td><img src="/imgs/tags/wiiu.png"></td>
-      <td><b>Nintendo Wii U</b><br>2012</td>
-    </tr>
-    <tr onclick="document.location.href='/tag/switch'">
-      <td><img src="/imgs/tags/switch.png"></td>
-      <td><b>Nintendo Switch</b><br>2017</td>
-    </tr>
-  </table>
-
+  {% include platforms-cards.html name="Nintendo" %}
+  
   {% include googleads.html %}
-
 </div>
 
 {% include side-menu.html %}
