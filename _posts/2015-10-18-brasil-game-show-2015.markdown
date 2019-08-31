@@ -1,17 +1,20 @@
 ---
-layout:     post
-title:      "Brasil Game Show 2015"
-date:       2015-10-18 19:00
-author:     felipebbarbosa
-session:    Especial
-categories: jogando especiais
-tags:       [bgs, sony, microsoft, especial]
-thumbnail:  /imgs/posts/especial/02_bgs2015/post_thumbnail.jpg
-cover:      /imgs/posts/especial/02_bgs2015/post_header.jpg
-sinopse: >
-  Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente não estava nos meus planos ir. Mas como o feriado coincidiu com o dia de folga da minha esposa, resolvemos dar uma volta por lá, e olha, ela que nem joga videogame estava muito mais empolgado do que eu para ir, se não fosse por ela, com certeza, seria mais um ano sem ir.
+layout: post
+title: "Brasil Game Show 2015"
+date: 2015-10-18 19:00
+author: felipebbarbosa
+session: Especial
+categories: games jogando
+redirect_from: /jogando/especiais/2015/10/18/brasil-game-show-2015.html
+tags: [bgs, e3, sony, microsoft, categoria-especial]
+related: e3
+thumbnail: /imgs/posts/especial/02_bgs2015/post_thumbnail.jpg
+cover: /imgs/posts/especial/02_bgs2015/post_header.jpg
 ---
+
 Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente não estava nos meus planos ir. Mas como o feriado coincidiu com o dia de folga da minha esposa, resolvemos dar uma volta por lá, e olha, ela que nem joga videogame estava muito mais empolgado do que eu para ir, se não fosse por ela, com certeza, seria mais um ano sem ir.
+
+<!--more-->
 
 Bom, para quem não sabe, no final de semana passado, de 08 a 12 de Outubro, aconteceu no Expo Center Norte (SP) a principal e maior feira de videogames da América Latina, a Brasil Game Show (BGS). Ela acontece anualmente desde 2009, porém, somente apartir de 2012 em São Paulo, antes ela acontecia no Rio de Janeiro. Enfim, vamos começar pelo..
 
@@ -23,13 +26,13 @@ Enfim, chegando na capital pelo caminho traçado, tinha várias sinalizações p
 
 ## Preços
 
-Muita gente brinca que a BGS é uma "E3 de pobre", só que para mim, de pobre não tem nada, quando chegamos no estacionamento, descobrimos que o mesmo custava R$ 38,00!
+Muita gente brinca que a BGS é uma "E3 de pobre", só que para mim, de pobre não tem nada, quando chegamos no estacionamento, descobrimos que o mesmo custava R\$ 38,00!
 
-Levei um susto na hora, mas enfim, *"Vamos lá, né? Chegamos até aqui.."* pensei. Estacionamos o carro, descemos, e já demos de cara com uma pessoas vendendo revistas PlayStation e Xbox, a princípio achei que fossem brindes, mas na verdade, eram pessoas que não tinha nada a ver com a feira, se diziam universitários e que estavam arrecadando dinheiro para a formatura deles, mas como eu gostos das revistas e o preço estava bom, comprei duas por R$ 10.
+Levei um susto na hora, mas enfim, _"Vamos lá, né? Chegamos até aqui.."_ pensei. Estacionamos o carro, descemos, e já demos de cara com uma pessoas vendendo revistas PlayStation e Xbox, a princípio achei que fossem brindes, mas na verdade, eram pessoas que não tinha nada a ver com a feira, se diziam universitários e que estavam arrecadando dinheiro para a formatura deles, mas como eu gostos das revistas e o preço estava bom, comprei duas por R\$ 10.
 
-Chegamos a bilheteria.. Eu tinha visto no site que se levasse 1 kg de alimento não-perecível, pagava meia entrada, então fui preparado, pois o preço do ingresso era R$ 85 na hora. Pedi duas meias entradas com os alimentos em mãos, mas na hora de pagar, a moça disse: *"Ficou R$ 170"*, foi aí que descobri que R$ 85 já era o valor da meia entrada, não estava muito explicíto isso no site!
+Chegamos a bilheteria.. Eu tinha visto no site que se levasse 1 kg de alimento não-perecível, pagava meia entrada, então fui preparado, pois o preço do ingresso era R$ 85 na hora. Pedi duas meias entradas com os alimentos em mãos, mas na hora de pagar, a moça disse: *"Ficou R$ 170"\*, foi aí que descobri que R\$ 85 já era o valor da meia entrada, não estava muito explicíto isso no site!
 
-Mas enfim, só aí já se foram R$ 208, isso desconsiderando as revistas, o combustível e os pedágios. Eu achei meio abusivo esta parte.
+Mas enfim, só aí já se foram R\$ 208, isso desconsiderando as revistas, o combustível e os pedágios. Eu achei meio abusivo esta parte.
 
 ## A Feira
 
@@ -37,15 +40,15 @@ Chegamos lá por voltas 11h, estacionamos, compramos os ingressos e por volta da
 
 Achei que iria demorar, porém a hora que os portões se abriram foi bem rápido, mas demorou um pouco para abrir o portão, foi aberto quase 12:30.. Mas como disse, o local onde estávamos era bem tranquilo, coberto, arejado, tinha banheiros, vendedores com água e lanches..
 
-Bom, entramos e primeira impressão foi: *"Nossa, que grande! Por onde começamos?"*.
+Bom, entramos e primeira impressão foi: _"Nossa, que grande! Por onde começamos?"_.
 
-O primeiro *stand* que visitamos foi o DX Racer, fabricante de cadeiras para *gamers*, foi bastante produtiva, pois estava mesmo querendo experimentar uma destas cadeiras e o expositor tirou minhas dúvidas, porém, são meio carinhas!
+O primeiro _stand_ que visitamos foi o DX Racer, fabricante de cadeiras para _gamers_, foi bastante produtiva, pois estava mesmo querendo experimentar uma destas cadeiras e o expositor tirou minhas dúvidas, porém, são meio carinhas!
 
-Por falando em carinho, o próximo *stand* foi o da Toy Show, uma loja fantástica, com muita miniaturas e *action figures* apaixonantes, porém, tudo MUITO caro!
+Por falando em carinho, o próximo _stand_ foi o da Toy Show, uma loja fantástica, com muita miniaturas e _action figures_ apaixonantes, porém, tudo MUITO caro!
 
-Andamos pela feira toda, paramos para comer na praça de alimentação, muito grande por sinal, porém aí teve outra *"facadinha"* e erramos na escolha dos lanches, poderíamos ter escolhi um melhor!
+Andamos pela feira toda, paramos para comer na praça de alimentação, muito grande por sinal, porém aí teve outra _"facadinha"_ e erramos na escolha dos lanches, poderíamos ter escolhi um melhor!
 
-Enfim, comemos e voltamos à feira! Os maiores *stands*, com certeza, eram do PlayStation e do Xbox! Eu queria ganhas alguns brindes, principalmente os pôsteres, mas para isso teria que jogar e as filas estavam grandes que acabei não encarando nenhuma, fiquei apenas de espectador! :(
+Enfim, comemos e voltamos à feira! Os maiores _stands_, com certeza, eram do PlayStation e do Xbox! Eu queria ganhas alguns brindes, principalmente os pôsteres, mas para isso teria que jogar e as filas estavam grandes que acabei não encarando nenhuma, fiquei apenas de espectador! :(
 
 ## Os jogos
 
@@ -53,13 +56,13 @@ Tinha bastante coisa para jogar lá, mas os que mais me chamaram a atenção for
 
 Uma coisa que achei legal foi o espaço dedicado aos desenvolvedores brasileiros independentes. Não cheguei a ver nada no detalhe, mas parecia ter vários jogos legais por lá!
 
-Mas se quiser saber um pouco sobre os *indies* que estavam por lá, o nosso parceiro [Vão Jogar!](http://vaojogar.com.br/) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
+Mas se quiser saber um pouco sobre os _indies_ que estavam por lá, o nosso parceiro [Vão Jogar!](http://vaojogar.com.br/) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
 
 ## Resumindo
 
 Gsotei, apesar de não ter visto muita novidades e também por ter ido totalmente despreparado, nem consegui tirar muitas fotos, pois o GPS "sugou" a bateria do mue celular e não levei uma câmera decente.
 
-Outra coisa, no último dia não tinham muitas atrações legais como as apresentações de Yoshinori Ono, produtor da série Street Fighter), e Phil Spencer, chefe da divisão Xbox, que ocorreram nos primeiros dias. Mas deu para perceber o quão grande é o evento e quanto as produtoras estão apostando na feira, os *stands* estavam muito bonitos e caprichados.
+Outra coisa, no último dia não tinham muitas atrações legais como as apresentações de Yoshinori Ono, produtor da série Street Fighter), e Phil Spencer, chefe da divisão Xbox, que ocorreram nos primeiros dias. Mas deu para perceber o quão grande é o evento e quanto as produtoras estão apostando na feira, os _stands_ estavam muito bonitos e caprichados.
 
 Fiquei sabendo que ano que vem, a feira mudará para um local maior ainda, e mudará também a data para trazer mais jogos que ainda não foram lançados para o pessoal jogar! Quem sabe o ano que vem eu não vá no dia destinado à impressa com uma credencial do Videogames com Cerveja! ^^'
 

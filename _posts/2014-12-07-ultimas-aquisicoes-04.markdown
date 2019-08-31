@@ -1,18 +1,47 @@
 ---
-layout:     post
-title:      "Últimas Aquisições #04"
-date:       2014-12-07 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags:       [sega, tectoy, master-system, game-gear, sonic, disney, mickey, nintendo, wii, sony, ps3, saturn, rockband, lego, metal-gear-solid]
-games:      [bonkers, sonic, castle-of-illusion, god-of-war-ascension, plants-vs-zombies, metal-gear-solid-v]
-thumbnail:  /imgs/posts/colecao/18_aquisicoes04/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/18_aquisicoes04/post_header.jpg
-sinopse: >
-  Este post era para ter saído no meio do ano, porém, como este blog participa do movimento Slow Web.. Brincadeira! Confira quais foram minhas últimas aquisições! :)
+layout: post
+title: "Últimas Aquisições #04"
+date: 2014-12-07 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2014/12/07/ultimas-aquisicoes-04.html
+tags:
+  [
+    sega,
+    tectoy,
+    master-system,
+    game-gear,
+    sonic,
+    disney,
+    mickey,
+    nintendo,
+    wii,
+    sony,
+    ps3,
+    saturn,
+    rockband,
+    lego,
+    metal-gear-solid,
+    categoria-colecao-pessoal,
+  ]
+games:
+  [
+    bonkers,
+    sonic,
+    castle-of-illusion,
+    god-of-war-ascension,
+    plants-vs-zombies,
+    metal-gear-solid-v,
+  ]
+related: colecao-pessoal
+thumbnail: /imgs/posts/colecao/18_aquisicoes04/post_thumbnail.jpg
+cover: /imgs/posts/colecao/18_aquisicoes04/post_header.jpg
 ---
+
 Este post era para ter saído no meio do ano, porém, como este blog participa do movimento [Slow Web](http://theslowweb.com/).. Brincadeira! Confira quais foram minhas últimas aquisições! :)
+
+<!--more-->
 
 ## Bonkers Wax Up! (Master System)
 
@@ -24,7 +53,7 @@ Este é um daqueles jogos que não se encontra em qualquer esquina. Ele faz part
 
 ## Jogos de Game Gear
 
-**Castle of Illusion**, **Psychic World**, **Sonic The Hedgehog** e **Wonder Boy**. Estes jogos eu peguei numa oportunidade que apareceu sem mesmo eu ter um **Game Gear** para jogá-los. Pois estavam por menos de R$ 15 cada e estão impecáveis.
+**Castle of Illusion**, **Psychic World**, **Sonic The Hedgehog** e **Wonder Boy**. Estes jogos eu peguei numa oportunidade que apareceu sem mesmo eu ter um **Game Gear** para jogá-los. Pois estavam por menos de R\$ 15 cada e estão impecáveis.
 
 {% include image.html
   url="/imgs/posts/colecao/18_aquisicoes04/gg_castle_of_illusion.jpg"
@@ -78,7 +107,7 @@ Esse foi a união do útil ao agradável, pois estava precisando de um segundo c
 
 ## LEGO Rockband (PS3)
 
-Paguei apenas R$ 20 neste jogo na Ricardo Eletro. Como eu tenho a guitarra, quanto mais jogos do gênero eu tiver melhor! :)
+Paguei apenas R\$ 20 neste jogo na Ricardo Eletro. Como eu tenho a guitarra, quanto mais jogos do gênero eu tiver melhor! :)
 
 {% include image.html
   url="/imgs/posts/colecao/18_aquisicoes04/ps3_lego_rockband.jpg"
@@ -102,7 +131,7 @@ Paguei apenas R$ 20 neste jogo na Ricardo Eletro. Como eu tenho a guitarra, quan
 
 ## Wii Zapper
 
-Como ainda pretendo tirar poeira do meu Nintendo Wii, esta Zapper irá vir a calhar e por menos de R$ 20, não podia deixar passar!
+Como ainda pretendo tirar poeira do meu Nintendo Wii, esta Zapper irá vir a calhar e por menos de R\$ 20, não podia deixar passar!
 
 {% include image.html
   url="/imgs/posts/colecao/18_aquisicoes04/wii_zapper_front.jpg"

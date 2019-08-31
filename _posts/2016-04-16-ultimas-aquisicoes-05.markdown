@@ -1,20 +1,56 @@
 ---
-layout:     post
-title:      "Últimas Aquisições #05 - Março/16"
-date:       2016-04-16 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags:       [sony, ps3, nintendo, snes, n64, microsoft, xbox, sega, dreamcast, mega-drive, psp, tomb-raider, silent-hill, master-system, tectoy, ps4]
-games:      [eye-of-judgment, super-mario-world-2, goldeneye-007, streets-of-rage-2, tomb-raider-legend, tomb-raider-anniversary, silent-hill-shattered-memories, soul-reaver, deep-duck-trouble, fallout-4]
-thumbnail:  /imgs/posts/colecao/19_aquisicoes05/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/19_aquisicoes05/post_header.jpg
-sinopse: >
-  Prometi a mim mesmo jogar mais e comprar menos, mas apesar de estar seguindo isso, no último mês de Março, o espírito colecionador falou mais alto! Tanto que resolvi voltar com os posts de "Últimas Aquisições" para mostrar o que tenho comprado para a coleção! :)
+layout: post
+title: "Últimas Aquisições #05 - Março/16"
+date: 2016-04-16 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2016/04/16/ultimas-aquisicoes-05.html
+tags:
+  [
+    sony,
+    ps3,
+    nintendo,
+    snes,
+    n64,
+    microsoft,
+    xbox,
+    sega,
+    dreamcast,
+    mega-drive,
+    psp,
+    tomb-raider,
+    silent-hill,
+    master-system,
+    tectoy,
+    ps4,
+    categoria-colecao-pessoal,
+  ]
+games:
+  [
+    eye-of-judgment,
+    super-mario-world-2,
+    goldeneye-007,
+    streets-of-rage-2,
+    tomb-raider-legend,
+    tomb-raider-anniversary,
+    silent-hill-shattered-memories,
+    soul-reaver,
+    deep-duck-trouble,
+    fallout-4,
+  ]
+related: colecao-pessoal
+thumbnail: /imgs/posts/colecao/19_aquisicoes05/post_thumbnail.jpg
+cover: /imgs/posts/colecao/19_aquisicoes05/post_header.jpg
 ---
+
+Prometi a mim mesmo jogar mais e comprar menos, mas apesar de estar seguindo isso, no último mês de Março, o espírito colecionador falou mais alto! Tanto que resolvi voltar com os posts de "Últimas Aquisições" para mostrar o que tenho comprado para a coleção! :)
+
+<!--more-->
+
 ## The Eye of Judgment (PS3)
 
-Gosto de colecionar jogos de PS3, e este jogo sempre tive muita curiosidade de saber como ele era. Sendo assim, quando recebi um *newsletter* da **Big Boy Games** anunciando este game novo (lacrado) e por um preço razoável, não pensei duas vezes, ele vem com a **PlayStation Eye Camera**! ^^' ..Eu nunca vou usá-la além deste jogo, mas quem coleciona sabe: compre, compre! Comprei! :)
+Gosto de colecionar jogos de PS3, e este jogo sempre tive muita curiosidade de saber como ele era. Sendo assim, quando recebi um _newsletter_ da **Big Boy Games** anunciando este game novo (lacrado) e por um preço razoável, não pensei duas vezes, ele vem com a **PlayStation Eye Camera**! ^^' ..Eu nunca vou usá-la além deste jogo, mas quem coleciona sabe: compre, compre! Comprei! :)
 
 A princípio fiquei com dó de abrir (deslacrar), mas não sou do tipo de colecionador que mantém jogos lacrados, gosto de jogá-los, este é o grande barato de colecionar videogames. Além disso, estava curioso para saber o que vinha no pacote. Pois para quem não conhece, este jogo é uma espécie de jogo de RPG de cartas com realidade aumentada, ou seja, basicamente, você interage com o jogo usando cartas de verdade, que são "lidas" atrás da Eye Camera. Joguei só uma vez por enquanto, e não peguei muito bem qual é do jogo, assim que entender melhor, prometo fazer uma análise por aqui! :)
 
@@ -30,9 +66,9 @@ O pacote foi formado com este jogo, que dispensa comentários, o jogo Goldeneye 
 
 ## Goldeneye 007 (N64)
 
-Nintendo 64 foi um console que sempre tive muita vontade de ter na época. Eu tive um PS1 e o pouco do conseole da Nintendo que conheço, foi através de jogatinas de 1-2 horas nas locadoras, ou então na casa de um único amigo que possuia o console! E Goldeneye esteve presente em 95% destas jogatinas, porém, sempre foi no famoso modo *multiplayer*, nunca tive a oportunidade de jogar a campanha principal, peguei por este motivo! :)
+Nintendo 64 foi um console que sempre tive muita vontade de ter na época. Eu tive um PS1 e o pouco do conseole da Nintendo que conheço, foi através de jogatinas de 1-2 horas nas locadoras, ou então na casa de um único amigo que possuia o console! E Goldeneye esteve presente em 95% destas jogatinas, porém, sempre foi no famoso modo _multiplayer_, nunca tive a oportunidade de jogar a campanha principal, peguei por este motivo! :)
 
-Este cartucho que peguei não está no jeito que gosto de colecionar, pois está com caixa recortada para locadora, e o cartucho com etiqueta refeita (*relabel*), mas vai servir por enquanto! ;)
+Este cartucho que peguei não está no jeito que gosto de colecionar, pois está com caixa recortada para locadora, e o cartucho com etiqueta refeita (_relabel_), mas vai servir por enquanto! ;)
 
 {% include image.html url="/imgs/posts/colecao/19_aquisicoes05/goldeneye.jpg" description="Goldeneye 007" %}
 
@@ -50,7 +86,7 @@ Junto com o console, veio um controle da primeira versão (foto), um controle pa
 
 Este sim! O DC foi um console que sempre despertou meu interesse, ele estava estampado na capa da minha primeira revista de videogames que tive, a Ação Games Nº 143 de Setembro de 1999 (sim, eu pesquisei! ^^).
 
-Mas como na época o DC estava totalmente fora de alcance (R$), o nosso próximo console foi o PS1, em Novembro daquele mesmo ano. E depois dele, já da mesma geração 128-bit do DC, nós optamos pelo PS2, mas isso foi um bom tempo depois, em 2005.
+Mas como na época o DC estava totalmente fora de alcance (R\$), o nosso próximo console foi o PS1, em Novembro daquele mesmo ano. E depois dele, já da mesma geração 128-bit do DC, nós optamos pelo PS2, mas isso foi um bom tempo depois, em 2005.
 
 Nisso, o DC ficou esquecido, mas no fundo, sempre tive vontade de conhecê-lo. Agora que consegui o meu, os jogos que estão na minha lista são: Shenmue, Sonic Adventure, Jet Grind Radio, Crazy Taxi e outros.
 
@@ -76,7 +112,7 @@ Eu ainda não os joguei, mas com certeza, o farei em breve, pois quero muito ver
 
 ## Lara Croft Tomb Raider: Annivesary (PSP)
 
-Assim como o Legend, consegui este no site do OLX também, juntamente com o Silent Hill abaixo. O engraçado é que achei que iria tomar calote neste dois jogos, pois eu negociei com vendedor SOMENTE pelo chat do aplicativo do OLX, e quando realizei o pagamento e passei meus dados para envio, o vendedor apagou o anúncio, e por consequência, a conversa do chat também foi apagada (deve ser algum *bug* do aplicativo), ou seja, perdi totalmente o contato com o vendedor! Ainda bem que ele era honesto e dias depois os jogos chegaram!
+Assim como o Legend, consegui este no site do OLX também, juntamente com o Silent Hill abaixo. O engraçado é que achei que iria tomar calote neste dois jogos, pois eu negociei com vendedor SOMENTE pelo chat do aplicativo do OLX, e quando realizei o pagamento e passei meus dados para envio, o vendedor apagou o anúncio, e por consequência, a conversa do chat também foi apagada (deve ser algum _bug_ do aplicativo), ou seja, perdi totalmente o contato com o vendedor! Ainda bem que ele era honesto e dias depois os jogos chegaram!
 
 Mas fica a dica: nunca negociem apenas pelo chat! ^^
 
@@ -88,11 +124,11 @@ Este é o segundo e último jogo da série lançado para o portátil, o primeiro
 
 {% include image.html url="/imgs/posts/colecao/19_aquisicoes05/silent_hill.jpg" description="Silent Hill: Shattered Memories" %}
 
-Eu ainda não cheguei a jogá-lo, mas pelo que andei vendo, ele é uma releitura (não *remake*) do primeiro jogo da série. Interessante, né? Jogarei em breve também! :)
+Eu ainda não cheguei a jogá-lo, mas pelo que andei vendo, ele é uma releitura (não _remake_) do primeiro jogo da série. Interessante, né? Jogarei em breve também! :)
 
 ## Legacy of Kain: Soul Reaver (DC)
 
-E o meu primeiro jogo de DC é um jogo que me deixou frustrado na época do PS1, pois estava jogando uma versão "pirata" deste jogo, e acabei entrando num limbo, não tinha para onde ir, acho que era alguma espécia de *bug* ou realmente me perdi no jogo. :)
+E o meu primeiro jogo de DC é um jogo que me deixou frustrado na época do PS1, pois estava jogando uma versão "pirata" deste jogo, e acabei entrando num limbo, não tinha para onde ir, acho que era alguma espécia de _bug_ ou realmente me perdi no jogo. :)
 
 Depois disso, nunca mais joguei! Agora tenho um incentivo maior para rejogá-lo! A propósito, esta é a versão da Tectoy! s2
 

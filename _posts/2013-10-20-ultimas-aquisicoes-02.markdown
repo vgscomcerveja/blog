@@ -1,19 +1,31 @@
 ---
-layout:     post
-title:      "Últimas Aquisições #02"
-date:       2013-10-20 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags:       [sony, ps3, sega, master-system, tomb-raider]
-games:      [gtav, master-of-darkness, monica, donald-maui-mallard, tomb-raider-prophecy, tomb-raider-legend, tomb-raider-underworld, need-for-speed-most-wanted]
-thumbnail:  /imgs/posts/colecao/16_aquisicoes02/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/16_aquisicoes02/post_header.jpg
-sinopse: >
-  Olá pessoal, resolvi voltar com os posts "Últimas Aquisições", tá certo que só tinha feito um post até agora.. '^^ Bom, naquele post eu estava chegando aos 100 jogos, e hoje, um pouco mais de uma ano e meio depois, a barreira dos 200 jogos já foi ultrapassada! :D
-
+layout: post
+title: "Últimas Aquisições #02"
+date: 2013-10-20 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2013/10/20/ultimas-aquisicoes-02.html
+tags: [sony, ps3, sega, master-system, tomb-raider, categoria-colecao-pessoal]
+games:
+  [
+    gtav,
+    master-of-darkness,
+    monica,
+    donald-maui-mallard,
+    tomb-raider-prophecy,
+    tomb-raider-legend,
+    tomb-raider-underworld,
+    need-for-speed-most-wanted,
+  ]
+related: colecao-pessoal
+thumbnail: /imgs/posts/colecao/16_aquisicoes02/post_thumbnail.jpg
+cover: /imgs/posts/colecao/16_aquisicoes02/post_header.jpg
 ---
+
 Olá pessoal, resolvi voltar com os posts "Últimas Aquisições", tá certo que só tinha feito um post até agora.. '^^ Bom, naquele post eu estava chegando aos 100 jogos, e hoje, um pouco mais de uma ano e meio depois, a barreira dos 200 jogos já foi ultrapassada! :D
+
+<!--more-->
 
 {% include image.html
   url="/imgs/posts/colecao/16_aquisicoes02/aquisicoes.jpg"
@@ -21,7 +33,7 @@ Olá pessoal, resolvi voltar com os posts "Últimas Aquisições", tá certo que
 
 ## Grand Theft Auto V (PS3)
 
-Bom, não resisti a *hype* do jogo e comprei no site do **Extra** numa promoção de R$ 10,00 de desconto e vinha com um pôster promocional aleatório de [quatro possíveis](http://www.extra.com.br/Games/Playstation3/JogosPlaystation3/Jogo-Grand-Theft-Auto-V-Poster-Promocional-PS3-1000044889.html), ou seja, não paguei nada barato.. :/
+Bom, não resisti a _hype_ do jogo e comprei no site do **Extra** numa promoção de R\$ 10,00 de desconto e vinha com um pôster promocional aleatório de [quatro possíveis](http://www.extra.com.br/Games/Playstation3/JogosPlaystation3/Jogo-Grand-Theft-Auto-V-Poster-Promocional-PS3-1000044889.html), ou seja, não paguei nada barato.. :/
 
 {% include image.html url="/imgs/posts/colecao/16_aquisicoes02/gta-v_ps3.jpg" description="GTA V" %}
 
@@ -63,13 +75,13 @@ Com este, completei a série para Nintendo DS, pois saíram apenas estes dois!
 
 ## Tomb Raider: Underworld (PS2)
 
-Este foi um achado, paguei apenas R$ 20 no Mercado Livre e ainda lacrado!
+Este foi um achado, paguei apenas R\$ 20 no Mercado Livre e ainda lacrado!
 
 {% include image.html url="/imgs/posts/colecao/16_aquisicoes02/tomb-raider-underworld_ps2.jpg" description="Tomb Raider - Underworld" %}
 
 ## Need for Speed: Most Wanted (PS3)
 
-Depois de ter terminado o The Run, estava esperando aparecer uma boa promoção para pegar a continuação, o Most Wanted! Pois bem, apareceu, paguei R$ 69,90 no **Submarino**, acho que foi um bom preço!
+Depois de ter terminado o The Run, estava esperando aparecer uma boa promoção para pegar a continuação, o Most Wanted! Pois bem, apareceu, paguei R\$ 69,90 no **Submarino**, acho que foi um bom preço!
 
 {% include image.html url="/imgs/posts/colecao/16_aquisicoes02/nfs-most-wanted_ps3.jpg" description="NFS Most Wanted" %}
 

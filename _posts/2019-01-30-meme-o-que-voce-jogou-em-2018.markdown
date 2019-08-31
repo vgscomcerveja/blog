@@ -4,17 +4,19 @@ title: "MeMe - O Que Você Jogou em 2018?"
 date: 2019-01-30 22:00
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
-tags: [especial]
+categories: games jogando
+redirect_from: /jogando/especiais/2019/01/30/meme-o-que-voce-jogou-em-2018.html
+tags: [categoria-especial, meme-oqvj]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/07_meme2018/thumbnail.jpg
 cover: /imgs/posts/especial/07_meme2018/header.jpg
-sinopse: >
-  Já é uma tradição, o primeiro post do ano é sempre uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 8a edição: 'O Que Você Jogou em 2018?' e minha quinta participação. Confira!
 ---
 
 Feliz Ano Novo! \o/
 
 Já é uma tradição, o primeiro post do ano é sempre uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 8a edição: "O Que Você Jogou em 2018?". Esta é minha quinta participação e sim, copiei a introdução do ano passado! rs...
+
+<!--more-->
 
 Sem mais delongas, selecionei alguns dos melhores jogos que joguei em ordem cronológica. Confira:
 
@@ -168,7 +170,7 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2018?", organizado pelo site [
 - [Arquivos do Woo](https://www.arquivosdowoo.com.br/2019/01/o-que-eu-joguei-em-2018.html) - por Cyber Woo
 - [Desocupado](http://des-ocupado.blogspot.com/2019/02/especial-o-que-joguei-em-2018.html) - por Paulo Victor
 - [Gamer Caduco](https://gamercaduco.com/2019/01/23/meme-gamer-o-que-voce-jogou-em-2018-oqvj2018/) - por Cadu
-- [Gamerníaco](https://gamerniaco.wordpress.com/) - por Eduardo Farnezi
+- [Gamerníaco](https://gamerniaco.wordpress.com/2019/03/05/meme-gamer-o-que-voce-jogou-em-2018/) - por Eduardo Farnezi
 - [Locadora Resident Ivo](https://locadoraresidentivo.com/meme-gamer-o-que-voce-jogou-em-2018/) - por Ivo Ornelas
 - [MarvoxBrasil](https://marvoxbrasil.wordpress.com/2019/01/21/memegamer-oquevocejogouem2018/) - por Marvox
 - [RetroPlayers](http://www.retroplayers.com.br/retro/retrospectiva-2018-gamistico-sabat/) - por Sabat

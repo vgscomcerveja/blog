@@ -11,11 +11,10 @@
   |
   <a href="/newsletter">Newsletter</a>
   |
-  <span>    
-    <a href="https://www.twitter.com/vgscomcerveja" title="Twitter"><span class="icon-twitter"></span></a>
-    <a href="https://www.facebook.com/vgscomcerveja" title="Facebook"><span class="icon-facebook"></span></a>
-    <a href="https://www.instagram.com/vgscomcerveja" title="Instagram"><span class="icon-instagram"></span></a>
-    <a href="https://open.spotify.com/user/ci27e1t2lyykvvbe3xam8vwzg" title="Spotify"><span class="icon-spotify"></span></a>
+  <span>
+    {% for socialLink in site.data.social_links %}
+      <a href="{{ socialLink.url }}" title="{{ socialLink.title }}" class="{{ socialLink.classe }}"></a>
+    {% endfor %}
   </span><br>
   <small><a href="https://icons8.com">Icon pack by Icons8</a></small>
 </footer>

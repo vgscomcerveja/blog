@@ -21,26 +21,26 @@
     ul {
       text-align: center;
       list-style: none;
+      margin: 0;
     }
 
     li {
       position: relative;
-      display: inline;
-      padding: 15px 10px 11px;
+      display: inline-block;
+      padding: 15px 10px 10px;
+
+      a {
+        color: gray;
+        margin: 0 auto;
+      }
     }
 
-    li.submenu-link {
-      padding: 15px 10px 11px 20px;
-    }
-
-    li a {
-      color: gray;
-      margin: 0 auto;
+    li.has-submenu {
+      padding-left: 18px;
     }
 
     li:hover {
       background-color: #f0f0f0;
-      border-bottom: 4px solid $vcc-color;
       color: $vcc-color;
     }
 
@@ -48,32 +48,37 @@
       display: block;
     }
 
+    .nav-hide {
+      display: none;
+    }
+
     .submenu {
       position: absolute;
-      top: 55px;
+      top: 50px;
       left: 0;
-      background-color: $vcc-color-escuro;
+      background-color: white;
       z-index: 1000;
       display: none;
       padding: 0;
       margin: 0;
       width: 100%;
-      color: #fff;
+      color: gray;
       font-size: 0.85em;
+      border: 1px solid #ececec;
     }
 
     .submenu li {
       display: block;
-      padding: 10px 20px;
+      padding: 10px 20px !important;
       text-align: left;
 
       a {
-        color: white;
+        color: gray;
       }
     }
 
     .submenu li:hover {
-      background-color: $vcc-color;
+      background-color: #cacaca;
       border: 0;
     }
   }
@@ -125,11 +130,12 @@
 
     .site-nav {
       position: fixed;
-      width: 250px;
-      top: 60px;
+      width: 100%;
+      top: 59px;
       right: 0;
       bottom: 0;
-      background-color: gray;
+      background-color: white;
+      padding: 10px;
       overflow-x: auto;
       z-index: 3;
       -webkit-transition: all 500ms ease;
@@ -147,54 +153,61 @@
       li {
         display: block;
 
-        padding: 0 !important;
         text-align: left;
+        font-variant: small-caps;
+        text-transform: lowercase;
 
         a {
-          color: #fff;
+          color: gray;
           margin: 0px;
-          padding: 15px 10px 16px 20px;
           display: block;
           width: 100%;
-          height: 100%;
         }
+
         .icon-angle-down {
           display: none;
         }
       }
 
-      li:nth-child(1) a span::after {
-        content: "Home";
-      }
-      li:nth-child(2) a span::after {
-        content: "Feed RSS";
-      }
-      li:nth-child(3) a span::after {
-        content: "Noticias";
-      }
-      li:nth-child(7) a span::after {
-        content: "Twitter";
-      }
-      li:nth-child(8) a span::after {
-        content: "Facebook";
-      }
-      li:nth-child(9) a span::after {
-        content: "Instagram";
-      }
-
       li:hover {
-        background-color: #ccc;
+        background-color: white;
         border: 0;
       }
 
-      li:hover .submenu {
-        display: none;
+      .social-links {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
       }
-    }
 
-    .submenu {
-      top: 50px;
-      border: 0;
+      .nav-hide {
+        display: inline;
+      }
+
+      .submenu {
+        display: block;
+        width: 100%;
+        border: 0;
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        position: initial;
+
+        li {
+          display: inline-flex;
+          font-variant: normal;
+          text-transform: none;
+          width: 160px;
+          padding: 10px 5px !important;
+          text-align: center;
+        }
+
+        li:hover {
+          background-color: white;
+        }
+      }
     }
 
     .control-nav {
@@ -284,7 +297,7 @@
 
   @media (max-width: $on-palm) {
     padding: 0;
-    margin-top: 60px;
+    margin: 60px 0 0 0;
   }
 
   .main-wrapper {
@@ -737,6 +750,18 @@
   img {
     margin-bottom: 10px;
   }
+
+  .tag-logo {
+    margin: 20px 0;
+    max-height: 120px;
+    max-width: 360px;
+  }
+
+  p {
+    text-transform: none;
+    font-variant: normal;
+    font-weight: normal;
+  }
 }
 
 .submenu-cards {
@@ -825,6 +850,36 @@
   }
 }
 
+.achivement-box {
+  float: left;
+  padding: 0;
+  border-radius: 32px;
+  color: white;
+  background-color: #02770c;
+  margin: 10px auto;
+  width: 100%;
+  font-size: 0.95em;
+
+  img {
+    float: left;
+  }
+
+  span {
+    float: left;
+    padding: 8px;
+  }
+
+  small {
+    float: left;
+    margin: 6px 0 0 6px;
+    font-weight: 100;
+
+    img {
+      margin: 2px 5px;
+    }
+  }
+}
+
 /*
  * Newsletter 
  */
@@ -847,4 +902,53 @@
 #mc_embed_signup {
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
+}
+
+/*
+ * card trophies
+ */
+.trophy {
+  float: left;
+  width: 64px;
+  height: 64px;
+  text-align: center;
+  padding-top: 8px;
+  padding-left: 2px;
+  color: white;
+  letter-spacing: -1px;
+}
+
+/*
+ * related-posts
+ */
+.related-posts {
+  border-top: 3px solid #333;
+
+  padding-top: 15px;
+  margin: 0 auto;
+
+  .related-posts-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    .rel {
+      width: 200px;
+      display: inline-block;
+      padding: 5px;
+      opacity: 0.8;
+
+      h4 {
+        font-size: 1.1em;
+        text-align: center;
+        line-height: 1.2em;
+        padding-top: 2px;
+      }
+    }
+
+    .rel:hover {
+      opacity: 1;
+    }
+  }
 }

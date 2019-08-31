@@ -1,19 +1,20 @@
 ---
-layout:     post
-title:      "Análise - Horizon Zero Dawn (PS4)"
-date:       2017-06-25 20:00
-author:     felipebbarbosa
-session:    Game Over &#35 38
-categories: jogando analise
-tags:       [sony, ps4, horizon-zero-dawn, analise, game-over]
-thumbnail:  /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
-sinopse:
-    Uma ruiva badass que derrota robôs em um mundo pós-apocaliptico.. não tinha como dar errado! Ou será que tinha? Não.. não tinha, Horizon Zero Dawn é a nova IP da Guerrilla Games (de Killzone) que chegou para ficar!
+layout: post
+title: "Análise - Horizon Zero Dawn (PS4)"
+date: 2017-06-25 20:00
+author: felipebbarbosa
+session: Game Over 
+categories: games jogando
+redirect_from: /jogando/analise/2017/06/25/analise-horizon-zero-dawn.html
+tags: [sony, ps4, horizon-zero-dawn, categoria-analise, serie-game-over]
+related: serie-game-over
+thumbnail: /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
+cover: /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
 ---
-Olá jogadores cervejeiros, tudo bom?
 
 Pensem comigo, uma ruiva "badass" que luta contra robôs em um mundo pós-apocaliptico não tinha como dar errado, certo? Ou será que tinha? Não.. não tinha, [Horizon Zero Dawn](https://www.guerrilla-games.com/play/horizon) é a nova IP da **Guerrilla Games** (mesma de Killzone) que chegou para ficar!
+
+<!--more-->
 
 {% include youtubePlayer.html id='VvGjcBtdrRQ' %}
 
@@ -21,7 +22,7 @@ Você é **Aloy**, uma guerreira exilada da tribo dos Nora, que está em busca d
 
 Em um mundo pós-apocaliptico, aproximadamente 1.000 anos da nossa data atual, a civilização humana sobrevive de maneira arcaica (com tecnologia e recursos limitados) em meio a uma infestação de máquinas robôs hostis que possuem formato de animais e inteligência artificial avançada. Ninguém sabe ao certo o porquê destas máquinas e nem como surgiram, a humanidade perdeu parte dos seus conhecimentos e só lutam para se proteger e sobreviver.
 
-Aloy que já nasceu exilada, cresceu com ***Rost***, outro exilado da tribo dos Nora, que lhe ensinou como lidar com as máquinas, transformando-a numa guerreira altamente qualificada. Porém, num certo momento, Aloy acaba encontrando um dispositivo criado pelos "antigos" chamado de **Foco**, que lhe proporciona uma grande vantagem perante seus inimigos e concorrentes. Com este dispositivo, ela terá a capacidade de acessar arquivos de computadores e gravadores, ver informações ocultas das máquinas (tais como pontos fracos e fortes), revelar caminhos ocultos que um olho comum não vê e, entre outras funções.
+Aloy que já nasceu exilada, cresceu com **_Rost_**, outro exilado da tribo dos Nora, que lhe ensinou como lidar com as máquinas, transformando-a numa guerreira altamente qualificada. Porém, num certo momento, Aloy acaba encontrando um dispositivo criado pelos "antigos" chamado de **Foco**, que lhe proporciona uma grande vantagem perante seus inimigos e concorrentes. Com este dispositivo, ela terá a capacidade de acessar arquivos de computadores e gravadores, ver informações ocultas das máquinas (tais como pontos fracos e fortes), revelar caminhos ocultos que um olho comum não vê e, entre outras funções.
 
 {% include image.html
   url="/imgs/posts/game_over/38_horizon_zero_dawn/HZD_Thunderjaw.jpg" %}

@@ -1,18 +1,20 @@
 ---
-layout:     post
-title:      "Aquisição - Metal Gear Solid (Game Boy Color)"
-date:       2012-05-07 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags:       [nintendo, gbc, konami, metal-gear-solid]
-games:      [metal-gear-solid]
-thumbnail:  /imgs/posts/colecao/12_metal_gear_solid/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/12_metal_gear_solid/post_header.jpg
-sinopse: >
-  Eis um jogo que a algum tempo buscava para minha coleção, Metal Gear Solid para Game Boy Color é um jogo que está se tornando cada vez mais raro de encontrar completo e em bom estado. E para minha felicidade, consegui um do jeito que queria para minha coleção! :)
+layout: post
+title: "Aquisição - Metal Gear Solid (Game Boy Color)"
+date: 2012-05-07 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2012/05/07/aquisicao-metal-gear-solid-gbc.html
+tags: [nintendo, gbc, konami, metal-gear-solid, categoria-colecao-pessoal]
+games: [metal-gear-solid]
+thumbnail: /imgs/posts/colecao/12_metal_gear_solid/post_thumbnail.jpg
+cover: /imgs/posts/colecao/12_metal_gear_solid/post_header.jpg
 ---
+
 Eis um jogo que a algum tempo buscava para minha coleção, **Metal Gear Solid** para **Game Boy Color** é um jogo que está se tornando cada vez mais raro de encontrar completo e em bom estado. E para minha felicidade, consegui um do jeito que queria para minha coleção! :)
+
+<!--more-->
 
 {% include image.html url="/imgs/posts/colecao/12_metal_gear_solid/metal-gear-solid_gbc.jpg" description="Metal Gear Solid" %}
 

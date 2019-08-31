@@ -1,11 +1,22 @@
 <div style="border: 1px solid #ccc; margin-bottom: 10px; padding: 10px">
-  <span>{{ include.platinas }} <img src="/imgs/trofeu-platina.png" height="50" title="Platina"></span>
-  <span>{{ include.ouros }} <img src="/imgs/trofeu-ouro.png" height="50" title="Ouro"></span>
-  <span>{{ include.pratas }} <img src="/imgs/trofeu-prata.png" height="50" title="Prata"></span>
-  <span>{{ include.bronzes }} <img src="/imgs/trofeu-bronze.png" height="50" title="Bronze"></span>
+  <span style="float:left; width:100%">
+    <span class="trophy" style="background-image:url('/imgs/trofeu-platina64.png')">{{ include.platinas }}</span>
+    <span class="trophy" style="background-image:url('/imgs/trofeu-ouro64.png')">{{ include.ouros }}</span>
+    <span class="trophy" style="background-image:url('/imgs/trofeu-prata64.png')">{{ include.pratas }}</span>
+    <span class="trophy" style="background-image:url('/imgs/trofeu-bronze64.png')">{{ include.bronzes }}</span>
+  </span>
   <br><b>Dificuldade:</b> {{ include.dificuldade }}/5
   <br><b>Tempo estimado p/ platina:</b> {{ include.tempo }}
   <br><b>Mínimo de jogadas:</b> {{ include.jogadas }}
   <br><b>Tem troféus online?:</b> {{ include.online }}
   <br><b>Nota para o jogo:</b> {{ include.nota }}/5
+  {% if include.ondeComprar %}
+    <br><b>Onde encontrar:</b>
+      <a href="{{ include.ondeComprarLink }}" target="_blank">{{ include.ondeComprar }}</a>
+       por {{ include.ondeComprarPreco }}.
+  {% endif %}
+
+  {% if include.obs %}
+    <br><small>{{ include.obs }}</small>
+  {% endif %}
 </div>

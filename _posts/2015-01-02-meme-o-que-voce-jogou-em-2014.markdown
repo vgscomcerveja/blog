@@ -1,33 +1,62 @@
 ---
-layout:     post
-title:      "MeMe - O Que Você Jogou Em 2014?"
-date:       2015-01-02 19:00
-author:     felipebbarbosa
-session:    Especial
-categories: jogando especiais
-tags:       [microsoft, xbox-360, sony, ps3, naughty-dog, psp, ps1, nintendo, wii, need-for-speed, especial]
-games:      [deadlight, gran-turismo-6, the-last-of-us, spec-ops-the-line, gears-of-war, silent-hill-origins, medal-of-honor, super-mario-galaxy, acdc-rockband, need-for-speed-most-wanted, dead-island]
-thumbnail:  /imgs/posts/especial/01_meme2014/post_thumbnail.jpg
-cover:      /imgs/posts/especial/01_meme2014/post_header.jpg
-sinopse: >
-  Feliz Ano Novo! Nada melhor do que começar 2015 relembrando o que jogamos em 2014, né? Por isso estou participando da quarta edição do MeMe O Que Você Jogou No Ano Passado? que já é praticamente uma tradição entre os editores de blogs (e afins) de games e foi iniciada pelo blog Marvox Brasil em 2011.
-
+layout: post
+title: "MeMe - O Que Você Jogou Em 2014?"
+date: 2015-01-02 19:00
+author: felipebbarbosa
+session: Especial
+categories: games jogando
+redirect_from: /jogando/especiais/2015/01/02/meme-o-que-voce-jogou-em-2014.html
+tags:
+  [
+    microsoft,
+    xbox-360,
+    sony,
+    ps3,
+    naughty-dog,
+    psp,
+    ps1,
+    nintendo,
+    wii,
+    need-for-speed,
+    categoria-especial,
+    meme-oqvj,
+  ]
+games:
+  [
+    deadlight,
+    gran-turismo-6,
+    the-last-of-us,
+    spec-ops-the-line,
+    gears-of-war,
+    silent-hill-origins,
+    medal-of-honor,
+    super-mario-galaxy,
+    acdc-rockband,
+    need-for-speed-most-wanted,
+    dead-island,
+  ]
+related: meme-oqvj
+thumbnail: /imgs/posts/especial/01_meme2014/post_thumbnail.jpg
+cover: /imgs/posts/especial/01_meme2014/post_header.jpg
 ---
+
 Feliz Ano Novo! Nada melhor do que começar 2015 relembrando o que jogamos em 2014, né? Por isso estou participando da quarta edição do MeMe **O Que Você Jogou No Ano Passado?** que já é praticamente uma tradição entre os editores de blogs (e afins) de games e foi iniciada pelo blog **Marvox Brasil** em 2011.
 
-O legal de participar pela primeira vez de um MeMe, onde os jogadores são "*das antigas*", é que jogos lançamentos são um mero detalhe, e assim como eu, jogaram quase nada. O único que joguei foi um DLC! :D
+O legal de participar pela primeira vez de um MeMe, onde os jogadores são "_das antigas_", é que jogos lançamentos são um mero detalhe, e assim como eu, jogaram quase nada. O único que joguei foi um DLC! :D
+
+<!--more-->
 
 ## Deadlight (Xbox 360)
 
 {% include image.html url="/imgs/posts/especial/01_meme2014/1_deadlight.jpg" description="" %}
 
-O primeiro jogo que joguei e finalizei em 2014 foi **Deadlight**, um jogo *indie sidescroller* bacana para **Xbox 360** e **PC**. Com a temática de *survival horror* este jogo me conquistou pelos belos gráficos e pela simplificidade da jogabilidade. Fiz uma pequena análise dele no [Game Over 15](/jogando/analise/2014/01/02/analise-deadlight-xbox-360.html).
+O primeiro jogo que joguei e finalizei em 2014 foi **Deadlight**, um jogo _indie sidescroller_ bacana para **Xbox 360** e **PC**. Com a temática de _survival horror_ este jogo me conquistou pelos belos gráficos e pela simplificidade da jogabilidade. Fiz uma pequena análise dele no [Game Over 15](/jogando/analise/2014/01/02/analise-deadlight-xbox-360.html).
 
 ## Gran Turismo 6 (PS3)
 
 {% include image.html url="/imgs/posts/especial/01_meme2014/2_gran_turismo_6.jpg" description="" %}
 
-Estou jogando GT6 desde seu lançamento em 2013, e quase platinei naquele ano mesmo. Porém, continuei jogando em 2014, concluí todos os eventos, mas ainda me falta um troféu para platina: *Autobarmy*. Para conquistá-lo, você tem que percorrer um total de 12.718 km, ou seja, não tem segredo, só demanda tempo mesmo! Tirando isso, o jogo é excelente, eles simplificaram algumas coisas que o deixou mais divertido.
+Estou jogando GT6 desde seu lançamento em 2013, e quase platinei naquele ano mesmo. Porém, continuei jogando em 2014, concluí todos os eventos, mas ainda me falta um troféu para platina: _Autobarmy_. Para conquistá-lo, você tem que percorrer um total de 12.718 km, ou seja, não tem segredo, só demanda tempo mesmo! Tirando isso, o jogo é excelente, eles simplificaram algumas coisas que o deixou mais divertido.
 
 ## The Last of Us: Left Behind (PS3)
 
@@ -39,7 +68,7 @@ Estou jogando GT6 desde seu lançamento em 2013, e quase platinei naquele ano me
 
 {% include image.html url="/imgs/posts/especial/01_meme2014/4_the_last_of_us.jpg" description="" %}
 
-Depois de jogar o DLC, me bateu uma vontade de jogá-lo de novo, que não resisti! Joguei e terminei duas vezes, uma no modo *Sobrevivente* e depois no *Sobrevivente+*, que jogo lindo! Mas ainda não peguei todos os troféus, promessa para este ano! Fiz uma análise de dele em 2013 no [Game Over 07](/jogando/analise/2013/06/23/analise-the-last-of-us-ps3.html).
+Depois de jogar o DLC, me bateu uma vontade de jogá-lo de novo, que não resisti! Joguei e terminei duas vezes, uma no modo _Sobrevivente_ e depois no _Sobrevivente+_, que jogo lindo! Mas ainda não peguei todos os troféus, promessa para este ano! Fiz uma análise de dele em 2013 no [Game Over 07](/jogando/analise/2013/06/23/analise-the-last-of-us-ps3.html).
 
 ## Spec Ops: The Line (PS3)
 
@@ -85,15 +114,15 @@ No [Game Over 20](/jogando/analise/2014/11/04/analise-acdc-live-rockband-ps3.htm
 
 {% include image.html url="/imgs/posts/especial/01_meme2014/9_need_for_speed_most_wanted.jpg" description="" %}
 
-Me tornei fã da série a partir do **Underground** em 2003, mas joguei os dois *Undergrounds* e depois abandonei a série novamente, voltando apenas em 2010 com o **Hot Pursuit**, apartir daí, venho jogando tudo e o **Most Wanted** foi o último que joguei antes de partir para o **Rivals**. Confira minha análise dele no [Game Over 21](jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html).
+Me tornei fã da série a partir do **Underground** em 2003, mas joguei os dois _Undergrounds_ e depois abandonei a série novamente, voltando apenas em 2010 com o **Hot Pursuit**, apartir daí, venho jogando tudo e o **Most Wanted** foi o último que joguei antes de partir para o **Rivals**. Confira minha análise dele no [Game Over 21](jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html).
 
 ## Dead Island (Xbox 360)
 
 {% include image.html url="/imgs/posts/especial/01_meme2014/10_dead_island.jpg" description="" %}
 
-E o último jogo que joguei e zerei em 2014 foi **Dead Island**. Este fui meio que insistente para terminá-lo. Não sei se recomendaria este jogo para alguém, pois achei muito maçante no início, que quase cheguei a abandoná-lo. Mas quando resolvi focar apenas na campanha principal (*Main Quest*), até que chegou a ficar mais interessante.
+E o último jogo que joguei e zerei em 2014 foi **Dead Island**. Este fui meio que insistente para terminá-lo. Não sei se recomendaria este jogo para alguém, pois achei muito maçante no início, que quase cheguei a abandoná-lo. Mas quando resolvi focar apenas na campanha principal (_Main Quest_), até que chegou a ficar mais interessante.
 
-Talvez esse jogo seja mais divertido se jogá-lo em co-op com os amigos (suporta até 4 jogadores). Em breve, eu faço um *review* dele por aqui.
+Talvez esse jogo seja mais divertido se jogá-lo em co-op com os amigos (suporta até 4 jogadores). Em breve, eu faço um _review_ dele por aqui.
 
 ---
 

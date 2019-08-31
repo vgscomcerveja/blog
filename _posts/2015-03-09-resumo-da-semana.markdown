@@ -1,21 +1,34 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Metal Gear Solid V: The Phantom Pain ganhou data de lançamento; Rockband 4 será lançado; Battletoads de volta?; Jogos grátis e mais.."
-date:       2015-03-09 19:00
-author:     felipebbarbosa
-session:    Drops &#35 09
-categories: noticias
-tags:       [sony, ps-plus, microsoft, xbox-live, games-with-gold, metal-gear-solid, rockband]
-games:      [metal-gear-solid-v, rockband-4, shovel-knight, syndicate]
-thumbnail:  /imgs/posts/news/10_resumo04/post_thumbnail.jpg
-cover:      /imgs/posts/news/10_resumo04/post_header.jpg
-sinopse: >
-   Confira as novidades da semana do dia 02/03 à 08/03 de 2015!
+layout: post
+title: "Resumo da Semana - Metal Gear Solid V: The Phantom Pain ganhou data de lançamento; Rockband 4 será lançado; Battletoads de volta?; Jogos grátis e mais.."
+date: 2015-03-09 19:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2015/03/09/resumo-da-semana.html
+tags:
+  [
+    sony,
+    ps-plus,
+    microsoft,
+    xbox-live,
+    games-with-gold,
+    metal-gear-solid,
+    rockband,
+    categoria-noticias,
+  ]
+games: [metal-gear-solid-v, rockband-4, shovel-knight, syndicate]
+thumbnail: /imgs/posts/news/10_resumo04/post_thumbnail.jpg
+cover: /imgs/posts/news/10_resumo04/post_header.jpg
 ---
+
+Confira as novidades da semana do dia 02/03 à 08/03 de 2015!
+
+<!--more-->
 
 ## MGS V: The Phantom Pain ganhou data de lançamento
 
-O provável último jogo da saga **Metal Gear Solid** tem data de lançamento: 1 de Setembro de 2015! Com lançamento previsto para PS3, PS4, Xbox 360, Xbox ONE e Windows, o jogo continuará o prólogo **Ground Zeroes** lançado ano passado para deixar os fãs com um gostinho do que está por vir! Para aumentar a *hype*, confira o cinematográfico trailer apresentado na E3 do ano passado:
+O provável último jogo da saga **Metal Gear Solid** tem data de lançamento: 1 de Setembro de 2015! Com lançamento previsto para PS3, PS4, Xbox 360, Xbox ONE e Windows, o jogo continuará o prólogo **Ground Zeroes** lançado ano passado para deixar os fãs com um gostinho do que está por vir! Para aumentar a _hype_, confira o cinematográfico trailer apresentado na E3 do ano passado:
 
 {% include youtubePlayer.html id='-pPXuFNGEr8' %}
 
@@ -27,13 +40,13 @@ A **Harmonix** confirmou semana passada que um novo game da franquia será lanç
 
 {% include image.html url="/imgs/posts/news/10_resumo04/rockband-4.jpg" %}
 
-A boa notícia é que você poderá utilizar seus *hardwares* (guitarras, baterias e microfones) dos jogos anteriores. Além disso, o jogo será compatível com todo o conteúdo em disco dos jogos anteriores também, ou seja, todas suas músicas poderão ser transferidas gratuitamente para o novo jogo. Mas como nem tudo são flores, a Harmonix não garantirá essa transferência em plataformas cruzadas, isto significa, que se você jogava Rockband no PS3, não poderá transferir seu conteúdo para o Xbox ONE, somente para o PS4.
+A boa notícia é que você poderá utilizar seus _hardwares_ (guitarras, baterias e microfones) dos jogos anteriores. Além disso, o jogo será compatível com todo o conteúdo em disco dos jogos anteriores também, ou seja, todas suas músicas poderão ser transferidas gratuitamente para o novo jogo. Mas como nem tudo são flores, a Harmonix não garantirá essa transferência em plataformas cruzadas, isto significa, que se você jogava Rockband no PS3, não poderá transferir seu conteúdo para o Xbox ONE, somente para o PS4.
 
 ---
 
 ## Shovel Knight de Xbox ONE poderá ter a volta de Battletoads nos games!
 
-No anúncio da versão para Xbox ONE de **Shovel Knight** uma surpresa: os sapos mais fodões dda geração 8 e 16-bit apareceram, sim, os sapos de **Battletoads**! Tudo indica que teremos um *crossover* entre os dois jogos, ou até, quem sabe, um novo jogo da franquia?
+No anúncio da versão para Xbox ONE de **Shovel Knight** uma surpresa: os sapos mais fodões dda geração 8 e 16-bit apareceram, sim, os sapos de **Battletoads**! Tudo indica que teremos um _crossover_ entre os dois jogos, ou até, quem sabe, um novo jogo da franquia?
 
 {% include youtubePlayer.html id='j6P7xS7HNkM' %}
 
@@ -41,11 +54,11 @@ No anúncio da versão para Xbox ONE de **Shovel Knight** uma surpresa: os sapos
 
 ## Syndicate está de graça no Origin
 
-**Syndicate**, o cultuado clássico do *cyberpunk* produzido pela **Bullfrog Productions** está grátis no [Por Conta da Casa!](https://www.origin.com/pt-br/store/free-games/on-the-house) deste mês no **Origin** para PC, sim, o clássico jogo de estratégia e ação tática de 1993. O preço original dele era de R$ 9,90.
+**Syndicate**, o cultuado clássico do _cyberpunk_ produzido pela **Bullfrog Productions** está grátis no [Por Conta da Casa!](https://www.origin.com/pt-br/store/free-games/on-the-house) deste mês no **Origin** para PC, sim, o clássico jogo de estratégia e ação tática de 1993. O preço original dele era de R\$ 9,90.
 
 {% include image.html url="/imgs/posts/news/10_resumo04/syndicate.jpg" %}
 
-Só a critério de curiosidade, em 2012 teve um *reboot* do jogo totalmente remodelado, onde foi transformado em um jogo de tiro em primeira pessoa desenvolvido pela **Starbreeze Studios**.
+Só a critério de curiosidade, em 2012 teve um _reboot_ do jogo totalmente remodelado, onde foi transformado em um jogo de tiro em primeira pessoa desenvolvido pela **Starbreeze Studios**.
 
 ---
 

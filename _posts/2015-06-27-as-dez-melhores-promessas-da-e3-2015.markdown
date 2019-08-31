@@ -1,18 +1,44 @@
 ---
-layout:     post
-title:      "As 10 melhores novidades da E3 2015"
-date:       2015-06-27 19:00
-author:     felipebbarbosa
-session:    Toplist &#35 04
-categories: jogando toplist
-tags:       [e3, microsoft, ps4, xbox-one, square-enix, naughty-dog, tomb-raider, sony, lists, toplist]
-games:      [forza-6, need-for-speed, gears-of-war-4, kingdom-hearts-3, fallout-4, shenmue-3, final-fantasy-7, the-last-guardian, rise-of-the-tomb-raider, uncharted-4]
-thumbnail:  /imgs/posts/toplist/04_melhores_e3_2015/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/04_melhores_e3_2015/post_header.jpg
-sinopse: >
-  Semana passada rolou uma das maiores feiras de videogames do mundo, a Electronic Entertainment Expo, mais conhecida como E3! Ela ocorre anualmente em Los Angeles, EUA. Os maiores da indústria constumam apresentar suas melhores novidades nela, e como este anos tivemos muitas legais, resolvi selecionar apenas as dez que mais curti!
+layout: post
+title: "As 10 melhores novidades da E3 2015"
+date: 2015-06-27 19:00
+author: felipebbarbosa
+session: Especial
+categories: games noticias
+redirect_from: /jogando/toplist/2015/06/27/as-dez-melhores-promessas-da-e3-2015.html
+tags:
+  [
+    e3,
+    microsoft,
+    ps4,
+    xbox-one,
+    square-enix,
+    naughty-dog,
+    tomb-raider,
+    sony,
+    categoria-lista,
+  ]
+games:
+  [
+    forza-6,
+    need-for-speed,
+    gears-of-war-4,
+    kingdom-hearts-3,
+    fallout-4,
+    shenmue-3,
+    final-fantasy-7,
+    the-last-guardian,
+    rise-of-the-tomb-raider,
+    uncharted-4,
+  ]
+related: e3
+thumbnail: /imgs/posts/toplist/04_melhores_e3_2015/post_thumbnail.jpg
+cover: /imgs/posts/toplist/04_melhores_e3_2015/post_header.jpg
 ---
+
 Semana passada rolou uma das maiores feiras de videogames do mundo, a Electronic Entertainment Expo, mais conhecida como E3! Ela ocorre anualmente em Los Angeles, EUA. Os maiores da indústria constumam apresentar suas melhores novidades nela, e como este anos tivemos muitas legais, resolvi selecionar apenas as dez que mais curti!
+
+<!--more-->
 
 ## 10. Forza Motorsport 6 (Xbox ONE)
 
@@ -50,13 +76,13 @@ A Bethesda fez sua conferência no domingo (15/06) e apresentou várias novidade
 
 A conferência da Sony foi a que mais me chamou a atenção, pois foi uma surpresa atrás da outra! E uma delas foi o anúncio de Shenmue III, para delírio dos fãs! Esta é uma série bastante elogiada e tem uma legião de fãs que esperavam esse desfecho da série.
 
-Anunciado como um projeto de financiamento coletivo, o jogo tinha como meta atingir US$ 2.000.000,00 para que o desenvolvimento saísse do papel. E acredite ou não, esta meta foi atingida em menos de 10 horas!
+Anunciado como um projeto de financiamento coletivo, o jogo tinha como meta atingir US\$ 2.000.000,00 para que o desenvolvimento saísse do papel. E acredite ou não, esta meta foi atingida em menos de 10 horas!
 
 {% include youtubePlayer.html id='xJV2s29vvbI' %}
 
 ## 4. Final Fantasy VII Remake (PS4)
 
-Ainda na conferência da Sony, a Square-Enix teve seu momento de glória na E3 (apesar de eu preferir a outra novidade dela que está mais abaixo), pois simplesmente anunciou o *remake* de Final Fantasy VII:
+Ainda na conferência da Sony, a Square-Enix teve seu momento de glória na E3 (apesar de eu preferir a outra novidade dela que está mais abaixo), pois simplesmente anunciou o _remake_ de Final Fantasy VII:
 
 {% include youtubePlayer.html id='Kznek1uNVsg' %}
 

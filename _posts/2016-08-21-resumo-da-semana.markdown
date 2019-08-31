@@ -1,18 +1,20 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Spotify, Metal Gear Survive, Resident Evil 7, Fim das Gerações de Videogames? e mais.."
-date:       2016-08-21 18:00
-author:     felipebbarbosa
-session:    Drops &#35 19
-categories: noticias
-tags:       [spotify, metal-gear-solid, resident-evil, microsoft]
-games:      [metal-gear-survive, resident-evil-7]
-thumbnail:  /imgs/posts/news/20_resumo13/post_thumbnail.jpg
-cover:      /imgs/posts/news/20_resumo13/post_header.jpg
-sinopse: >
-  A olímpiadas acabou! Foram muitos eventos esportivos, conquistas e medalhas inéditas brasileiras, polêmicas.. Enfim, mas e nesse meio tempo, o que rolou no mundo dos games? Confira! :)
+layout: post
+title: "Resumo da Semana - Spotify, Metal Gear Survive, Resident Evil 7, Fim das Gerações de Videogames? e mais.."
+date: 2016-08-21 18:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/08/21/resumo-da-semana.html
+tags: [spotify, metal-gear-solid, resident-evil, microsoft, categoria-noticias]
+games: [metal-gear-survive, resident-evil-7]
+thumbnail: /imgs/posts/news/20_resumo13/post_thumbnail.jpg
+cover: /imgs/posts/news/20_resumo13/post_header.jpg
 ---
+
 A olímpiadas acabou! Foram muitos eventos esportivos, conquistas e medalhas inéditas brasileiras, polêmicas.. Enfim, mas e nesse meio tempo, o que rolou no mundo dos games? Confira! :)
+
+<!--more-->
 
 ## Spotify lança portal dedicado aos gamers!
 

@@ -1,25 +1,38 @@
 ---
-layout:     post
-title:      "Meus pecados gamísticos da quinta geração de videogames!"
-date:       2017-08-17 22:00
-author:     felipebbarbosa
-session:    Toplist &#35 08 - Pecados Gamísticos &#35 03
-categories: jogando toplist
-tags:       [saturn, n64, ps1, sony, nintendo, sega, rare, donkey-kong, mario, tomb-raider, lists, toplist]
-thumbnail:  /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
-sinopse: >
-  Olá jogadores cervejeiros, tudo bom?
-  Dando continuidade à série Pecados Gamísticos em ordem regressa, chegamos à 5a geração de videogames, a era do 32-bit (e 64-bit)! Confira!
-
+layout: post
+title: "Meus pecados gamísticos da quinta geração de videogames!"
+date: 2017-08-17 22:00
+author: felipebbarbosa
+session: Pecados Gamísticos 
+categories: games jogando
+redirect_from: /jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html
+tags:
+  [
+    saturn,
+    n64,
+    ps1,
+    sony,
+    nintendo,
+    sega,
+    rare,
+    donkey-kong,
+    mario,
+    tomb-raider,
+    categoria-lista,
+    serie-pecados-gamisticos,
+  ]
+related: serie-pecados-gamisticos
+thumbnail: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
+cover: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
 ---
-Olá jogadores cervejeiros, tudo bom?
 
-Dando continuidade à série <strike>(eterna)</strike> **Pecados Gamísticos** em ordem regressa, chegamos à 5a geração de videogames, a era do 32-bit (e 64-bit)!  
+Dando continuidade à série <strike>(eterna)</strike> **Pecados Gamísticos** em ordem regressa, chegamos à 5a geração de videogames, a era do 32-bit (e 64-bit)!
 
 Formada basicamente pelos consoles 3DO, Atari Jaguar, Sega Saturn, Nintendo 64 e PlayStation 1, esta foi a época que talvez eu mais tenha jogado videogame na vida! Porém, praticamente em somente um console: o PS1, tanto que os jogos dele que estão na lista, eu até cheguei a jogar, mas só não finalizei!
 
-Bom, minha história nesta geração é formada 98% em cima do PS1 e os outros 2% no Nintendo 64, que jogava na locadora ou raramente na casa de um amigo vizinho. Ganhei meu PlayStation no final de 1999, época em que o console já estava bem amadurecido no mercado e o PS2 já tinha sido anunciado (se não estou enganado). Entretanto, conheci o console um pouquinho antes através de um amigo e, foi aí que me apaixonei por Gran Turismo, tanto que comprei esse jogo antes mesmo de ter o meu videogame. Comprei para jogar na casa dele, pois o que tínhamos jogado era somente uma demo daqueles discos de demonstração, o famoso CD Interactive. Lembro até hoje, paguei exatos R$ 12 numa cópia "legítima" de uma locadora perto de casa. :)
+<!--more-->
+
+Bom, minha história nesta geração é formada 98% em cima do PS1 e os outros 2% no Nintendo 64, que jogava na locadora ou raramente na casa de um amigo vizinho. Ganhei meu PlayStation no final de 1999, época em que o console já estava bem amadurecido no mercado e o PS2 já tinha sido anunciado (se não estou enganado). Entretanto, conheci o console um pouquinho antes através de um amigo e, foi aí que me apaixonei por Gran Turismo, tanto que comprei esse jogo antes mesmo de ter o meu videogame. Comprei para jogar na casa dele, pois o que tínhamos jogado era somente uma demo daqueles discos de demonstração, o famoso CD Interactive. Lembro até hoje, paguei exatos R\$ 12 numa cópia "legítima" de uma locadora perto de casa. :)
 
 Depois que ganhei o meu PS1 e descobri como fazer minhas cópias "legítimas", o céu foi o limite! Foi neste console que descobri jogos fantásticos como a série Tomb Raider, Metal Gear Solid, Resident Evil, Silent Hill, Tony Hawk's Pro Skater, Medal of Honor, Gran Turismo, Crash Bandicoot e por aí vai.. são tantos jogos bons! E nisto, os outros consoles acabaram passando quase que despercebidos, com excessão de alguns do Nintendo 64, que até joguei um pouco, mas nunca cheguei a finalizar nenhum jogo na época e muitos deles continuo até hoje sem ao menos ter experimentado, tornando vários deles um grande pecado gamístico! :)
 
@@ -98,11 +111,12 @@ Até uns anos atrás, o primeiro jogo da série também era um pecado gamístico
 
 **Tomb Raider II** não foi inovador quanto o primeiro, mas trouxe uma série de pequenas evoluções como: novos movimentos à Lara, fases maiores, maior quantidade de inimigos.. Enfim, quem é fã, tem quase que obrigação de jogar até o final!
 
-Recentemente, eu até tentei tirar esse pecado do meu currículo iniciando a jornada de TR2, mas aconteceu um fato que me deixou bastante irritado.. PERDI MEU SAVE DO MEMORY CARD! >:/  ..Isso me desanimou bastante, mas ainda não joguei a toalha! Em breve vou recomeçar a segunda aventura de Lara Croft no meu saudoso PS1! :)
+Recentemente, eu até tentei tirar esse pecado do meu currículo iniciando a jornada de TR2, mas aconteceu um fato que me deixou bastante irritado.. PERDI MEU SAVE DO MEMORY CARD! >:/ ..Isso me desanimou bastante, mas ainda não joguei a toalha! Em breve vou recomeçar a segunda aventura de Lara Croft no meu saudoso PS1! :)
 
 ---
+
 E é isso! Estes foram alguns dos meus piores pecados gamísticos da 5a geração. Quais são os seus? Deixe um comentário! :)
 
-A próxima geração da série será a 4a com jogos de Mega Drive e Super Nintendo.. E só para você ver a criticidaade dos meus pecados desta geração, dois *spoilers*: Sonic 2 e Chrono Trigger! oO
+A próxima geração da série será a 4a com jogos de Mega Drive e Super Nintendo.. E só para você ver a criticidaade dos meus pecados desta geração, dois _spoilers_: Sonic 2 e Chrono Trigger! oO
 
 Até!

@@ -3,8 +3,9 @@ layout: post
 title: "Meus pecados gamísticos da sexta geração de videogames!"
 date: 2016-03-12 19:00
 author: felipebbarbosa
-session: Toplist &#35 05 - Pecados Gamísticos &#35 02
-categories: jogando toplist
+session: Pecados Gamísticos 
+categories: games jogando
+redirect_from: /jogando/toplist/2016/03/12/pecados-gamisticos-sexta-geracao.html
 tags:
   [
     sega,
@@ -15,8 +16,8 @@ tags:
     game-cube,
     microsoft,
     xbox,
-    lists,
-    toplist,
+    categoria-lista,
+    serie-pecados-gamisticos,
   ]
 games:
   [
@@ -32,15 +33,16 @@ games:
     silent-hill-2,
     silent-hill-3,
   ]
+related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_header.jpg
-sinopse: >
-  Dando continuidade (finalmente) a série "Pecados Gamísticos", agora é a vez dos jogos dos consoles da sexta geração!
 ---
 
 "Pecado Gamístico" é um "termo" usado, entre alguns blogueiros, para classificar jogos que são considerados bons, e que deveriam estar no "currículo" de qualquer jogador. Mas que por algum motivo, ainda não foi jogado ou terminado, ou seja, é uma espécie de jogos que deveríamos jogar antes de morrer!
 
 Lá em 1900 e bolinha, eu escrevi sobre [meus pecados dos videogames da sétima geração](/jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html), desta vez, selecionei dez jogos da sexta geração que eu quero colocar em meu "currículo".
+
+<!--more-->
 
 Bom, para quem não sabe, a sexta geração, também conhecida como geração 128-bit, dos videogames é formada pelos seguintes consoles: Dreamcast (Sega), PlayStation 2 (Sony), Game Cube (Nintendo) e o Xbox (Microsoft). Esta geração teve vários marcos na história! Uma delas foi a estréia da Microsoft, e a outra foi a triste despedida da Sega na fabricação de consoles.
 

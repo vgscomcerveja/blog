@@ -1,20 +1,24 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Novidades da Nintendo; Filme Pixels; Bloodborne; Hideo Kojima; God of War e mais.. "
-date:       2015-03-23 19:00
-author:     felipebbarbosa
-session:    Drops &#35 11
-categories: noticias
-tags:       [nintendo, god-of-war, kojima]
-games:      [god-of-war-3, bloodborne]
-thumbnail:  /imgs/posts/news/12_resumo06/post_thumbnail.jpg
-cover:      /imgs/posts/news/12_resumo06/post_header.jpg
-sinopse: >
-  Confira as novidades da semana do dia 16/03 à 22/03 de 2015!
+layout: post
+title: "Resumo da Semana - Novidades da Nintendo; Filme Pixels; Bloodborne; Hideo Kojima; God of War e mais.. "
+date: 2015-03-23 19:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2015/03/23/resumo-da-semana.html
+tags: [nintendo, god-of-war, kojima, categoria-noticias]
+games: [god-of-war-3, bloodborne]
+thumbnail: /imgs/posts/news/12_resumo06/post_thumbnail.jpg
+cover: /imgs/posts/news/12_resumo06/post_header.jpg
 ---
+
+Confira as novidades da semana do dia 16/03 à 22/03 de 2015!
+
+<!--more-->
+
 ## Nintendo está com novidades
 
-Empresa revela que fará jogos para plataforma *mobile* (celulares e tablets) após adquirir 10% de uma empresa chamada **DeNA**. Com isso, formou-se uma parceria onde o foco será o desenvolvimento de jogos novos (e não em adaptações de jogos existentes) para esta plataforma.
+Empresa revela que fará jogos para plataforma _mobile_ (celulares e tablets) após adquirir 10% de uma empresa chamada **DeNA**. Com isso, formou-se uma parceria onde o foco será o desenvolvimento de jogos novos (e não em adaptações de jogos existentes) para esta plataforma.
 
 {% include image.html url="/imgs/posts/news/12_resumo06/smart-nintendo.jpg" %}
 
@@ -46,7 +50,7 @@ Semana passada rolou vários rumores de que Hideo Kojima, criador da série Meta
 
 Depois o twitter oficial do Metal Gear que era @Kojima_Pro_Live passou à ser @Metalgear_en. Teve outros indícios que "obrigou" a Konami vir a público e esclarecer (ou quase isso) através de um representante dizendo:
 
-*"A Konami Digital Entertainment, incluindo o Sr. Kojima, continuarão a desenvolver e dar suporte para os produtos de Metal Gear. Por favor aguardem por anúncios futuros."*
+_"A Konami Digital Entertainment, incluindo o Sr. Kojima, continuarão a desenvolver e dar suporte para os produtos de Metal Gear. Por favor aguardem por anúncios futuros."_
 
 {% include image.html url="/imgs/posts/news/12_resumo06/hideo-kojima.jpg" %}
 
@@ -74,4 +78,4 @@ E para finalizar, uma excelente notícia para todos os entusiastas e amantes de 
 
 {% include image.html url="/imgs/posts/news/12_resumo06/1983.jpg" %}
 
-A campanha no site Kickante conseguiu atingir a meta de R$ 20 mil! Agora, os responsáveis pelo projeto terão que correr para lançar o documentário em 2016.
+A campanha no site Kickante conseguiu atingir a meta de R\$ 20 mil! Agora, os responsáveis pelo projeto terão que correr para lançar o documentário em 2016.

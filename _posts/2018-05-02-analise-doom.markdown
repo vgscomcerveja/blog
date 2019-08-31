@@ -3,17 +3,14 @@ layout: post
 title: "Análise - DOOM (PS4)"
 date: 2018-05-02 21:00
 author: felipebbarbosa
-session: Game Over &#35 39
-categories: jogando analise
-tags: [sony, ps4, doom, analise, game-over]
+session: Game Over 
+categories: games jogando
+redirect_from: /jogando/analise/2018/05/02/analise-doom.html
+tags: [sony, ps4, doom, categoria-analise, serie-game-over]
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/39_doom/post_thumbnail.jpg
 cover: /imgs/posts/game_over/39_doom/post_header.jpg
-sinopse:
-  DOOM é um jogo que superou todas minhas expectativas, pois é violento, agressivo e extremamente
-  delicioso! Confira a análise!
 ---
-
-Olá jogadores cervejeiros, tudo bom?
 
 Ao contrário do que possam imaginar, esta é praticamente minha primeira experiência com a série
 DOOM. Pois quando ganhei meu primeiro computador, lá por volta de 1998, a era do FPS já estava
@@ -28,6 +25,8 @@ vivenciou esta época do nascimento dos jogos de tiro em primeira pessoa.
 Mais de 20 anos se passaram desde o lançamento do DOOM clássico e, mesmo sem ter o jogado,
 pude sentir o carinho e o capricho que os desenvolvedores tiveram para resgatar a essência da
 série com este reboot.
+
+<!--more-->
 
 [DOOM](https://doom.com/en-us/) é um jogo de tiro "raíz", onde ficar parado não é a melhor opção!
 Ele te coloca no meio de uma ação frenética ao som de um rock pesado, onde você enfrenta monstros,

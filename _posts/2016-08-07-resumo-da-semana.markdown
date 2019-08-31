@@ -1,18 +1,20 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Pokémon GO, Novidades do Xbox One, Inside, Clássicos da Disney e mais.. "
-date:       2016-08-07 21:30
-author:     felipebbarbosa
-session:    Drops &#35 18
-categories: noticias
-tags:       [microsoft, xbox-one, ps4, nintendo, gog, disney]
-games:      [inside, prey-for-the-gods, prey]
-thumbnail:  /imgs/posts/news/19_resumo12/post_thumbnail.jpg
-cover:      /imgs/posts/news/19_resumo12/post_header.jpg
-sinopse: >
-  Aeee Pokémon GO saiu no Brasil esta semana! Mas vamos deixá-lo de lado, pois não é novidade nenhuma, todo mundo sabe que ele foi lançado, né? Vamos a s notícias da semana do dia 01/08 à 07/08 de 2016!
+layout: post
+title: "Resumo da Semana - Pokémon GO, Novidades do Xbox One, Inside, Clássicos da Disney e mais.. "
+date: 2016-08-07 21:30
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/08/07/resumo-da-semana.html
+tags: [microsoft, xbox-one, ps4, nintendo, gog, disney, categoria-noticias]
+games: [inside, prey-for-the-gods, prey]
+thumbnail: /imgs/posts/news/19_resumo12/post_thumbnail.jpg
+cover: /imgs/posts/news/19_resumo12/post_header.jpg
 ---
+
 Aeee **Pokémon GO** saiu no Brasil esta semana! Mas vamos deixá-lo de lado, pois não é novidade nenhuma, todo mundo sabe que ele foi lançado, né? Vamos as notícias da semana do dia 01/08 à 07/08 de 2016!
+
+<!--more-->
 
 ## Novidades do Xbox One
 
@@ -20,7 +22,7 @@ Esta semana a **Microsoft** lançou a nova versão remodelada do Xbox One! Por e
 
 {% include image.html url='/imgs/posts/news/19_resumo12/Xbox-One-S-and-original.jpg' description='Nova versão do Xbox One é cerca de 40% menor que a versão original.' %}
 
-Dentre as melhorias apresentadas, a principal delas é o tamanho, que é cerca de 40% menor que a versão original e agora com fonte embutida! Além disso, ele reproduzirá filmes, tanto em Blu-ray quanto em *streaming* (como o Netflix), com saída em 4K Ultra HD.
+Dentre as melhorias apresentadas, a principal delas é o tamanho, que é cerca de 40% menor que a versão original e agora com fonte embutida! Além disso, ele reproduzirá filmes, tanto em Blu-ray quanto em _streaming_ (como o Netflix), com saída em 4K Ultra HD.
 
 E para fechar as novidades Xbox, saiu também uma atualização grande para o Xbox One (e nos aplicativos Xbox) com diversas novidades, entre elas, a possibilidade de ouvir músicas (ou podcasts) de fundo enquanto joga; coleção de jogos foi melhorada; e foi realizada a convergência da Loja Xbox com a do Windows. Mas tem várias outras novidades legais que você pode conferi-las no detalhe no [próprio blog do Xbox](http://blogdoxbox.com/a-nova-atualizacao-do-xbox-one-ja-esta-disponivel/).
 
@@ -48,7 +50,7 @@ E caso você se interesse por eles, corra! Pois até o dia 8/8 de 2016, o pacote
 
 ## Prey for The Gods ganha novo trailer
 
-Fortemente inspirado em Shadow of the Colossus, **Prey for The Gods** da produtora independente **No Matter Studios**, que curiosamente só tem 3 membros, ganhou um novo *trailer* esta semana:
+Fortemente inspirado em Shadow of the Colossus, **Prey for The Gods** da produtora independente **No Matter Studios**, que curiosamente só tem 3 membros, ganhou um novo _trailer_ esta semana:
 
 {% include youtubePlayer.html id='8Zulk8c_8LY' %}
 
@@ -56,7 +58,7 @@ O jogo está sendo financiado através do site **Kickstarter** e tem previsão p
 
 ## Trailer de Prey
 
-Outro jogo *indie* que ganhou *trailer* esta semana foi **Prey**, da produtora **Arkane Studios**, que coincidentemente também só possui três membros. E que apesar dos nomes dos jogos serem "parecidos", não tem nada a ver um com o outro:
+Outro jogo _indie_ que ganhou _trailer_ esta semana foi **Prey**, da produtora **Arkane Studios**, que coincidentemente também só possui três membros. E que apesar dos nomes dos jogos serem "parecidos", não tem nada a ver um com o outro:
 
 {% include youtubePlayer.html id='LNHZ9WAertc' %}
 

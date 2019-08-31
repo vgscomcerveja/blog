@@ -1,24 +1,26 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Gameplay de Cuphead; Novidades do Sonic; Rise of the Tomb Raider para PS4; Pac-Man Championship Edition 2 e mais.. "
-date:       2016-07-24 19:00
-author:     felipebbarbosa
-session:    Drops &#35 16
-categories: noticias
-tags:       [microsoft, xbox-one, sega, sonic, ps4]
-games:      [cuphead, sonic-mania, rise-of-the-tomb-raider]
-thumbnail:  /imgs/posts/news/17_resumo10/post_thumbnail.jpg
-cover:      /imgs/posts/news/17_resumo10/post_header.jpg
-sinopse: >
-  Mais uma semana passou e nada de Pokemon GO aqui no Brasil! Mas sinceramente, quem se importa? Tivemos algumas novidades bacanas, como o novo vídeo de gameplay do jogo Cuphead, o anúncio de novos jogos do Sonic e mais..
-  Confira as notícias da semana do dia 18/07 à 24/07 de 2016!
+layout: post
+title: "Resumo da Semana - Gameplay de Cuphead; Novidades do Sonic; Rise of the Tomb Raider para PS4; Pac-Man Championship Edition 2 e mais.. "
+date: 2016-07-24 19:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/07/24/resumo-da-semana.html
+tags: [microsoft, xbox-one, sega, sonic, ps4, categoria-noticias]
+games: [cuphead, sonic-mania, rise-of-the-tomb-raider]
+thumbnail: /imgs/posts/news/17_resumo10/post_thumbnail.jpg
+cover: /imgs/posts/news/17_resumo10/post_header.jpg
 ---
+
 Mais uma semana passou e nada de Pokemon GO aqui no Brasil! Mas sinceramente, quem se importa? Tivemos algumas novidades bacanas, como o novo vídeo de gameplay do jogo Cuphead, o anúncio de novos jogos do Sonic e mais..
+
 Confira as notícias da semana do dia 18/07 à 24/07 de 2016!
+
+<!--more-->
 
 ## Novo vídeo de Gameplay do jogo Cuphead
 
-Com previsão para sair ainda este ano para Xbox ONE e PC (Steam), [Cuphead](http://cupheadgame.com/) é um jogo de plataforma ao estilo clássico *run & gun* que poderá ser jogado em co-op também. Porém, o que mais chama a atenção são os gráficos absurdamente lindos e inspirados nos desenhos dos anos 1930!
+Com previsão para sair ainda este ano para Xbox ONE e PC (Steam), [Cuphead](http://cupheadgame.com/) é um jogo de plataforma ao estilo clássico _run & gun_ que poderá ser jogado em co-op também. Porém, o que mais chama a atenção são os gráficos absurdamente lindos e inspirados nos desenhos dos anos 1930!
 
 Nesta semana, o pessoal da [Eurogamer](http://www.eurogamer.pt/) teve acesso a demo do jogo e divulgou o vídeo abaixo. Assista:
 
@@ -38,7 +40,7 @@ Assista:
 
 ## Sonic no LEGO Dimensions
 
-[LEGO Dimensions](http://www.lego.com/en-us/dimensions) é um jogo ao estilo de *Skylanders* e *Disney Infinity*, onde interage com brinquedos reais que são transportados para o game. Ele foi lançado no final de 2015 para PS3, PS4, WiiU, Xbox 360 e Xbox One, mas, ele sempre conta com personagens e histórias novas através de *packs*. E a última novidade é o pacote do Sonic que também foi anunciado no evento especial da Sega:
+[LEGO Dimensions](http://www.lego.com/en-us/dimensions) é um jogo ao estilo de _Skylanders_ e _Disney Infinity_, onde interage com brinquedos reais que são transportados para o game. Ele foi lançado no final de 2015 para PS3, PS4, WiiU, Xbox 360 e Xbox One, mas, ele sempre conta com personagens e histórias novas através de _packs_. E a última novidade é o pacote do Sonic que também foi anunciado no evento especial da Sega:
 
 {% include youtubePlayer.html id='EgqMlOMvQNY' %}
 
@@ -70,7 +72,7 @@ O legal deste novo capítulo, chamado de "Blood Ties", é que ele foi criado esp
   url='https://c2.staticflickr.com/9/8777/28319913241_041ae83e5b_z.jpg'
   description='Lara s2'%}
 
-Mas as novidades não param por aí, o jogo contará com uma nova expansão co-op online no modo Endurance e também você poderá jogar com *skins* da Lara clássica! ^^
+Mas as novidades não param por aí, o jogo contará com uma nova expansão co-op online no modo Endurance e também você poderá jogar com _skins_ da Lara clássica! ^^
 
 O jogo sairá dia 11 de Outubro de 2016 para PS4!
 

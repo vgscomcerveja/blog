@@ -4,7 +4,8 @@ title: "MeMe - O Que Você Jogou Em 2015?"
 date: 2016-01-03 19:00
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2016/01/03/meme-o-que-voce-jogou-em-2015.html
 tags:
   [
     nintendo,
@@ -24,7 +25,8 @@ tags:
     master-system,
     sega,
     sonic,
-    especial,
+    categoria-especial,
+    meme-oqvj,
   ]
 games:
   [
@@ -47,13 +49,14 @@ games:
     enslaved,
     uncharted,
   ]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/03_meme2015/post_thumbnail.jpg
 cover: /imgs/posts/especial/03_meme2015/post_header.jpg
-sinopse: >
-  Feliz Ano Novo! Já está se tornando uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico, e nada melhor para isso do que participando do MeMe do Marvox Brasil, que chega à sua 5a edição: "O Que Você Jogou Em 2015?". Esta é minha segunda participação, e o que acho mais legal, é que é uma espécie de confraternização entre os editores de blogs de games! Enfim, vamos lá que a lista é grande, selecionei 20 jogos que mais joguei em 2015! ^^'
 ---
 
 Feliz Ano Novo! Já está se tornando uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico, e nada melhor para isso do que participando do MeMe do [Marvox Brasil](https://marvoxbrasil.wordpress.com/), que chega à sua 5a edição: "O Que Você Jogou Em 2015?". Esta é minha segunda participação, e o que acho mais legal, é que é uma espécie de confraternização entre os editores de blogs de games! Enfim, vamos lá que a lista é grande, selecionei 20 jogos que mais joguei em 2015! ^^'
+
+<!--more-->
 
 ## Super Mario World (SNES)
 

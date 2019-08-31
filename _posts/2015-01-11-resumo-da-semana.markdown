@@ -1,17 +1,20 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.."
-date:       2015-01-11 19:00
-author:     felipebbarbosa
-session:    Drops &#35 07
-categories: noticias
-tags:       [nintendo, razer, resident-evil, nes, android]
-games:      [resident-evil, stadium-events, grim-fandango]
-thumbnail:  /imgs/posts/news/08_resumo03/post_thumbnail.jpg
-cover:      /imgs/posts/news/08_resumo03/post_header.jpg
-sinopse: >
-    Confira algumas novidades da semana!
+layout: post
+title: "Resumo da Semana - Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.."
+date: 2015-01-11 19:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2015/01/11/resumo-da-semana.html
+tags: [nintendo, razer, resident-evil, nes, android, categoria-noticias]
+games: [resident-evil, stadium-events, grim-fandango]
+thumbnail: /imgs/posts/news/08_resumo03/post_thumbnail.jpg
+cover: /imgs/posts/news/08_resumo03/post_header.jpg
 ---
+
+Confira algumas novidades da semana!
+
+<!--more-->
 
 ## Nintendo está fora do Brasil
 
@@ -25,7 +28,7 @@ Fonte: [Nintendo World](http://nintendoworld.com.br//4569-ARTIGOS-O-BRASIL-E-UM-
 
 ## Console da Razer com Android será vendido no Brasil
 
-A **Razer**, para quem não conhece, é uma fabricante de excelentes acessórios para jogadores, tais como, *headsets*, mouses, teclados e afins. Só que agora, ela está investindo em algo um pouco diferente: um console que rodará **Android**!
+A **Razer**, para quem não conhece, é uma fabricante de excelentes acessórios para jogadores, tais como, _headsets_, mouses, teclados e afins. Só que agora, ela está investindo em algo um pouco diferente: um console que rodará **Android**!
 
 O mais interessante é que será vendido no Brasil por R$ 499 ainda no primeiro trimestre. Porém, este valor é da versão sem controle. Se quiser com controle, o preço é de R$ 900.
 
@@ -37,11 +40,11 @@ Fonte: [Info](http://info.abril.com.br/noticias/tecnologia-pessoal/2015/01/conso
 
 ## Resident Evil HD Remaster
 
-Para quem está ansioso para conferir o novo *remake* de **Resident Evil**, já pode realizar a pré-venda em sua plataforma favorita (PSN, Xbox LIVE ou Steam). E para quem está muito ansioso e tem um **Xbox ONE** ou **PlayStation 4**, além de fazer a pré-venda, você já pode realizar o *download* prévio do jogo para garantir que possa jogá-lo nas primeiras horas do lançamento, próximo dia 20!
+Para quem está ansioso para conferir o novo _remake_ de **Resident Evil**, já pode realizar a pré-venda em sua plataforma favorita (PSN, Xbox LIVE ou Steam). E para quem está muito ansioso e tem um **Xbox ONE** ou **PlayStation 4**, além de fazer a pré-venda, você já pode realizar o _download_ prévio do jogo para garantir que possa jogá-lo nas primeiras horas do lançamento, próximo dia 20!
 
 {% include image.html url="/imgs/posts/news/08_resumo03/resident-evil-hd-remaster.jpg" %}
 
-O jogo custa R$ 39,90 em qualquer plataforma. Porém, no **Steam**, o jogador receberá, além do jogo, a trilha sonora e um *artbook* digital.
+O jogo custa R\$ 39,90 em qualquer plataforma. Porém, no **Steam**, o jogador receberá, além do jogo, a trilha sonora e um _artbook_ digital.
 
 Fonte: [REVIL](http://residentevil.com.br/site/category/jogos-2/serie-principal/resident-evil-hd-remaster-serie-principal)
 
@@ -53,7 +56,7 @@ Para quem não conhece, o jogo **Stadium Events** é praticamente o jogo mais ra
 
 {% include image.html url="/imgs/posts/news/08_resumo03/stadium-events.jpg" %}
 
-Porém essa semana, apareceu um lacrado de fábrica no site de leilões [eBay](http://www.ebay.co.uk/itm/111567662630?clk_rvr_id=762680720636&rmvSB=true) e, até o momento, faltando ainda quatro dias para encerrar, o valor se encontra em US$ 99.600,00 com 80 lances.. É muito dinheiro! :P
+Porém essa semana, apareceu um lacrado de fábrica no site de leilões [eBay](http://www.ebay.co.uk/itm/111567662630?clk_rvr_id=762680720636&rmvSB=true) e, até o momento, faltando ainda quatro dias para encerrar, o valor se encontra em US\$ 99.600,00 com 80 lances.. É muito dinheiro! :P
 
 Fonte: [RetroCollect](http://www.retrocollect.com/News/the-rarest-a-most-expensive-nintendo-nes-game-stadium-events-up-for-sale-on-ebay-a-factory-sealed.html)
 

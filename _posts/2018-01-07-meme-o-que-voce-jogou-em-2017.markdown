@@ -4,10 +4,11 @@ title: "MeMe - O Que Você Jogou em 2017?"
 date: 2018-01-07 20:45
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2018/01/07/meme-o-que-voce-jogou-em-2017.html
 tags:
   [
-    especial,
+    categoria-especial,
     android,
     nintendo,
     game-cube,
@@ -23,16 +24,20 @@ tags:
     uncharted,
     gran-turismo,
     indie,
+    meme-oqvj,
   ]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/05_meme2017/thumbnail.jpg
 cover: /imgs/posts/especial/05_meme2017/header.jpg
-sinopse: >
-  Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 7a edição: 'O Que Você Jogou em 2017?' e minha quarta participação. Confira!
 ---
 
 Feliz Ano Novo! \o/
 
-Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 7a edição: "O Que Você Jogou em 2017?" e minha quarta participação. Sem mais delongas, selecionei os 13 melhores jogos que joguei ano passado em ordem cronológica. Confira:
+Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 7a edição: "O Que Você Jogou em 2017?" e minha quarta participação. Sem mais delongas, selecionei os 13 melhores jogos que joguei ano passado em ordem cronológica.
+
+<!--more-->
+
+Confira:
 
 ## Dan The Man (Android)
 

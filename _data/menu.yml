@@ -1,54 +1,58 @@
-- title: Start
+- slug: start
+  title: Start
   url: /
   classe: icon-home
   showtitle: false
-- title: Feed RSS
-  url: http://feeds.feedburner.com/VideogamesComCerveja
-  classe: icon-rss
-  showtitle: false
-- title: Notícias
-  url: /noticias/
-  classe: icon-newspaper
-  showtitle: false
-- title: Troféus
-  url: /jogando/trofeus
-  classe: icon-award
-  showtitle: false
-- title: Jogando
-  url: /jogando/
-  classe: icon-gamepad
+
+- slug: categorias
+  title: Categorias
   subitems:
     - title: Análises
-      url: /jogando/analise/
-    - title: Especiais
-      url: /jogando/especial/
-    - title: Toplist
-      url: /jogando/toplist/
-    - title: Troféus
-      url: /jogando/trofeus/
-- title: Colecionando
-  url: /colecionando/
-  classe: icon-database
-  subitems:
+      url: /analises
     - title: Coleção Pessoal
-      url: /colecionando/colecao-pessoal/
+      url: /colecao-pessoal
+    - title: Especiais
+      url: /especiais
+    - title: Listas
+      url: /listas
+    - title: Notícias
+      url: /noticias
+    - title: Utilidade Pública
+      url: /utilidade-publica
+
+- slug: series
+  title: Colunas / Séries
+  subitems:
+    - title: Caçadores de Troféus
+      url: /cacadores-de-trofeus
+      logo: /imgs/tags/cacadores-de-trofeus.png
+    #    - title: Cervejando
+    #      url: /cervejando
+    #      logo: /imgs/tags/cervejando.png
     - title: Edição de Colecionador
-      url: /colecionando/edicao-colecionador/
+      url: /edicao-colecionador
+      logo: /imgs/tags/edicao-colecionador.png
+    - title: Faça Você Mesmo
+      url: /faca-voce-mesmo
+      logo: /imgs/tags/faca-vc-mesmo.png
+    - title: Game DB
+      url: /game-db
+      logo: /imgs/tags/game-db.png
+    - title: Game Over
+      url: /game-over
+      logo: /imgs/tags/game-over.png
     - title: Mosca Branca
-      url: /colecionando/mosca-branca/
-- title: Utilidade Pública
-  url: /utilidade-publica/
-  classe: icon-fort-awesome
-  showtitle: false
-- title: Twitter
-  url: https://www.twitter.com/vgscomcerveja
-  classe: icon-twitter
-  showtitle: false
-- title: Facebook
-  url: https://www.facebook.com/vgscomcerveja
-  classe: icon-facebook
-  showtitle: false
-- title: Instagram
-  url: https://www.instagram.com/vgscomcerveja
-  classe: icon-instagram
-  showtitle: false
+      url: /mosca-branca
+      logo: /imgs/tags/mosca-branca.png
+    - title: Pecados Gamísticos
+      url: /pecados-gamisticos
+      logo: /imgs/tags/pecados-gamisticos.png
+    - title: VCC Racing
+      url: /vcc-racing
+      logo: /imgs/tags/vccracing.png
+    - title: VCC Recomenda!
+      url: /vcc-recomenda
+      logo: /imgs/tags/vcc-recomenda.png
+#    - title: Videogames em Latas
+#      url: /videogames-em-latas
+#      logo: /imgs/tags/vgs-em-latas.png

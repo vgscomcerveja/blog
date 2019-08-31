@@ -4,30 +4,29 @@ title: "Lista de jogos de Master System exclusivos Tectoy para o Brasil"
 date: 2011-01-22 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
-session: Utilidade Pública &#35 01
-categories: colecionando utilidade-publica
-tags: [sega, master-system, tectoy, lists, utilidade-publica]
+session: Game DB
+categories: games colecionando
+redirect_from: /colecionando/utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html
+tags:
+  [
+    sega,
+    master-system,
+    tectoy,
+    complete-lists,
+    categoria-utilidade-publica,
+    serie-game-db,
+  ]
+related: complete-lists
 games: [phantasy-star]
 thumbnail: /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_header.jpg
-sinopse: >
-  A Tectoy foi sinônimo de Sega na década de 90 para nós brasileiros! Pois, além de ser a
-  representante oficial da marca no Brasil, realizou um trabalho impressionante no mercado brasileiro
-  de jogos. Marketing de primeira, dicas de jogos por telefone, manuais e embalagens totalmente
-  em português, e mais além ainda, produziu jogos exclusivos, seja traduções de jogos para o
-  português, adaptações de jogos para o cenário nacional, adaptações de jogos de Game Gear e até
-  mesmo produções nacionais.
 ---
 
-A **Tectoy** foi sinônimo de **Sega** na década de 90 para nós brasileiros! Pois, além de ser a
-representante oficial da marca no Brasil, realizou um trabalho impressionante no mercado brasileiro
-de jogos. Marketing de primeira, dicas de jogos por telefone, manuais e embalagens totalmente
-em português, e mais além ainda, produziu jogos exclusivos, seja traduções de jogos para o
-português, adaptações de jogos para o cenário nacional, adaptações de jogos de **Game Gear** e até
-mesmo produções nacionais.
+A **Tectoy** foi sinônimo de **Sega** na década de 90 para nós brasileiros! Pois, além de ser a representante oficial da marca no Brasil, realizou um trabalho impressionante no mercado brasileiro de jogos. Marketing de primeira, dicas de jogos por telefone, manuais e embalagens totalmente em português, e mais além ainda, produziu jogos exclusivos, seja traduções de jogos para o português, adaptações de jogos para o cenário nacional, adaptações de jogos de **Game Gear** e até mesmo produções nacionais.
 
-Esse jogos se tornaram muito procurados por colecionadores do mundo
-inteiro e por consequência se tornaram raros até mesmo para nós brasileiros:
+<!--more-->
+
+Esse jogos se tornaram muito procurados por colecionadores do mundo inteiro e por consequência se tornaram raros até mesmo para nós brasileiros:
 
 | Título                                              | Ano  | Observações                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

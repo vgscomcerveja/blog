@@ -1,18 +1,31 @@
 ---
-layout:     post
-title:      "Resumo da Semana - PlayStation Plus mais cara, Restaurante Nintendo, Games with Gold e mais.."
-date:       2016-08-28 18:00
-author:     felipebbarbosa
-session:    Drops &#35 20
-categories: noticias
-tags:       [sony, ps-plus, microsoft, games-with-gold, nintendo, resident-evil, square-enix, tomb-raider]
-games:      [resident-evil-7, rise-of-the-tomb-raider]
-thumbnail:  /imgs/posts/news/21_resumo14/post_thumbnail.jpg
-cover:      /imgs/posts/news/21_resumo14/post_header.jpg
-sinopse: >
-  Olá caro leitor, como vai? Essa semana separei algumas novidades, entre elas o aumento do valor da assinatura da PlayStation Plus, a inauguração do primeiro restaurante da Nintendo no Japão, novidades de Resident Evil 7, jogos gratuitos do Games with Gold do mês de Setembro e mais..
+layout: post
+title: "Resumo da Semana - PlayStation Plus mais cara, Restaurante Nintendo, Games with Gold e mais.."
+date: 2016-08-28 18:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/08/28/resumo-da-semana.html
+tags:
+  [
+    sony,
+    ps-plus,
+    microsoft,
+    games-with-gold,
+    nintendo,
+    resident-evil,
+    square-enix,
+    tomb-raider,
+    categoria-noticias,
+  ]
+games: [resident-evil-7, rise-of-the-tomb-raider]
+thumbnail: /imgs/posts/news/21_resumo14/post_thumbnail.jpg
+cover: /imgs/posts/news/21_resumo14/post_header.jpg
 ---
+
 Olá caro leitor, como vai? Essa semana separei algumas novidades, entre elas o aumento do valor da assinatura da PlayStation Plus, a inauguração do primeiro restaurante da Nintendo no Japão, novidades de Resident Evil 7, jogos gratuitos do Games with Gold do mês de Setembro e mais..
+
+<!--more-->
 
 ## Assinatura da PlayStation Plus irá aumentar em Setembro
 
@@ -45,7 +58,7 @@ Ainda há um mistério muito grande em relação ao novo Resident Evil, e qualqu
 
 {% include image.html url="/imgs/posts/news/21_resumo14/re7.jpg" %}
 
-*"Este é um jogo de survival-horror onde os jogadores assumem o papel de Ethan, um homem em busca da esposa desaparecida em uma mansão abandonada. De perspectiva em primeira pessoa, os jogadores exploram o ambiente e usam pistolas, escopetas, lança-chamas, explosivos e serra-elétrica para matar criaturas mutantes. Combate é acompanhado por tiroteios realísticos, gritos de dor, e efeitos exagerados de respingos de sangue. Enquanto os jogadores progridem na história, cenas de diálogo podem ilustrar instâncias de gore e ato intensos de violência: o braço de um personagem é desmembrado por uma motoserra; a perna de um homem é arrancada de seu joelho com uma pá; um personagem é empalado através da face com uma pá. Algumas áreas também ilustram corpos mutilados com órgãos e vísceras expostos. As palavras 'f$%a-se'e 'm$%da' são ouvidas nos diálogos"*
+_"Este é um jogo de survival-horror onde os jogadores assumem o papel de Ethan, um homem em busca da esposa desaparecida em uma mansão abandonada. De perspectiva em primeira pessoa, os jogadores exploram o ambiente e usam pistolas, escopetas, lança-chamas, explosivos e serra-elétrica para matar criaturas mutantes. Combate é acompanhado por tiroteios realísticos, gritos de dor, e efeitos exagerados de respingos de sangue. Enquanto os jogadores progridem na história, cenas de diálogo podem ilustrar instâncias de gore e ato intensos de violência: o braço de um personagem é desmembrado por uma motoserra; a perna de um homem é arrancada de seu joelho com uma pá; um personagem é empalado através da face com uma pá. Algumas áreas também ilustram corpos mutilados com órgãos e vísceras expostos. As palavras 'f$%a-se'e 'm$%da' são ouvidas nos diálogos"_
 
 Como disse, surgem mais dúvidas no ar! O jogo está com mais cara de Silent Hill do que Resident Evil, mas mesmo assim, estou muito curioso em jogá-lo! Ele sairá dia 24 de Janeiro de 2017 para PS4, Xbox One e PC.
 

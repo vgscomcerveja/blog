@@ -1,25 +1,22 @@
 ---
-layout:     post
-title:      "6 adventures rápidos e fáceis para PS4 (e que não são da Telltale)"
-date:       2018-03-06 21:30
-author:     felipebbarbosa
-session:    Toplist &#35 11 - Caçadores de Troféus &#35 02
-categories: jogando toplist
-tags:       [sony, ps4, trofeus, lists, toplist]
-thumbnail:  /imgs/posts/toplist/11_cacadores_trofeus2/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/11_cacadores_trofeus2/post_header.jpg
-sinopse:
-  O PlayStation 4 está recheado de bons adventures ao clássico estilo point-and-click. E que apesar de
-  alguns oferecer um nível de dificuldade razoável, a grande maioria possui troféus fáceis de serem
-  adquiridos. Selecionei 6 adventures dos quais eu já joguei e conquistei seu respectivo troféu de
-  platina. Confira!
-
+layout: post
+title: "6 adventures rápidos e fáceis para PS4 (e que não são da Telltale)"
+date: 2018-03-06 21:30
+author: felipebbarbosa
+session: Caçadores de Troféus 
+categories: games jogando
+redirect_from: /jogando/toplist/2018/03/06/adventures-rapidos-e-faceis.html
+tags: [sony, ps4, categoria-lista, serie-cacadores-trofeus]
+related: serie-cacadores-trofeus
+thumbnail: /imgs/posts/toplist/11_cacadores_trofeus2/post_thumbnail.jpg
+cover: /imgs/posts/toplist/11_cacadores_trofeus2/post_header.jpg
 ---
-Olá jogadores cervejeiros, tudo bom?
 
 Como devem saber, a **Telltale** foi uma das responsáveis em trazer de volta o estilo que foi bem popular nos jogos de PCs dos anos 90: os adventures point-and-click! Porém, o foco da produtora é quase que totalmente na narrativa, deixando de lado o maior atrativo dos clássicos que são os puzzles, que muitas vezes eram de quebrar a cabeça.. literalmente!
 
 Mas como não é só de Telltale que vivem os adventures, selecionei 6 deles que não são da produtora, mas representam muito bem o estilo, seja com foco na narrativa, nos puzzles ou em ambos, porém todos com uma característica em comum: possuem troféus fáceis de serem adquiridos! :)
+
+<!--more-->
 
 ### Deponia
 
@@ -83,8 +80,9 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
   online="Não"
   jogadas="1" %}
 
-  {% include featured-box.html
-    content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
+{% include achivement-unlock.html
+    content="Disponível no Xbox One!"
+    points="1000" %}
 
 ### The Little Acre
 
@@ -115,8 +113,9 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
   online="Não"
   jogadas="1" %}
 
-  {% include featured-box.html
-    content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
+{% include achivement-unlock.html
+    content="Disponível no Xbox One!"
+    points="1000" %}
 
 ### Late Shift
 
@@ -146,8 +145,9 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
   online="Não"
   jogadas="1 (com algumas repetições de capítulos)" %}
 
-  {% include featured-box.html
-    content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
+{% include achivement-unlock.html
+    content="Disponível no Xbox One!"
+    points="1000" %}
 
 ### Dying: Reborn
 
@@ -174,8 +174,9 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
   online="Não"
   jogadas="1" %}
 
-  {% include featured-box.html
-    content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
+{% include achivement-unlock.html
+    content="Disponível no Xbox One!"
+    points="1000" %}
 
 ### Demetrios: The Big Cynical Adventure
 
@@ -203,8 +204,9 @@ Tirando isso, os outros troféus são bem tranquilos, bastando dar uma olhada ne
   online="Não"
   jogadas="1" %}
 
-{% include featured-box.html
-  content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
+{% include achivement-unlock.html
+    content="Disponível no Xbox One!"
+    points="1000" %}
 
 ---
 

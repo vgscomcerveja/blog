@@ -1,20 +1,20 @@
 ---
-layout:     post
-title:      "5 'coisas' (relacionadas à games) que recomendo!"
-date:       2017-04-15 18:00
-author:     felipebbarbosa
-session:    Toplist &#35 06
-categories: jogando toplist
-tags:       [livros, mega-drive, lists, toplist]
-thumbnail:  /imgs/posts/toplist/06_coisas_recomendo_1/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/06_coisas_recomendo_1/post_header.jpg
-sinopse: >
-  Vira e mexe eu descubro coisas legais relacionadas à games, que não são necessariamente jogos, mas que gostaria de compartilhar com vocês, só não sabia como! Então, tive a ideia de criar essa série de dicas: "5 'coisas' que recomendo" (eu sei, esse nome não é bom, né? aceito sugestões) onde pretendo escrever sempre que tiver algumas interessantes para compartilhar, tais como, livros, aplicativos, sites, eventos, podcasts e entre outras relacionadas ao universo dos games.. Espero que gostem! :)
-
+layout: post
+title: "5 'coisas' (relacionadas à games) que recomendo!"
+date: 2017-04-15 18:00
+author: felipebbarbosa
+session: VCC Recomenda!
+categories: games jogando
+redirect_from: /jogando/toplist/2017/04/15/5-coisas-que-recomendo-abril.html
+tags: [livros, mega-drive, categoria-lista, serie-vcc-recomenda]
+related: serie-vcc-recomenda
+thumbnail: /imgs/posts/toplist/06_coisas_recomendo_1/post_thumbnail.jpg
+cover: /imgs/posts/toplist/06_coisas_recomendo_1/post_header.jpg
 ---
-Olá jogadores cervejeiros, tudo bom?
 
 Vira e mexe eu descubro coisas legais relacionadas à games, que não são necessariamente jogos, mas que gostaria de compartilhar com vocês, só não sabia como! Então, tive a ideia de criar essa série de dicas: "5 'coisas' que recomendo" (eu sei, esse nome não é bom, né? aceito sugestões) onde pretendo escrever sempre que tiver algumas interessantes para compartilhar, tais como, livros, aplicativos, sites, eventos, podcasts e entre outras relacionadas ao universo dos games.. Espero que gostem! :)
+
+<!--more-->
 
 ### Livro - 1983+1984: Quando os Videogames Chegaram
 
@@ -28,7 +28,7 @@ Entretanto, caso prefira algo físico, o autor está realizando uma pré-venda l
   url="/imgs/posts/toplist/06_coisas_recomendo_1/livro-1983+1984-impresso.jpg"
   description="Foto 'roubada' do Facebook do Marcus! :)" %}
 
-O valor final do livro está estimado em algo em torno de R$ 159,00 + frete e, o volume será no formato 20,2 x 26,6 cm, contendo aproximadamente 150 páginas em impressão colorida e em papel couché de gramatura 115, capa dura e acabamento do tipo luxo. Cada exemplar será numerado manualmente e assinado pelo autor.. Bem legal, né?
+O valor final do livro está estimado em algo em torno de R\$ 159,00 + frete e, o volume será no formato 20,2 x 26,6 cm, contendo aproximadamente 150 páginas em impressão colorida e em papel couché de gramatura 115, capa dura e acabamento do tipo luxo. Cada exemplar será numerado manualmente e assinado pelo autor.. Bem legal, né?
 
 ### Livro - Mega Drive Definitivo
 
@@ -39,7 +39,7 @@ A segunda recomendação é outro livro feito por entusiastas! Trata-se do **Meg
 
 Para que este livro saísse do papel, foi realizada uma [campanha de financiamento coletivo](https://www.catarse.me/megadrive) que foi encerrada no último dia 10 de Abril e atingiu mais de 300% da meta inicial! (Impressionante, não? oO)
 
-O valor do livro é de R$ 149 e está [disponível para compra (pré-venda) no próprio site da WarpZone](http://warpzone.me/loja/produto/mega-drive-definitivo/). Detalhe: se você comprar o livro até o próximo dia 21 de Abril, seu nome estará nos créditos do livro e o frete é gratuito. (Eu já garanti o meu! ^^')
+O valor do livro é de R\$ 149 e está [disponível para compra (pré-venda) no próprio site da WarpZone](http://warpzone.me/loja/produto/mega-drive-definitivo/). Detalhe: se você comprar o livro até o próximo dia 21 de Abril, seu nome estará nos créditos do livro e o frete é gratuito. (Eu já garanti o meu! ^^')
 
 ### Evento - 39° Encontro Canal 3 (SP)
 
@@ -68,7 +68,7 @@ Com este aplicativo, você tem três maneiras de cadastrar sua coleção: cadast
 
 Além das informações do próprio jogo, tais como, produtor, gênero e ano de lançamento, você pode colocar dados pessoais como, data de quando você terminou, sua avaliação do jogo, estado que jogo se encontra na sua coleção: completo na caixa, só o disco/cartucho e por aí vai! A única coisa que sinto falta é de um campo para preencher a data de aquisição do jogo, mas que pode ser contornada usando o campo de "outras informações" genérico! :)
 
-Ele é gratuito e contém propagandas, porém a versão Premium não é tão cara (R$ 10) e resolve este problema! :P
+Ele é gratuito e contém propagandas, porém a versão Premium não é tão cara (R\$ 10) e resolve este problema! :P
 
 ---
 

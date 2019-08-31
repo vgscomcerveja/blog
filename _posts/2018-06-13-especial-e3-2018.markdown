@@ -1,22 +1,37 @@
 ---
-layout:     post
-title:      "O que gostei da E3 2018"
-date:       2018-06-13 18:45
-author:     felipebbarbosa
-session:    Especial
-categories: jogando especial
-tags:       [lists, e3, especial, sony, microsoft, naughty-dog, resident-evil, tomb-raider, limitedrun, kojima, indie, square-enix, xbox-one, ps4, capcom]
-thumbnail:  /imgs/posts/especial/06_e32018/post_thumbnail.jpg
-cover:      /imgs/posts/especial/06_e32018/post_header.jpg
-sinopse:
-  Mais uma E3 se passou e, como sempre, muitas novidades foram reveladas. Algumas já conhecidas, mas
-  outras que pegaram todo mundo de surpresa! Confira o que eu curti desta E3...
-
+layout: post
+title: "O que gostei da E3 2018"
+date: 2018-06-13 18:45
+author: felipebbarbosa
+session: Drops // Especial
+categories: games jogando
+redirect_from: /jogando/especial/2018/06/13/especial-e3-2018.html
+tags:
+  [
+    e3,
+    sony,
+    microsoft,
+    naughty-dog,
+    resident-evil,
+    tomb-raider,
+    limitedrun,
+    kojima,
+    indie,
+    square-enix,
+    capcom,
+    categoria-especial,
+    categoria-listas,
+    categoria-noticias,
+  ]
+related: e3
+thumbnail: /imgs/posts/especial/06_e32018/post_thumbnail.jpg
+cover: /imgs/posts/especial/06_e32018/post_header.jpg
 ---
-Olá jogadores cervejeiros, tudo bom?
 
 Mais uma E3 se passou e, como sempre, muitas novidades foram reveladas. Algumas já conhecidas, mas
 outras que pegaram todo mundo de surpresa! Confira o que eu curti desta E3...
+
+<!--more-->
 
 ## Compras de estúdios pela Microsoft
 
@@ -127,33 +142,33 @@ E já tem data de lançamento: 25 de Janeiro de 2019! Sairá para PC, PS4 e Xbox
 Eis outros jogos que também achei interessantes:
 
 - [Battletoads](https://www.youtube.com/watch?v=-yrE9RU6DN4) - Apesar de não ser fã da série,
-mas fiquei muito curioso para saber o que a [Rare](https://www.rare.co.uk/) irá trazer neste novo Battletoads exclusivo para Xbox.
+  mas fiquei muito curioso para saber o que a [Rare](https://www.rare.co.uk/) irá trazer neste novo Battletoads exclusivo para Xbox.
 - [Shadow of the Tomb Raider](https://www.youtube.com/watch?v=NbvOjcn3wfc) - Se é Tomb Raider, vou
-jogar! O jogo sai dia 14 de Setembro para PS4 e Xbox One.
+  jogar! O jogo sai dia 14 de Setembro para PS4 e Xbox One.
 - [Overkill's The Walking Dead](https://www.youtube.com/watch?v=CsDbQPUYn6E) - Foi "apresentado" o
-gameplay e será lançado no dia 6 de Novembro para PS4 e Xbox One.
+  gameplay e será lançado no dia 6 de Novembro para PS4 e Xbox One.
 - [Marvel's Spider-Man](https://www.youtube.com/watch?v=X3ricWI0KHE) - Gostei bastante deste novo
-Homem-Aranha, pois lembrou bastante os de PS1! Será lançado exclusivamente para PS4 no dia 2 de Setembro.
+  Homem-Aranha, pois lembrou bastante os de PS1! Será lançado exclusivamente para PS4 no dia 2 de Setembro.
 - [Forza Horizon 4](https://www.youtube.com/watch?v=VmQNo8xtcAg) - Apesar de ter jogado apenas o primeiro,
-a série Horizon é muito empolgante e este novo está com um visual impressionante.
+  a série Horizon é muito empolgante e este novo está com um visual impressionante.
 - [Call of Cthulhu](https://www.youtube.com/watch?v=uHrTKSrhgLo) - Me pareceu um jogo de investigação
-interessante.
+  interessante.
 - [Days Gone](https://www.youtube.com/watch?v=VDpHSP0e_U4) - Jogo de zumbi? Aceito.
-Data de lançamento: 22 de Fevereiro de 2019 para PS4.
+  Data de lançamento: 22 de Fevereiro de 2019 para PS4.
 - [Sable](https://www.youtube.com/watch?v=y8bcIzVtLhQ) - Me chamou a atenção pelo visual curioso.
 - [Sekiro: Shadows Die Twice](https://www.youtube.com/watch?v=7p_F59_7ybk) - Outro jogo de samurai que
-parece ser interessante também! Este é da [FromSoftware](http://www.fromsoftware.jp/ww/) para 2019.
+  parece ser interessante também! Este é da [FromSoftware](http://www.fromsoftware.jp/ww/) para 2019.
 - [Tom Clancy's The Division 2](https://www.youtube.com/watch?v=dMNH80CuYK8) - Confesso que fiquei
-com vontade de jogar o primeiro depois de ver este trailer do segundo.
+  com vontade de jogar o primeiro depois de ver este trailer do segundo.
 - [Dying Light 2](https://www.youtube.com/watch?v=5PO-Fl_-JxI) - Também não joguei o primeiro, mas
-como fã da temática, gostei do que vi.
+  como fã da temática, gostei do que vi.
 - [Cuphead DLC](https://www.youtube.com/watch?v=3hk50ueWS5E) - Novas fases, chefões e a personagem Ms. Chalice. Previsto para 2019.
 - [Gears 5](https://www.youtube.com/watch?v=R3ooHNIYwhE) - Apesar de ainda não ter terminado nenhum,
-Gears of War é uma série que tenho muita admiração e vontade de jogar!
+  Gears of War é uma série que tenho muita admiração e vontade de jogar!
 - [The Walking Dead - The Final Season](https://www.youtube.com/watch?v=ucTa41ucU_E) - Revelado a
-data da temporada final: 14 de Agosto.
+  data da temporada final: 14 de Agosto.
 - [Control](https://www.youtube.com/watch?v=oFjb_vlCsRA) - Um curioso jogo da [Remedy](https://www.remedygames.com/)
-previsto para 2019.
+  previsto para 2019.
 
 ---
 

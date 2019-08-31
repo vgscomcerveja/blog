@@ -1,18 +1,30 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Nintendo NX e Jogos Grátis.. "
-date:       2016-07-31 21:00
-author:     felipebbarbosa
-session:    Drops &#35 17
-categories: noticias
-tags:       [nintendo, ps4, tomb-raider, microsoft, games-with-gold, sony, ps-plus]
-games:      [life-is-strange, rise-of-the-tomb-raider]
-thumbnail:  /imgs/posts/news/18_resumo11/post_thumbnail.jpg
-cover:      /imgs/posts/news/18_resumo11/post_header.jpg
-sinopse: >
-  Vamos a mais um Resumo da Semana com novos rumores sobre o Nintendo NX, jogos grátis e nada de Pokémon GO.. Confira as notícias da semana do dia 25/07 à 31/07 de 2016!
+layout: post
+title: "Resumo da Semana - Nintendo NX e Jogos Grátis.. "
+date: 2016-07-31 21:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/07/31/resumo-da-semana.html
+tags:
+  [
+    nintendo,
+    ps4,
+    tomb-raider,
+    microsoft,
+    games-with-gold,
+    sony,
+    ps-plus,
+    categoria-noticias,
+  ]
+games: [life-is-strange, rise-of-the-tomb-raider]
+thumbnail: /imgs/posts/news/18_resumo11/post_thumbnail.jpg
+cover: /imgs/posts/news/18_resumo11/post_header.jpg
 ---
+
 Vamos a mais um **Resumo da Semana** com novos rumores sobre o **Nintendo NX**, jogos grátis e nada de Pokémon GO.. Confira as notícias da semana do dia 25/07 à 31/07 de 2016!
+
+<!--more-->
 
 ## Novos rumores do Nintendo NX
 
@@ -21,7 +33,7 @@ Que a **Nintendo** está desenvolvendo um novo console não é novidade, o **Nin
 {% include image.html
   url='/imgs/posts/news/18_resumo11/nintendo-nx.jpg' %}
 
-Esta semana, o site [Eurogamer apontou que o console poderá usar cartuchos ao invés de discos](http://www.eurogamer.pt/articles/2016-06-24-rumor-nintendo-nx-usara-cartuchos)! O indício surgiu após o registro do novo *The Legend of Zelda: Breath of the Wild* se referir à cartuchos. Sendo assim, ou jogo terá uma versão para Nintendo 3DS, ou realmente o NX usará cartuchos, o que não é de se espantar, pois existem cartões de memória com capacidade suficientes para armazenar um jogo e, ainda por cima, são bem mais rápidos que as mídias ópticas. A única coisa que ainda atrapalha é o preço, mas vamos esperar para ver, né?
+Esta semana, o site [Eurogamer apontou que o console poderá usar cartuchos ao invés de discos](http://www.eurogamer.pt/articles/2016-06-24-rumor-nintendo-nx-usara-cartuchos)! O indício surgiu após o registro do novo _The Legend of Zelda: Breath of the Wild_ se referir à cartuchos. Sendo assim, ou jogo terá uma versão para Nintendo 3DS, ou realmente o NX usará cartuchos, o que não é de se espantar, pois existem cartões de memória com capacidade suficientes para armazenar um jogo e, ainda por cima, são bem mais rápidos que as mídias ópticas. A única coisa que ainda atrapalha é o preço, mas vamos esperar para ver, né?
 
 ## Life is Strange tem primeiro episódio grátis!
 
@@ -33,7 +45,7 @@ Esta semana, o site [Eurogamer apontou que o console poderá usar cartuchos ao i
 
 [Semana passada foi confirmado o lançamento de Rise of the Tomb Raider para PS4](/noticias/2016/07/24/resumo-da-semana.html) com diversos "bônus", e agora temos mais uma novidade: quem comprar o jogo na pré-venda, ganhará o Tomb Raider: Definitive Edition gratuitamente, entretanto, só vale para a compra antecipada do jogo digital, o que é uma pena! :(
 
-Lembrando que o jogo sairá por R$ 250 no dia 11 de Outubro de 2016.
+Lembrando que o jogo sairá por R\$ 250 no dia 11 de Outubro de 2016.
 
 ## Games with Gold do mês de Agosto
 

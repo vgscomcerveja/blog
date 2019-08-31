@@ -3,16 +3,19 @@ layout: post
 title: "Como funciona o sistema de troféus da Sony"
 date: 2017-03-30 22:00
 author: felipebbarbosa
-session: Utilidade Pública &#35 09
-categories: jogando utilidade-publica
-tags: [sony, ps3, psvita, ps4, trofeus, utilidade-publica]
+session: Caçadores de Troféus
+categories: games jogando
+redirect_from: /jogando/utilidade-publica/2017/03/30/como-funciona-sistema-trofeus-sony.html
+tags:
+  [sony, ps3, psvita, ps4, categoria-utilidade-publica, serie-cacadores-trofeus]
+related: serie-cacadores-trofeus
 thumbnail: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_header.jpg
-sinopse: >
-  Quando a Microsoft lançou o Xbox 360 em 2005, trouxe com ele várias inovações bacanas, sendo uma delas, minha favorita: o sistema de reputação do jogador, que é computado através das Conquistas (os famosos Achievements, em inglês) que cada jogo disponibiliza. Tal recurso, inspirou várias outras plataformas à fazerem um sistema similar, inclusive sua maior concorrente, a Sony, foi a primeira com seu sistema de troféus! Sobre ele que irei comentar um pouquinho... Tá, isso pode não ser novidade para muita gente, mas você sabe como funciona? Sabe quantos pontos cada troféu lhe fornece? E de quantos você precisa para subir um nível? Continue a leitura e descubra... :)
 ---
 
-Quando a **Microsoft** lançou o Xbox 360 em 2005, trouxe com ele várias inovações bacanas, sendo uma delas, minha favorita: o sistema de reputação do jogador, que é computado através das Conquistas (os famosos _Achievements_, em inglês) que cada jogo disponibiliza. Tal recurso, inspirou várias outras plataformas à fazerem um sistema similar, inclusive sua maior concorrente, a **Sony**, foi a primeira com seu sistema de troféus! É sobre ele que irei comentar um pouquinho... Tá, isso pode não ser novidade para muita gente, mas você sabe como funciona? Sabe quantos pontos cada troféu lhe fornece? E de quantos você precisa para subir um nível? Continue a leitura e descubra... :)
+Quando a **Microsoft** lançou o Xbox 360 em 2005, trouxe com ele várias inovações bacanas, sendo uma delas, minha favorita: o sistema de reputação do jogador, que é computado através das **Conquistas** (os famosos _Achievements_, em inglês) que cada jogo disponibiliza. Tal recurso, inspirou várias outras plataformas à fazerem um sistema similar, inclusive sua maior concorrente, a **Sony**, foi a primeira com seu sistema de troféus! É sobre ele que irei comentar um pouquinho... Tá, isso pode não ser novidade para muita gente, mas você sabe como funciona? Sabe quantos pontos cada troféu lhe fornece? E de quantos você precisa para subir um nível? Continue a leitura e descubra... :)
+
+<!--more-->
 
 ### O que são troféus e como obtê-los?
 
@@ -20,11 +23,11 @@ Os troféus são uma espécie de recompensa extra oferecida ao jogador quando o 
 
 {% include image.html url="/imgs/posts/utilidade_publica/09_trofeus_playstation/ps-trofeus.jpg" %}
 
-Bom, os troféus são classificados em bronze, prata ou ouro de acordo com o nível de dificuldade para obtê-los e, se conseguir pegar todos do jogo, você ganhará o cobiçado troféu de platina, que é único por jogo (mas não são todos jogos que tem, explicarei mais abaixo).
+Bom, os troféus são classificados em **bronze**, **prata** ou **ouro** de acordo com o nível de dificuldade para obtê-los e, se conseguir pegar todos do jogo, você ganhará o cobiçado troféu de **platina**, que é único por jogo (mas não são todos jogos que tem, explicarei mais abaixo).
 
-Se você olhar a lista de troféus do jogo, irá notar que cada troféu possui um descritivo rápido de como obtê-lo, aí é só cumprir o que ele pede que será seu! Porém, alguns não revelam sua identidade, são os chamados troféus escondidos. Estes, você terá que conquistá-los na raça, geralmente são troféus de terminar o jogo, mas não se preocupe, existem vários sites que revelam para você o que precisa fazer (ver "Redes de caçadores de troféus" abaixo).
+Se você olhar a lista de troféus do jogo, irá notar que cada troféu possui um descritivo rápido de como obtê-lo, aí é só cumprir o que ele pede que será seu! Porém, alguns não revelam sua identidade, são os chamados **troféus escondidos**. Estes, você terá que conquistá-los na raça, mas são, geralmente, troféus de terminar o jogo ou relacionados à história (para evitar spoiler?). Mas não se preocupe, existem vários sites que revelam para você o que precisa fazer (ver "Redes de caçadores de troféus" abaixo).
 
-A partir do PS4, a Sony colocou um elemento adicional aos troféus: nível de raridade, classificando os como comum, raro, muito raro e ultrararo, baseado na quantidade de jogadores que conquistaram determinado troféu.
+A partir do PS4, a Sony colocou um elemento adicional aos troféus: **nível de raridade**, classificando os como **comum**, **raro**, **muito raro** e **ultrararo**, baseado na quantidade de jogadores que conquistaram determinado troféu.
 
 | Raridade   | % de jogadores que conquistaram |
 | ---------- | ------------------------------- |
@@ -35,7 +38,7 @@ A partir do PS4, a Sony colocou um elemento adicional aos troféus: nível de ra
 
 ### Sistema de pontuação e valores dos troféus
 
-Os troféus serão sempre vinculados ao usuário logado no seu PlayStation e para cada troféu obtido você ganhará "x" pontos e, a cada "x" pontos, você evolui de nível (level). Sendo os valores dos troféus distribuídos da seguinte forma:
+Os troféus serão sempre vinculados ao usuário logado no seu PlayStation e para cada troféu obtido você ganhará "x" pontos e a cada "x" pontos, você evolui de nível (level). Sendo os valores dos troféus distribuídos da seguinte forma:
 
 | Troféu  | Pontos     |
 | ------- | ---------- |
@@ -82,14 +85,14 @@ E a quantidade de pontos que você precisa ter para chegar ao próximo nível, r
 
 A partir do nível 26, você precisará sempre de 10.000 pontos para subir para o próximo nível.
 
-Os troféus são vinculados ao seu usuário PlayStation e você pode optar por deixar seus troféus abertos publicamente, podendo assim, outros usuários visualizar e comparar os troféus deles com os seus (essa é a um pouco da graça do negócio). Além disso, é usual usar a mesma conta em outras plataformas PlayStation para aumentar ainda mais o nível do seu perfil. Atualmente, os sistemas que possuem suporte à troféus são: o PS3, PS4 e o PS Vita.
+Os troféus são vinculados ao seu usuário na **PlayStation Network** e você pode optar por deixar seus troféus abertos publicamente, podendo assim, outros usuários visualizar e comparar os troféus deles com os seus (essa é a um pouco da graça do negócio). Mas você pode optar por não compartilhar suas conquistas. Além disso, é usual usar a mesma conta em outras plataformas PlayStation para aumentar ainda mais o nível do seu perfil. Atualmente, os sistemas que possuem suporte à troféus são: o **PS3**, **PS4** e o **PS Vita**.
 
 {% include image.html url="/imgs/posts/utilidade_publica/09_trofeus_playstation/perfil-psn-felipebbarbosa.jpg"
    description="Meu perfil PlayStation, me adicionem! :)" %}
 
 ### Redes de caçadores de troféus
 
-Além de poder visualizar seus troféus (e de amigos) pelo próprio videogame, existem alguns sites não-oficiais que sincronizam seus troféus e montam rankings de jogadores, fornecem diversas dicas de como obter determinados troféus, revelam os troféus escondidos do jogo e, além disso, você pode encontrar pessoas que poderão te ajudar com algum troféu de multiplayer, caso seja necessário.
+Além de poder visualizar seus troféus (e de amigos) pelo próprio videogame, existem alguns sites não-oficiais que sincronizam seus troféus (se estiverem públicos) e montam rankings de jogadores, fornecem diversas dicas de como obter determinados troféus, revelam os troféus escondidos do jogo e, além disso, você pode encontrar pessoas que poderão te ajudar com algum troféu de multiplayer, caso seja necessário.
 
 Eis algumas redes que utilizo e recomendo:
 
@@ -99,7 +102,7 @@ Eis algumas redes que utilizo e recomendo:
 
 ### Todos os jogos possuem troféus?
 
-A resposta é NÃO! A Sony implementou esse sistema a partir do PS3, porém tardiamente, sendo assim alguns jogos acabaram ficando para trás e sem o sistema de troféus (inclusive, já fiz um [post listando todos eles](/jogando/utilidade-publica/2016/07/13/lista-jogos-sem-trofeus-ps3.html), caso queira conferir). Ela também chegou até cogitar lançar o sistema de troféus no PSP, mas optou por não fazer [devido ao alto índice de pirataria no portátil](https://jogos.uol.com.br/ultimas-noticias/2009/06/09/pirataria-matou-sistema-de-trofeus-do-psp-diz-sony.htm). Além disso, dos jogos que possuem troféus, nem todos os jogos possuem a cobiçada platina!
+A resposta é NÃO (infelizmente)! A Sony implementou esse sistema a partir do PS3, porém tardiamente, sendo assim alguns jogos acabaram ficando para trás e sem o sistema de troféus (inclusive, já fiz um [post listando todos eles](/jogando/utilidade-publica/2016/07/13/lista-jogos-sem-trofeus-ps3.html), caso queira conferir). Ela também chegou até cogitar lançar o sistema de troféus no PSP, mas optou por não fazer [devido ao alto índice de pirataria no portátil](https://jogos.uol.com.br/ultimas-noticias/2009/06/09/pirataria-matou-sistema-de-trofeus-do-psp-diz-sony.htm). Além disso, dos jogos que possuem troféus, nem todos os jogos possuem a cobiçada platina!
 
 Não sei exatamente qual é o critério dela para definir quais jogos terão ou não o troféu de 180 pontos, mas geralmente os jogos de desenvolvedoras independentes (_indies_), casuais ou então que os não possuem o jogo em disco (mídia física), não o possuem.. Mas, isto não é regra! Tanto que existem vários jogos independentes que possuem platina, como também tem vários jogos de mídia física que não possuem.. Não dá para entender! (caso alguém saiba, sinta-se a vontade para comentar, ficarei muito feliz em saber, sério!)
 
@@ -113,6 +116,6 @@ Confesso que às vezes tenho que me controlar para não só jogar jogos que tenh
 
 Entretanto, é muito satisfatório ganhar um troféu quando você consegue terminar determinado jogo na dificuldade mais difícil, ou então, quando você chega em primeiro em todas as provas de um jogo de corrida.. Enfim, tem certas coisas que eu jamais faria se não fossem pelos troféus. Isso que eu acho legal deles, eles te incentivam à explorar o jogo por completo! Por exemplo, por mais que eu tenha gostado de The Last of Us ou Uncharted, acho que dificilmente eu jogaria eles em outro nível de dificuldade novamente.. Mas por causa dos troféus, eu joguei e, olha, jogar TLoU no modo "+Sobrevivente" foi uma experiência totalmente diferente e incrível do que jogar no modo Normal, é quase outro jogo, impressionante!
 
-Tá, nem tudo são flores, alguns troféus são chatos, sem sentidos ou exigem muita paciência do jogador, que chegam a desanimar a caçada.. Mas nestes casos, eu passo e vou para outro jogo, não estou nesse nível de vício (ainda)! ^^'
+Tá, nem tudo são flores, alguns troféus são chatos, sem sentidos ou exigem muita paciência do jogador, que chegam a desanimar a caçada (cof! troféus de multiplayer online.. cof!). Mas nestes casos, eu passo e vou para outro jogo, não estou nesse nível de vício (ainda)! ^^'
 
 E você, gosta de caçar troféus?

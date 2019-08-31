@@ -1,0 +1,88 @@
+---
+layout: post
+title: "O que gostei da E3 2019"
+date: 2019-06-14 10:30
+author: felipebbarbosa
+session: Drops // Especial
+categories: games jogando
+redirect_from: /jogando/2019/06/14/especial-e3-2019.html
+tags:
+  [
+    e3,
+    microsoft,
+    xbox-one,
+    categoria-especial,
+    categoria-listas,
+    categoria-noticias,
+  ]
+related: e3
+thumbnail: /imgs/posts/especial/08_e32019/post_thumbnail.jpg
+cover: /imgs/posts/especial/08_e32019/post_header.jpg
+---
+
+Apesar da edição deste ano não ter contado com a presença da Sony e não ter sido tão boa quanto a do [ano passado](jogando/especial/2018/06/13/especial-e3-2018.html), a E3 ainda é uma das maiores feiras de videogames do mundo e várias novidades interessantes foram apresentadas! Selecionei algumas das que eu mais gostei...
+
+<!--more-->
+
+### Double Fine agora pertence ao grupo Xbox Game Studios
+
+Responsável por ótimos jogos no passado, tais como, Psychonauts, Brutal Legend, Broken Age e pela remasterizações de Grim Fandango, Day of the Tentacle, FullThrottle e entre outros, a [empresa de Tim Schafer](http://www.doublefine.com/games) anunciou nesta E3 que agora pertence ao grupo Xbox Game Studios:
+
+{% include youtubePlayer.html id="uR9yKz2C3dY" %}
+
+Com isso, podemos esperar que no mínimo eles terão recursos financeiros para continuar produzindo seus jogos. Que venha coisa boa por aí! Inclusive, eles já estão com um lançamento próximo que é o [Psychonauts 2](http://www.psychonauts.com/psychonauts2/).
+
+### Battletoads
+
+A revelação de mais detalhes do novo Battletoads era uma das coisas mais aguardadas pelos fãs da série nesta E3. Entretanto, o que foi mostrado deixou os fãs bastante divididos. Pois alguns gostaram e outros não curtiram o novo visual do game. Eu, particularmente, achei bem maneiro! Mas confira por si só e tire suas conclusões:
+
+{% include youtubePlayer.html id="xyJI_uFRZSY" %}
+
+E aí, o que achou? No pior dos casos, temos que esperar para ver como será o resultado final.
+
+### Project Scarlett
+
+Que a próxima geração de consoles está aí, [batendo na porta](https://tecnoblog.net/286207/playstation-5-tera-ray-tracing-jogos-em-8k-e-ssd-no-lugar-do-hd/), [não é novidade](https://meiobit.com/402203/para-sony-retrocompatibilidade-sera-chave-para-o-sucesso-do-ps5/). Porém, a Microsoft ainda não tinha revelado nada oficial sobre seu futuro console... Até então! Pois nesta E3, ela revelou detalhes impressionantes do Project Scarlett (codinome do projeto):
+
+{% include youtubePlayer.html id="-ktN4bycj9s" %}
+
+Com lançamento para o ano de 2020, o console contará memória RAM GDDR6, SSD e processador customizado da AMD que dará suporte a uma resolução de 8K e a 120 FPS (Frames por segundo), [ray tracing](https://pt.wikipedia.org/wiki/Ray_tracing) e será quatro vezes mais rápido que o atual Xbox One X. Números impressionantes, não?
+
+### Keanu Reeves estará em Cyberpunk 2077
+
+Talvez o assunto mais comentado de toda a E3 foi a aparição de Keanu Reeves em [Cyberpunk 2077](https://www.cyberpunk.net/br/pt-br/pre-order), pois realmente pegou todo mundo de surpresa! Confira o trailer:
+
+{% include youtubePlayer.html id="qIcTM8WXFjk" %}
+
+O jogo está sendo desenvolvido pela [CD Projekt Red](https://en.cdprojektred.com/), mesma desenvolvedora de **The Witcher 3**. E a previsão de lançamento é para 16 de Abril de 2020.
+
+### PC Engine / TurboGrafx-16 Mini
+
+Uma notícia que quase me passou despercebido: o anúncio da **Konami** sobre o [TurboGrafx-16 mini](https://www.konami.com/games/pcemini/us/en/) (PC Engine no japão). Este é um console bastante querido e procurado pelos colecionadores, principalmente, nós brasileiros, que praticamente não tivemos acesso ao console na época.
+
+{% include youtubePlayer.html id="iOXlnZqPUuE" %}
+
+Os títulos revelados até o momento são:
+
+| EUA / Europa         | Japão                       |
+| -------------------- | --------------------------- |
+| Alien Crush          | Bonk's Adventure            |
+| Dungeon Explorer     | Castlevania: Rondo of Blood |
+| New Adventure Island | Dungeon Explorer            |
+| Ninja Spirit         | Super Star Soldier          |
+| R-Type               | The Kung Fu / China Warrior |
+| Ys Book I & II       | Ys I & II                   |
+
+O PC Engine / TurboGrafx-16 foi desenvolvido pela Hudson Soft e distribuído pela NEC e "competia" com o Mega Drive e Super Nintendo na época. Em 2011, a [Hudson Soft foi comprada pela Konami](https://www.gamespot.com/articles/konami-acquiring-hudson/1100-6286645/).
+
+### Ghostwire: Tokyo
+
+E por fim, o novo jogo de Shinji Mikami, criador da série Resident Evil e The Evil Within, foi apresentado na conferência da Bethesda. Confira:
+
+{% include youtubePlayer.html id="mFbNFkhm3UM" %}
+
+Promissor, não?
+
+---
+
+E aí que achou da E3 esse ano? Quais foram as novidades que mais curtiu?

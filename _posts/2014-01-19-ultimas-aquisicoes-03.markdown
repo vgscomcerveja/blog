@@ -1,20 +1,51 @@
 ---
-layout:     post
-title:      "Últimas Aquisições #03"
-date:       2014-01-19 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags:       [tomb-raider, pc, resident-evil, capcom, mario, nintendo, wii, ps3, sony, sega, tectoy, master-system, xbox-360]
-games:      [tomb-raider, resident-evil, resident-evil-2, resident-evil-3, gran-turismo-6, new-super-mario, gears-of-war-2, pica-pau, street-fighter-2, gears-of-war-judgement]
-thumbnail:  /imgs/posts/colecao/17_aquisicoes03/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/17_aquisicoes03/post_header.jpg
-sinopse: >
-  E vamos ao primeiro post de "Últimas Aquisições" de 2014, mas que na verdade são das últimas aquisições de 2013! ^^
+layout: post
+title: "Últimas Aquisições #03"
+date: 2014-01-19 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2014/01/19/ultimas-aquisicoes-03.html
+tags:
+  [
+    tomb-raider,
+    pc,
+    resident-evil,
+    capcom,
+    mario,
+    nintendo,
+    wii,
+    ps3,
+    sony,
+    sega,
+    tectoy,
+    master-system,
+    xbox-360,
+    categoria-colecao-pessoal,
+  ]
+games:
+  [
+    tomb-raider,
+    resident-evil,
+    resident-evil-2,
+    resident-evil-3,
+    gran-turismo-6,
+    new-super-mario,
+    gears-of-war-2,
+    pica-pau,
+    street-fighter-2,
+    gears-of-war-judgement,
+  ]
+related: colecao-pessoal
+thumbnail: /imgs/posts/colecao/17_aquisicoes03/post_thumbnail.jpg
+cover: /imgs/posts/colecao/17_aquisicoes03/post_header.jpg
 ---
+
 E vamos ao primeiro post de "Últimas Aquisições" de 2014, mas que na verdade são das últimas aquisições de 2013! ^^
 
-Bom, no final do ano passado resolvi dar um *up* nas minhas coleções de séries, tais como a do **Tomb Raider** e a do **Resident Evil**. Além disso, tinha alguns jogos que estavam na minha lista de jogos que queria jogar que acabei pegando também.
+Bom, no final do ano passado resolvi dar um _up_ nas minhas coleções de séries, tais como a do **Tomb Raider** e a do **Resident Evil**. Além disso, tinha alguns jogos que estavam na minha lista de jogos que queria jogar que acabei pegando também.
+
+<!--more-->
 
 ## PlayStation - Livro Ilustrado Oficial
 
@@ -42,7 +73,7 @@ Há tempos que estava querendo ter a série completa de RE no PS1, e matei os tr
 
 ## Resident Evil 2 (PS1)
 
-Eis o segundo, só não é a versão *Dual Shock*, mas está valendo! :)
+Eis o segundo, só não é a versão _Dual Shock_, mas está valendo! :)
 
 {% include image.html url="/imgs/posts/colecao/17_aquisicoes03/resident-evil2_ps1.jpg" description="Resident Evil 2" %}
 

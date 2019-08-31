@@ -3,19 +3,20 @@ layout: post
 title: "Análise - Resident Evil VII biohazard (PS4)"
 date: 2018-12-12 22:30
 author: felipebbarbosa
-session: Game Over &#35 40
-categories: jogando analise
-tags: [sony, ps4, resident-evil-7, analise, game-over]
+session: Game Over 
+categories: games jogando
+redirect_from: /jogando/analise/2018/12/12/analise-resident-evil-7.html
+tags: [sony, ps4, resident-evil-7, categoria-analise, serie-game-over]
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/40_resident_evil7/post_thumbnail.jpg
 cover: /imgs/posts/game_over/40_resident_evil7/post_header.jpg
-sinopse: Se você é que nem eu, um fã de Resident Evil, que já tinha perdido as esperanças de jogar um novo capitulo da série que seja tão bom quanto os clássicos? Um jogo que traga aquela sensação tensa de que todo passo, tiro ou uso de recursos tem que ser calculado para conseguir avançar no jogo? Pois bem, que tal conhecer Resident Evil 7?
 ---
-
-Olá jogadores cervejeiros, tudo bom?
 
 Se você é que nem eu, um fã de **Resident Evil**, que já tinha perdido as esperanças de jogar um novo capitulo da série que seja tão bom quanto os clássicos? Um jogo que traga aquela sensação tensa de que todo passo, tiro ou uso de recursos tem que ser calculado para conseguir avançar no jogo?
 
 Pois bem, eu já tinha perdido aquela paixão pela série, logo depois de só experimentar um pouco do **Resident Evil 5** e não curtir. Tá, confesso que deveria dar uma chance maior ao jogo (e ainda pretendo), mas aquele não era o Resident Evil que esperava. Aí veio o **Resident Evil 6**, e nem dei bola para ele, nem sei se é bom ou ruim! rs... E depois, na E3 2016, anunciaram o **Resident Evil 7**... com visão em primeira pessoa e personagens totalmente desconhecidos... foi aí que pensei que iria me divorciar de vez da série! Mas queimei a língua (e bonito)...
+
+<!--more-->
 
 Depois do jogo lançado e de ver os vários comentários positivos dizendo que o jogo é surpreendente bom, resolvi dar uma chance ao jogo e comprei (pulando o 5 e o 6 e todos os outros spin-offs que foram lançados, principalmente o [Umbrella Corps](http://www.capcom.co.jp/bioUC/)). Entretanto, mesmo depois de comprado, ainda adiei um tempinho para começa-lo, por puro receio (ou preconceito, sei lá), mas hoje posso dizer com a absoluta certeza que só estava perdendo tempo... que jogo ÓTIMO!
 

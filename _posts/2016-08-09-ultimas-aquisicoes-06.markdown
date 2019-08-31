@@ -1,32 +1,63 @@
 ---
-layout:     post
-title:      "Últimas Aquisições #06 - Abr~Jun/16"
-date:       2016-08-09 19:50
-author:     felipebbarbosa
-session:    Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags:       [microsoft, xbox, sony, ps4, sega, dreamcast, tectoy, naughty-dog, tomb-raider, ps2, capcom]
-games:      [call-of-cthulhu, obscure, farcry-4, shenmue, uncharted-4, star-wars-battlefront, payday-2, guitar-hero-live, tomb-raider-legend, shadow-of-the-colossus, silent-hill-2, dino-crisis-3]
-thumbnail:  /imgs/posts/colecao/20_aquisicoes06/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/20_aquisicoes06/post_header.jpg
-sinopse: >
-  A ideia era mostrar as últimas aquisições mensalmente, mas devido a vários fatores ainda não consegui manter esta frequência.. Mas para compensar o atraso, vou compartilhar com você as aquisições de três meses, até porque, não foram tantas assim! :P
+layout: post
+title: "Últimas Aquisições #06 - Abr~Jun/16"
+date: 2016-08-09 19:50
+author: felipebbarbosa
+session: Coleção Pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2016/08/09/ultimas-aquisicoes-06.html
+tags:
+  [
+    microsoft,
+    xbox,
+    sony,
+    ps4,
+    sega,
+    dreamcast,
+    tectoy,
+    naughty-dog,
+    tomb-raider,
+    ps2,
+    capcom,
+    categoria-colecao-pessoal,
+  ]
+games:
+  [
+    call-of-cthulhu,
+    obscure,
+    farcry-4,
+    shenmue,
+    uncharted-4,
+    star-wars-battlefront,
+    payday-2,
+    guitar-hero-live,
+    tomb-raider-legend,
+    shadow-of-the-colossus,
+    silent-hill-2,
+    dino-crisis-3,
+  ]
+related: colecao-pessoal
+thumbnail: /imgs/posts/colecao/20_aquisicoes06/post_thumbnail.jpg
+cover: /imgs/posts/colecao/20_aquisicoes06/post_header.jpg
 ---
+
 A ideia era mostrar as últimas aquisições mensalmente, mas devido a vários fatores ainda não consegui manter esta frequência.. Mas para compensar o atraso, vou compartilhar as aquisições de três meses, até porque, não foram tantas assim! :P
+
+<!--more-->
 
 {% include image.html url="/imgs/posts/colecao/20_aquisicoes06/aquisicoes.jpg" description="Minhas aquisições entre os meses de Abril e Junho de 2016! :)" %}
 
 ## Call of Cthulhu: Dark Corners of the Earth (Xbox)
 
-Começando pelo mês de Abril, o primeiro jogo foi um exclusivo (tirando o PC) de *survival horror* para o Xbox clássico. **Call of Cthulhu** foi desenvolvido pela **Headfirst Productions** e publicado pela **Bethesda** com a **2K Games** em 2005.
+Começando pelo mês de Abril, o primeiro jogo foi um exclusivo (tirando o PC) de _survival horror_ para o Xbox clássico. **Call of Cthulhu** foi desenvolvido pela **Headfirst Productions** e publicado pela **Bethesda** com a **2K Games** em 2005.
 
-Eu ainda não cheguei a jogá-lo, mas ele é baseado no trabalho homônimo do autor *H.P. Lovercraft*, famoso escritor de ficções de terror!
+Eu ainda não cheguei a jogá-lo, mas ele é baseado no trabalho homônimo do autor _H.P. Lovercraft_, famoso escritor de ficções de terror!
 
 {% include image.html url="/imgs/posts/colecao/20_aquisicoes06/call-of-cthulhu.jpg" description="Sou um fã 'cagão' de jogos de terror! Gosto, mas morro de medo! ^^'" %}
 
 ## ObsCure (Xbox)
 
-Em sequência, outro *survival horror*, porém não exclusivo, pois chegou a sair para PS2 também! Criado em 2004 pela **Hydravision**, o jogo me chamou atenção por ser possível jogar em modo *multiplayer* cooperativo, ou seja, um *survival horror* para jogar de dois! ^^
+Em sequência, outro _survival horror_, porém não exclusivo, pois chegou a sair para PS2 também! Criado em 2004 pela **Hydravision**, o jogo me chamou atenção por ser possível jogar em modo _multiplayer_ cooperativo, ou seja, um _survival horror_ para jogar de dois! ^^
 
 {% include image.html url="/imgs/posts/colecao/20_aquisicoes06/obscure.jpg" description="Curioso para jogar em multiplayer!" %}
 
@@ -54,19 +85,19 @@ Sou muito fã da série **Uncharted** e em Maio tivemos o lançamento [desta mar
 
 ## Star Wars: Battlefront (PS4)
 
-Já este jogo foi mais um exemplo de uma compra por impulso totalmente fracassada! Comprei porque estava numa promoção (junto com o Payday 2 abaixo), porém só depois descobri que o jogo não possui uma campanha *single player*, o que é totalmente broxante para mim! :(
+Já este jogo foi mais um exemplo de uma compra por impulso totalmente fracassada! Comprei porque estava numa promoção (junto com o Payday 2 abaixo), porém só depois descobri que o jogo não possui uma campanha _single player_, o que é totalmente broxante para mim! :(
 
 {% include image.html url="/imgs/posts/colecao/20_aquisicoes06/star-wars-battlefront.jpg" description="Pelo menos é Star Wars! :/" %}
 
 ## Payday 2: Crimewave Edition (PS4)
 
-Talvez este também não seja muito bom, pois apesar de possuir uma campanha *single player*, não é o ponto forte do jogo! Mas só peguei, porque ele veio junto com o Star Wars na promoção.
+Talvez este também não seja muito bom, pois apesar de possuir uma campanha _single player_, não é o ponto forte do jogo! Mas só peguei, porque ele veio junto com o Star Wars na promoção.
 
 {% include image.html url="/imgs/posts/colecao/20_aquisicoes06/payday-2.jpg" description="Será que é bom?" %}
 
 ## Guitar Hero Live (PS4)
 
-Este sim valeu a pena! Aproveitei uma promoção muito boa no site [Saraiva.com](http://www.saraiva.com.br) e adquiri este *bundle* composto pela nova guitarra e jogo da série **Guitar Hero**!
+Este sim valeu a pena! Aproveitei uma promoção muito boa no site [Saraiva.com](http://www.saraiva.com.br) e adquiri este _bundle_ composto pela nova guitarra e jogo da série **Guitar Hero**!
 
 Quando digo novo é porque, tanto a guitarra quanto o jogo, foram totalmente restruturados, mudou um pouco a maneira de jogá-los! Pretendo fazer uma análise em breve por aqui! :)
 

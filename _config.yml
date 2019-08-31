@@ -12,20 +12,25 @@ github_username: felipebbarbosa
 # Build settings
 markdown: kramdown
 
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "post"
+      og_type: article
+      type: article
+      excerpt_separator: <!--more-->
+      permalink: /post/:title
+
 #files_to_cache:
 #  - "/js/vcc.js"
 
 pages_to_cache:
-  - "/colecionando/"
-  - "/jogando/"
   - "/loja/"
-  - "/noticias/"
   - "/parceiros/"
   - "/sobre/"
-  - "/microsoft/"
-  - "/nintendo/"
-  - "/sega/"
-  - "/sony/"
   - "/offline/index.html"
 
 sass:
@@ -38,6 +43,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile

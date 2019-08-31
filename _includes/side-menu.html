@@ -31,15 +31,9 @@
 
   </p>
 
-  <!--<p><b>Agora com posts novos todas as terças e/ou quintas! \o/</b></p>-->
-
-  <div class="featured-box">
-    <img src="/imgs/icone-newsletter.png"><br>
-    <a href="/newsletter">Assine nossa <b>Newsletter!</b></a><br>
-    <span>É grátis. Sem propagandas. Sem spam.</span>
-  </div>
-
-  
+  <a href="/newsletter" title="VCC Newsletter">
+    <img src="/imgs/tags/vcc-newsletter.png">
+  </a>
 
   <h2>Publicidade</h2>
 
@@ -61,12 +55,16 @@
 
   {% include instagram.html id="BlN9gyllydS" %}
 
-  <h2>Venda de Usados</h2>
+  <h2>Colunas e Séries</h2>
 
-  <div class="featured-box">
-    <img src="/imgs/icone-loja.png"><br>
-    <a href="/loja">Acesse nossa <b>loja</b>!</a>
-  </div>
-
+  {% for nav in site.data.menu %}
+    {% if nav.slug == 'series' %}
+      {% for sub in nav.subitems %}
+        <a href="{{ sub.url }}" title="{{ sub.title }}">
+          <img src="{{ sub.logo }}" width="150px" style="margin:5px">
+        </a>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
 
 </aside>

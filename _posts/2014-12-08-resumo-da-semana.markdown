@@ -1,17 +1,29 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.."
-date:       2014-12-08 19:00
-author:     felipebbarbosa
-session:    Drops &#35 05
-categories: noticias
-tags:       [nintendo, uncharted, mario, farcry]
-games:      [uncharted-4, grim-fandango, street-fighter-v, mario-kart-8, shadow-of-mordor, farcry-4]
-thumbnail:  /imgs/posts/news/06_resumo01/post_thumbnail.jpg
-cover:      /imgs/posts/news/06_resumo01/post_header.jpg
-sinopse: >
-  Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
+layout: post
+title: "Resumo da Semana - Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.."
+date: 2014-12-08 19:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2014/12/08/resumo-da-semana.html
+tags: [nintendo, uncharted, mario, farcry, categoria-noticias]
+games:
+  [
+    uncharted-4,
+    grim-fandango,
+    street-fighter-v,
+    mario-kart-8,
+    shadow-of-mordor,
+    farcry-4,
+  ]
+thumbnail: /imgs/posts/news/06_resumo01/post_thumbnail.jpg
+cover: /imgs/posts/news/06_resumo01/post_header.jpg
 ---
+
+Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
+
+<!--more-->
+
 ## Vencedores da The Game Awards (TGA)
 
 Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game Awards** se tornou praticamente o Oscar dos games, ou seja, é a principal premiação para os melhores jogos do ano. A edição de 2014 ocorreu no último dia 5 de Dezembro. Confira quem foram os concorrentes e ganhadores:
@@ -194,7 +206,7 @@ Para quem perdeu confira a premiação na íntegra:
 
 ## Primeiro gameplay de Uncharted 4
 
-Sábado, dia 6 de Dezembro, na inauguração do serviço **PlayStation Experience**, a **Sony** e a **Naughty Dog** revelaram o primeiro *gameplay* do novo **Uncharted 4: A Thief's End**. São mais ou menos 15 minutos de vídeo, mas foram suficientes para aumentar minha *hype* pelo jogo! Confira:
+Sábado, dia 6 de Dezembro, na inauguração do serviço **PlayStation Experience**, a **Sony** e a **Naughty Dog** revelaram o primeiro _gameplay_ do novo **Uncharted 4: A Thief's End**. São mais ou menos 15 minutos de vídeo, mas foram suficientes para aumentar minha _hype_ pelo jogo! Confira:
 
 {% include youtubePlayer.html id='Ow2cL-pp6p8' %}
 
@@ -220,4 +232,4 @@ E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo
 
 E por fim uma notícia triste! Faleceu neste sábado (06/12), Ralph Baer, aos 92 anos. Ele que é considerado o "pai dos videogames" por ter criado o primeiro console doméstico, o **Magnavox Odyssey**.
 
-  {% include image.html url="/imgs/posts/news/06_resumo01/ralph-baer.jpg" description="Descanse em Paz! :(" %}
+{% include image.html url="/imgs/posts/news/06_resumo01/ralph-baer.jpg" description="Descanse em Paz! :(" %}

@@ -1,17 +1,19 @@
 ---
-layout:     post
-title:      "Sobre o 'novo' Mega Drive da Tectoy.."
-date:       2016-10-31 18:00
-author:     felipebbarbosa
-session:    Drops &#35 23
-categories: noticias
-tags:       [sega, mega-drive, tectoy]
-thumbnail:  /imgs/posts/news/24_mega_drive_tectoy/post_thumbnail.jpg
-cover:      /imgs/posts/news/24_mega_drive_tectoy/post_header.jpg
-sinopse: >
-  Semana passada a Tectoy lançou um site com um tempo em contagem regressiva que, quando esgotado, revelaria seu "Mega Lançamento", mas para isto, você tinhar que  cadastrar seu email. Pois bem, antes mesmo da revelação final, já era praticamente certo de que se tratava de um "novo" Mega Drive, devido à diversas imagens e vídeos que a empresa foi divulgando no decorrer da semana. Mas mesmo assim, a curiosidade era grande para saber o que estava por vir! Bom, o tempo se encerrou nesta segunda-feira (31/10) e o console foi finalmente revelado!
+layout: post
+title: "Sobre o 'novo' Mega Drive da Tectoy.."
+date: 2016-10-31 18:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/10/31/novo-mega-drive-tectoy.html
+tags: [sega, mega-drive, tectoy, categoria-noticias]
+thumbnail: /imgs/posts/news/24_mega_drive_tectoy/post_thumbnail.jpg
+cover: /imgs/posts/news/24_mega_drive_tectoy/post_header.jpg
 ---
-Semana passada a [Tectoy](http://www.tectoy.com.br/) lançou um site com um tempo em contagem regressiva que, quando esgotado, revelaria seu "Mega Lançamento", mas para isto, você tinhar que  cadastrar seu email. Pois bem, antes mesmo da revelação final, já era praticamente certo de que se tratava de um "novo" Mega Drive, devido à diversas imagens e vídeos que a empresa foi divulgando no decorrer da semana. Mas mesmo assim, a curiosidade era grande para saber o que estava por vir! Bom, o tempo se encerrou nesta segunda-feira (31/10) e o [console foi finalmente revelado](http://www.tectoy.com.br/pre-venda-mega-drive-edicao-limitada/p/995040461825)!
+
+Semana passada a [Tectoy](http://www.tectoy.com.br/) lançou um site com um tempo em contagem regressiva que, quando esgotado, revelaria seu "Mega Lançamento", mas para isto, você tinhar que cadastrar seu email. Pois bem, antes mesmo da revelação final, já era praticamente certo de que se tratava de um "novo" Mega Drive, devido à diversas imagens e vídeos que a empresa foi divulgando no decorrer da semana. Mas mesmo assim, a curiosidade era grande para saber o que estava por vir! Bom, o tempo se encerrou nesta segunda-feira (31/10) e o [console foi finalmente revelado](http://www.tectoy.com.br/pre-venda-mega-drive-edicao-limitada/p/995040461825)!
+
+<!--more-->
 
 {% include image.html url="/imgs/posts/news/24_mega_drive_tectoy/tectoy_tela.jpg" description="A Tectoy deixou muita gente curioso! :)" %}
 
@@ -48,7 +50,7 @@ Entretanto, segundo a própria Tectoy, será possível adicionar novos jogos ao 
 
 {% include image.html url="/imgs/posts/news/24_mega_drive_tectoy/mega_drive_controle.jpg" description="O controle adotado é o de 3 botões, muito bonito, mas alguns jogos requerem o de 6 botões!" %}
 
-Mas como nem tudo são flores, agora vem a parte chata! Infelizmente, o [rumor de que o console iria ter saída HDMI](http://www.campograndenews.com.br/lado-b/games/saiba-o-que-esperar-do-novo-console-que-a-tectoy-anunciara-dia-31) não foi confirmado, decepcionando muita gente (eu inclusive)! O console terá apenas saída de vídeo composto (A/V) mesmo, pois segundo a fabricante, o valor para incluir este recurso, inviabilizaria o projeto e além disso, a grande maioria das TVs ainda possuem entrada A/V. Mas o que pode incomodar muita gente é que ao ligá-lo numa televisão moderna (LCD, Plasma, LED e 4K) a imagem não ficará legal e poderá ter muito *input lag* (atraso entre apertar o botão do controle e a ação na tela), o que não é nada bom!
+Mas como nem tudo são flores, agora vem a parte chata! Infelizmente, o [rumor de que o console iria ter saída HDMI](http://www.campograndenews.com.br/lado-b/games/saiba-o-que-esperar-do-novo-console-que-a-tectoy-anunciara-dia-31) não foi confirmado, decepcionando muita gente (eu inclusive)! O console terá apenas saída de vídeo composto (A/V) mesmo, pois segundo a fabricante, o valor para incluir este recurso, inviabilizaria o projeto e além disso, a grande maioria das TVs ainda possuem entrada A/V. Mas o que pode incomodar muita gente é que ao ligá-lo numa televisão moderna (LCD, Plasma, LED e 4K) a imagem não ficará legal e poderá ter muito _input lag_ (atraso entre apertar o botão do controle e a ação na tela), o que não é nada bom!
 
 {% include image.html url="/imgs/posts/news/24_mega_drive_tectoy/mega_drive_traseira.jpg" description="O console não terá HDMI, apenas vídeo composto.." %}
 

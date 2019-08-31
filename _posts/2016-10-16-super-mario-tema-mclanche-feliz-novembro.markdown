@@ -1,17 +1,19 @@
 ---
-layout:     post
-title:      "Super Mario voltará a ser tema dos brindes do McLanche Feliz em Novembro"
-date:       2016-10-16 18:00
-author:     felipebbarbosa
-session:    Drops &#35 21
-categories: noticias
-tags:       [nintendo, mario]
-thumbnail:  /imgs/posts/news/22_mclanche_mario/post_thumbnail.jpg
-cover:      /imgs/posts/news/22_mclanche_mario/post_header.jpg
-sinopse: >
-  Preparem seus bolsos! Mario e sua turma voltará a ser tema dos brindes do McLanche Feliz no próximo mês!
+layout: post
+title: "Super Mario voltará a ser tema dos brindes do McLanche Feliz em Novembro"
+date: 2016-10-16 18:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/10/16/super-mario-tema-mclanche-feliz-novembro.html
+tags: [nintendo, mario, categoria-noticias]
+thumbnail: /imgs/posts/news/22_mclanche_mario/post_thumbnail.jpg
+cover: /imgs/posts/news/22_mclanche_mario/post_header.jpg
 ---
+
 Preparem seus bolsos! Mario e sua turma voltará a ser tema dos brindes do McLanche Feliz no próximo mês!
+
+<!--more-->
 
 Ao que tudo indica, serão oito brindes diferentes: Mario, Luigi, Princesa Peach, Yoshi, Mario pulando no bloco, Toad, Boo e o Bowser!
 

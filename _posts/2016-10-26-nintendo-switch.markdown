@@ -1,17 +1,19 @@
 ---
-layout:     post
-title:      "Nintendo Switch - 4 coisas que gostei (e UMA que me incomodou um pouco)"
-date:       2016-10-26 18:00
-author:     felipebbarbosa
-session:    Drops &#35 22
-categories: noticias
-tags:       [nintendo, switch]
-thumbnail:  /imgs/posts/news/23_nintendo_switch/post_thumbnail.jpg
-cover:      /imgs/posts/news/23_nintendo_switch/post_header.jpg
-sinopse: >
-  Acredito que todo mundo já está sabendo que a Nintendo finalmente revelou o sucessor do WiiU: o Nintendo Switch! Bom, mas agora que já passou um pouco da hype inicial, gostaria de compartilhar minhas opiniões sobre o futuro console.
+layout: post
+title: "Nintendo Switch - 4 coisas que gostei (e UMA que me incomodou um pouco)"
+date: 2016-10-26 18:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/10/26/nintendo-switch.html
+tags: [nintendo, switch, categoria-noticias]
+thumbnail: /imgs/posts/news/23_nintendo_switch/post_thumbnail.jpg
+cover: /imgs/posts/news/23_nintendo_switch/post_header.jpg
 ---
-Acredito que todo mundo já está sabendo que a **Nintendo** finalmente revelou o sucessor do WiiU: o [Nintendo Switch](http://www.nintendo.com/switch) (que até então era conhecido apenas pelo codinome Nintendo NX)! Bom, mas agora que já passou um pouco da *hype* inicial, gostaria de compartilhar minhas opiniões sobre o futuro console.
+
+Acredito que todo mundo já está sabendo que a **Nintendo** finalmente revelou o sucessor do WiiU: o [Nintendo Switch](http://www.nintendo.com/switch) (que até então era conhecido apenas pelo codinome Nintendo NX)! Bom, mas agora que já passou um pouco da _hype_ inicial, gostaria de compartilhar minhas opiniões sobre o futuro console.
+
+<!--more-->
 
 Primeiro, se você ainda não viu o trailer de lançamento, confere aí:
 

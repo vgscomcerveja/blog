@@ -1,25 +1,28 @@
 ---
-layout:     post
-title:      "Resumo da Semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Freak (e não é Pokémon); Trailer de LEGO Jurassic World e mais.."
-date:       2015-03-16 19:00
-author:     felipebbarbosa
-session:    Drops &#35 10
-categories: noticias
-tags:       [naughty-dog, uncharted, arcade, ps4, sony, lego]
-games:      [uncharted-4, tembo, lego-jurassic-world]
-thumbnail:  /imgs/posts/news/11_resumo05/post_thumbnail.jpg
-cover:      /imgs/posts/news/11_resumo05/post_header.jpg
-sinopse: >
-  Confira as novidades da semana do dia 09/03 à 15/03 de 2015!
+layout: post
+title: "Resumo da Semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Freak (e não é Pokémon); Trailer de LEGO Jurassic World e mais.."
+date: 2015-03-16 19:00
+author: felipebbarbosa
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2015/03/16/resumo-da-semana.html
+tags: [naughty-dog, uncharted, arcade, ps4, sony, lego, categoria-noticias]
+games: [uncharted-4, tembo, lego-jurassic-world]
+thumbnail: /imgs/posts/news/11_resumo05/post_thumbnail.jpg
+cover: /imgs/posts/news/11_resumo05/post_header.jpg
 ---
 
 Semanalmente estou tentando trazer as principais novidades do mundo dos videogames para pessoas que, assim como eu, não tem muito tempo para acompanhar de perto essas notícias. Então as notícias que eu julgar interessantes, eu salvo no meu navegador e depois faço esse compilado! :)
+
+Confira as novidades da semana do dia 09/03 à 15/03 de 2015!
+
+<!--more-->
 
 E essa semana temos uma notícia não muito boa:
 
 ## Uncharted 4 é adiado para 2016!
 
-Pois é, o jogo que estou mais ansioso para jogar desta nova geração, só sairá o ano que vem! Segundo o pessoal da **Naughty Dog**, eles precisam de mais tempo para garantir que a história de *Nathan Drake* receba o final que merece. A previsão é para a primavera americana de 2016.
+Pois é, o jogo que estou mais ansioso para jogar desta nova geração, só sairá o ano que vem! Segundo o pessoal da **Naughty Dog**, eles precisam de mais tempo para garantir que a história de _Nathan Drake_ receba o final que merece. A previsão é para a primavera americana de 2016.
 
 Fonte: [PlayStation Blog](http://blog.br.playstation.com/2015/03/11/uncharted-4-a-thiefs-end-chegara-na-primavera-americana-de-2016/)
 

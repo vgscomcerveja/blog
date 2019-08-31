@@ -1,21 +1,31 @@
 ---
-layout:     post
-title:      "Análise - Gran Turismo 6 (PS3)"
-date:       2016-09-20 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 32
-categories: jogando analise
-tags:       [sony, ps3, gran-turismo, analise, game-over]
-games:      [gran-turismo-6]
-thumbnail:  /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
-sinopse: >
-  Quinze anos depois do lançamento do primeiro GT, a série chegou, em 2013, à sua sexta edição com Gran Turismo 6. Desde sempre nas mãos de seu criador, Kazunori Yamauchi, a franquia é exclusiva para os consoles Sony e esta edição encerrou com chave de ouro a era do PS3! Confira! :)
-game_cover:  
+layout: post
+title: "Análise - Gran Turismo 6 (PS3)"
+date: 2016-09-20 19:00
+author: felipebbarbosa
+session: VCC Racing // Game Over 
+categories: games jogando
+redirect_from: /jogando/analise/2016/09/20/analise-gran-turismo-6.html
+tags:
+  [
+    sony,
+    ps3,
+    gran-turismo,
+    categoria-analise,
+    serie-game-over,
+    serie-vcc-racing,
+  ]
+games: [gran-turismo-6]
+related: serie-game-over
+thumbnail: /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.jpg
+cover: /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
 ---
+
 Quando conheci a série **Gran Turismo** lá em meados de 98/99, foi através de uma versão demo daqueles discos (CD Interactive) que vinham juntos com o PS1 e foi paixão à primeira vista! Naquela época, o supra-sumo de jogos de corrida que conhecia estavam no PC, tais como **Test Drive 4** e **International Rally Championship**! Mas quando vi aqueles carros ultra realistas, com aquela trilha sonora empolgante, com corridas altamente acirradas, e com o que eu achava um máximo: os replays das corridas como se fossem uma transmissão de TV, fiquei fascinado! Adorava ver as suspensões dos carros trabalhando forte nas frenagens e curvas, era realmente incrível.. Isso sem contar que você tinha que tirar a carteira de habilitação (licença) para poder disputar as corridas! :D
 
-Quinze anos depois, em 2013, a série chegou à sua sexta edição (sem contar os *spin-offs*, se é que podemos chama-los assim) com **Gran Turismo 6**. Sempre nas mãos de seu criador, **_Kazunori Yamauchi_**, a franquia é exclusiva para os consoles Sony e praticamente mantém uma espécie de padrão de dois jogos principais por plataforma/geração.
+<!--more-->
+
+Quinze anos depois, em 2013, a série chegou à sua sexta edição (sem contar os _spin-offs_, se é que podemos chama-los assim) com **Gran Turismo 6**. Sempre nas mãos de seu criador, **_Kazunori Yamauchi_**, a franquia é exclusiva para os consoles Sony e praticamente mantém uma espécie de padrão de dois jogos principais por plataforma/geração.
 
 No PS3, a série estreou com **GT5 Prologue** no final de 2006 (Japão) que foi só para deixar os jogadores com um gostinho do que estava por vir. Entretanto, a versão definitiva de **Gran Turismo 5**, após diversos atrasos, só chegou quatro anos depois.. em 2010! Eu particularmente, não sofri com estes atrasos, pois só fui ter condições de adquirir meu PS3 naquele ano mesmo, e alías, diga-se de passagem que GT5 foi um dos principais motivos para eu ter investido no console! ^^'
 
@@ -23,7 +33,7 @@ Bom, três anos depois, chegou **GT6**.. uma edição, vamos dizer assim, "melho
 
 {% include youtubePlayer.html id="WeKQXamdWXw" %}
 
-O jogo conta com uma quantidade absurda de carros e pistas disponíveis, mais de [1200 carros](http://www.gran-turismo.com/local/jp/data1/products/gt6/carlist_en.html) e 70 circuitos (contando as variações), e ainda temos o *Course Maker*, onde podemos criar nossa própria pista, inclusive com a possibilidade de usar dados reais de um GPS ligado em seu carro através de um [aplicativo especial para tablet](http://www.gran-turismo.com/br/products/gt6/trackpatheditor/)!  
+O jogo conta com uma quantidade absurda de carros e pistas disponíveis, mais de [1200 carros](http://www.gran-turismo.com/local/jp/data1/products/gt6/carlist_en.html) e 70 circuitos (contando as variações), e ainda temos o _Course Maker_, onde podemos criar nossa própria pista, inclusive com a possibilidade de usar dados reais de um GPS ligado em seu carro através de um [aplicativo especial para tablet](http://www.gran-turismo.com/br/products/gt6/trackpatheditor/)!
 
 Alguns circuitos, são tão fiéis aos reais que a discrepância entre a pista virtual e a real é inferior a um centímetro, como é o caso da pista de **Nürburgring**, por exemplo. O jogo conta com pistas originais da série e também com as mais famosas do mundo, tais como a **Brands Hatch** da Inglaterra, **Indianapolis** e **Laguna Seca** dos EUA, entretanto, ainda não temos o nosso circuito mais popular no jogo. Não, não foi dessa vez que **Interlagos** esteve presente na franquia! Além disso, tem os circuitos de terra e neve para as provas de rali.
 
@@ -126,7 +136,7 @@ Um detalhe interessante também do jogo é o **Bônus de login** que é uma esp�
 
 ## Gráficos, Jogabilidade e afins
 
-Nestes pontos o jogo apresentou grandes melhorias, os gráficos estão relativamente mais bonitos que GT5 e a jogabilidade continua muito boa, principalmente quando jogada com o volante com *Force Feedback* como o [Logitech G27](http://gaming.logitech.com/pt-br/product/g27-racing-wheel)(meu caso). A física dos carros é ótima e foi melhorada, está ainda mais incrível ver os carros trabalhando nas curvas e frenagens! :)
+Nestes pontos o jogo apresentou grandes melhorias, os gráficos estão relativamente mais bonitos que GT5 e a jogabilidade continua muito boa, principalmente quando jogada com o volante com _Force Feedback_ como o [Logitech G27](http://gaming.logitech.com/pt-br/product/g27-racing-wheel)(meu caso). A física dos carros é ótima e foi melhorada, está ainda mais incrível ver os carros trabalhando nas curvas e frenagens! :)
 
 Já quanto à Inteligência Artificial dos carros oponentes, deixa um pouco à desejar, os carros parecem que seguem uma rota fixa, que não duvido se você parar na rota deles, eles vão bater em você sem tentar desviar! É bem fraca! E as vezes, tenho a sensação que eles tiram o pé na última volta para facilitar para você, mas talvez seja somente uma impressão minha!
 
@@ -143,7 +153,6 @@ Entretanto, tem UM troféu que me impediu de conseguir a platina ainda nos prime
 #### Update
 
 No dia 28 de março de 2018, os servidores do jogo foram encerrados! Ou seja, os recursos online como a Comunidade, o Lobby aberto, a Partida rápida e os Eventos Sazonais não estão mais disponíveis. Entretanto, para os caçadores de troféus, uma boa notícia: ainda é possível conquistar o troféu de platina, pois o jogo não possui troféus online! :)
-
 
 {% include ficha.html
   titulo='Gran Turismo 6'

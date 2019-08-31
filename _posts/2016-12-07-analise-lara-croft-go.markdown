@@ -1,25 +1,27 @@
 ---
-layout:     post
-title:      "Análise - Lara Croft GO (PS Vita)"
-date:       2016-12-07 20:00
-author:     felipebbarbosa
-session:    Game Over &#35 35
-categories: jogando analise
-tags:       [sony, psvita, tomb-raider, analise, game-over]
-games:      [lara-croft-go]
-thumbnail:  /imgs/posts/game_over/35_lara_croft_go/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/35_lara_croft_go/post_header.jpg
-sinopse: >
-    Em uma aventura um pouco diferente do que estamos acostumados ver nossa musa, Lara Croft GO a colocou em uma nova proposta de jogo focado em um dos principais elementos da série Tomb Raider! Sim, estou falando dos puzzles.. amados por uns e odiados por outros!
-game_cover:
+layout: post
+title: "Análise - Lara Croft GO (PS Vita)"
+date: 2016-12-07 20:00
+author: felipebbarbosa
+session: Game Over 
+categories: games jogando
+redirect_from: /jogando/analise/2016/12/07/analise-lara-croft-go.html
+tags: [sony, psvita, tomb-raider, categoria-analise, serie-game-over]
+games: [lara-croft-go]
+related: serie-game-over
+thumbnail: /imgs/posts/game_over/35_lara_croft_go/post_thumbnail.jpg
+cover: /imgs/posts/game_over/35_lara_croft_go/post_header.jpg
 ---
+
 Em uma aventura um pouco diferente do que estamos acostumados ver nossa musa, [Lara Croft GO](http://www.laracroftgo.com/) a colocou em uma nova proposta de jogo focado em um dos principais elementos da série Tomb Raider! Sim, estou falando dos puzzles.. amados por uns e odiados por outros!
 
-Lançado originalmente para dispositivos mobile no final do ano passado (Ago/2015) e recentemente para PS Vita, PS4 e Steam, o jogo é completamente puzzle! Porém, é baseado em turnos e muito gostoso de jogar. Seu objetivo é simples, você deverá atravessar cada fase ultrapassando todos os desafios impostos pelo jogo, sejam eles inimigos ou próprios elementos dos cenários, em busca da revelação do mito da *Rainha do Veneno*.
+<!--more-->
+
+Lançado originalmente para dispositivos mobile no final do ano passado (Ago/2015) e recentemente para PS Vita, PS4 e Steam, o jogo é completamente puzzle! Porém, é baseado em turnos e muito gostoso de jogar. Seu objetivo é simples, você deverá atravessar cada fase ultrapassando todos os desafios impostos pelo jogo, sejam eles inimigos ou próprios elementos dos cenários, em busca da revelação do mito da _Rainha do Veneno_.
 
 {% include youtubePlayer.html id="wQptvhwRa5A" %}
 
-Ao começar cada fase, você notará que existe uma trilha pré-determinada por onde você poderá andar, e cada passo dado, é considerado um turno. Entretanto, neste caminho existem alguns inimigos estrategicamente posicionados para dificultar sua vida. Eles vão desde cobras, jacarés, lagartos, aranhas até uma cobra gigante, a *Rainha do Veneno*.
+Ao começar cada fase, você notará que existe uma trilha pré-determinada por onde você poderá andar, e cada passo dado, é considerado um turno. Entretanto, neste caminho existem alguns inimigos estrategicamente posicionados para dificultar sua vida. Eles vão desde cobras, jacarés, lagartos, aranhas até uma cobra gigante, a _Rainha do Veneno_.
 
 Alguns se movem sozinhos (respeitando o turno, ou seja, você dá um passo e ele também andará um passo), outros são imóveis ou só se mexem para te seguir quando passar dois passos na frente deles, te impossibilitando de voltar um passo, porque será morte certa. Pois todos eles te matam se você chegar à um passo de distância na frente deles. Para derrotá-los, você deverá pegá-los de surpresa (ou seja, por trás ou pelas laterais), onde Lara sacará sua famosa pistola dupla e os matará!
 
@@ -37,7 +39,7 @@ O nível de dificuldade dos quebra-cabeças vai aumentando gradualmente, mas nã
   url="/imgs/posts/game_over/35_lara_croft_go/dlc-5.jpg"
   description="Algumas fases não possuem inimigos, mas você terá que quebrar a cabeça para avançá-las!" %}
 
-Inicialmente jogo contava com cinco blocos de fases: *A Entrada*, *O Labirinto das Serpentes*, *O Labirinto das Pedras*, *O Labirinto dos Espíritos* e *A Fuga*. E cada um deles com, mais ou menos, dez fases. Um tempo depois, saiu uma DLC gratuita trazendo um novo bloco: *A Caverna do Fogo*, totalizando 6 blocos. Entretanto, a versão de PS Vita, PS4 e Steam, ganhou mais um bloco inédito: *O Espelho dos Espíritos*, onde trouxe um desafio um pouco diferente, pois em algumas fases você tem que controlar duas Laras! Uma é uma espécie de reflexo da outra, ou seja, ao movimentar a Lara verdadeira, seu reflexo também se moverá, mas suas trilhas muitas vezes são diferentes, sendo assim, você tem que pensar nos movimentos para as duas, pois ambas precisam chegar ao objetivo (e também se uma morrer, a outra morre). Bem legal!
+Inicialmente jogo contava com cinco blocos de fases: _A Entrada_, _O Labirinto das Serpentes_, _O Labirinto das Pedras_, _O Labirinto dos Espíritos_ e _A Fuga_. E cada um deles com, mais ou menos, dez fases. Um tempo depois, saiu uma DLC gratuita trazendo um novo bloco: _A Caverna do Fogo_, totalizando 6 blocos. Entretanto, a versão de PS Vita, PS4 e Steam, ganhou mais um bloco inédito: _O Espelho dos Espíritos_, onde trouxe um desafio um pouco diferente, pois em algumas fases você tem que controlar duas Laras! Uma é uma espécie de reflexo da outra, ou seja, ao movimentar a Lara verdadeira, seu reflexo também se moverá, mas suas trilhas muitas vezes são diferentes, sendo assim, você tem que pensar nos movimentos para as duas, pois ambas precisam chegar ao objetivo (e também se uma morrer, a outra morre). Bem legal!
 
 {% include image.html
   url="/imgs/posts/game_over/35_lara_croft_go/dlc-1.jpg"

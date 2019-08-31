@@ -1,24 +1,58 @@
-- slug: analise
+- slug: categoria-analise
   name: Análises
-  link: jogando/analise
-- slug: especial
+  link: analises
+- slug: categoria-colecao-pessoal
+  name: Coleção Pessoal
+  link: colecao-pessoal
+- slug: categoria-especial
   name: Especiais
-  link: jogando/especial
-- slug: game-over
-  name: Série Game Over
-  link: jogando/game-over
-- slug: lists
+  link: especiais
+- slug: categoria-lista
   name: Listas
-  link: lists
-- slug: toplist
-  name: Série Toplist
-  link: jogando/toplist
-- slug: trofeus
-  name: Troféus
-  link: jogando/trofeus
-- slug: utilidade-publica
+  link: listas
+- slug: categoria-noticias
+  name: Notícias
+  link: noticias
+- slug: categoria-utilidade-publica
   name: Utilidade Pública
   link: utilidade-publica
+
+- slug: complete-lists
+  name: Listas completas
+
+- slug: serie-cacadores-trofeus
+  name: Série Caçadores de Troféus
+  link: cacadores-de-trofeus
+- slug: serie-cervejando
+  name: Série Cervejando
+  link: cervejando
+- slug: serie-edicao-colecionador
+  name: Série Edição de Colecionador
+  link: edicao-colecionador
+- slug: serie-faca-voce-mesmo
+  name: Série Faça Você Mesmo
+  link: faca-voce-mesmo
+- slug: serie-game-db
+  name: Série Game DB
+  link: game-db
+- slug: serie-game-over
+  name: Série Game Over
+  link: game-over
+- slug: serie-mosca-branca
+  name: Série Mosca Branca
+  link: mosca-branca
+- slug: serie-pecados-gamisticos
+  name: Série Pecados Gamísticos
+  link: pecados-gamisticos
+- slug: serie-vcc-racing
+  name: Série VCC Racing
+  link: vcc-racing
+- slug: serie-vcc-recomenda
+  name: Série VCC Recomenda!
+  link: vcc-recomenda
+- slug: serie-videogames-em-latas
+  name: Série Videogames em Latas
+  link: videogames-em-latas
 
 - slug: android
   name: Android
