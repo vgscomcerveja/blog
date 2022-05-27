@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Need for Speed: Hot Pursuit (PS3)"
+title: "Análise - Need for Speed: Hot Pursuit"
 date: 2013-03-03 19:00
 author: felipebbarbosa
 session: VCC Racing // Game Over

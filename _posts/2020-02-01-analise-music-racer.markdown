@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Music Racer (PS4)"
+title: "Análise - Music Racer"
 date: 2020-02-01 17:30
 author: felipebbarbosa
 session: Game Over

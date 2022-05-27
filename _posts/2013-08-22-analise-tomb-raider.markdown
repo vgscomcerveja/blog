@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Tomb Raider (PS1)"
+title: "Análise - Tomb Raider"
 date: 2013-08-22 19:00
 author: felipebbarbosa
 session: Game Over

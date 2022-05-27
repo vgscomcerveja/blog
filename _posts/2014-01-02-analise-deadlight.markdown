@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Deadlight (Xbox 360)"
+title: "Análise - Deadlight"
 date: 2014-01-02 19:00
 author: felipebbarbosa
 session: Game Over

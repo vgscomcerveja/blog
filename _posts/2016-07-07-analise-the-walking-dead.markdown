@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - The Walking Dead: Season 1 & 2 (PS Vita / PS4)"
+title: "Análise - The Walking Dead: Season 1 & 2"
 date: 2016-07-07 19:00
 author: felipebbarbosa
 session: Game Over

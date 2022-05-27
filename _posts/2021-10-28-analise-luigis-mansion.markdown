@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Luigi's Mansion (GameCube)"
+title: "Análise - Luigi's Mansion"
 date: 2021-10-28 21:30
 author: felipebbarbosa
 session: Game Over

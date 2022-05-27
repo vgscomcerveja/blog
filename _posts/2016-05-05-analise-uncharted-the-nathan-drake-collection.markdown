@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Uncharted: The Nathan Drake Collection (PS4)"
+title: "Análise - Uncharted: The Nathan Drake Collection"
 date: 2016-05-05 19:00
 author: felipebbarbosa
 session: Game Over

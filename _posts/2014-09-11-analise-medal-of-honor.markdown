@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Medal of Honor (PS1)"
+title: "Análise - Medal of Honor"
 date: 2014-09-11 19:00
 author: felipebbarbosa
 session: Game Over

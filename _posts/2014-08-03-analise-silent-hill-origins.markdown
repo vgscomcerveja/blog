@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Silent Hill: Origins (PSP)"
+title: "Análise - Silent Hill: Origins"
 date: 2014-08-03 19:00
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Super Mario World (Super Nintendo)"
+title: "Análise - Super Mario World"
 date: 2015-06-30 19:00
 author: felipebbarbosa
 session: Game Over

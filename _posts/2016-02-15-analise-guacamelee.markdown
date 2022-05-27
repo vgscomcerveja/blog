@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Guacamelee! (PS Vita)"
+title: "Análise - Guacamelee!"
 date: 2016-02-15 19:00
 author: felipebbarbosa
 session: Game Over

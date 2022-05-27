@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Land of Illusion (Master System)"
+title: "Análise - Land of Illusion"
 date: 2013-10-13 19:00
 author: felipebbarbosa
 session: Game Over

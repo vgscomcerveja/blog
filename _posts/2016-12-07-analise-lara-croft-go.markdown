@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Lara Croft GO (PS Vita)"
+title: "Análise - Lara Croft GO"
 date: 2016-12-07 20:00
 author: felipebbarbosa
 session: Game Over

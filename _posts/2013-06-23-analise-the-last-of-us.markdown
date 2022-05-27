@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - The Last of Us (PS3)"
+title: "Análise - The Last of Us"
 date: 2013-06-23 19:00
 author: felipebbarbosa
 session: Game Over

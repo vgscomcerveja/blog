@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Need for Speed: Most Wanted (PS3)"
+title: "Análise - Need for Speed: Most Wanted"
 date: 2014-12-26 19:00
 author: felipebbarbosa
 session: VCC Racing // Game Over

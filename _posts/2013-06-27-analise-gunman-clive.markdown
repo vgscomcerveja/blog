@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Gunman Clive (Android - Xperia PLAY)"
+title: "Análise - Gunman Clive"
 date: 2013-06-27 19:00
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - The Great Battle VI (PS1)"
+title: "Análise - The Great Battle VI"
 date: 2013-11-15 19:00
 author: felipebbarbosa
 session: Game Over

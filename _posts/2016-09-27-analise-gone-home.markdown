@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Gone Home (PS4)"
+title: "Análise - Gone Home"
 date: 2016-09-27 22:00
 author: felipebbarbosa
 session: Game Over

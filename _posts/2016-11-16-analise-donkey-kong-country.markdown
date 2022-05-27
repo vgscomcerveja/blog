@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Donkey Kong Country (Super Nintendo)"
+title: "Análise - Donkey Kong Country"
 date: 2016-11-16 20:00
 author: felipebbarbosa
 session: Game Over

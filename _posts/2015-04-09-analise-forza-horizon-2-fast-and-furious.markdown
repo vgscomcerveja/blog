@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Forza Horizon 2: Fast & Furious (Xbox 360)"
+title: "Análise - Forza Horizon 2: Fast & Furious"
 date: 2015-04-09 19:00
 author: felipebbarbosa
 session: VCC Racing // Game Over

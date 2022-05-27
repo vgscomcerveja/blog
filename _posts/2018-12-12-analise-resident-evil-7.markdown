@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Resident Evil VII biohazard (PS4)"
+title: "Análise - Resident Evil VII biohazard"
 date: 2018-12-12 22:30
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Need for Speed: The Run (PS3)"
+title: "Análise - Need for Speed: The Run"
 date: 2013-03-16 19:00
 author: felipebbarbosa
 session: VCC Racing // Game Over

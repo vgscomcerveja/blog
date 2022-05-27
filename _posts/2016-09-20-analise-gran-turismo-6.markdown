@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Gran Turismo 6 (PS3)"
+title: "Análise - Gran Turismo 6"
 date: 2016-09-20 19:00
 author: felipebbarbosa
 session: VCC Racing // Game Over

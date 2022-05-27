@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Uncharted 4: A Thief's End (PS4)"
+title: "Análise - Uncharted 4: A Thief's End"
 date: 2016-05-18 19:00
 author: felipebbarbosa
 session: Game Over

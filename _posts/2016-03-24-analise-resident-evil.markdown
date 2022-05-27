@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Resident Evil (PS1)"
+title: "Análise - Resident Evil"
 date: 2016-03-24 19:00
 author: felipebbarbosa
 session: Game Over

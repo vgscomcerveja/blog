@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Metal Gear Solid: The Twin Snakes (GC)"
+title: "Análise - Metal Gear Solid: The Twin Snakes"
 date: 2013-06-02 19:00
 author: felipebbarbosa
 session: Game Over

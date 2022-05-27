@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Far Cry 3 (Xbox 360)"
+title: "Análise - Far Cry 3"
 date: 2013-02-23 19:00
 author: felipebbarbosa
 session: Game Over
