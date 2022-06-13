@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "O melhor da década (2010-2019)!"
-date: 2019-11-15 7:30
+title: "Os melhores da década passada (2010-2019)!"
+date: 2022-05-26 17:30
 author: felipebbarbosa
 session: VCC Recomenda! // Pecados Gamísticos
 categories: games jogando
@@ -10,139 +10,322 @@ thumbnail: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_thumbnail.jpg
 cover: /imgs/posts/toplist/15_melhor_decada_2010/post_header.jpg
 ---
 
-Estamos no final de mais uma década! E que tal relembrarmos o que de melhor rolou no mundo dos games neste periodo?
+Eu tive a ideia de escrever este post no final de 2019, porém no ano seguinte entrou a pandemia e o mundo virou um caos. De fato não foi um dos melhores começo de década que tivemos, entretanto, agora dois anos e meio depois, as coisas estão se ajeitando e achei interessante retomar essa lista, até porque, olha que arte legal que eu havia feito, não dá dó de jogar na lixeira? :D
 
-Particularmente foi uma década bastante especial neste assunto, pois foi em 2010 quando [resolvi que iria começar a colecionar videogames](/post/inicio-da-colecao). Foi em 2010 também que consegui pela primeira vez ter um console da última geração com o [PS3 na época](/post/aquisicao-playstation3). Além disso, também resolvi nesta época que iria começar a escrever sobre games e lancei este blog! E através dele, adquiri tive muitos aprendizados, seja pesquisando sobre jogos ou até mesmo trabalhando no desenvolvimento dele. E além disso, através dele aconteceu o que eu considero o mais importante: conheci ótimas pessoas!
+Mas enfim, a década passada foi bastante especial para mim, pois foi em 2010 quando [resolvi que iria começar a colecionar videogames](/post/inicio-da-colecao). Foi em 2010 também que consegui pela primeira vez ter um console da última geração com o [PS3 na época](/post/aquisicao-playstation3). Além disso, também resolvi nesta época que iria começar a escrever sobre games e lancei este blog! E através dele, adquiri tive muitos aprendizados, seja pesquisando sobre jogos ou até mesmo trabalhando no desenvolvimento dele. E além disso, através dele aconteceu o que eu considero o mais importante: conheci pessoas bacanas, que inclusive, se tornaram ótimos amigos!
+
+Bom, chega de enrolação e vamos à lista! Dividos por ano, selecionei os três melhores jogos **que eu joguei** de cada ano e ainda de quebra, mencionei outros três jogos bons como menções honrosas e também citei outros três jogos que ainda não joguei e estão no meu backlog, os também conhecidos como [pecados gamísticos](/pecados-gamisticos/), que inclusive, podem até ser melhores do que minha seleção. Enfim, vamos lá!
 
 <!--more-->
 
 ## 2010
 
 #### Donkey Kong Country Returns
+##### Nintendo Wii
 
-sdasds
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_dkc-returns.jpg" full="true" %}
+
+Nada melhor do que começar a lista com o retorno do gorila mais famoso do mundo dos games, não? E como esse retorno foi em grande estilo, **Donkey Kong Country Returns** não poderia ficar de fora! Pois ele foi um dos jogos que mais me cativou no Nintendo Wii, até mais que Super Mario Galaxy (que acredite ou não, ainda não fui até o final). O jogo trouxe de volta a progressão lateral, visual belíssimo e ainda uma dose de desafios, que inclusive, alguns até podem dizer que o ponto fraco do jogo é a dificuldade ou a jogabilidade que faz-se necessário movimentos com Wii remote, entretanto, eu achei o jogo desafiador na medida certa e, a obrigatoriedade de fazer movimentos com as mãos para avançar não achei forçada e até prazerosa. Mas caso isso seja um empecilho para você, a versão de 3DS que saiu em 2013 pode ser interessante.
 
 #### Alan Wake
+##### Xbox 360
 
-asdasdas
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_alan-wake.jpg" full="true" %}
 
-#### BioShock 2
+Nada de Halo ou Gears of War, assim que o Xbox 360 entrou para coleção, o primeiro jogo que praticamente coloquei nele foi **Alan Wake**, e olha, vou te contar que o jogo me prendeu do início ao fim. No papel de um escritor de livros de terror, você tem que investigar os mistérios por trás do desaparecimento da sua esposa e que acaba vivenciando as histórias do seu livro e o pior, algumas ainda nem estavam escritas. Recentemente, em 2021, o jogo ganhou uma versão remasterizada para diversas plataformas e com isso mais jogadores pôde conhecer essa aventura de terror e suspense da [Remedy Entertainment](https://www.remedygames.com/), que inclusive, anunciou (finalmente) uma sequência! 
 
-....
+#### Gran Turismo 5 
+##### PlayStation 3
 
-**Menções honrosas:** NFS: Hot Pursuit, Gran Turismo 5 e Heavy Rain
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_gran-turismo-5.jpg" full="true" %}
 
-**Pecados gamísticos:** Super Mario Galaxy 2, Red Dead Redemption e Dante's Inferno
+Eis o jogo que me fez voltar com força ao mundo dos games, pois assim que seu lançamento estava próximo, corri atrás de comprar um PlayStation 3 e de quebra, comprei o volante G27 da Logitech para complementar, resultado: horas e horas jogando Gran Turismo 5! E mesmo apesar do atraso para lançamento, fez jus a qualidade da série e conseguiu superar seu antecessor! Pena que hoje não é possível mais jogar online com ele.
+
+**Menções honrosas:** 
+  - [Need for Speed: Hot Pursuit](/post/analise-need-for-speed-hot-pursuit)
+  - [BioShock 2](/post/analise-bioshock-2)
+  - Heavy Rain 
+  - **Bônus:** Limbo
+
+**Pecados gamísticos:** 
+  - Super Mario Galaxy 2
+  - Red Dead Redemption
+  - Dante's Inferno
 
 ## 2011
 
 #### Uncharted 3: Drake's Deception
+##### PlayStation 3
 
-...
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_uncharted-3.jpg" full="true" %}
+
+Sou suspeito para [falar de Uncharted](/post/platinando-serie-uncharted), mas o terceiro título da série que nasceu no PlayStation 3 tinha a dura missão de superar seu antecessor, que é uma obra-prima. Muitos dizem que não conseguiu, mas olha, foi por muito pouco, pois **Drake's Deception** para mim é um deleite para quem gosta de aventura estilo Tomb Raider e Indiana Jones!
 
 #### Super Mario 3D Land
+##### Nintendo 3DS
 
-...
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_super-mario-3d-land.jpg" full="true" %}
 
-#### Alice: Madness Returns
+O último portátil da Nintendo antes do Switch é recheado de ótimos jogos e esse do Mario faz jus ao uso do 3D com uma bela ambientação
+
+#### Rayman Origins
+##### PC, PlayStation 3, Vita e Xbox 360
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_rayman-origins.jpg" full="true" %}
 
 ....
 
-**Menções honrosas:** Mortal Kombat, Dead Island e DiRT 3.
+**Menções honrosas:** 
+  - Mortal Kombat
+  - Dead Island
+  - Alice: Madness Returns
+  - **Bônus:** Jurassic Park: The Game
 
-**Pecados gamísticos:** Dead Space 2, Dark Souls e Batman: Arkham City
+**Pecados gamísticos:** 
+  - Dead Space 2
+  - Deus Ex: Human Revolution
+  - Batman: Arkham City
 
 ## 2012
 
 #### Far Cry 3
+##### PC, PlayStation 3 e Xbox 360
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_far-cry-3.jpg" full="true" %}
+
+[Análise](/post/analise-farcry-3)
 
 #### Spec Ops: The Line
+##### PC, PlayStation 3 e Xbox 360
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_spec-ops-the-line.jpg" full="true" %}
+
+[Análise](/post/analise-spec-ops-the-line)
 
 #### The Walking Dead
+##### PC, PlayStation 3, PlayStation 4, Vita, Xbox 360 e Xbox One
 
-**Menções honrosas:** NFS: Most Wanted, Forza Horizon e Journey
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_twd.jpg" full="true" %}
 
-**Pecados gamísticos:** Diablo III, New Super Mario Bros U e Dishonored
+[Análise](/post/analise-the-walking-dead)
+
+**Menções honrosas:** 
+  - [Need for Speed: Most Wanted](/post/analise-need-for-speed-most-wanted)
+  - Forza Horizon
+  - Journey 
+  - **Bônus:** Max Payne 3
+
+**Pecados gamísticos:** 
+  - Diablo III
+  - New Super Mario Bros U
+  - Dishonored
 
 ## 2013
 
 #### The Last of Us
+##### PlayStation 3
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tlou.jpg" full="true" %}
+
+[Análise](/post/analise-the-last-of-us)
 
 #### Tomb Raider
+##### PC, PlayStation 3 e Xbox 360
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tomb-raider.jpg" full="true" %}
+
+[Análise](/post/analise-tomb-raider-2013)
 
 #### Gran Turismo 6
+##### PlayStation 3
 
-**Menções honrosas:** Guacamelee!, Metal Gear Rising e Rayman Legends
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_gran-turismo-6.jpg" full="true" %}
 
-**Pecados gamísticos:** BioShock Infinite, GTA V e Luigi's Mansion: Dark Moon
+[Análise](/post/analise-gran-turismo-6)
+
+**Menções honrosas:** 
+  - [Guacamelee!](/post/analise-guacamelee)
+  - Metal Gear Rising
+  - Tearaway
+  - **Bônus:** Rayman Legends
+
+**Pecados gamísticos:** 
+  - BioShock Infinite
+  - Luigi's Mansion: Dark Moon
+  - Grand Theft Auto V
 
 ## 2014
 
 #### Wolfenstein: The New Order
+##### PlayStation 3, PlayStation 4, Xbox 360 e Xbox One
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_wolfenstein.jpg" full="true" %}
 
 #### Forza Horizon 2
+##### Xbox 360 e Xbox One
 
-#### The Evil Within
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_forza-horizon-2.jpg" full="true" %}
 
-**Menções honrosas:** Far Cry 4, DKC Tropical Freeze e Mario Kart 8
-**Pecados gamísticos:** Alien Isolation, Shadow of Mordor e Bayonetta 2.
+#### Donkey Kong Country: Tropical Freeze 
+##### Wii U
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_dkc-tropical-freeze.jpg" full="true" %}
+
+**Menções honrosas:** 
+  - Far Cry 4
+  - The Evil Within
+  - Mario Kart 8
+  - **Bônus:** [The Last of Us: Left Behind](/post/analise-the-last-of-us-left-behind)
+
+**Pecados gamísticos:** 
+  - Alien Isolation 
+  - Terra-Média: Shadow of Mordor
+  - Bayonetta 2
 
 ## 2015
 
 #### Rise of the Tomb Raider
+##### PC, PlayStation 4, Xbox 360 e Xbox One
 
-#### Sunset Overdrive
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_rise-tomb-raider.jpg" full="true" %}
 
-#### Metal Gear Solid V: The Phantom Pain
+#### Axiom Verge
+##### PC, PlayStation 4, Vita e Xbox One
 
-**Menções honrosas:** Life is Strange, Need for Speed e Lara Croft GO
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_axiom-verge.jpg" full="true" %}
 
-**Pecados gamísticos:** Bloodborne, The Witcher 3 e Until Dawn
+#### Lara Croft GO
+##### Andriod, PS Vita, PlayStation 4 e Xbox One
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_lara-croft-go.jpg" full="true" %}
+
+[Análise](/post/analise-lara-croft-go)
+
+**Menções honrosas:** 
+  - Life is Strange
+  - Ori and the Blind Forest
+  - Sunset Overdrive
+  - **Bônus:** Metal Gear Solid V: The Phantom Pain
+
+**Pecados gamísticos:** 
+  - Bloodborne
+  - The Witcher 3: Wild Hunt 
+  - Until Dawn
 
 ## 2016
 
 #### Uncharted 4: A Thief's End
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_uncharted-4.jpg" full="true" %}
+
+[Análise](/post/analise-uncharted-4)
 
 #### DOOM
+##### PC, PlayStation 4 e Xbox One
 
-#### Severed
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_doom.jpg" full="true" %}
 
-**Menções honrosas:** The Last Guardian, Firewatch e Forza Horizon 3
+[Análise](/post/analise-doom)
 
-**Pecados gamísticos:** Quantum Break, Persona 5 e Dark Souls III
+#### Inside
+##### PC, PlayStation 4 e Xbox One
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_inside.jpg" full="true" %}
+
+**Menções honrosas:** 
+  - [The Last Guardian](/post/analise-the-last-guardian)
+  - Firewatch
+  - [Severed](/post/analise-severed)
+  - **Bônus:** Forza Horizon 3
+
+**Pecados gamísticos:** 
+  - Quantum Break 
+  - Deus Ex: Mankind Divided 
+  - Dark Souls III
 
 ## 2017
 
 #### Horizon Zero Dawn
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_horizon-zero-dawn.jpg" full="true" %}
+
+[Análise](/post/analise-horizon-zero-dawn)
 
 #### Resident Evil 7: biohazard
+##### PC, PlayStation 4 e Xbox One
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_re7-biohazard.jpg" full="true" %}
+
+[Análise](/post/analise-resident-evil-7)
 
 #### Hollow Knight
+##### PC, PlayStation 4 e Xbox One
 
-**Menções honrosas:** Cuphead, Uncharted: The Lost Legacy e Forza 7.
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_hollow-knight.jpg" full="true" %}
 
-**Pecados gamísticos:** Sonic Mania, TLOZ: Breath of the Wild e Hellblade. (Shadow of War, The Evil Within 2, Crash, Metroid Samus Returns, Nioh, Wolfenstein 2, Nier Automata, Super Mario Odyssey e Assassin's Creed Origins)
+**Menções honrosas:** 
+  - Cuphead 
+  - Uncharted: The Lost Legacy 
+  - Forza Motorsport 7 
+  - **Bônus:** Hellblade: Senua's Sacrifice
+
+**Pecados gamísticos:** 
+  - The Legend of Zelda: Breath of the Wild 
+  - Super Mario Odyssey
+  - Sonic Mania
 
 ## 2018
 
 #### God of War
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_god-of-war.jpg" full="true" %}
 
 #### Marvel's Spider-Man
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_spider-man.jpg" full="true" %}
 
 #### Forza Horizon 4
+##### PC e Xbox One
 
-**Menções honrosas:** Shadow of the Tomb Raider, Far Cry 5 e Battlefield V.
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_forza-horizon-4.jpg" full="true" %}
 
-**Pecados gamísticos:** Shadow of the Colossus, Celeste e Red Dead Redemption 2
+**Menções honrosas:** 
+  - Shadow of the Tomb Raider
+  - Shadow of the Colossus 
+  - Battlefield V
+
+**Pecados gamísticos:** 
+  - Far Cry 5
+  - Celeste
+  - Red Dead Redemption 2
 
 ## 2019
 
 #### Resident Evil 2
+##### PC, PlayStation 4 e Xbox One
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_re2.jpg" full="true" %}
 
 #### Days Gone
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_days-gone.jpg" full="true" %}
 
 #### Need for Speed: Heat
+##### PC, PlayStation 4 e Xbox One
 
-**Menções honrosas:** Gears 5, The Outer Worlds e
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_nfs-heat.jpg" full="true" %}
 
-**Pecados gamísticos:** Sekiro, Death Stranding e Devil May Cry 5 (Star-Wars Jedi: Fallen, Shenmue 3, Luigi Mansion 3, Kingdom Hearts III, Wolfenstein Youngblood, Bloodstained: Ritual of the Night, Far Cry: New Dawn, Grid, Call of Duty: Modern Warfare )
+**Menções honrosas:** 
+  - Gears 5 
+  - DiRT Rally 2.0 
+  - A Plague Tale: Innocence
+
+**Pecados gamísticos:** 
+  - Sekiro
+  - Death Stranding 
+  - Devil May Cry 5
