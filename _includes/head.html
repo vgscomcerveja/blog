@@ -57,11 +57,10 @@
         <meta property="article:author" content="https://twitter.com/felipebbarbosa">
     {% endif %}
 
-    {% if page.categories %}
-        {% for category in page.categories limit:1 %}
-            <meta property="article:section" content="{{ category }}">
-        {% endfor %}
-    {% endif %}
+    {% for category in page.categories limit:1 %}
+        <meta property="article:section" content="{{ category }}">
+    {% endfor %}
+    
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">

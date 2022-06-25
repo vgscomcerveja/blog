@@ -22,17 +22,15 @@ layout: default
   </div>
 
   <div class="post-list">
-    {% if site.tags[page.tag] %}
-      {% for post in site.tags[page.tag] %}
-        {% include article-preview.html show_category="false" %}
-        {% assign loopindex = forloop.index | modulo: 5 %}
-        {% if loopindex == 1 %}
-          {% include googleads.html %}
-        {% endif %}
-      {% endfor %}
+    {% for post in site.tags[page.tag] %}
+      {% include article-preview.html show_category="false" %}
+      {% assign loopindex = forloop.index | modulo: 5 %}
+      {% if loopindex == 1 %}
+        {% include googleads.html %}
+      {% endif %}
     {% else %}
       <p>Não tem posts com esta tag!</p>
-    {% endif %}
+    {% endfor %}
   </div>
 </div>
 
