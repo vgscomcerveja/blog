@@ -10,7 +10,7 @@ thumbnail: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_thumbnail.jpg
 cover: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_header.jpg
 ---
 
-Finalmente saiu! Já fazia um tempo que queria fazer essa seleção, ~~e provar~~ já que a série [Caçadores de Troféus](/cacadores-de-trofeus) não é exclusivamente aos jogos de PlayStation! E isto é fato pois nos posts anteriores você também tem a dica se o jogo também está disponível para o Xbox (e será assim em vice-versa). Além disso, caçar conquistas no **Xbox** é tão divertido quanto no **PlayStation**, não é mesmo? Agora, se tem um ótimo lugar para "miletar" jogos, este lugar é no **Xbox Game Pass**!
+Finalmente saiu! Já fazia um tempo que queria fazer essa seleção, ~~e provar~~ já que a série ~~Caçadores de Troféus~~[Gametrofista](/gametrofista) não é exclusivamente aos jogos de PlayStation! E isto é fato pois nos posts anteriores você também tem a dica se o jogo também está disponível para o Xbox (e será assim em vice-versa). Além disso, caçar conquistas no **Xbox** é tão divertido quanto no **PlayStation**, não é mesmo? Agora, se tem um ótimo lugar para "miletar" jogos, este lugar é no **Xbox Game Pass**!
 
 <!--more-->
 

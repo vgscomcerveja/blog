@@ -29,8 +29,8 @@ Vale lembrar, que o desenvolvimento foi feito todo do zero, e ainda não está 1
 Uma outra novidade é quanto a organização dos posts, agora eles estão divididos em três grandes grupos:
 
 - **Notícias** - Obviamente são posts relacionados as novidades ou curiosidades relacionadas à games!
-- **Jogando** - Neste grupo estarão os posts que são relacionados ao jogo em si, tais como, [análises](/jogando/analise/), [toplists](/jogando/toplist/), [utilidades públicas](/utilidade-publica/) e algumas [matérias especiais](/jogando/especiais/).
-- **Colecionando** - Neste grupo estarão os posts relacionados ao colecionismo de videogames e jogos. Terão posts sobre minha [coleção pessoal](/colecionando/colecao-pessoal/), [edições de colecionadores](/colecionando/edicao-colecionador) bacanas (que gostaria de ter), itens raros ([mosca branca](/colecionando/mosca-branca)), [utilidades públicas](/utilidade-publica/) e [toplists](/colecionando/toplist/).
+- **Jogando** - Neste grupo estarão os posts que são relacionados ao jogo em si, tais como, [análises](/jogando/analise/), [toplists](/jogando/toplist/), [utilidades públicas](/utilidade-publica/) e algumas [matérias especiais](/especiais/).
+- **Colecionando** - Neste grupo estarão os posts relacionados ao colecionismo de videogames e jogos. Terão posts sobre minha [coleção pessoal](/colecionando/colecao-pessoal/), [edições de colecionadores](/colecionando/edicao-colecionador) bacanas (que gostaria de ter), itens raros ([mosca branca](/colecionando/mosca-branca)), [utilidades públicas](/utilidade-publica/) e [toplists](/listas/).
 
 Bom, acredito que isto tudo irá trazer novos ânimos ao blog, então espero poder trazer mais novidades em breve, e o principal, espero que você tenha gostado! :)
 
