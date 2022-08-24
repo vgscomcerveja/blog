@@ -26,7 +26,7 @@ Com isso decidido, o próximo passo, portanto, é saber quais são as ferramenta
 É uma ferramenta de criação de jogos. A maioria dos jogos tridimensionais produzidos para navegadores são feitos através da Unity, mas com a ferramenta também é possível criar jogos para Android. Não se preocupe se você não possui grandes conhecimentos em programação: a Unity disponibiliza opções avançadas que realizam tarefas de desenvolvimento de game.
 
 {% include image.html
-  url="/imgs/posts/utilidade_publica/10_udemy/logo_unity.png"
+  url="/imgs/posts/utilidade_publica/10_udemy/logo_unity.jpg"
   description="Unity é uma das game engines mais usadas no mundo. (Imagem: Wikipédia)" %}
 
 A plataforma tem dois tipos de acesso: pago e gratuito. O acesso gratuito possui algumas limitações de gráfico e licenças. O único requisito para rodar a máquina no seu computador é que ele tenha uma placa de vídeo potente e uma memória RAM expandida.

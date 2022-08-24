@@ -24,7 +24,7 @@ A única maneira de derrotar os inimigos é com seu tornado, pois pular na cabe�
 
 O jogo em si possui apenas 5 estágios: Planície, Floresta, Caverna, Ruínas e o Vale. E cada um dos estágios são divididos em três fases: duas normais e uma com o chefão.
 
-{% include image.html url="/imgs/posts/game_over/05_tazmania/foto1.png" description="O visual do game é muito bonito, você concorda?" %}
+{% include image.html url="/imgs/posts/game_over/05_tazmania/taz-mania-fases.jpg" description="O visual do game é muito bonito, você concorda?" %}
 
 A história do jogo é a seguinte:
 
