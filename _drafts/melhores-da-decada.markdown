@@ -125,11 +125,9 @@ Para fechar, eis minha [análise](/post/analise-spec-ops-the-line) da época.
 
 Muitas mídias especilizadas elegeram este como sendo o **"Jogo do Ano de 2012"** e olha, concordo bastante, pois esse trabalho da Telltale Games, realmente, foi algo surpreendente e inovador para época, além, é claro, de ser um baita jogo!
 
-O jogo conta a história de **Lee Everett** e a jovem **Clementine** no mundo de The Walking Dead, e o mais legal, é que uma história totalmente inédita e exclusiva para jogo, não existe nem nos quadrinhos e nem na série de TV.
+O jogo conta a envolvente história de **Lee Everett** e a jovem **Clementine** no mundo de The Walking Dead, e o mais legal, é que uma história totalmente inédita e exclusiva para jogo, não existe nem nos quadrinhos e nem na série de TV.
 
-
-
-[Análise](/post/analise-the-walking-dead)
+Com o estilo de jogo "*point-and-click*", você tem que resolver uma série de problemas e tomar muitas decisões importantes, sendo que a cada decisão tomada, a trama do jogo muda completamente. Com isso, o jogo te proporciona diversas maneiras de chegar ao final, aumentando assim o fator *replay*. Eu cheguei a escrever uma [análise](/post/analise-the-walking-dead) dele na época para caso queira conferir mais detalhes.
 
 **Menções honrosas:** 
   - [Need for Speed: Most Wanted](/post/analise-need-for-speed-most-wanted)
@@ -149,21 +147,29 @@ O jogo conta a história de **Lee Everett** e a jovem **Clementine** no mundo de
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tlou.jpg" full="true" %}
 
-[Análise](/post/analise-the-last-of-us)
+Este aqui dispensa comentários, não? Provavelmente **o melhor jogo da década!** A **Naughty Dog** conseguiu unir drama, ação, aventura, suspense, terror e até *stealth* em um jogo que te prende do início ao fim! 
+
+No controle de **Joel**, um durão sobrevivente veterano, você está em um mundo pós-apocalíptico, onde os seres humanos estão quase em extinção devido a uma praga que transforma as pessoas em zumbis. Apesar de ser muito divertido enfrentar esses zumbis (de variados tamanhos e característica), a parte mais envolvente é sua rica história e ambientação. [Recomendo demais esse jogo](/post/analise-the-last-of-us)!
 
 #### Tomb Raider
 ##### PC, PlayStation 3 e Xbox 360
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tomb-raider.jpg" full="true" %}
 
-[Análise](/post/analise-tomb-raider-2013)
+O renascimento da maior musa dos videogames veio em grande categoria, com uma **Lara Croft**, menos experiente e mais humana, porém extremamente corajosa e guerreira, pois precisa lutar pela vida em uma ilha tropical misteriosa onde seu navio naufragou devido à uma forte tempestade. 
+
+O engraçado é que assim como Uncharted bebeu da fonte de Tomb Raider, essa nova aventura de Lara Croft se inspirou bastante na franquia de Nathan Drake. Porém, é um jogo mais aprimorado, com cover automático, sistema de evolução e bastante exploração. Enfim, [um jogaço](/post/analise-tomb-raider-2013)!
 
 #### Gran Turismo 6
 ##### PlayStation 3
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_gran-turismo-6.jpg" full="true" %}
 
-[Análise](/post/analise-gran-turismo-6)
+O segundo jogo da série Gran Turismo para o PlayStation 3 foi o primeiro da história a receber uma certificação da FIA (Federação Internacional de Automobilismo) de tão próximo à realidade ele foi.
+
+O jogo conta com uma quantidade de carros e pistas absurda, sendo mais de 1.200 carros e 70 circuitos (contando com as variações). Alguns circuitos, inclusive, são tão fiéis aos reais que a discrepância entre a pista virtual e a real é inferior a um centímetro, como é o caso da pista de Nürburgring, por exemplo.
+
+O jogo possui tantos detalhes legais, que modéstia a parte, recomendo a leitura da [minha análise](/post/analise-gran-turismo-6) que fiz anos atrás! A única coisa que dá uma pena é que os servidores já foram desligados e não é mais possível correr online. Mas para quem gostar de platinar jogos, pode jogar sossegado, pois o jogo não conta com troféus online.
 
 **Menções honrosas:** 
   - [Guacamelee!](/post/analise-guacamelee)
@@ -183,15 +189,29 @@ O jogo conta a história de **Lee Everett** e a jovem **Clementine** no mundo de
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_wolfenstein.jpg" full="true" %}
 
+Este é o sétimo título da série **Wolfenstein**, um FPS que nasceu lá no início da década 90, que para quem não conhece, conta uma história alternativa em que a Alemanha Nazista venceu a Segunda Guerra Mundial. Com isso, você assume o papel do soldado **B.J. Blazkowicz** que não medirá esforços para impedir que os nazistas continuem no controle do mundo.
+
+Apesar de não ser mais desenvolvido pela **id Software** (e sim pela **MachineGames**), o jogo é uma delícia de jogar, pois possui uma narrativa interessante e um combate muito bem feito. Inclusive, ele foi muito bem recebido pela crítica especializada. Jogaço!
+
 #### Forza Horizon 2
 ##### Xbox 360 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_forza-horizon-2.jpg" full="true" %}
 
+O "*spin-off*" da série Forza Motorsport deu muito certo! Tanto que sua continuação é um deleite para os fãs de jogos de corrida. Quase duas vezes maior que seu antecessor, desta vez, a exploração em mundo aberto é em partes da Itália e França. Além disso, agora o jogo conta com climas de um dia nebulento, há diversas intensidades de chuvas e neblinas. Porém, na versão do Xbox 360 não conta com clima de chuva, infelizmente.
+
+O jogo oferece mais de 200 carros e 168 eventos (cada um com diversas corridas), além da interatividade online, desafios e corridas de exibições, que são um show à parte. Enfim, é um belíssimo jogo de corrida arcade, onde lembra um pouco de OutRun, que foca no prazer de pilotar e curtir ótimas músicas admirando uma bela paisagem.
+
 #### Donkey Kong Country: Tropical Freeze 
 ##### Wii U
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_dkc-tropical-freeze.jpg" full="true" %}
+
+O segundo jogo do gorila da Nintendo é igualmente excelente ao seu antecessor, porém ainda mais desafiador! Ele foi o responsável por eu querer o console Wii U na época.
+
+Obviamente o jogo está ainda mais bonito, porém as grandes novidades se devem a possibilidade de ter, além do Diddy Kong, a Dixie e o Cranky Kong como companheiros do Donkey Kong nas aventuras pelas fases, que são sete ilhas diferentes. Os vilões são os *Snowmads* que invadem e expulsam os Kongs de sua ilha (DK Island) para assumirem o controle. Sua missão é atravessar essas setes ilhas e voltar para casa. 
+
+Em 2018 o jogo recebeu um port para Nintendo Switch.
 
 **Menções honrosas:** 
   - Far Cry 4
@@ -211,15 +231,29 @@ O jogo conta a história de **Lee Everett** e a jovem **Clementine** no mundo de
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_rise-tomb-raider.jpg" full="true" %}
 
+Sou suspeito para falar da série, mas o segundo jogo da trilogia (iniciada em 2013) da nova Lara Croft é fantástico! Lançado em 2015 exclusivamente para os consoles da Microsoft, foi muito bem recebido pela crítica, pois a Crystal Dynamics pegou a fórmula que deu certo e melhorou ainda mais.
+
+Desta vez, Lara se aventura na mítica cidade russa de Kitej, que segundo as lendas, contém segredos para a imortalidade. E ela faz isso para tentar provar que não estava ficando louca depois das experiências sobrenaturais que teve no primeiro jogo em Yamatai.
+
+Quem curtiu o primeiro jogo, com certeza irá curtir essa sequência, pois agora as áreas de exploração são cerca de três vezes maior, o ambiente conta com um ciclo meia-noite/dia e com um novo sistema climatérico que influencia tantos as personagens humanas como os animais, ou seja, você precisa se fortalecer criando casaco de inverno mais forte em determinadas áreas, por exemplo. Além disso, você melhorar suas armas e acessórios também.
+
+Enfim, jogaço! Os jogadores de PlayStation e PC, só foram usufruir deste jogo em 2016 quando ele saiu para Windows e PlayStation 4 (no final do ano). Em 2019 ele saiu para o Google Stadia também, mas isso é quase irrelevante. Eu joguei no Xbox 360, pois não tinha o Xbox One na época e não aguentei esperar sair no PS4.
+
 #### Axiom Verge
 ##### PC, PlayStation 4, Vita e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_axiom-verge.jpg" full="true" %}
 
+Se você é fã do "gênero" *Metroidvania* e ainda não jogou **Axiom Verge** está perdendo seu tempo, pois esse jogo é uma baita homenagem ao gênero e ainda mais ao **Super Metroid**!
+
+Desenvolvido por praticamente um pessoa só, o Thomas Happ, esse jogo conta com gráficos pixelizados estilo retrô, ótima trilha sonora (também desenvolvida pelo Thomas), história interessante e um excelente gameplay com *backtracking*, *power-ups* e tudo mais, ou seja, o jogo tem tudo o que os fãs do gênero gostam!
+
 #### Lara Croft GO
 ##### Andriod, PS Vita, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_lara-croft-go.jpg" full="true" %}
+
+Mais um jogo da Lara! Desta vez, um jogo
 
 [Análise](/post/analise-lara-croft-go)
 
