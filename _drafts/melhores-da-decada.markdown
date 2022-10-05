@@ -174,7 +174,7 @@ O jogo possui tantos detalhes legais, que modéstia a parte, recomendo a leitura
 **Menções honrosas:** 
   - [Guacamelee!](/post/analise-guacamelee)
   - Metal Gear Rising
-  - Tearaway
+  - Need for Speed: Rivals
   - **Bônus:** Rayman Legends
 
 **Pecados gamísticos:** 
@@ -249,13 +249,13 @@ Se você é fã do "gênero" *Metroidvania* e ainda não jogou **Axiom Verge** e
 Desenvolvido por praticamente um pessoa só, o Thomas Happ, esse jogo conta com gráficos pixelizados estilo retrô, ótima trilha sonora (também desenvolvida pelo Thomas), história interessante e um excelente gameplay com *backtracking*, *power-ups* e tudo mais, ou seja, o jogo tem tudo o que os fãs do gênero gostam!
 
 #### Lara Croft GO
-##### Andriod, PS Vita, PlayStation 4 e Xbox One
+##### Andriod, iOS, PC, PS Vita, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_lara-croft-go.jpg" full="true" %}
 
-Mais um jogo da Lara! Desta vez, um jogo
+Mais um jogo da Lara! Desta vez, um jogo diferente, neste o foco é totalmente nos puzzles! Sua movimentação pelo cenário é baseado em turnos, ou seja, cada fase tem uma trilha pré-determinada por onde você pode andar, e cada passo dado, é considerado um turno. Entretanto, nestas trilhas também existem inimigos e armadilhas estrategicamente posicionados para dificultar sua vida!
 
-[Análise](/post/analise-lara-croft-go)
+Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e conseguir avançar para o final da fase. Uma [delícia de jogo](/post/analise-lara-croft-go)!
 
 **Menções honrosas:** 
   - Life is Strange
