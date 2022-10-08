@@ -131,7 +131,7 @@ E para finalizar, acredito que o maior pecado desta geração, foi de eu não te
 
 Não sei se todos são bons, mas pelo menos, o SH 2 e 3 eu quero jogar! De preferência, no Xbox ou PS2 mesmo, e não na versão remasterizada que saiu para PS3 e X360 (talvez, pelos troféus? Não.. Não.. xD).
 
-**UPDATE**: Silent Hill 2 eliminado da lista, terminei ele em [Nov/2016](/jogando/especiais/2017/01/08/meme-o-que-voce-jogou-em-2016.html) e posso dizer que é um excelente game mesmo, faz jus ao gênero.
+**UPDATE**: Silent Hill 2 eliminado da lista, terminei ele em [Nov/2016](/post/meme-o-que-voce-jogou-em-2016) e posso dizer que é um excelente game mesmo, faz jus ao gênero.
 
 #### Menções Honrosas
 

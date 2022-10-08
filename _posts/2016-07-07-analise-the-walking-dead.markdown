@@ -58,8 +58,6 @@ Os dois jogos são muito bons, o primeiro foi muito aclamado pela crítica e foi
 
 Os jogos saíram praticamente para todas plataformas (menos Nintendo): Android, iOS, Windows, OS X, PS3, PS4, PS Vita, Xbox 360 e Xbox ONE.
 
-{% include youtubePlayer.html id="8DO0l_hwoQ8" %}
-
 {% include ficha.html
   titulo='The Walking Dead: Season One / Season Two'
   plataforma='PS Vita / PS4'

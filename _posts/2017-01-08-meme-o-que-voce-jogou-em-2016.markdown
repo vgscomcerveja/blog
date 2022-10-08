@@ -108,7 +108,7 @@ O jogo tem uma pegada daquelas paródias de filmes de terror dos anos 80. Com ba
 
 {% include image.html url="/imgs/posts/especial/04_meme2016/06_resident-evil.jpg" %}
 
-[Em 2015](/jogando/especiais/2016/01/03/meme-o-que-voce-jogou-em-2015.html) eu havia terminado a campanha da Jill. Em 2016, retomei e terminei a campanha com o Chris. E só tenho uma coisa à dizer: clássico absoluto! Eu adorava esse jogo na época, e confesso que fiquei com um pouco de receio de rejogá-lo por muitos dizerem que o jogo envelheceu mau, mas não achei nada disso! Pode até ser a nostalgia falando mais alto, mas e daí, o que importa é se divertir, certo? :)
+[Em 2015](/post/meme-o-que-voce-jogou-em-2015) eu havia terminado a campanha da Jill. Em 2016, retomei e terminei a campanha com o Chris. E só tenho uma coisa à dizer: clássico absoluto! Eu adorava esse jogo na época, e confesso que fiquei com um pouco de receio de rejogá-lo por muitos dizerem que o jogo envelheceu mau, mas não achei nada disso! Pode até ser a nostalgia falando mais alto, mas e daí, o que importa é se divertir, certo? :)
 
 Meta 2017: terminar o remake de GameCube e depois a versão de PS3/PS4!
 

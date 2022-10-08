@@ -31,8 +31,6 @@ A **Razer**, para quem não conhece, é uma fabricante de excelentes acessórios
 
 O mais interessante é que será vendido no Brasil por R$ 499 ainda no primeiro trimestre. Porém, este valor é da versão sem controle. Se quiser com controle, o preço é de R$ 900.
 
-{% include youtubePlayer.html id='D_A1gyYRTgc' %}
-
 Fonte: [Info](http://info.abril.com.br/noticias/tecnologia-pessoal/2015/01/console-da-razer-com-android-sera-vendido-no-brasil-por-499-reais.shtml)
 
 ---

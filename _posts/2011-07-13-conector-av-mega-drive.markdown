@@ -43,11 +43,11 @@ Enfim, vamos lá!
 Bom, após conseguir os materiais, veja a pinagem do conector DIN:
 
 {% include image.html
-  url="/imgs/posts/utilidade_publica/02_conector_av_mega_drive/conector_din_1.png"
+  url="/imgs/posts/utilidade_publica/02_conector_av_mega_drive/conector_din_1.jpg"
   description="Pinagem do conector DIN vista de frente." %}
 
 {% include image.html
-  url="/imgs/posts/utilidade_publica/02_conector_av_mega_drive/conector_din_2.png"
+  url="/imgs/posts/utilidade_publica/02_conector_av_mega_drive/conector_din_2.jpg"
   description="Conector DIN visto de frente." %}
 
 Só iremos utilizar os pinos 1, 3 e 5. Sendo o **Pino 1** para o sinal de vídeo, o **Pino 5** para o sinal de áudio e o **Pino 3** será o terra.

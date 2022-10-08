@@ -15,6 +15,6 @@ O site [Sega-Brasil](http://www.sega-brasil.com.br/site/) está de parabéns pel
 
 <!--more-->
 
-{% include image.html url="/imgs/posts/utilidade_publica/07_tectoy_wiki/tectoy_wiki.png" %}
+{% include image.html url="/imgs/posts/utilidade_publica/07_tectoy_wiki/tectoy_wiki.jpg" %}
 
 Parabéns à todos os envolvidos! Eu, como fã da Tectoy, achei fantástico! :D

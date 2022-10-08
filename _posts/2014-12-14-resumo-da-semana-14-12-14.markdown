@@ -45,7 +45,7 @@ Já imaginou filmes de **Altered Beast**, **Streets of Rage**, **Shinobi**, **Ri
 
 Se você não ficou sabendo, a **Sony** lançou uma edição limitadíssima e lindíssima do console PS4 nas cores do PS1 em comemoração aos 20 anos de lançamento! Foram fabricadas apenas 12.300 unidades e serão distribuídas mundialmente, e segundo **_Ken Balough_**, gerente de _marketing_ da Sony na américa latina, está nos planos trazer cópias do console para cá, porém, através de promoções de varejo diferentes.
 
-{% include image.html url="/imgs/posts/news/07_resumo02/ps4-20-anos.png" description="Muito bonito!" %}
+{% include image.html url="/imgs/posts/news/07_resumo02/Playstation4_edicao_comemorativa_cinza_limitada_20_anos.jpg" description="Muito bonito!" %}
 
 Mas não se anime, pois se lá fora já estão [vendendo o console por mais de R\$ 50 mil no eBay](http://www.kotaku.com.br/edicao-especial-ps4-60-000/), imagine por aqui, onde o preço oficial do console é de R\$ 4.000? ^^
 
