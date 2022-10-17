@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Os melhores da década passada (2010-2019)!"
+title: "O melhor da década 2010-2019!"
 date: 2022-05-26 17:30
 author: felipebbarbosa
 session: VCC Recomenda! // Pecados Gamísticos
 categories: games jogando
 tags: [microsoft, xbox, xbox-one, categoria-lista, serie-gametrofista]
-thumbnail: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_thumbnail.jpg
+thumbnail: /imgs/posts/toplist/15_melhor_decada_2010/post_thumbnail.jpg
 cover: /imgs/posts/toplist/15_melhor_decada_2010/post_header.jpg
 ---
 
@@ -47,16 +47,9 @@ Recentemente, em 2021, o jogo ganhou uma versão remasterizada para diversas pla
 
 Eis o jogo que me fez voltar com força ao mundo dos games, pois assim que seu lançamento estava próximo, corri atrás de comprar um PlayStation 3 e de quebra, comprei também o [volante G27](https://en.wikipedia.org/wiki/Logitech_G27) da Logitech para complementar, resultado: horas e horas jogando Gran Turismo 5! Que mesmo apesar dos atrasos para lançamento, fez jus a qualidade da série e conseguiu superar seu antecessor! Pena que hoje não é possível mais jogar online com ele.
 
-**Menções honrosas:** 
-  - [Need for Speed: Hot Pursuit](/post/analise-need-for-speed-hot-pursuit)
-  - [BioShock 2](/post/analise-bioshock-2)
-  - Heavy Rain 
-  - **Bônus:** Limbo
+**Menções honrosas:** [Need for Speed: Hot Pursuit](/post/analise-need-for-speed-hot-pursuit), [BioShock 2](/post/analise-bioshock-2), Heavy Rain e Limbo.
 
-**Pecados gamísticos:** 
-  - Super Mario Galaxy 2
-  - Red Dead Redemption
-  - Dante's Inferno
+**Pecados gamísticos:** Super Mario Galaxy 2, Red Dead Redemption e Dante's Inferno.
 
 ## 2011
 
@@ -83,16 +76,9 @@ Pensa num jogo bonito? É esse tal de Rayman Origins! A Ubisoft acertou a mão e
 
 Um dos grandes baratos do jogo é que você consegue jogar em até 4 jogadores em co-op local, cada um com um personagem diferente: Rayman, Globox ou dois Teensies. Além disso, conforme o jogo avança, novas habilidades você vai ganhando, como correr pelas paredes, deslizar no ar após o salto... Enfim, jogo muito divertido que até me bateu a vontade de re-jogar enquanto escrevia esse texto.
 
-**Menções honrosas:** 
-  - Mortal Kombat
-  - Dead Island
-  - Alice: Madness Returns
-  - **Bônus:** Jurassic Park: The Game
+**Menções honrosas:** Mortal Kombat, Dead Island, Alice: Madness Returns e Jurassic Park: The Game.
 
-**Pecados gamísticos:** 
-  - Dead Space 2
-  - Deus Ex: Human Revolution
-  - Batman: Arkham City
+**Pecados gamísticos:** Dead Space 2, Deus Ex: Human Revolution e Batman: Arkham City.
 
 ## 2012
 
@@ -129,16 +115,9 @@ O jogo conta a envolvente história de **Lee Everett** e a jovem **Clementine** 
 
 Com o estilo de jogo "*point-and-click*", você tem que resolver uma série de problemas e tomar muitas decisões importantes, sendo que a cada decisão tomada, a trama do jogo muda completamente. Com isso, o jogo te proporciona diversas maneiras de chegar ao final, aumentando assim o fator *replay*. Eu cheguei a escrever uma [análise](/post/analise-the-walking-dead) dele na época para caso queira conferir mais detalhes.
 
-**Menções honrosas:** 
-  - [Need for Speed: Most Wanted](/post/analise-need-for-speed-most-wanted)
-  - Forza Horizon
-  - Journey 
-  - **Bônus:** Max Payne 3
+**Menções honrosas:** [Need for Speed: Most Wanted](/post/analise-need-for-speed-most-wanted), Forza Horizon, Journey e Max Payne 3.
 
-**Pecados gamísticos:** 
-  - Diablo III
-  - New Super Mario Bros U
-  - Dishonored
+**Pecados gamísticos:** Diablo III, New Super Mario Bros U e Dishonored.
 
 ## 2013
 
@@ -171,16 +150,9 @@ O jogo conta com uma quantidade de carros e pistas absurda, sendo mais de 1.200 
 
 O jogo possui tantos detalhes legais, que modéstia a parte, recomendo a leitura da [minha análise](/post/analise-gran-turismo-6) que fiz anos atrás! A única coisa que dá uma pena é que os servidores já foram desligados e não é mais possível correr online. Mas para quem gostar de platinar jogos, pode jogar sossegado, pois o jogo não conta com troféus online.
 
-**Menções honrosas:** 
-  - [Guacamelee!](/post/analise-guacamelee)
-  - Metal Gear Rising
-  - Need for Speed: Rivals
-  - **Bônus:** Rayman Legends
+**Menções honrosas:** [Guacamelee!](/post/analise-guacamelee), Metal Gear Rising, Need for Speed: Rivals e Rayman Legends.
 
-**Pecados gamísticos:** 
-  - BioShock Infinite
-  - Luigi's Mansion: Dark Moon
-  - Grand Theft Auto V
+**Pecados gamísticos:** BioShock Infinite, Luigi's Mansion: Dark Moon e Grand Theft Auto V.
 
 ## 2014
 
@@ -213,16 +185,9 @@ Obviamente o jogo está ainda mais bonito, porém as grandes novidades se devem 
 
 Em 2018 o jogo recebeu um port para Nintendo Switch.
 
-**Menções honrosas:** 
-  - Far Cry 4
-  - The Evil Within
-  - Mario Kart 8
-  - **Bônus:** [The Last of Us: Left Behind](/post/analise-the-last-of-us-left-behind)
+**Menções honrosas:** Far Cry 4, The Evil Within, Mario Kart 8 e [The Last of Us: Left Behind](/post/analise-the-last-of-us-left-behind).
 
-**Pecados gamísticos:** 
-  - Alien Isolation 
-  - Terra-Média: Shadow of Mordor
-  - Bayonetta 2
+**Pecados gamísticos:** Alien Isolation, Terra-Média: Shadow of Mordor e Bayonetta 2.
 
 ## 2015
 
@@ -257,16 +222,9 @@ Mais um jogo da Lara! Desta vez, um jogo diferente, neste o foco é totalmente n
 
 Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e conseguir avançar para o final da fase. Uma [delícia de jogo](/post/analise-lara-croft-go)!
 
-**Menções honrosas:** 
-  - Life is Strange
-  - Ori and the Blind Forest
-  - Sunset Overdrive
-  - **Bônus:** Metal Gear Solid V: The Phantom Pain
+**Menções honrosas:** Life is Strange, Ori and the Blind Forest, Sunset Overdrive e Metal Gear Solid V: The Phantom Pain.
 
-**Pecados gamísticos:** 
-  - Bloodborne
-  - The Witcher 3: Wild Hunt 
-  - Until Dawn
+**Pecados gamísticos:** Bloodborne, The Witcher 3: Wild Hunt e Until Dawn.
 
 ## 2016
 
@@ -275,30 +233,33 @@ Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_uncharted-4.jpg" full="true" %}
 
-[Análise](/post/analise-uncharted-4)
+Pensa num jogo que estava ansioso para jogar... Inclusive [comprei no lançamento](/post/analise-uncharted-4) e ainda conciliei com minhas férias para poder jogar tranquilamente. Nesta aventura de Nathan Drake, mostra um cara "aposentado" tentando levar uma vida normal ao lado de sua esposa. Porém, esse estilo de vida não é muito a cara de Drake e a "desculpa perfeita" para partir para uma nova aventura foi o ressurgimento do seu irmão mais velho, que até então era dado como morta à mais de 15 anos, precisando de ajuda para encontrar o lendário tesouro pirata de Henry Avery.
+
+Enfim, esse na minha opinião é o jogo da série, pois pegou tudo que tinha de ótimo nos jogos anteriores, apriomorou e ainda apresentou novas mecânicas, tudo isso em cima de uma história de aventura fantástica somado à belíssimos gráficos e trilha sonora... Sim, sou [muito fã da série](/post/platinando-serie-uncharted)! hehe
 
 #### DOOM
 ##### PC, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_doom.jpg" full="true" %}
 
-[Análise](/post/analise-doom)
+Eis o jogo que me fez tornar fã da série! Mesmo sem ter jogado o DOOM clássico, consegui sentir a atenção que deram para esse "reboot" manter a essência do que os caras da **id Software** buscavam no início da década de 90! DOOM é um jogo de tiro "raíz", onde ficar parado não é a melhor opção! Ele te coloca no meio de uma ação frenética ao som de um rock pesado enfrentando demônios dos mais variados tipos e tamanhos. Sua adrenalina vai às alturas, para mim, foi uma [experiência extremamente divertida](/post/analise-doom)!
+
+O grande atrativo do jogo é, com certeza, sua mecânica quase que perfeita e viciante para um jogo de tiro, onde o nível de dificuldade vai subindo progressivamente conforme avança. Você começa sendo apresentado ao seu traje, a uma pistola e a seu primeiro inimigo. Atire nele sem dó, aí de repente ele começa a piscar laranja, é nesta hora que você conhece o recurso mais viciante do jogo: a execução gloriosa (Glory Kills), onde você finaliza o inimigo de forma violentamente brutal com apenas um botão!
+
+Enfim, se você curte jogos de tiro, deveria dar uma atenção à DOOM! Eu recomendo para todo mundo que me pergunta alguma recomendação! hehe
 
 #### Inside
 ##### PC, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_inside.jpg" full="true" %}
 
-**Menções honrosas:** 
-  - [The Last Guardian](/post/analise-the-last-guardian)
-  - Firewatch
-  - [Severed](/post/analise-severed)
-  - **Bônus:** Forza Horizon 3
+Quando comecei a escrever esse texto, esse jogo *indie* não constava na minha lista ainda, porém, joguei ele recentemente e tomou um lugar no pódio de 2016! Que jogo excelente! Dos mesmos criadores de **Limbo**, esse é um jogo de quebra-cabeça em plataforma, onde o jogador controla um menino em paisagem monocromática lutando pela sua sobrevivência enquanto precisa resolver quebra-cabeças para passar de nível.
 
-**Pecados gamísticos:** 
-  - Quantum Break 
-  - Deus Ex: Mankind Divided 
-  - Dark Souls III
+Apesar de ser monocromático, os gráficos são incrivelmente muito bem detalhados e caprichados que aliada aos efeitos sonoros, dão uma bela imersão à atmosfera do jogo, que por sinal, chega a ser bem sinistra! Seus *puzzles* são bem mais fáceis do que Limbo, mas mesmo assim, são legais de fazer e sensação de progressão é bem prazerosa! Recomendo demais!
+
+**Menções honrosas:** Firewatch, [The Last Guardian](/post/analise-the-last-guardian), [Severed](/post/analise-severed) e Forza Horizon 3.
+
+**Pecados gamísticos:** Quantum Break, Deus Ex: Mankind Divided e Dark Souls III.
 
 ## 2017
 
@@ -321,16 +282,9 @@ Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_hollow-knight.jpg" full="true" %}
 
-**Menções honrosas:** 
-  - Cuphead 
-  - Uncharted: The Lost Legacy 
-  - Forza Motorsport 7 
-  - **Bônus:** Hellblade: Senua's Sacrifice
+**Menções honrosas:** Cuphead, Uncharted: The Lost Legacy, Forza Motorsport 7 e Hellblade: Senua's Sacrifice.
 
-**Pecados gamísticos:** 
-  - The Legend of Zelda: Breath of the Wild 
-  - Super Mario Odyssey
-  - Sonic Mania
+**Pecados gamísticos:** The Legend of Zelda: Breath of the Wild, Super Mario Odyssey e Sonic Mania.
 
 ## 2018
 
@@ -349,15 +303,9 @@ Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_forza-horizon-4.jpg" full="true" %}
 
-**Menções honrosas:** 
-  - Shadow of the Tomb Raider
-  - Shadow of the Colossus 
-  - Battlefield V
+**Menções honrosas:** Shadow of the Tomb Raider, Shadow of the Colossus e Battlefield V.
 
-**Pecados gamísticos:** 
-  - Far Cry 5
-  - Celeste
-  - Red Dead Redemption 2
+**Pecados gamísticos:** Far Cry 5, Celeste e Red Dead Redemption 2.
 
 ## 2019
 
@@ -376,14 +324,8 @@ Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_nfs-heat.jpg" full="true" %}
 
-**Menções honrosas:** 
-  - Gears 5 
-  - DiRT Rally 2.0 
-  - A Plague Tale: Innocence
+**Menções honrosas:** Gears 5, DiRT Rally 2.0 e A Plague Tale: Innocence.
 
-**Pecados gamísticos:** 
-  - Sekiro
-  - Death Stranding 
-  - Devil May Cry 5
+**Pecados gamísticos:** Sekiro, Death Stranding e Devil May Cry 5.
 
 Quais jogos você colocaria na lista? 
