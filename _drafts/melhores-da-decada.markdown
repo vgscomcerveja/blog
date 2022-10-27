@@ -47,7 +47,7 @@ Recentemente, em 2021, o jogo ganhou uma versão remasterizada para diversas pla
 
 Eis o jogo que me fez voltar com força ao mundo dos games, pois assim que seu lançamento estava próximo, corri atrás de comprar um PlayStation 3 e de quebra, comprei também o [volante G27](https://en.wikipedia.org/wiki/Logitech_G27) da Logitech para complementar, resultado: horas e horas jogando Gran Turismo 5! Que mesmo apesar dos atrasos para lançamento, fez jus a qualidade da série e conseguiu superar seu antecessor! Pena que hoje não é possível mais jogar online com ele.
 
-**Menções honrosas:** [Need for Speed: Hot Pursuit](/post/analise-need-for-speed-hot-pursuit), [BioShock 2](/post/analise-bioshock-2), Heavy Rain e Limbo.
+**Menções honrosas:** [Need for Speed: Hot Pursuit](/post/analise-need-for-speed-hot-pursuit), [BioShock 2](/post/analise-bioshock-2), Heavy Rain, God of War III e Limbo.
 
 **Pecados gamísticos:** Super Mario Galaxy 2, Red Dead Redemption e Dante's Inferno.
 
@@ -115,9 +115,9 @@ O jogo conta a envolvente história de **Lee Everett** e a jovem **Clementine** 
 
 Com o estilo de jogo "*point-and-click*", você tem que resolver uma série de problemas e tomar muitas decisões importantes, sendo que a cada decisão tomada, a trama do jogo muda completamente. Com isso, o jogo te proporciona diversas maneiras de chegar ao final, aumentando assim o fator *replay*. Eu cheguei a escrever uma [análise](/post/analise-the-walking-dead) dele na época para caso queira conferir mais detalhes.
 
-**Menções honrosas:** [Need for Speed: Most Wanted](/post/analise-need-for-speed-most-wanted), Forza Horizon, Journey e Max Payne 3.
+**Menções honrosas:** [Need for Speed: Most Wanted](/post/analise-need-for-speed-most-wanted), Forza Horizon e Max Payne 3.
 
-**Pecados gamísticos:** Diablo III, New Super Mario Bros U e Dishonored.
+**Pecados gamísticos:** Diablo III, New Super Mario Bros U e Journey.
 
 ## 2013
 
@@ -268,19 +268,29 @@ Apesar de ser monocromático, os gráficos são incrivelmente muito bem detalhad
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_horizon-zero-dawn.jpg" full="true" %}
 
-[Análise](/post/analise-horizon-zero-dawn)
+Começar o, talvez, **melhor ano da década** (olhem o peso da menções honrosas e também dos jogos que ainda não joguei) com um jogo que não me prendeu de cara, mas que ao dar uma segunda chance, se tornou [um dos meus jogos favoritos](/post/analise-horizon-zero-dawn) do PS4. Pensem comigo, uma ruiva *badass* que luta contra robôs com um arco-e-flecha em um mundo pós-apocaliptico não tinha como dar errado, né?
+
+Este RPG de ação foi a aposta da Guerrilla Games, conhecida por Killzone, em um nova IP (que na data de hoje já ganhou uma sequência) totalmente diferente do que eles estavam habituados. E o trabalho foi tão bem feito, que a *engine* Decima que eles criaram foi adotada pelo Hideo Kojima em Death Stranding alguns anos mais tarde.
+
+Mas enfim, o jogo conta história de Aloy, uma guerreira exilada, que está em busca de informações sobre seu verdadeiro passado. Mas, além da excelente trama, o que cativa neste jogo é a ambientação com belíssimos gráficos e o combate, é muito interessante como eles conseguiram tornar uma luta contra "animais-robôs" bastante versátil e inteligente.
 
 #### Resident Evil 7: biohazard
 ##### PC, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_re7-biohazard.jpg" full="true" %}
 
-[Análise](/post/analise-resident-evil-7)
+Já este jogo eu torci o nariz por muito tempo, só pelo fato dele ser um jogo que não tinha cara de **Resident Evil** por ser em primeira pessoa. Mas assim que resolvi dar uma chance à ele, me prendeu do início ao fim. Queimei a língua bonito. Quem fala que esse jogo não é **Resident Evil**, essa pessoa simplesmente não jogou ou não conhece o legado da série.
+
+No papel do jovem Ethan, você deve investigar o paradeiro de sua namorada Mia, que desapareceu há alguns anos e nisto acaba chegando à cidade de Dulvey, mais especificamente na propriedade da família Baker, que após entrar, vai ser complicado de sair, pois a família é totalmente bizarra e, digamos, antagonistas do jogo. Mas enfim, o jogo, apesar de ser em primeira pessoa, tem muito elementos da série clássica, como por exemplo, reunir objetos para resolver puzzles, baús de armazenamento, dispositivo para salvar seu progresso (sim, não tem save automático) e recursos (munições e medicamentos) limitados. Eu [recomendo esse jogo](/post/analise-resident-evil-7) de olhos fechados, é um baita jogo de terror!
 
 #### Hollow Knight
 ##### PC, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_hollow-knight.jpg" full="true" %}
+
+Pensa num jogo *indie* lindíssimo... Esse *metroidvania* da [Team Cherry](https://www.teamcherry.com.au/), além de possuir gráficos e trilha sonora excepcionais, tem um gameplay delicioso, onde a dificuldade está na dose certa, pois não é um jogo nada fácil, mas também está longe de ser um jogo impossível, pelo menos para concluir a campanha principal. O jogo tem uma pegada *soulslike* também, onde para derrotar cada chefe é necessário habilidades e estratégias diferentes. Além disso, caso você morra, sua alma fica ali no ponto que morreu e você tem a chance de recuperar seus pertences ao conseguir chegar nesse ponto novamente.
+
+Enfim, se você curte o gênero e ainda não jogou esse, está perdendo um **baita jogaço 10/10**!
 
 **Menções honrosas:** Cuphead, Uncharted: The Lost Legacy, Forza Motorsport 7 e Hellblade: Senua's Sacrifice.
 
@@ -293,15 +303,27 @@ Apesar de ser monocromático, os gráficos são incrivelmente muito bem detalhad
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_god-of-war.jpg" full="true" %}
 
+Eleito como o melhor jogo do ano pela [The Game Awards (TGA)](https://thegameawards.com), esse "reinício" da saga foi realmente merecedor do título de GOTY! Com uma mecânica quase que totalmente diferente do que estavámos acostumados da série e com um *Kratos* mais maduro, temos um jogo mais cadenciado e preciso (não basta apenas ficar apertando quadrado), além de um visual extraordinário!
+
+Eu disse "reinício" com aspas no começo, pois o jogo faz parte da ordem cronológica da série, sendo sequência dos eventos ocorridos em **God of War III**. Ligeiramente baseado na mitologia nórdica (outra diferença, pois os anteriores eram baseados na mitologia grega), o jogo se passa na antiga Noruega no reino de **Midgard**. E desta vez, *Kratos* está acompanhado do seu filho *Atreus*, cujo o objetivo é espalhar as cinzas de sua esposa no pico mais alto dos noves reinos, que obviamente não será nada fácil. Enfim, outro jogaço!
+
 #### Marvel's Spider-Man
 ##### PlayStation 4
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_spider-man.jpg" full="true" %}
 
+Esse é um daqueles jogos que eu não dava nada para ele, não me empolgava... até chegar perto do lançamento e depois de assistir alguns trailers, fiquei muito empolgado e comprei no dia 1 do lançamento! E valeu cada centavo! 
+
+Um jogo de mundo aberto (leia cidade de Nova Iorque) do cabeça de teia, onde o sistema de combate é super fluído e dinâmico, a movimentação pelo cenário balançando pelos prédios é natural e prazerosa, os gráficos são belíssimos, uma ótima trilha sonora e por fim, uma trama bacana digna de uma HQ, não tinha como ser ruim, né? Pois bem, e não é mesmo... é uma baita jogo desenvolvido pela **Insomniac Games**!
+
 #### Forza Horizon 4
 ##### PC e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_forza-horizon-4.jpg" full="true" %}
+
+O quarto título da série *spin-off* da franquia Forza se passa em uma mapa aberto e fictício do Reino Unido. Uma das grandes novidades é o sistema dinâmico das quatro estações do ano: Verão, Primavera, Outono e Inverno, onde a cada semana a estação é alterada. Algumas áreas do mapa só são acessadas dependendo da estação que tiver, por exemplo, no inverno é possível correr em lagos e rios congelados.
+
+Como é de se esperar na série, o jogo possui um visual incrível e uma ótima seleção de músicas de trilha sonora! Além de possuir mais de 450 carros licenciados. O jogo é um deleite para amantes de jogos de corrida! Um detalhe que vale mencionar, o jogo foi disponibilizado aos assinantes do **Game Pass** no primeiro dia de lançamento!
 
 **Menções honrosas:** Shadow of the Tomb Raider, Shadow of the Colossus e Battlefield V.
 
@@ -314,18 +336,47 @@ Apesar de ser monocromático, os gráficos são incrivelmente muito bem detalhad
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_re2.jpg" full="true" %}
 
+Se tem uma coisa que a **Capcom** sabe fazer muito bem é remake de jogos da série Resident Evil. E o do segundo jogo da série foi um deleite à parte, quase que perfeito! Tirando o detalhe que o jogo pecou na continuidade entre as duas jornadas dos personagens principais. 
+
+Para quem não conhece, o jogo original tinha duas campanhas, a do Leon e da Claire, e dependendo da ordem que você jogava, cada personagem fazia um caminho diferente e alterava partes do jogo, era como se os dois personagens estivessem atuando juntos, porém, você "vivia" uma história de cada vez e muita coisa passava a fazer sentido ao jogar com outro personagem. E tinha o fator replay também que era jogar na ordem inversa que mudava toda a dinâmica. Faltou isso neste remake, onde as campanhas dos dois personagens são praticamente a mesma e não tem muitos momentos de interligação entre as campanhas.
+
+E tirando isso e algumas partes do jogo original que foram removidas, o jogo é excelente! Ótimos gráficos e ambientação, os zumbis estão mais fortes e difíceis de serem derrubados, o sistema de save é no método antigo via máquina de escrever, escassez de recursos e ainda por cima tem o Tirante... Enfim, ótimo jogo!
+
 #### Days Gone
 ##### PlayStation 4
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_days-gone.jpg" full="true" %}
+
+Conhecida pela franquia Syphon Filter e por trazer a série Uncharted ao portátil da Sony (PS Vita), a Bend Studio, resolveu apostar em uma nova IP própria e acabou que acertou em cheio criando um jogo pós-apocalíptico de mundo aberto onde você anda por aí com uma moto matando zumbis, legal demais! No controle de Deacon St. John, um viajante e caçador de recompensas, você deve explorar o mundo quase que perdido depois de uma pandemia que devastou a humanidade transformando as pessoas em zumbis, chamados de frenéticos (freakers). Não quero entrar em detalhes, mas o jogo possui um enredo interessante que me cativou de início. Queria muito saber o fechamento da trama.
+
+Apesar de ser uma temática meio batida no mundo games, eu adoro e nessa aventura, um dos fatores que me empolgou é que o jogo não te larga em um mundo aberto sem ter o que fazer, as missões são legais e enriquecessem a trama principal. Além de que enfrentar zumbis é muito prazeroso e esse jogo tem uns momentos tensos, onde você tem que enfrentar hordas inteiras (e os zumbis desse jogo corre!) que só são possíveis de vencer pensando numa estratégia de combate. Enfim, um jogo bem legal, que eu recomendo!
 
 #### Need for Speed: Heat
 ##### PC, PlayStation 4 e Xbox One
 
 {% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_nfs-heat.jpg" full="true" %}
 
+E para fechar a lista, um **Need for Speed**... Sim! Eu sou meio "putinha" da série, então sou suspeito para falar, mas para mim, eles acertaram a mão nesse jogo e criaram um NFS bem acima da média e aos moldes do que os fãs gostam: muitos carros com possibilidade de customização detalhada, corridas ilegais com perseguições de polícias, um ótimo gameplay e uma trilha sonora empolgante!
+
+O jogo é basicamente dividido em dois modos: dia e noite! Durante o dia você participa de corridas de rua totalmente legais, com ruas fechadas e tudo mais. Nestas corridas você ganha dinheiro (para investir no carro). Já durante a noite, o bicho pega, pois objetivo é ganhar reputação entre os corredores, então todas as corridas são ilegais, portanto, prepare-se para enfrentar "os homi" de vez em quando, que diga-se de passagem, estão mais apelonas do que nunca, é realmente muito difícil de fugir deles no começo. Conforme você vai melhorando seu carro, as coisas vão ficando um pouco mais fáceis, mas só um pouco.
+
+Talvez o único ponto fraco, é a história, que até começa bem, mas que acaba se desenrolando muito rápido e se torna um enredo bastante raso, quase que desnecessário. Além disso, depois que você completa todas as corridas principais (que não são muitas), o jogo se torna meio sem graça e repetitivo, porém o multiplayer dá uma sobrevida ao jogo para quem gosta de jogar online. Mas ainda sim, é um ótimo jogo de corrida!
+
 **Menções honrosas:** Gears 5, DiRT Rally 2.0 e A Plague Tale: Innocence.
 
-**Pecados gamísticos:** Sekiro, Death Stranding e Devil May Cry 5.
+**Pecados gamísticos:** Sekiro: Shadows Die Twice, Death Stranding e Devil May Cry 5.
+
+### Bônus: Os Game of the Year (GOTY) eleitos pela TGA
+
+- **2010** - Red Dead Redemption
+- **2011** - The Elder Scrolls V: Skyrim
+- **2012** - The Walking Dead
+- **2013** - Grand Theft Auto V
+- **2014** - Dragon Age: Inquisition
+- **2015** - The Witcher 3: Wild Hunt
+- **2016** - Overwatch
+- **2017** - The Legend of Zelda: Breath of the Wild
+- **2018** - God of War
+- **2019** - Sekiro: Shadows Die Twice
 
 Quais jogos você colocaria na lista? 
