@@ -1,0 +1,198 @@
+---
+layout: post
+title: "Gameroom Tour 2022, a despedida!"
+date: 2022-12-31 07:00
+author: felipebbarbosa
+session: Especial
+categories: games colecionando
+tags: [categoria-colecao-pessoal, categoria-especial, serie-colecionando-games]
+thumbnail: /imgs/posts/especial/13_gameroom_tour2022/post_thumbnail.jpg
+cover: /imgs/posts/especial/13_gameroom_tour2022/post_header.jpg
+---
+
+2022 está marcado como o ano de despedida deste meu cantinho de jogos, pois com a chegada da Catarina (minha filha), uma necessidade por espaço foi almejada. Sendo assim, para nossa felicidade, estamos de mudança para uma casa maior. Com isso minha coleção se despede deste quarto, mas sabendo que em breve ganhará seu espaço novamente! 🙏
+
+Eu fiz um vídeo de despedida, tirei algumas fotos de recordação, e resolvi compartilhar por aqui para que fique tudo registrado, até porque isso aqui ainda é um blog pessoal, e quem sabe sirva de inspiração para alguém que tem ou pretende ter um cantinho de jogos em sua casa. Ou então, para quem, como eu, curte ver coleções, acho que vai ser legal também!
+
+<!--more-->
+
+{% include youtubePlayer.html id='UhgFEm6UF_o' %}
+
+### Tour por fotos
+
+Ao abrir a porta, esta era a visão que tínhamos:
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_01.jpg" full="true" %}
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_02.jpg" full="true" %}
+
+Ao se virar para o lado esquerdo, temos a estande de jogos de **PC**, as prateleiras com jogos de **Master System**, meus jogos de **PlayStation 4** que estavam sem ter onde colocá-los já e por fim, meu primeiro PC **Pentium II** com **Windows 98** rodando **DOOM**!
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_03.jpg" full="true" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_04.jpg" full="true"
+  description="Já tinha ficado sem espaço para os jogos de PS4!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_33.jpg" full="true"
+  description="Ah..meus jogos de Master System! ❤" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_35.jpg" full="true"
+  description="Minha coleção de 'big boxes'!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_34.jpg" full="true"
+  description="Os jogos de Xbox 360 e Xbox One também estavam sem espaço!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_05.jpg" full="true"
+  description="Esses não são 'big boxes', mas são legais também!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_36.jpg" full="true"
+  description="Esse quadro do Homem-Aranha foi minha irmã que pintou para mim na época do primeiro filme!" %}
+
+Virando para parede da janela, estava meu volante **Logitech G29** ali no cantinho...
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_32.jpg" full="true"
+  description="Eu esqueci de mostrar, mas naquele gaveteiro embaixo do monitor, ficavam todos meus controles!" %}
+
+Em seguida, temos um armário que dentro dele tem vários itens colecionáveis da época da infância/adolescência, como tazos, tampinhas, cartões telefônicos, embalagens de cigarros, enfim, quem me conhece sabe que sempre gostei de colecionar. 😅
+
+Em cima deste armário, algumas *action figures* e estátuas de edições de colecionadores de jogos, além dos meus jogos de **PS Vita**, meus portáteis **Xperia PLAY**, **PSP**, **PS Vita** e o **Wii U**, que tirando o celular Xperia, ali eles eram recarregados quando necessários. Logo abaixo, nas prateleiras deste armário, estavam meus jogos de **Super Nintendo**, **Nintendo 64** e algumas edições especiais dos jogos de **PS4**.
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_31.jpg" full="true" %}
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_29.jpg" full="true" %}
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_30.jpg" full="true"
+  description="As duas edições de colecionador de Zelda, aquelas da caixas grandes!" %}
+
+No armário vertical ao lado, tem alguns consoles, video cassete, a coleção de jogos de **PS1**, **Dreamcast**, **Game Gear** e **Atari**, entre outras coisas. Teve uma época que eles todos estavam instalados aí dentro ligados na televisão de cima, mas depois de um tempo resolvi remover toda a instalação e só deixei o video cassete instalado.
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_23.jpg" full="true" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_22.jpg" full="true"
+  description="Na prateleira de cima, o NES e o Sega CDX. Na debaixo, o Atari 2600 com alguns jogos!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_21.jpg" full="true"
+  description="Alguns PlayStation 1s, jogos de Game Gear e o video cassete!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_20.jpg" full="true"
+  description="Meu Master System III junto com o Mega Drive III, SNES e outro Mega Drive, o de 2017" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_19.jpg" full="true"
+  description="Minha coleção de PlayStation e Dreamcast. E na prateleira debaixo, um dos xodós: o quase 'Megazord' Mega Drive II com Sega CD e adaptador para Master System!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_18.jpg" full="true"
+  description="Nestas caixas ficavam os cabos necessários para ligar os consoles acima" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_24.jpg" full="true"
+  description="Um dos consoles mais bonitos de todos os tempos, Xbox 360 Elite!" %}
+
+Virando, temos a parede com rack principal para jogar! Na prateleira mais acima, temos algumas caixas de edições de colecionador. Na prateleira inferior, tem uma TV de LCD pequena da **Sony** que tinha importado do Japão na época, pois ela tem entrada RGB. Tem também um **Atari 2600**, um **Ouya** e os dois capacetes xodós da coleção: o **Helghast** de **Killzone 3** e do **Master Chief** de **Halo 3**.
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_27.jpg" full="true" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_17.jpg" full="true"
+  description="Essas edições são legais, mas suas caixas ocupam muito espaço!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_26.jpg" full="true"
+  description="Esses capacetes eram sonho de consumo, não são legais?" %}
+
+Eis o rack com todos meus consoles ligados em duas televisões: a de tubo da **Sony** de 29" e a de LCD também da **Sony** de 32".
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_28.jpg" full="true"
+  description="OutRun 2, outro clássico!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_25.jpg" full="true"
+  description="A maioria dos meus consoles retro estão ligados com cabos SCART RGB com ajuda deste switch." %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_13.jpg" full="true"
+  description="Neste rack estava ligado: Xbox One, PS4, Wii, PS3, Xbox 360, Wii U, Mega Drive, SNES, PS1, Nintendo 64, DC, PS2, Game Cube e o Xbox clássico!" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_15.jpg" full="true"
+  description="Se estava procurando o Mega Drive e o Super Nintendo, aí estão eles! :)" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_14.jpg" full="true"
+  description="E na segunda gaveta, o PS1 e o Nintendo 64!" %}
+
+No final desta parede estavam duas estandes com toda coleção de jogos de **PS3**!
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_12.jpg" full="true" %}
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_11.jpg" full="true" %}
+
+E em cima delas, as maiorias da caixas dos consoles empilhadas, estilo **Tetris**! :D
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_16.jpg" full="true"
+  description="Algumas dessas caixas me trazem ótimas memórias!" %}
+
+Por fim, minha estação de trabalho com meu notebook, a coleção de minis e meu PC **Pentium 4** com **Windows XP**, que estava rodando **Metal Gear Solid** por sinal!
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_10.jpg" full="true"
+  description="Metal Gear Solid é ou não é o melhor jogo de todos os tempos?" %}
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_09.jpg" full="true"
+  description="Esses minis são muito legais, pena que hoje estão muito caros!" %}
+
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_08.jpg" full="true" %}
+{% include image.html url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_07.jpg" full="true" %}
+
+Ah, logo acima ficavam minhas duas guitarras de **Guitar Hero** com alguns de jogos PC e **Mega Drive** nos nichos do centro.
+
+{% include image.html 
+  url="/imgs/posts/especial/13_gameroom_tour2022/gameroom2022_06.jpg" full="true"
+  description="Quem aí curte jogar Guitar Hero?" %}
+
+É isso, já faz um tempinho que estou com minha coleção guardada, então foi muito legal fazer esse post, espero que tenha curtido também! Estava pensando em detalhar mais como meu videogames ficam ligados, contar do setup deles, ou preféricos e acessórios que uso e tal, principalmente dos consoles antigos, o que você acha? Legal? Comente aí!
+
+E para fechar, como este é o último post do ano, quero lhe desejar um ótimo 2023, que seja melhor do que passou! 🍻
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
