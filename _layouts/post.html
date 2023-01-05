@@ -20,7 +20,7 @@ layout: default
       {% capture tags_content_temp %}
         {{ tags_content }}
         {% if tag.link != null %}
-          <a href="/{{ tag.link }}/">{{ tag.name }}</a>
+          <a href="/{{ tag.link }}">{{ tag.name }}</a>
         {% else %}
           <a href="/tag/{{ tag.slug }}">{{ tag.name }}</a>
         {% endif %}
