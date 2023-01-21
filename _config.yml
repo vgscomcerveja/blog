@@ -40,7 +40,7 @@ pages_to_cache:
 sass:
   style: :compressed
 
-paginate: 7
+paginate: 15
 paginate_path: "page:num"
 
 plugins:
