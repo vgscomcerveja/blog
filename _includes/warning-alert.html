@@ -4,5 +4,8 @@
   </div>
   <div class="warning-msg">
     <p>{{ include.msg }}</p>
+    {% if include.msg2 %}
+      <p>{{ include.msg2 }}</p>
+    {% endif %}
   </div>
 </div>

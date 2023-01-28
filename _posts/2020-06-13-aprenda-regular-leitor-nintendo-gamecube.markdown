@@ -34,7 +34,8 @@ Antes de mais nada você irá precisar de algumas ferramentas: Multímetro, [Cha
 {% include image.html url="/imgs/posts/utilidade_publica/11_leitor_gc/gc_required_tools.jpg" %}
 
 {% include warning-alert.html 
-  msg="Gostaria de enfatizar que esse tutorial, apesar de ser simples e de risco mínimo, pode causar danos ao seu videogame se não tomar os devidos cuidados e não me responsabilizo por isso. A partir daqui é por sua conta em risco, beleza?" %}
+  msg="1. Gostaria de enfatizar que esse tutorial, apesar de ser simples e de risco mínimo, pode causar danos ao seu videogame se não tomar os devidos cuidados e não me responsabilizo por isso. A partir daqui é por sua conta em risco, beleza?"
+  msg2="<b>2. INFELIZMENTE essa não é uma solução definitiva e pode ser que seu leitor volte a parar de ler os discos novamente.</b>" %}
 
 #### 1º passo - Remover a carcaça superior
 
@@ -42,7 +43,7 @@ Com a chave Gamebit, remova os quatros parafusos da parte inferior do console, d
 
 {% include image.html url="/imgs/posts/utilidade_publica/11_leitor_gc/gc_chave_nintendo.jpg" %}
 
-{% include image.html url="/imgs/posts/utilidade_publica/11_leitor_gc/gc_open_1.gif" %}
+{% include image-gif.html url="/imgs/posts/utilidade_publica/11_leitor_gc/gc_open_1.gif" %}
 
 {% include image.html url="/imgs/posts/utilidade_publica/11_leitor_gc/gc_chave_nintendo_parafusos.jpg" %}
 
