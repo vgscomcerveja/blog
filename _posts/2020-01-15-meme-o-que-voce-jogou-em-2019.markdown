@@ -5,7 +5,7 @@ date: 2020-01-15 19:30
 author: felipebbarbosa
 session: Proseando // Especial
 categories: games jogando
-tags: [meme-oqvj, categoria-especial, categoria-lista, serie-proseando]
+tags: [meme-oqvj, categoria-especial, serie-proseando]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/09_meme2019/post_thumbnail.jpg
 cover: /imgs/posts/especial/09_meme2019/post_header.jpg

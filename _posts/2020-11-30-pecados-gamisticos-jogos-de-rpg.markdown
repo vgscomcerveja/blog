@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "O meu maior pecado gamístico: Jogos de RPG!"
+title: "10+ pecados gamísticos: parte 4 - jogos de RPG!"
 date: 2020-11-30 20:00
 author: felipebbarbosa
 session: Proseando // Pecados Gamísticos
 categories: games jogando
-tags: [playstation, ps4, sony, serie-proseando, serie-pecados-gamisticos]
+tags: [playstation, ps4, sony, categoria-lista, serie-proseando, serie-pecados-gamisticos]
 thumbnail: /imgs/posts/toplist/19_pecados_gamisticos_rpg/post_thumbnail.jpg
 cover: /imgs/posts/toplist/19_pecados_gamisticos_rpg/post_header.jpg
 ---

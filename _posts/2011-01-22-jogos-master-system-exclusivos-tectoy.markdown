@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lista de jogos de Master System exclusivos Tectoy para o Brasil"
+title: "34 jogos de Master System exclusivos da Tectoy no Brasil"
 date: 2011-01-22 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
@@ -14,6 +14,7 @@ tags:
     tectoy,
     complete-lists,
     categoria-utilidade-publica,
+    categoria-lista,
     serie-game-db,
     serie-colecionando-games,
   ]

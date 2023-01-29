@@ -12,7 +12,6 @@ tags:
     sony,
     naughty-dog,
     uncharted,
-    categoria-lista,
     serie-gametrofista,
   ]
 related: serie-gametrofista

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O melhor da década 2010-2019!"
+title: "30+ melhores jogos da década 2010-2019!"
 date: 2022-11-06 17:00
 author: felipebbarbosa
 session: VCC Recomenda! // Pecados Gamísticos

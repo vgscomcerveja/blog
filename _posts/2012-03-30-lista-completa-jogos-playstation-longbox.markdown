@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lista de todos os jogos PlayStation no formato Longbox"
+title: "Lista completa dos jogos 'Longbox' do PS1"
 date: 2012-03-30 19:00
 author: felipebbarbosa
 session: Game DB
@@ -11,6 +11,7 @@ tags:
     sony,
     ps1,
     complete-lists,
+    categoria-lista,
     categoria-utilidade-publica,
     serie-game-db,
     serie-colecionando-games,

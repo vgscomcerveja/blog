@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lista de jogos de Master System Portuguese Purple Releases"
+title: "Lista completa de jogos 'Portuguese Purple Releases' do Master System"
 date: 2012-07-08 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
@@ -13,6 +13,7 @@ tags:
     tectoy,
     master-system,
     complete-lists,
+    categoria-lista,
     categoria-utilidade-publica,
     serie-game-db,
     serie-colecionando-games,

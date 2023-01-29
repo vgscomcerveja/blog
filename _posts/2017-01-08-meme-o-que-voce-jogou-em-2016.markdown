@@ -25,7 +25,6 @@ tags:
     microsoft,
     ps2,
     meme-oqvj,
-    categoria-lista,
     categoria-especial,
     serie-proseando,
   ]

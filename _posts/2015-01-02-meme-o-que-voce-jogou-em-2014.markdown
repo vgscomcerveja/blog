@@ -19,7 +19,6 @@ tags:
     wii,
     need-for-speed,
     meme-oqvj,
-    categoria-lista,
     categoria-especial,
     serie-proseando,
   ]

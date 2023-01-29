@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meus 10 jogos favoritos do PS1"
+title: "10 jogos favoritos do PS1"
 date: 2015-03-04 19:00
 author: felipebbarbosa
 session: VCC Recomenda!

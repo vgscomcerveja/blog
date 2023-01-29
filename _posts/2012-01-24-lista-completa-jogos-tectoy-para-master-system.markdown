@@ -14,6 +14,7 @@ tags:
     master-system,
     complete-lists,
     categoria-utilidade-publica,
+    categoria-lista,
     serie-game-db,
     serie-colecionando-games,
   ]

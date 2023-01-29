@@ -25,7 +25,6 @@ tags:
     indie,
     meme-oqvj,
     categoria-especial,
-    categoria-lista,
     serie-proseando,
   ]
 related: meme-oqvj

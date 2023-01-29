@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lista de jogos sem troféus do PS3"
+title: "Lista completa de jogos sem troféus no PS3"
 date: 2016-07-13 19:00
 author: felipebbarbosa
 session: Gametrofista

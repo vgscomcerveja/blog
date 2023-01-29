@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meus pecados gamísticos da sexta geração de videogames!"
+title: "10+ pecados gamísticos: parte 2 - sexta geração!"
 date: 2016-03-12 19:00
 author: felipebbarbosa
 session: Proseando // Pecados Gamísticos

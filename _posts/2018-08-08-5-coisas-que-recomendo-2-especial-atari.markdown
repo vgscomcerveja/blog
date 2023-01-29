@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 'coisas' que recomendo! #2 - Especial Atari"
+title: "5 'coisas' que recomendo!: parte 2 - especial Atari"
 date: 2018-08-08 21:00
 author: felipebbarbosa
 session: VCC Recomenda!
