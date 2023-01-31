@@ -1,0 +1,129 @@
+---
+layout: post
+title: "MeMe - O Que Você Jogou em 2022?"
+date: 2022-12-31 18:00
+author: felipebbarbosa
+session: Proseando // Especial
+categories: games jogando
+tags: [meme-oqvj, categoria-especial, serie-proseando]
+related: meme-oqvj
+thumbnail: /imgs/posts/especial/14_meme2022/post_thumbnail.jpg
+cover: /imgs/posts/especial/14_meme2022/post_header.jpg
+---
+
+Quem acompanha o blog já sabe: o primeiro post do ano é a presença no, já tradicional, **"MeMe do Marvox"**, que chega à sua 12ª edição e é a nona vez em que participo! Como o próprio título já diz, a ideia é fazermos uma releitura do nosso ano "gamístico" dizendo o que de melhor (ou pior) a gente jogou no ano que passou e 2022 foi um ano meio conturbado no quesito jogatina, e um dos motivos se deve ao fato que estou num processo de transição de moradia, onde estou morando temporariamente em um local em busca de uma casa/apartamento maior, e com isso tive que [me despedir da coleção](/post/gameroom-tour-2022) por um tempo até que as coisas se resolvam! 
+
+Mas enfim, ainda sim, conseguir jogar umas coisinhas e selecionei (em ordem cronológica) alguns dos jogos que foram destaques na minha jogatina do ano.
+
+<!--more-->
+
+## Indiana Jones e a Última Cruzada
+
+##### Master System
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/indiana-jones.jpg" full="true" %}
+
+Finalmente consegui tirar o trauma desse jogo que me perseguia desde a infância quando ganhei o cartucho e **nunca** havia conseguido terminar, no máximo chegava na última fase e olhe lá. Mas desta vez eu consegui e ainda terminei novamente para registrar o feito em [vídeo](https://www.instagram.com/p/CZUYw1CIVgu/) e em [texto](/post/analise-indiana-jones-e-a-ultima-cruzada). E no final das contas, apesar de muita gente criticar, eu adoro esse jogo e não acho ele de todo ruim, mas não pretendo jogá-lo novamente por algum tempo. 😅
+
+## Prince of Persia
+
+##### Master System
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/prince-of-persia.jpg" full="true" %}
+
+Seguindo na minha dedicação ao Master System, tirei outro jogo, que é um verdadeiro [pecado gamístico](/pecados-gamisticos), da minha fila de backlog. **Prince of Persia** é um game obrigatório para qualquer entusiasta de videogames e esta versão do console de 8-bits da Sega é um deleite a parte, pois possui uns gráficos diferenciados e muito bonitos em relação ao jogo original.
+
+Para quem não conhece o jogo, você assume o papel do príncipe que foi aprisionado no calabouço do castelo por Jafar, que se apoderou do trono na ausência de Sultão e obrigou sua filha a se casar com ele. Sua missão é escapar e enfrentar os soldados a tempo de salvar a princesa do casamento. Porém, esse caminho está cheio de obstáculos, inimigos e armadilhas.
+
+Com uma jogabilidade que a princípio parece travada, mas que ao pegar o jeito, é deliciosa! Você deve explorar os calabouços do castelo até chegar à princesa e, detalhe, você tem 60 minutos para isso e a cada fase que você chega, seu checkpoint é de acordo com o tempo que você levou. Por exemplo, se você levou 10 minutos para passar a primeira fase, você tem 50 minutos restantes para todas as fases restantes. São 14 fases no total. É bem desafiador, mas nada impossível, o segredo é ir com calma e depois que descobrir o melhor caminho, rejogar a fase novamente fazendo um tempo melhor, pois o checkpoint é simplesmente um password que registra seu tempo restante no início daquela fase.
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/prince-of-persia_passwords.jpg" 
+  description="Rolou até anotações no caderno como fazia quando criança!" %}
+
+## Inside
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/inside.jpg" full="true" %}
+
+Por falar em clássico, esse com certeza será (se já não é) um jogo obrigatório para todo e qualquer entusiasta de jogos eletrônicos, pois é um baita jogaço! 
+
+Dos mesmos criadores de **Limbo**, esse jogo independente de quebra-cabeça em plataforma com pitadas de terror é de um capricho só. Apesar de ser um jogo escuro e aparentemente minimalista, ele é incrívelmente detalhado, bonito e possui uma atmosfera perfeita para qual o jogo lhe propõe. 
+
+No papel de menino que está lutando pela sua sobrevivência em um cenário meio de guerra utópica, onde você não deve ser morto pelas forças armadas, sim, isso é meio pesado, você é apenas um menino e quando os agentes te encontram, eles simplesmente te matam, sem dó. Seu objetivo é avançar pelos cenários em progressão lateral e em cada um deles você deve descobrir como avançar através de puzzles muito bem elaborados, porém, nada muito complexo. 
+
+Se você já jogou Limbo e curtiu, vai adorar Inside, apesar de ser um pouco mais fácil. E se ainda não jogou, recomendo os dois, inclusive!
+
+## Gran Turismo 7
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/gt7.jpg" full="true" %}
+
+Esse era um jogo pelo qual estava bem ansioso para jogar, tanto que praticamente [peguei o jogo](https://www.instagram.com/p/Ce861fVuqCm/) no seu lançamento! Porém, infelizmente, ainda não joguei o tanto que deveria/gostaria. Isso se deve ao meu processo de transição de casa não ter onde ligar o volante. Eu até tentei jogar no controle, mas não rolou, senti que estaria desperdiçando tempo de jogo para quando tivesse o setup completo de volta. Mas parece ser um ótimo jogo, principalmente para os donos de um PlayStation 5 (que ainda não é meu caso)!
+
+## Final Fantasy VII
+
+##### Xbox One
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/final-fantasy-7.jpg" full="true" %}
+
+Um outro [pecado gamístico](/post/pecados-gamisticos-quinta-geracao) que eu estava empenhado a me redimir, mesmo que jogando numa plataforma mais moderna. Porém, meu Xbox One veio a falecer e ainda não tive tempo ($) de consertá-lo. Eu até tentei por conta, mas sem sucesso. 
+
+Enfim, esse port para os consoles modernos é bem fiel ao original, contanto apenas com alguns melhorias gráficas (para dar suporte HD) e no sistema de batalha. Para tirar 10, só faltou que eles tivessem traduzido as legendas, pois não tem em português. Mas é um clássico que dispensa comentários!
+
+## Resistance: Fall of Man
+
+##### PlayStation 3
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/resistance.jpg" full="true" %}
+
+Sempre tive a curiosidade de experimentar essa franquia exclusiva da Sony, mas meu temor pelo *motion sickness* (enjoos durante a jogatina) falava mais alto e acabava deixando de lado. Pois bem, resolvi arriscar e descobri que, além de não passar mal, o jogo é muito bom e divertido. Entretanto, ainda não terminei, esse processo de mudança não tem me animado a jogar muito, inclusive, o PS3 está desinstalado até o momento deste post! 😥
+
+Mas enfim, **Resistance** é um jogo produzido pela **Insomniac Games** e só por este fato, o jogo já deve ser levado em consideração, o pessoal sabe o que faz. Para quem não conhece, eles foram responsáveis por **Spyro the Dragon**, **Ratchet & Clank**, **Sunset Overdrive** e mais recentemente, pelo **Marvel's Spider-Man**. Os caras são feras!
+
+## Star Wars: Jedi Fallen Order
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/star-wars.jpg" full="true" %}
+
+Ganhei esse jogo de presente no [Twitter](https://twitter.com/felipebbarbosa/status/1568937105098772481) e como era um jogo que estava de olho para comprar, resolvi começa-lo de imediato! 
+
+Ambientado obviamente no universo de Star Wars, esse jogo eu acredito que seja canônico pois se passa cinco após o filme **Episódio III - A Vingança dos Sith** e conta a história de Cal Kestis, um jovem Padawan que está sendo perseguido pelo Império.
+
+O jogo tem uma pegada de aventura que eu curto bastante, porém, com uma pegada *soulslike* também. Mas por algum motivo eu meio que abandonei ele, mas não definitivamente, pois pretendo voltar para ele em breve (já falei que o processo de mudança não me anima muito em jogar videogame? 😅)!
+
+## Need for Speed: Hot Pursuit Remastered
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/14_meme2022/nfs-hot-pursuit.jpg" full="true" %}
+
+Eu meio que tinha uma tradição boba que era jogar pelo menos um **Need for Speed** por ano. E notei que o ano retrasado (2021) passou em branco e que precisava corrigir isso, então escolhi esse que foi o responsável por eu voltar a curtir a série em 2010. Porém, agora em sua polêmica versão remasterizada.
+
+Apesar de ser um remaster preguiçoso, onde não apresenta muitas melhorias visuais, o jogo ainda é divertido e é uma bela oportunidade de quem não teve a chance de jogá-lo na época. 
+
+Com a possibilidade de alternar entre corredor e policial, o jogo oferece uma série de corridas desafiantes, onde até o uso de recursos extras são permitidos, tais como turbo, malha de espinhos para furar os pneus do adversários, até solicitação de reforços aéreos com helicópteros (opção disponível para policiais apenas).
+
+Além disso, um recurso que acho legal para caramba é o sistema de Autolog, onde você pode comparar sua performance em relação aos seus amigos que jogaram o jogo. Lembro de [ter achado isso genial](/post/analise-need-for-speed-hot-pursuit) na época. Enfim, esse ainda é um ótimo jogo da série!
+
+### E é isso...
+
+2022 não foi um ano muito produtivo no quesito games, mas foi um ano legal e tive alguns momentos de glória nos videogames! 🤣
+
+E o seu ano, como foi?
+
+---
+
+Este post faz parte do tradicional MeMe do Blog do Marvox, sendo assim não deixe de conferir os demais participantes (que conforme forem publicando, eu atualizo os links):
+
+- Arquivos do Woo - Diogo Batista
+- [Arquivos do Woo](https://www.arquivosdowoo.com.br/2023/01/28/o-que-voce-jogou-em-2022-geovane-sancini/) - Geovane Sancini
+- [Arquivos do Woo](https://www.arquivosdowoo.com.br/2023/01/28/o-que-eu-joguei-em-2022-tony-horo/) - Tony Horo
+- Gamer Caduco - Caduco
+- [MarvoxBrasil](https://www.instagram.com/p/Cn9rOU3uraj/) - Marvox
+- Vão Jogar! - Hugo "Somari" Couto
+- Vão Jogar! - SucodelarAngela
+- Vão Jogar! - Tchulanguero
+
