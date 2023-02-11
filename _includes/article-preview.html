@@ -15,13 +15,9 @@
   {% endif %}
 
   <h2 class="post-title">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% if post.external %}
-      <a class="post-link" href="{{ post.external }}" target="_blank">
-        {{ post.title }}
-        <small class="post-external-name">[{{ post.session }} <span class="icon-link-ext"></span>]</small>
-      </a>
-    {% else %}
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <small class="post-external-name">[{{ post.session }} <span class="icon-link-ext"></span>]</small>
     {% endif %}
   </h2>
 
@@ -38,15 +34,8 @@
 
   <div class="post-sinopse">
     <p>{{ post.excerpt }}</p>
-    {% if post.external %}
-      <a class="read-more" href="{{ post.external }}" target="_blank">
-        {{ post.session }} <span class="icon-link-ext"></span>
-      </a>
-    {% else %}
-      <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
-        Continue lendo
-      </a>
-    {% endif %}
-    
+    <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
+      Continue lendo
+    </a>
   </div>
 </article>
