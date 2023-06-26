@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joel Hopkins, Colecionador Australiano de Games"
+title: "Joel Hopkins, colecionador australiano de games"
 date: 2012-07-12 19:00
 author: felipebbarbosa
 session: Collection Tube

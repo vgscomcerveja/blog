@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lista completa dos jogos 'Longbox' do PS1"
+title: "Lista completa dos jogos 'Long box' do PS1"
 date: 2012-03-30 19:00
 author: felipebbarbosa
 session: Game DB

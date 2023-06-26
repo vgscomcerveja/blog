@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumo da Semana - Spotify, Metal Gear Survive, Resident Evil 7, Fim das Gerações de Videogames? e mais.."
+title: "Resumo da semana - Spotify, Metal Gear Survive, Resident Evil 7, fim das gerações de videogames? e mais.."
 date: 2016-08-21 18:00
 author: felipebbarbosa
 session: Drops

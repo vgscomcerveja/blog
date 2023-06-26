@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Últimas Aquisições #05 - Março/16"
+title: "Últimas aquisições #05 - Março/16"
 date: 2016-04-16 19:00
 author: felipebbarbosa
 session: Coleção Pessoal

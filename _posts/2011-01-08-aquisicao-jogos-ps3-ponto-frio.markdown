@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aquisição - Jogos de PS3 por Ótimos Preços"
+title: "Aquisição - Jogos de PS3 por ótimos preços"
 date: 2011-01-08 19:00
 author: felipebbarbosa
 session: Coleção Pessoal

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aquisição - Resident Evil versão Longbox (PS1)"
+title: "Aquisição - Resident Evil versão Long box (PS1)"
 date: 2010-10-02 19:00
 author: felipebbarbosa
 session: Coleção Pessoal

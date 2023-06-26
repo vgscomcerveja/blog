@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10+ pecados gamísticos: parte 4 - jogos de RPG!"
+title: "10+ pecados gamísticos: Parte 4 - Jogos de RPG!"
 date: 2020-11-30 20:00
 author: felipebbarbosa
 session: Proseando // Pecados Gamísticos

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coleção de Arcades do Michael Jackson"
+title: "Coleção de arcades do Michael Jackson"
 date: 2011-01-11 19:00
 author: felipebbarbosa
 session: Drops

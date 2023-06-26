@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gameroom Tour 2022, a despedida!"
+title: "Gameroom tour 2022, a despedida!"
 date: 2022-12-31 07:00
 author: felipebbarbosa
 session: Especial

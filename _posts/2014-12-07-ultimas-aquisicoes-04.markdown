@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Últimas Aquisições #04"
+title: "Últimas aquisições #04"
 date: 2014-12-07 19:00
 author: felipebbarbosa
 session: Coleção Pessoal

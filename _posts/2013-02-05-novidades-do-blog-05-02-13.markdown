@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Novidades no Blog!"
+title: "Novidades no blog!"
 date: 2013-02-05 19:00
 author: felipebbarbosa
 session: Drops

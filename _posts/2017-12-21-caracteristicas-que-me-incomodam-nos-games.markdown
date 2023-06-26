@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 características que me incomoda nos games!"
+title: "5 características que me incomodam nos games!"
 date: 2017-12-21 19:00
 author: felipebbarbosa
 session: Proseando

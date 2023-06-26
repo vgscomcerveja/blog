@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aquisição - Xbox 360!"
+title: "Aquisição - Xbox 360"
 date: 2012-06-12 19:00
 author: felipebbarbosa
 session: Coleção Pessoal

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumo da Semana - Pokémon GO, Novidades do Xbox One, Inside, Clássicos da Disney e mais.."
+title: "Resumo da semana - Pokémon GO, novidades do Xbox One, Inside, clássicos da Disney e mais.."
 date: 2016-08-07 21:30
 author: felipebbarbosa
 session: Drops

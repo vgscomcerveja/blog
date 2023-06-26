@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10+ pecados gamísticos: parte 1 - sétima geração!"
+title: "10+ pecados gamísticos: Parte 1 - 7ª geração!"
 date: 2014-05-01 19:00
 author: felipebbarbosa
 session: Proseando // Pecados Gamísticos

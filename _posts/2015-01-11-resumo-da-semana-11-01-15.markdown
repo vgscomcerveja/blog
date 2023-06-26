@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumo da Semana - Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.."
+title: "Resumo da semana - Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.."
 date: 2015-01-11 19:00
 author: felipebbarbosa
 session: Drops

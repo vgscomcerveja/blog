@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumo da Semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Freak (e não é Pokémon); Trailer de LEGO Jurassic World e mais.."
+title: "Resumo da semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Freak (e não é Pokémon); Trailer de LEGO Jurassic World e mais.."
 date: 2015-03-16 19:00
 author: felipebbarbosa
 session: Drops

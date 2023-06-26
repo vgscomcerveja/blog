@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Últimas Aquisições #02"
+title: "Últimas aquisições #02"
 date: 2013-10-20 19:00
 author: felipebbarbosa
 session: Coleção Pessoal

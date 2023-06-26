@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumo da Semana - Nintendo NX e Jogos Grátis.."
+title: "Resumo da semana - Nintendo NX e jogos grátis.."
 date: 2016-07-31 21:00
 author: felipebbarbosa
 session: Drops
