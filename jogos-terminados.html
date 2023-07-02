@@ -17,34 +17,34 @@ sitemap:
     <h2 style="text-align:center; margin-top:70px">
       <img src="/imgs/tags/sega.png" title="SEGA" alt="SEGA" height="60px"/>
     </h2>
-    {% include bloco-jogos-terminados.html platform="ms" %}
-    {% include bloco-jogos-terminados.html platform="md" %}
+    {% include finished-games-table.html platform="ms" %}
+    {% include finished-games-table.html platform="md" %}
     <h2 style="text-align:center; margin-top:70px">
       <img src="/imgs/tags/nintendo.png" title="Nintendo" alt="Nintendo" height="70px"/>
     </h2>
-    {% include bloco-jogos-terminados.html platform="snes" %}
-    {% include bloco-jogos-terminados.html platform="n64" %}
-    {% include bloco-jogos-terminados.html platform="gc" %}
-    {% include bloco-jogos-terminados.html platform="wii" %}
-    {% include bloco-jogos-terminados.html platform="gba" %}
-    {% include bloco-jogos-terminados.html platform="nds" %}
+    {% include finished-games-table.html platform="snes" %}
+    {% include finished-games-table.html platform="n64" %}
+    {% include finished-games-table.html platform="gc" %}
+    {% include finished-games-table.html platform="wii" %}
+    {% include finished-games-table.html platform="gba" %}
+    {% include finished-games-table.html platform="nds" %}
     <h2 style="text-align:center; margin-top:70px">
       <img src="/imgs/tags/sony.png" title="Sony" alt="Sony" height="40px"/>
     </h2>
-    {% include bloco-jogos-terminados.html platform="ps1" %}
-    {% include bloco-jogos-terminados.html platform="ps2" %}
-    {% include bloco-jogos-terminados.html platform="ps3" %}
-    {% include bloco-jogos-terminados.html platform="ps4" %}
-    {% include bloco-jogos-terminados.html platform="psp" %}
-    {% include bloco-jogos-terminados.html platform="vita" %}
+    {% include finished-games-table.html platform="ps1" %}
+    {% include finished-games-table.html platform="ps2" %}
+    {% include finished-games-table.html platform="ps3" %}
+    {% include finished-games-table.html platform="ps4" %}
+    {% include finished-games-table.html platform="psp" %}
+    {% include finished-games-table.html platform="vita" %}
     <h2 style="text-align:center; margin-top:70px">
       <img src="/imgs/tags/microsoft.png" title="Microsoft" alt="Microsoft" height="45px"/>
     </h2>
-    {% include bloco-jogos-terminados.html platform="x360" %}
-    {% include bloco-jogos-terminados.html platform="xone" %}
+    {% include finished-games-table.html platform="x360" %}
+    {% include finished-games-table.html platform="xone" %}
     <h2 style="text-align:center; margin-top:70px">Outras plataformas</h2>
-    {% include bloco-jogos-terminados.html platform="android" %}
-    {% include bloco-jogos-terminados.html platform="pc" %}
+    {% include finished-games-table.html platform="android" %}
+    {% include finished-games-table.html platform="pc" %}
     <small>*Data da primeira vez terminado após o levantamento da lista inicial.</small>
 
     <h2 style="text-align:center; margin-top:100px">JOGOS TERMINADOS POR ANO</h2>
@@ -65,7 +65,7 @@ sitemap:
   {% include disqus.html %}
 </div>
 
-{% assign finishedGames = site.data.jogos-terminados %}
+{% assign finishedGames = site.data.finished-games %}
 
 {% assign finishedByYear = finishedGames.stats-by-year %}
 {% capture finishedByYearData %}

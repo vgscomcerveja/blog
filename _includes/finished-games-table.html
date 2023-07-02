@@ -1,0 +1,25 @@
+{% assign games = site.data.finished-games[include.platform] %}
+{% assign platform = site.data.platforms[include.platform] %}
+<h3>{{ platform.nome }}</h3>
+<h5>{{ games.size }} game{% if games.size > 1 %}s{% endif %} terminado{% if games.size > 1 %}s{% endif %}</h5>
+
+<table>
+{% for game in games %}
+  <tr>
+    <td width="50px" style="text-align:center">
+      {% if game.status %}
+        <img src="/imgs/status-{{ game.status }}.png"/>
+      {% endif %}
+    </td>
+    <td>
+      {% if game.link %}
+        <a href="{{ game.link }}">{{ game.nome }}</a>
+      {% else %}
+        {{ game.nome }}
+      {% endif %}
+      </td>
+    <td width="110px">{{ game.data }}</td>
+  </tr>
+{% endfor %}
+</table>
+
