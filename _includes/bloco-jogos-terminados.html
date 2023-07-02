@@ -1,0 +1,19 @@
+{% assign jogos = site.data.jogos-terminados[include.platform] %}
+{% assign plataforma = site.data.plataformas[include.platform] %}
+<h3>{{ plataforma.nome }}</h3>
+<h5>{{ jogos.size }} jogo{% if jogos.size > 1 %}s{% endif %} terminado{% if jogos.size > 1 %}s{% endif %}</h5>
+
+<table>
+{% for jogo in jogos %}
+  <tr>
+    <td width="50px" style="text-align:center">
+      {% if jogo.status %}
+        <img src="/imgs/status-{{ jogo.status }}.png"/>
+      {% endif %}
+    </td>
+    <td>{{ jogo.nome }}</td>
+    <td width="110px">{{ jogo.data }}</td>
+  </tr>
+{% endfor %}
+</table>
+

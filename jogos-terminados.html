@@ -1,0 +1,59 @@
+---
+layout: default
+permalink: /jogos-terminados/
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2016-08-11T19:40:30-03:00
+---
+<div class="page-title">
+  <img width="96" height="96" src="/imgs/icone-jogando.png"><br>
+  <h1>Jogos Terminados</h1>
+</div>
+
+<div class="home">
+
+  <div class="post" style="font-weight: normal; padding:0 20px">
+    <h2 style="text-align:center; margin-top:70px">
+      <img src="/imgs/tags/sega.png" title="SEGA" alt="SEGA" height="60px"/>
+    </h2>
+    {% include bloco-jogos-terminados.html platform="ms" %}
+    {% include bloco-jogos-terminados.html platform="md" %}
+    <h2 style="text-align:center; margin-top:70px">
+      <img src="/imgs/tags/nintendo.png" title="Nintendo" alt="Nintendo" height="70px"/>
+    </h2>
+    {% include bloco-jogos-terminados.html platform="snes" %}
+    {% include bloco-jogos-terminados.html platform="n64" %}
+    {% include bloco-jogos-terminados.html platform="gc" %}
+    {% include bloco-jogos-terminados.html platform="wii" %}
+    {% include bloco-jogos-terminados.html platform="gba" %}
+    {% include bloco-jogos-terminados.html platform="nds" %}
+    <h2 style="text-align:center; margin-top:70px">
+      <img src="/imgs/tags/sony.png" title="Sony" alt="Sony" height="40px"/>
+    </h2>
+    {% include bloco-jogos-terminados.html platform="ps1" %}
+    {% include bloco-jogos-terminados.html platform="ps2" %}
+    {% include bloco-jogos-terminados.html platform="ps3" %}
+    {% include bloco-jogos-terminados.html platform="ps4" %}
+    {% include bloco-jogos-terminados.html platform="psp" %}
+    {% include bloco-jogos-terminados.html platform="vita" %}
+    <h2 style="text-align:center; margin-top:70px">
+      <img src="/imgs/tags/microsoft.png" title="Microsoft" alt="Microsoft" height="45px"/>
+    </h2>
+    {% include bloco-jogos-terminados.html platform="x360" %}
+    {% include bloco-jogos-terminados.html platform="xone" %}
+    <h2 style="text-align:center; margin-top:70px">Outras plataformas</h2>
+    {% include bloco-jogos-terminados.html platform="android" %}
+    {% include bloco-jogos-terminados.html platform="pc" %}
+    <small>*Data da primeira vez terminado após o levantamento da lista inicial.</small>
+  </div>
+
+  {% include googleads.html %}
+
+</div>
+
+{% include side-menu.html %}
+
+<div class="wrapper">
+  {% include disqus.html %}
+</div>

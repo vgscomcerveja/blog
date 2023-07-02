@@ -1,0 +1,563 @@
+android:
+  - nome: Dan The Man
+    data: 18/01/2017
+  - nome: Dandara
+    data: 21/05/2020
+  - nome: Deus Ex GO
+    data: 04/05/2020
+  - nome: Gunman Clive
+    data: 20/06/2013
+  - nome: Horizon Chase - World Tour
+    data: 12/09/2019
+    status: android100
+  - nome: Lara Croft GO
+    data: 06/01/2016
+    status: android100
+  - nome: Limbo
+    data: 11/09/2020
+  - nome: Monument Valley
+    data: 23/04/2020
+    status: android100
+  - nome: Monument Valley II
+    data: 22/04/2020
+    status: android100
+  - nome: Stranger Things - The Game
+    data: 08/10/2017
+    status: android100
+gba:
+  - nome: Metroid Fusion
+  - nome: Tomb Raider - The Prophecy
+gc:
+  - nome: Luigi's Mansion
+    data: 26/06/2021
+  - nome: Metal Gear Solid - The Twin Snakes
+    data: 02/06/2013
+ms:
+  - nome: Castle of Illusion
+    data: 07/09/2013
+  - nome: Double Dragon
+  - nome: Indiana Jones e a Última Cruzada
+    data: 15/01/2022
+  - nome: Land of Illusion
+    data: 08/09/2013
+  - nome: Prince of Persia
+    data: 22/01/2022
+  - nome: Sonic Chaos
+    data: 02/06/2011
+  - nome: Sonic The Hedgehog
+    data: 25/10/2015*
+  - nome: Sonic The Hedgehog 2
+  - nome: Taz-Mania
+    data: 19/01/2011
+md:
+  - nome: Sonic The Hedgehog
+    data: 08/08/2012
+n64:
+  - nome: Conker's Bad Fur Day
+    data: 12/08/2015
+nds:
+  - nome: Mario Party DS
+    data: 01/01/2011
+wii:
+  - nome: Donkey Kong Country Returns
+    data: 26/11/2016
+  - nome: The House of the Dead - Overkill
+    data: 20/02/2016
+pc:
+  - nome: Blood
+  - nome: Criatura Crunch, o Monstro
+  - nome: Half-Life
+  - nome: MDK
+  - nome: Medal of Honor - Allied Assault
+  - nome: Need for Speed Underground
+  - nome: Postal²
+ps1:
+  - nome: Castlevania - Symphony of the Night
+    data: 11/12/2010
+  - nome: Crisis Beat
+  - nome: Dino Crisis
+  - nome: Dino Crisis 2
+  - nome: Driver
+  - nome: Driver 2
+  - nome: Fear Effect
+  - nome: Gran Turismo
+  - nome: Gran Turismo 2
+  - nome: Medal of Honor
+    data: 16/08/2014*
+  - nome: Medal of Honor Underground
+    data: 28/02/2021*
+  - nome: Metal Gear Solid
+    data: 11/11/2011*
+  - nome: Mortal Kombat 4
+  - nome: Mortal Kombat Trilogy
+  - nome: Power Rangers - Lightspeed Rescue
+  - nome: Power Rangers - Time Force
+  - nome: Resident Evil
+    data: 04/10/2015*
+  - nome: Resident Evil 2
+    data: 20/06/2018*
+  - nome: Resident Evil 3 - Nemesis
+  - nome: Silent Hill
+  - nome: Spider-Man
+  - nome: Spider-Man 2 - Enter Electro
+  - nome: Tekken 3
+  - nome: The Great Battle VI
+    data: 22/10/2013
+  - nome: Tomb Raider
+    data: 20/08/2013
+  - nome: Tomb Raider III
+  - nome: Tomb Raider - The Last Revelation
+  - nome: Tomb Raider - Chronicles
+  - nome: Tomorrow Never Dies 007
+  - nome: Tony Hawk's Pro Skater
+  - nome: Tony Hawk's Pro Skater 2
+  - nome: Tony Hawk's Pro Skater 3
+  - nome: Tony Hawk's Pro Skater 4
+  - nome: Toy Story 2 - Buzz Lightyear to the Rescue!
+  - nome: Vigilante 8
+  - nome: Vigilante 8 - 2nd Offense
+  - nome: X-Men Mutant Academy 2
+  - nome: Yu-gi-oh! - Forbidden Memories
+ps2:
+  - nome: Black
+  - nome: God of War
+  - nome: Metal Gear Solid 2 - Sons of Liberty
+  - nome: Metal Gear Solid 3 - Snake Eater
+    data: 15/07/2010
+  - nome: Mortal Kombat - Shaolin Monks
+  - nome: Need for Speed - Underground
+  - nome: Pirates of the Caribbean - The Legend of Jack Sparrow
+  - nome: Prince of Persia - Sands of Time
+  - nome: Resident Evil 4
+  - nome: Resident Evil - Code Veronica X
+  - nome: Shadow of the Colossus
+  - nome: Silent Hill 2
+    data: 14/11/2016
+  - nome: Tomb Raider - Anniversary
+  - nome: Tomb Raider - Legend
+  - nome: Toy Story 3
+    data: 02/01/2011
+ps3:
+  - nome: AC/DC Live - Rockband Track Pack
+    data: 09/10/2014
+  - nome: Adam's Venture - Chronicles
+    data: 21/06/2018
+    status: psn100
+  - nome: Battleship
+    data: 09/06/2018
+    status: platina
+  - nome: Call of Duty 4 - Modern Warfare
+    data: 11/08/2010
+  - nome: Captain America - Super Soldier
+    data: 09/08/2017
+    status: platina
+  - nome: Cars - Race-O-Rama
+    data: 13/01/2019
+    status: platina
+  - nome: Cars 2
+    data: 08/11/2015
+    status: platina
+  - nome: Cloudy with a Chance of Mealballs
+    data: 07/09/2016
+    status: platina
+  - nome: Dead Space
+    data: 02/12/2018
+  - nome: God of War III
+    data: 20/02/2012
+  - nome: Gran Turismo 5
+    data: 20/02/2012
+  - nome: Gran Turismo 6
+    data: 06/10/2015
+    status: platina
+  - nome: Guitar Hero - Van Halen
+    data: 18/10/2015 
+  - nome: Jurassic Park - The Game
+    data: 29/03/2016
+    status: psn100
+  - nome: Jurassic - The Hunted
+    data: 25/10/2015
+    status: platina
+  - nome: Machinarium
+    data: 29/12/2013
+    status: psn100
+  - nome: Medal of Honor
+    data: 02/12/2011
+  - nome: Metal Gear Solid 4 - Guns of Patriots
+    data: 26/07/2010
+  - nome: MIB Alien Crisis
+    data: 04/06/2017
+    status: platina
+  - nome: Mortal Kombat Arcade Kollection - Mortal Kombat
+    data: 18/10/2015
+  - nome: Need for Speed - Hot Pursuit
+    data: 29/01/2013
+    status: platina
+  - nome: Need for Speed - The Run
+    data: 10/02/2013
+    status: platina
+  - nome: Need for Speed - Most Wanted
+    data: 17/11/2014
+    status: platina
+  - nome: Need for Speed - Rivals
+    data: 20/09/2020
+    status: platina
+  - nome: PAC-MAN Championship Edition DX
+    data: 16/10/2012
+    status: psn100
+  - nome: Puss in Boots
+    data: 23/06/2018
+    status: platina
+  - nome: Ra. One
+    data: 22/12/2020
+  - nome: Resident Evil 5
+    data: 22/08/2021
+  - nome: Resident Evil 6
+    data: 13/06/2021
+  - nome: Spec Ops - The Line
+    data: 26/06/2014
+  - nome: Terminator Salvation
+    data: 06/12/2015
+    status: platina
+  - nome: The Last of Us
+    data: 20/06/2013
+  - nome: The Last of Us - Left Behind
+    data: 23/02/2014
+  - nome: The Wolf Among Us
+    data: 18/06/2017
+    status: platina
+  - nome: Tomb Raider - Underworld
+    data: 07/10/2010
+    status: platina
+  - nome: Tomb Raider
+    data: 23/03/2013
+    status: platina
+  - nome: Toy Story 3
+    data: 25/11/2012
+    status: platina
+  - nome: Toy Story Mania!
+    data: 22/05/2017
+    status: platina
+  - nome: Uncharted - Drake's Fortune
+    data: 24/10/2011
+    status: platina
+  - nome: Uncharted 2 - Among Thieves
+    data: 26/11/2011
+    status: platina
+  - nome: Uncharted 3 - Drake's Deception
+    data: 05/12/2011
+    status: platina
+ps4:
+  - nome: 36 Fragments of Midnight
+    data: 04/03/2018
+    status: platina
+  - nome: Axiom Verge
+    data: 01/02/2021
+  - nome: Black & White Bushido
+    data: 13/08/2017
+    status: platina
+  - nome: Call of Duty - WWII
+    data: 28/03/2020
+  - nome: Coffin Dodgers
+    data: 06/09/2017
+    status: platina
+  - nome: Days Gone
+    data: 10/06/2019
+    status: platina
+  - nome: Demetrios - A Big Cynical Adventure
+    data: 27/02/2018
+    status: platina
+  - nome: Deponia
+    data: 15/06/2017
+    status: platina
+  - nome: DOOM
+    data: 10/11/2017
+    status: platina
+  - nome: DOOM Eternal
+    data: 05/12/2020
+  - nome: Drowning
+    data: 05/03/2020
+    status: platina
+  - nome: Duke Nukem 3D - 20th Anniversary World Tour
+    data: 13/03/2017
+    status: platina
+  - nome: Energy Cycle
+    data: 11/03/2018
+    status: platina
+  - nome: Energy Invasion
+    data: 03/06/2018
+    status: platina
+  - nome: Firewatch
+    data: 22/03/2020
+    status: psn100
+  - nome: Gone Home
+    data: 29/08/2016
+  - nome: Guitar Hero Live
+    data: 23/05/2016
+  - nome: Hellblade - Senua's Sacrifice
+    data: 09/02/2021
+    status: platina
+  - nome: Hollow Knight
+    data: 10/11/2019
+  - nome: Horizon Chase Turbo
+    data: 02/06/2018
+    status: platina
+  - nome: Horizon Zero Dawn
+    data: 27/03/2017
+    status: platina
+  - nome: Inside
+    data: 15/05/2022
+  - nome: Late Shift
+    data: 12/08/2017
+    status: platina
+  - nome: Little Adventure on the Prairie
+    data: 04/03/2018
+    status: platina
+  - nome: Marvel's Spider-Man
+    data: 16/09/2018
+    status: platina
+  - nome: Marvel's Spider-man - Miles Morales
+    data: 20/12/2020
+    status: platina
+  - nome: Mecho Tales
+    data: 25/06/2018
+    status: platina
+  - nome: Midnight Deluxe
+    data: 14/04/2018
+    status: platina
+  - nome: Mr. Massagy
+    data: 11/06/2017
+    status: platina
+  - nome: Music Racer
+    data: 22/01/2020
+    status: platina
+  - nome: My Friend Peppa Pig
+    data: 12/02/2023
+    status: platina
+  - nome: My Name is Mayo
+    data: 11/06/2017
+    status: platina
+  - nome: Need for Speed
+    data: 15/09/2016
+    status: platina
+  - nome: Need for Speed - Payback
+    data: 04/04/2018
+  - nome: Need for Speed - Heat
+    data: 05/01/2020
+    status: platina
+  - nome: Orc Slayer
+    data: 14/08/2017
+    status: platina
+  - nome: Planet RIX-13
+    data: 05/03/2020
+    status: platina
+  - nome: Puzzle Showdown 4K
+    data: 27/08/2017
+    status: platina
+  - nome: Resident Evil VII - Biohazard
+    data: 10/03/2018
+  - nome: Resident Evil 3
+    data: 05/04/2020
+  - nome: Shadow of the Tomb Raider
+    data: 07/01/2019
+    status: platina
+  - nome: StormBoy
+    data: 24/08/2019
+    status: platina
+  - nome: The Bunker
+    data: 07/05/2017
+    status: platina
+  - nome: The Last Guardian
+    data: 18/01/2017
+  - nome: The Last of Us - Remasterizado
+    data: 03/06/2021
+  - nome: The Last of Us - Part II
+    data: 12/07/2020
+    status: platina
+  - nome: The Little Acre
+    data: 16/05/2017
+    status: platina
+  - nome: The Mooseman
+    data: 23/02/2020
+  - nome: The Order 1886
+    data: 20/03/2016
+    status: platina
+  - nome: The Walking Dead
+    data: 16/02/2018
+    status: platina
+  - nome: The Walking Dead - Season 2
+    data: 12/06/2016
+    status: psn100
+  - nome: Twin Robots
+    data: 11/06/2018
+    status: platina
+  - nome: Uncharted - Drake's Fortune Remastered
+    data: 25/12/2015
+    status: platina
+  - nome: Uncharted 2 - Among Thieves Remastered
+    data: 05/01/2016
+    status: platina
+  - nome: Uncharted 3 - Drake's Deception Remastered
+    data: 17/01/2016
+    status: platina
+  - nome: Uncharted 4 - A Thief's End
+    data: 12/05/2016
+    status: platina
+  - nome: Uncharted - The Lost Legacy
+    data: 26/08/2017
+    status: platina
+vita:
+  - nome: 36 Fragments of Midnight
+    data: 01/03/2018
+    status: platina
+  - nome: Actual Sunlight
+    data: 11/12/2018
+    status: psn100
+  - nome: Back in 1995
+    data: 16/07/2020
+    status: platina
+  - nome: Breeder Homegrown - Director's Cut
+    data: 03/03/2020
+    status: platina
+  - nome: Bucket Knight
+    data: 25/02/2020
+    status: platina
+  - nome: Burly Men At Sea
+    data: 09/12/2018
+    status: platina
+  - nome: Demetrios - A Big Cynical Adventure
+    data: 11/01/2018
+    status: platina
+  - nome: Devious Dungeon
+    data: 07/08/2018
+    status: platina
+  - nome: Dying - Reborn
+    data: 17/08/2017
+    status: platina
+  - nome: Energy Balance
+    data: 18/03/2018
+    status: platina
+  - nome: Energy Cycle
+    data: 10/03/2018
+    status: platina
+  - nome: Energy Invasion
+    data: 12/03/2018
+    status: platina
+  - nome: Full Throttle Remastered
+    data: 05/06/2018
+    status: platina
+  - nome: Guacamelee!
+    data: 20/09/2015
+    status: platina
+  - nome: History - Legends of War
+    data: 26/06/2017
+  - nome: Hitman GO - Definitive Edition
+    data: 12/12/2016
+    status: platina
+  - nome: InkSplosion
+    data: 18/08/2018
+    status: platina
+  - nome: Lara Croft GO
+    data: 08/12/2016
+    status: platina
+  - nome: Little Adventure on the Prairie
+    data: 28/02/2018
+    status: platina
+  - nome: Mecho Tales
+    data: 23/06/2018
+    status: platina
+  - nome: Midnight Deluxe
+    data: 13/04/2018
+    status: platina
+  - nome: Need for Speed - Most Wanted
+    data: 10/12/2019
+    status: platina
+  - nome: Severed
+    data: 13/03/2017
+    status: platina
+  - nome: Sound Shapes
+    data: 23/03/2016
+    status: platina
+  - nome: Tearaway
+    data: 27/02/2017
+    status: platina
+  - nome: The Walking Dead
+    data: 26/05/2016
+    status: platina
+  - nome: Twin Robots
+    data: 16/04/2018
+    status: platina
+  - nome: Uncharted - Golden Abyss
+    data: 21/08/2015
+    status: platina
+psp:
+  - nome: Silent Hill - Origins
+    data: 25/07/2014
+snes:
+  - nome: Donkey Kong Country
+    data: 06/01/2012*
+  - nome: Donkey Kong Country 2
+  - nome: Donkey Kong Country 3
+  - nome: Goof Troop
+    data: 04/01/2012
+  - nome: Super Mario World
+    data: 04/01/2015*
+  - nome: Super Metroid
+    data: 02/01/2019
+  - nome: Top Gear
+    data: 05/09/2010
+x360:
+  - nome: Alan Wake
+    data: 26/08/2012
+  - nome: BioShock
+    data: 05/11/2012
+  - nome: BioShock 2
+    data: 20/11/2013
+  - nome: Dead Island
+    data: 31/12/2014
+  - nome: Deadlight
+    data: 01/01/2014
+  - nome: Far Cry 3
+    data: 05/01/2013
+    status: 1000G
+  - nome: Forza Horizon 2 - Fast & Furious
+    data: 03/04/2015
+    status: 1000G
+  - nome: Jurassic Park - The Game
+    data: 12/06/2023
+    status: 1000G
+  - nome: Lara Croft and the Guardian of Light
+    data: 24/06/2023
+  - nome: Lost Planet - Extreme Condition
+    data: 23/01/2021
+  - nome: Medal of Honor - Warfighter
+    data: 02/01/2021
+  - nome: Metal Gear Solid V - Ground Zeroes
+    data: 07/09/2015
+  - nome: Need for Speed - Most Wanted
+    data: 08/09/2018
+    status: 1000G
+  - nome: Rise of the Tomb Raider
+    data: 28/11/2015
+    status: 1000G
+  - nome: Super Street Fighter IV - Arcade Edition
+    data: 15/07/2012
+  - nome: TMNT
+    data: 26/06/2023
+    status: 1000G
+xone:
+  - nome: A Plague Tale - Innocence
+    data: 11/04/2020
+    status: 1000G
+  - nome: Forza Horizon 4
+    data: 19/11/2018
+    status: 1000G
+  - nome: Old Man's Journey
+    data: 06/12/2019
+    status: 1000G
+  - nome: Streets of Rage 4
+    data: 05/05/2020
+  - nome: The Gardens Between
+    data: 12/05/2019
+    status: 1000G
+  - nome: Wolfenstein - The New Order
+    data: 12/05/2019

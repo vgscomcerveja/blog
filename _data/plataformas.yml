@@ -1,0 +1,36 @@
+android:
+  nome: Android
+gba:
+  nome: Game Boy Advance
+gc:
+  nome: GameCube
+md:
+  nome: Mega Drive
+ms:
+  nome: Master System
+n64:
+  nome: Nintendo 64
+nds:
+  nome: Nintendo DS
+pc:
+  nome: PC
+ps1:
+  nome: PlayStation
+ps2:
+  nome: PlayStation 2
+ps3:
+  nome: PlayStation 3
+ps4: 
+  nome: PlayStation 4
+psp:
+  nome: PSP
+snes:
+  nome: Super Nintendo
+vita:
+  nome: PS Vita
+wii:
+  nome: Wii
+x360:
+  nome: Xbox 360
+xone:
+  nome: Xbox One
