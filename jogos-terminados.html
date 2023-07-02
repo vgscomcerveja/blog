@@ -43,13 +43,26 @@ permalink: /jogos-terminados/
     {% include finished-games-table.html platform="pc" %}
     <small>*Data da primeira vez terminado após o levantamento da lista inicial.</small>
     <br>
+    <span><b>Total de jogos:</b> <span id="total-final"></span></span>
+    <br>
     <span><b>Última atualização:</b> {{ site.data.finished-games.last-update }}</span>
+    
 
     <h2 style="text-align:center; margin-top:100px">JOGOS TERMINADOS POR ANO</h2>
     <canvas id="chart-by-year"></canvas>
 
     <h2 style="text-align:center; margin-top:50px">JOGOS TERMINADOS POR PLATAFORMA</h2>
     <canvas id="chart-by-platform"></canvas>
+
+    <h2 style="text-align:center; margin-top:100px">TROFÉUS & CONQUISTAS</h2>
+    <h3>Platinas</h3>
+    {% include finished-games-table.html platform="platina" %}
+    <h3>PSN 100%</h3>
+    {% include finished-games-table.html platform="psn100" %}
+    <h3>Xbox 1000G</h3>
+    {% include finished-games-table.html platform="1000G" %}
+    <h3>Android 100%</h3>
+    {% include finished-games-table.html platform="android100" %}
 
   </div>
 
@@ -132,6 +145,9 @@ permalink: /jogos-terminados/
   ]
   const chartByPlatform = document.getElementById('chart-by-platform');
   createChart(chartByPlatform, finishedByPlatformLabels, finishedByPlatform);
+
+  const totalFinal = document.getElementById('total-final');
+  totalFinal.innerHTML = finishedByPlatform.reduce((partialSum, a) => partialSum + Number(a), 0);
 
   function createChart(chart, labels, data) {
     new Chart(chart, {

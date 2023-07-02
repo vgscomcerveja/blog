@@ -628,3 +628,541 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 4
+android100:
+  - nome: Lara Croft GO
+    data: 10/01/2016
+    status: android100
+  - nome: Stranger Things - The Game
+    data: 08/10/2017
+    status: android100
+  - nome: Snake - Shadow Edition
+    data: 17/05/2018
+    status: android100
+  - nome: Ruben is Sleepy
+    data: 17/05/2018
+    status: android100
+  - nome: Horizon Chase - World Tour
+    data: 13/09/2019
+    status: android100
+  - nome: Monument Valley II
+    data: 23/04/2020
+    status: android100
+  - nome: Monument Valley
+    data: 24/04/2020
+    status: android100
+psn100:
+  - nome: PAC-MAN Championship Edition DX
+    data: 16/10/2012
+    platform: ps3
+    status: psn100
+  - nome: Machinarium
+    data: 29/12/2013
+    platform: ps3
+    status: psn100
+  - nome: Jurassic Park - The Game - 1 - The Intruder
+    data: 27/03/2016
+    platform: ps3
+    status: psn100
+  - nome: Jurassic Park - The Game - 2 - The Cavalry
+    data: 27/03/2016
+    platform: ps3
+    status: psn100
+  - nome: Jurassic Park - The Game - 3 - The Depths
+    data: 28/03/2016
+    platform: ps3
+    status: psn100
+  - nome: Jurassic Park - The Game - 4 - The Survivors
+    data: 29/03/2016
+    platform: ps3
+    status: psn100
+  - nome: The Walking Dead - Season 2
+    data: 12/06/2016
+    platform: ps4
+    status: psn100
+  - nome: Adam's Venture - Chronicles
+    data: 21/06/2018
+    platform: ps3
+    status: psn100
+  - nome: Actual Sunlight
+    data: 11/12/2018
+    platform: vita
+    status: psn100
+  - nome: Firewatch
+    data: 22/03/2020
+    platform: ps4
+    status: psn100
+1000G:
+  - nome: Far Cry 3
+    data: 10/01/2013
+    platform: x360
+    status: 1000G
+  - nome: Forza Horizon presents Fast and Furious
+    data: 03/04/2015
+    platform: x360
+    status: 1000G
+  - nome: Rise of the Tomb Raider
+    data: 03/12/2015
+    platform: x360
+    status: 1000G
+  - nome: Avatar - The Last Airbender - The Burning Earth
+    data: 14/04/2018
+    platform: x360
+    status: 1000G
+  - nome: Need for Speed - Most Wanted
+    data: 08/09/2018
+    platform: x360
+    status: 1000G
+  - nome: Forza Horizon 4
+    data: 19/11/2018
+    platform: xone
+    status: 1000G
+  - nome: The Gardens Between
+    data: 12/05/2019
+    platform: xone
+    status: 1000G
+  - nome: Old Man's Journey
+    data: 07/12/2019
+    platform: xone
+    status: 1000G
+  - nome: A Plague Tale - Innocence
+    data: 14/04/2020
+    platform: xone
+    status: 1000G
+  - nome: Jurassic Park - The Game
+    data: 12/06/2023
+    platform: x360
+    status: 1000G
+  - nome: TMNT
+    data: 26/06/2023
+    platform: x360
+    status: 1000G
+platina:
+  - nome: Uncharted - Drake's Fortune
+    data: 23/05/2012
+    platform: ps3
+    status: platina
+  - nome: Tomb Raider - Underworld
+    data: 30/05/2012
+    platform: ps3
+    status: platina
+  - nome: Uncharted 3 - Drake's Deception
+    data: 08/06/2012
+    platform: ps3
+    status: platina
+  - nome: Uncharted 2 - Among Thieves
+    data: 23/06/2012
+    platform: ps3
+    status: platina
+  - nome: Toy Story 3
+    data: 25/11/2012
+    platform: ps3
+    status: platina
+  - nome: Need for Speed - Hot Pursuit
+    data: 29/01/2013
+    platform: ps3
+    status: platina
+  - nome: Need for Speed - The Run
+    data: 14/03/2013
+    platform: ps3
+    status: platina
+  - nome: Tomb Raider
+    data: 03/05/2013
+    platform: ps3
+    status: platina
+  - nome: Need for Speed - Most Wanted
+    data: 17/11/2014
+    platform: ps3
+    status: platina
+  - nome: Uncharted - Golden Abyss
+    data: 01/09/2015
+    platform: vita
+    status: platina
+  - nome: Guacamelee!
+    data: 22/09/2015
+    platform: vita
+    status: platina
+  - nome: Gran Turismo 6
+    data: 13/10/2015
+    platform: ps3
+    status: platina
+  - nome: Jurassic - The Hunted
+    data: 28/10/2015
+    platform: ps3
+    status: platina
+  - nome: Cars 2 - The Videogame
+    data: 08/11/2015
+    platform: ps3
+    status: platina
+  - nome: Terminator Salvation
+    data: 06/12/2015
+    platform: ps3
+    status: platina
+  - nome: Uncharted - Drake's Fortune Remastered
+    data: 27/12/2015
+    platform: ps4
+    status: platina
+  - nome: Uncharted 2 - Among Thieves Remastered
+    data: 17/01/2016
+    platform: ps4
+    status: platina
+  - nome: Uncharted 3 - Drake's Deception Remastered
+    data: 17/01/2016
+    platform: ps4
+    status: platina
+  - nome: The Order 1886
+    data: 25/03/2016
+    platform: ps4
+    status: platina
+  - nome: Sound Shapes
+    data: 25/03/2016
+    platform: vita
+    status: platina
+  - nome: Sound Shapes
+    data: 25/03/2016
+    platform: ps3
+    status: platina
+  - nome: Sound Shapes
+    data: 28/03/2016
+    platform: ps4
+    status: platina
+  - nome: Uncharted 4 - A Thief's End
+    data: 18/05/2016
+    platform: ps4
+    status: platina
+  - nome: The Walking Dead
+    data: 26/05/2016
+    platform: vita
+    status: platina
+  - nome: Cloudy with a Chance of Meatballs
+    data: 07/09/2016
+    platform: ps3
+    status: platina
+  - nome: Need for Speed
+    data: 17/09/2016
+    platform: ps4
+    status: platina
+  - nome: Lara Croft GO
+    data: 08/12/2016
+    platform: vita
+    status: platina
+  - nome: Hitman GO - Definitive Edition
+    data: 12/12/2016
+    platform: vita
+    status: platina
+  - nome: Tearaway
+    data: 03/03/2017
+    platform: vita
+    status: platina
+  - nome: Severed
+    data: 12/03/2017
+    platform: vita
+    status: platina
+  - nome: Duke Nukem 3D - 20th Anniversary World Tour
+    data: 20/03/2017
+    platform: ps4
+    status: platina
+  - nome: Horizon Zero Dawn
+    data: 27/04/2017
+    platform: ps4
+    status: platina
+  - nome: The Bunker
+    data: 09/05/2017
+    platform: ps4
+    status: platina
+  - nome: The Little Acre
+    data: 17/05/2017
+    platform: ps4
+    status: platina
+  - nome: Toy Story Mania!
+    data: 22/05/2017
+    platform: ps3
+    status: platina
+  - nome: MIB - Alien Crisis
+    data: 07/06/2017
+    platform: ps3
+    status: platina
+  - nome: Mr. Massagy
+    data: 11/06/2017
+    platform: ps4
+    status: platina
+  - nome: My Name is Mayo
+    data: 11/06/2017
+    platform: ps4
+    status: platina
+  - nome: Deponia
+    data: 15/06/2017
+    platform: ps4
+    status: platina
+  - nome: The Wolf Among Us
+    data: 18/06/2017
+    platform: ps3
+    status: platina
+  - nome: Captain America - Super Soldier
+    data: 11/08/2017
+    platform: ps3
+    status: platina
+  - nome: Late Shift
+    data: 12/08/2017
+    platform: ps4
+    status: platina
+  - nome: Black & White Bushido
+    data: 13/08/2017
+    platform: ps4
+    status: platina
+  - nome: Orc Slayer
+    data: 14/08/2017
+    platform: ps4
+    status: platina
+  - nome: Dying - Reborn
+    data: 17/08/2017
+    platform: vita
+    status: platina
+  - nome: Puzzle Showdown 4K
+    data: 27/08/2017
+    platform: ps4
+    status: platina
+  - nome: Uncharted - The Lost Legacy
+    data: 04/09/2017
+    platform: ps4
+    status: platina
+  - nome: Coffin Dodgers
+    data: 06/09/2017
+    platform: ps4
+    status: platina
+  - nome: DOOM
+    data: 07/12/2017
+    platform: ps4
+    status: platina
+  - nome: Demetrios - The Big Cynical Adventure
+    data: 11/01/2018
+    platform: ps4
+    status: platina
+  - nome: The Walking Dead
+    data: 16/02/2018
+    platform: ps4
+    status: platina
+  - nome: Demetrios - The Big Cynical Adventure
+    data: 11/01/2018
+    platform: vita
+    status: platina
+  - nome: Little Adventure on the Prairie
+    data: 28/02/2018
+    platform: vita
+    status: platina
+  - nome: 36 Fragments of Midnight
+    data: 01/03/2018
+    platform: vita
+    status: platina
+  - nome: 36 Fragments of Midnight
+    data: 04/03/2018
+    platform: ps4
+    status: platina
+  - nome: Little Adventure on the Prairie
+    data: 04/03/2018
+    platform: ps4
+    status: platina
+  - nome: Energy Cycle
+    data: 10/03/2018
+    platform: vita
+    status: platina
+  - nome: Energy Cycle
+    data: 11/03/2018
+    platform: ps4
+    status: platina
+  - nome: Energy Invasion
+    data: 12/03/2018
+    platform: vita
+    status: platina
+  - nome: Energy Balance
+    data: 18/03/2018
+    platform: vita
+    status: platina
+  - nome: Midnight Deluxe
+    data: 12/04/2018
+    platform: vita
+    status: platina
+  - nome: Midnight Deluxe
+    data: 14/04/2018
+    platform: ps4
+    status: platina
+  - nome: Twin Robots
+    data: 16/04/2018
+    platform: vita
+    status: platina
+  - nome: Horizon Chase Turbo
+    data: 02/06/2018
+    platform: ps4
+    status: platina
+  - nome: Energy Invasion
+    data: 03/06/2018
+    platform: ps4
+    status: platina
+  - nome: Full Throttle Remastered
+    data: 05/06/2018
+    platform: vita
+    status: platina
+  - nome: Battleship
+    data: 10/06/2018
+    platform: ps3
+    status: platina
+  - nome: Twin Robots
+    data: 11/06/2018
+    platform: ps4
+    status: platina
+  - nome: Mecho Tales
+    data: 23/06/2018
+    platform: vita
+    status: platina
+  - nome: Puss in Boots
+    data: 24/06/2018
+    platform: ps3
+    status: platina
+  - nome: Planet of the Eyes
+    data: 24/06/2018
+    platform: ps4
+    status: platina
+  - nome: Mecho Tales
+    data: 25/06/2018
+    platform: ps4
+    status: platina
+  - nome: Devious Dungeon
+    data: 07/08/2018
+    platform: vita
+    status: platina
+  - nome: InkSplosion
+    data: 18/08/2018
+    platform: vita
+    status: platina
+  - nome: Marvel's Spider-Man
+    data: 16/09/2018
+    platform: ps4
+    status: platina
+  - nome: Burly Men At Sea
+    data: 09/12/2018
+    platform: vita
+    status: platina
+  - nome: Shadow of the Tomb Raider
+    data: 11/01/2019
+    platform: ps4
+    status: platina
+  - nome: Cars - Race-O-Rama
+    data: 13/01/2019
+    platform: ps3
+    status: platina
+  - nome: Peasant Knight
+    data: 20/04/2019
+    platform: vita
+    status: platina
+  - nome: Days Gone
+    data: 11/06/2019
+    platform: ps4
+    status: platina
+  - nome: Storm Boy
+    data: 24/08/2019
+    platform: ps4
+    status: platina
+  - nome: Metagal
+    data: 22/11/2019
+    platform: vita
+    status: platina
+  - nome: Metagal
+    data: 23/11/2019
+    platform: ps4
+    status: platina
+  - nome: Need for Speed - Most Wanted
+    data: 10/12/2019
+    platform: vita
+    status: platina
+  - nome: Need for Speed - Heat
+    data: 05/01/2020
+    platform: ps4
+    status: platina
+  - nome: Music Racer
+    data: 23/01/2020
+    platform: ps4
+    status: platina
+  - nome: Bucket Knight
+    data: 25/02/2020
+    platform: vita
+    status: platina
+  - nome: Breeder Homegrown - Director's Cut
+    data: 03/03/2020
+    platform: vita
+    status: platina
+  - nome: Drowning
+    data: 05/03/2020
+    platform: ps4
+    status: platina
+  - nome: Planet RIX-13
+    data: 05/03/2020
+    platform: ps4
+    status: platina
+  - nome: Deep Space Rush
+    data: 20/06/2020
+    platform: vita
+    status: platina
+  - nome: Deep Space Rush
+    data: 22/06/2020
+    platform: ps4
+    status: platina
+  - nome: Back in 1995
+    data: 16/07/2020
+    platform: vita
+    status: platina
+  - nome: Super Box Land Demake
+    data: 20/07/2020
+    platform: vita
+    status: platina
+  - nome: Hoggy 2
+    data: 21/07/2020
+    platform: vita
+    status: platina
+  - nome: Jack N' Jill DX
+    data: 22/07/2020
+    platform: vita
+    status: platina
+  - nome: Gravity Duck
+    data: 22/07/2020
+    platform: vita
+    status: platina
+  - nome: Mochi Mochi Boy
+    data: 23/07/2020
+    platform: vita
+    status: platina
+  - nome: Zeroptian Invasion
+    data: 24/07/2020
+    platform: vita
+    status: platina
+  - nome: The Last of Us - Part II
+    data: 01/08/2020
+    platform: ps4
+    status: platina
+  - nome: Himno
+    data: 01/08/2020
+    platform: vita
+    status: platina
+  - nome: Zero Zero Zero Zero
+    data: 04/08/2020
+    platform: vita
+    status: platina
+  - nome: Super Weekend Mode
+    data: 04/08/2020
+    platform: vita
+    status: platina
+  - nome: Need for Speed - Rivals
+    data: 20/09/2020
+    platform: ps3
+    status: platina
+  - nome: Marvel's Spider-Man - Miles Morales
+    data: 22/12/2020
+    platform: ps4
+    status: platina
+  - nome: Hellblade - Senua's Sacrifice
+    data: 09/02/2021
+    platform: ps4
+    status: platina
+  - nome: My Friend Peppa Pig
+    data: 12/02/2023
+    platform: ps4
+    status: platina
+

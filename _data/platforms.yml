@@ -20,17 +20,22 @@ ps2:
   nome: PlayStation 2
 ps3:
   nome: PlayStation 3
+  logo: /imgs/tags/ps3-2.png
 ps4: 
   nome: PlayStation 4
+  logo: /imgs/tags/ps4.png
 psp:
   nome: PSP
 snes:
   nome: Super Nintendo
 vita:
   nome: PS Vita
+  logo: /imgs/tags/psvita.png
 wii:
   nome: Wii
 x360:
   nome: Xbox 360
+  logo: /imgs/tags/xbox-360-2.png
 xone:
   nome: Xbox One
+  logo: /imgs/tags/xbox-one.png
