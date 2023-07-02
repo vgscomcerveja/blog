@@ -561,3 +561,19 @@ xone:
     status: 1000G
   - nome: Wolfenstein - The New Order
     data: 12/05/2019
+stats-by-year:
+  pre-2010: 63
+  y2010: 6
+  y2011: 9
+  y2012: 14
+  y2013: 14
+  y2014: 9
+  y2015: 16
+  y2016: 20
+  y2017: 26
+  y2018: 35
+  y2019: 12
+  y2020: 24
+  y2021: 9
+  y2022: 3
+  y2023: 4

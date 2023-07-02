@@ -46,6 +46,13 @@ sitemap:
     {% include bloco-jogos-terminados.html platform="android" %}
     {% include bloco-jogos-terminados.html platform="pc" %}
     <small>*Data da primeira vez terminado após o levantamento da lista inicial.</small>
+
+    <h2 style="text-align:center; margin-top:100px">JOGOS TERMINADOS POR ANO</h2>
+    <canvas id="chart-by-year"></canvas>
+
+    <h2 style="text-align:center; margin-top:50px">JOGOS TERMINADOS POR PLATAFORMA</h2>
+    <canvas id="chart-by-platform"></canvas>
+
   </div>
 
   {% include googleads.html %}
@@ -57,3 +64,104 @@ sitemap:
 <div class="wrapper">
   {% include disqus.html %}
 </div>
+
+{% assign finishedGames = site.data.jogos-terminados %}
+
+{% assign finishedByYear = finishedGames.stats-by-year %}
+{% capture finishedByYearData %}
+{{ finishedByYear.pre-2010 }},
+{{ finishedByYear.y2010 }},
+{{ finishedByYear.y2011 }},
+{{ finishedByYear.y2012 }},
+{{ finishedByYear.y2013 }},
+{{ finishedByYear.y2014 }},
+{{ finishedByYear.y2015 }},
+{{ finishedByYear.y2016 }},
+{{ finishedByYear.y2017 }},
+{{ finishedByYear.y2018 }},
+{{ finishedByYear.y2019 }},
+{{ finishedByYear.y2020 }},
+{{ finishedByYear.y2021 }},
+{{ finishedByYear.y2022 }},
+{{ finishedByYear.y2023 }}
+{% endcapture %}
+
+{% capture finishedByPlatform %}
+{{ finishedGames.ms.size }},
+{{ finishedGames.md.size }},
+{{ finishedGames.snes.size }},
+{{ finishedGames.n64.size }},
+{{ finishedGames.gc.size }},
+{{ finishedGames.wii.size }},
+{{ finishedGames.gba.size }},
+{{ finishedGames.nds.size }},
+{{ finishedGames.ps1.size }},
+{{ finishedGames.ps2.size }},
+{{ finishedGames.ps3.size }},
+{{ finishedGames.ps4.size }},
+{{ finishedGames.psp.size }},
+{{ finishedGames.vita.size }},
+{{ finishedGames.x360.size }},
+{{ finishedGames.xone.size }},
+{{ finishedGames.android.size }},
+{{ finishedGames.pc.size }}
+{% endcapture %} 
+
+<input type="hidden" id="finishedByYear" value="{{ finishedByYearData }}">
+<input type="hidden" id="finishedByPlatform" value="{{ finishedByPlatform }}">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  
+  const finishedByYear = toArray('finishedByYear');
+  const finishedByYearLabels = [
+    'pré-2010', 
+    '2010', '2011', '2012', '2013', '2014', 
+    '2015', '2016', '2017', '2018', '2019',
+    '2020', '2021', '2022', '2023'];
+  const chartByYear = document.getElementById('chart-by-year');
+  createChart(chartByYear, finishedByYearLabels, finishedByYear);
+
+  const finishedByPlatform = toArray('finishedByPlatform');
+  const finishedByPlatformLabels = [
+    'Master System', 'Mega Drive',
+    'Super Nintendo', 'Nintendo 64', 'GameCube', 'Wii',
+    'Game Boy Advance', 'Nintendo DS',
+    'PlayStation', 'PlayStation 2', 'PlayStation 3', 'PlayStation 4',
+    'PSP', 'PS Vita',
+    'Xbox 360', 'Xbox One',
+    'Android', 'PC'
+  ]
+  const chartByPlatform = document.getElementById('chart-by-platform');
+  createChart(chartByPlatform, finishedByPlatformLabels, finishedByPlatform);
+
+  function createChart(chart, labels, data) {
+    new Chart(chart, {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [{
+          data,
+          borderWidth: 1
+        }]
+      },
+      options: {
+        plugins: {
+          legend: {
+            display: false
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  }
+
+  function toArray(elementId) {
+    return document.getElementById(elementId).value.replace(/\n/g, '').split(',');
+  }
+
+</script>
