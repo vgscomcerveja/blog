@@ -7,12 +7,14 @@ android:
     data: 04/05/2020
   - nome: Gunman Clive
     data: 20/06/2013
+    link: /post/analise-gunman-clive
   - nome: Horizon Chase - World Tour
     data: 12/09/2019
     status: android100
   - nome: Lara Croft GO
     data: 06/01/2016
     status: android100
+    link: /post/analise-lara-croft-go
   - nome: Limbo
     data: 11/09/2020
   - nome: Monument Valley
@@ -30,16 +32,21 @@ gba:
 gc:
   - nome: Luigi's Mansion
     data: 26/06/2021
+    link: /post/analise-luigis-mansion
   - nome: Metal Gear Solid - The Twin Snakes
     data: 02/06/2013
+    link: /post/analise-metal-gear-solid-the-twin-snakes
 ms:
   - nome: Castle of Illusion
     data: 07/09/2013
+    link: /post/analise-castle-of-illusion
   - nome: Double Dragon
   - nome: Indiana Jones e a Última Cruzada
     data: 15/01/2022
+    link: /post/analise-indiana-jones-e-a-ultima-cruzada
   - nome: Land of Illusion
     data: 08/09/2013
+    link: /post/analise-land-of-illusion
   - nome: Prince of Persia
     data: 22/01/2022
   - nome: Sonic Chaos
@@ -49,12 +56,14 @@ ms:
   - nome: Sonic The Hedgehog 2
   - nome: Taz-Mania
     data: 19/01/2011
+    link: /post/analise-taz-mania
 md:
   - nome: Sonic The Hedgehog
     data: 08/08/2012
 n64:
   - nome: Conker's Bad Fur Day
     data: 12/08/2015
+    link: /post/analise-conkers-bad-fur-day
 nds:
   - nome: Mario Party DS
     data: 01/01/2011
@@ -84,6 +93,7 @@ ps1:
   - nome: Gran Turismo 2
   - nome: Medal of Honor
     data: 16/08/2014*
+    link: /post/analise-medal-of-honor
   - nome: Medal of Honor Underground
     data: 28/02/2021*
   - nome: Metal Gear Solid
@@ -94,6 +104,7 @@ ps1:
   - nome: Power Rangers - Time Force
   - nome: Resident Evil
     data: 04/10/2015*
+    link: /post/analise-resident-evil
   - nome: Resident Evil 2
     data: 20/06/2018*
   - nome: Resident Evil 3 - Nemesis
@@ -103,8 +114,10 @@ ps1:
   - nome: Tekken 3
   - nome: The Great Battle VI
     data: 22/10/2013
+    link: /post/analise-the-great-battle-vi
   - nome: Tomb Raider
     data: 20/08/2013
+    link: /post/analise-tomb-raider
   - nome: Tomb Raider III
   - nome: Tomb Raider - The Last Revelation
   - nome: Tomb Raider - Chronicles
@@ -140,6 +153,7 @@ ps2:
 ps3:
   - nome: AC/DC Live - Rockband Track Pack
     data: 09/10/2014
+    link: /post/analise-acdc-live-rockband
   - nome: Adam's Venture - Chronicles
     data: 21/06/2018
     status: psn100
@@ -169,6 +183,7 @@ ps3:
   - nome: Gran Turismo 6
     data: 06/10/2015
     status: platina
+    link: /post/analise-gran-turismo-6
   - nome: Guitar Hero - Van Halen
     data: 18/10/2015 
   - nome: Jurassic Park - The Game
@@ -180,6 +195,7 @@ ps3:
   - nome: Machinarium
     data: 29/12/2013
     status: psn100
+    link: /post/analise-machinarium
   - nome: Medal of Honor
     data: 02/12/2011
   - nome: Metal Gear Solid 4 - Guns of Patriots
@@ -192,12 +208,15 @@ ps3:
   - nome: Need for Speed - Hot Pursuit
     data: 29/01/2013
     status: platina
+    link: /post/analise-need-for-speed-hot-pursuit
   - nome: Need for Speed - The Run
     data: 10/02/2013
     status: platina
+    link: /post/analise-need-for-speed-the-run
   - nome: Need for Speed - Most Wanted
     data: 17/11/2014
     status: platina
+    link: /post/analise-need-for-speed-most-wanted
   - nome: Need for Speed - Rivals
     data: 20/09/2020
     status: platina
@@ -215,13 +234,16 @@ ps3:
     data: 13/06/2021
   - nome: Spec Ops - The Line
     data: 26/06/2014
+    link: /post/analise-spec-ops-the-line
   - nome: Terminator Salvation
     data: 06/12/2015
     status: platina
   - nome: The Last of Us
     data: 20/06/2013
+    link: /post/analise-the-last-of-us
   - nome: The Last of Us - Left Behind
     data: 23/02/2014
+    link: /post/analise-the-last-of-us-left-behind
   - nome: The Wolf Among Us
     data: 18/06/2017
     status: platina
@@ -231,6 +253,7 @@ ps3:
   - nome: Tomb Raider
     data: 23/03/2013
     status: platina
+    link: /post/analise-tomb-raider-2013
   - nome: Toy Story 3
     data: 25/11/2012
     status: platina
@@ -272,6 +295,7 @@ ps4:
   - nome: DOOM
     data: 10/11/2017
     status: platina
+    link: /post/analise-doom
   - nome: DOOM Eternal
     data: 05/12/2020
   - nome: Drowning
@@ -291,6 +315,7 @@ ps4:
     status: psn100
   - nome: Gone Home
     data: 29/08/2016
+    link: /post/analise-gone-home
   - nome: Guitar Hero Live
     data: 23/05/2016
   - nome: Hellblade - Senua's Sacrifice
@@ -304,6 +329,7 @@ ps4:
   - nome: Horizon Zero Dawn
     data: 27/03/2017
     status: platina
+    link: /post/analise-horizon-zero-dawn
   - nome: Inside
     data: 15/05/2022
   - nome: Late Shift
@@ -330,6 +356,7 @@ ps4:
   - nome: Music Racer
     data: 22/01/2020
     status: platina
+    link: /post/analise-music-racer
   - nome: My Friend Peppa Pig
     data: 12/02/2023
     status: platina
@@ -355,8 +382,10 @@ ps4:
     status: platina
   - nome: Resident Evil VII - Biohazard
     data: 10/03/2018
+    link: /post/analise-resident-evil-7
   - nome: Resident Evil 3
     data: 05/04/2020
+    link: /post/analise-resident-evil-3
   - nome: Shadow of the Tomb Raider
     data: 07/01/2019
     status: platina
@@ -368,6 +397,7 @@ ps4:
     status: platina
   - nome: The Last Guardian
     data: 18/01/2017
+    link: /post/analise-the-last-guardian
   - nome: The Last of Us - Remasterizado
     data: 03/06/2021
   - nome: The Last of Us - Part II
@@ -384,24 +414,30 @@ ps4:
   - nome: The Walking Dead
     data: 16/02/2018
     status: platina
+    link: /post/analise-the-walking-dead
   - nome: The Walking Dead - Season 2
     data: 12/06/2016
     status: psn100
+    link: /post/analise-the-walking-dead
   - nome: Twin Robots
     data: 11/06/2018
     status: platina
   - nome: Uncharted - Drake's Fortune Remastered
     data: 25/12/2015
     status: platina
+    link: /post/analise-uncharted-the-nathan-drake-collection
   - nome: Uncharted 2 - Among Thieves Remastered
     data: 05/01/2016
     status: platina
+    link: /post/analise-uncharted-the-nathan-drake-collection
   - nome: Uncharted 3 - Drake's Deception Remastered
     data: 17/01/2016
     status: platina
+    link: /post/analise-uncharted-the-nathan-drake-collection
   - nome: Uncharted 4 - A Thief's End
     data: 12/05/2016
     status: platina
+    link: /post/analise-uncharted-4
   - nome: Uncharted - The Lost Legacy
     data: 26/08/2017
     status: platina
@@ -448,6 +484,7 @@ vita:
   - nome: Guacamelee!
     data: 20/09/2015
     status: platina
+    link: /post/analise-guacamelee
   - nome: History - Legends of War
     data: 26/06/2017
   - nome: Hitman GO - Definitive Edition
@@ -459,6 +496,7 @@ vita:
   - nome: Lara Croft GO
     data: 08/12/2016
     status: platina
+    link: /post/analise-lara-croft-go
   - nome: Little Adventure on the Prairie
     data: 28/02/2018
     status: platina
@@ -474,6 +512,7 @@ vita:
   - nome: Severed
     data: 13/03/2017
     status: platina
+    link: /post/analise-severed
   - nome: Sound Shapes
     data: 23/03/2016
     status: platina
@@ -483,24 +522,29 @@ vita:
   - nome: The Walking Dead
     data: 26/05/2016
     status: platina
+    link: /post/analise-the-walking-dead
   - nome: Twin Robots
     data: 16/04/2018
     status: platina
   - nome: Uncharted - Golden Abyss
     data: 21/08/2015
     status: platina
+    link: /post/analise-uncharted-golden-abyss
 psp:
   - nome: Silent Hill - Origins
     data: 25/07/2014
+    link: /post/analise-silent-hill-origins
 snes:
   - nome: Donkey Kong Country
     data: 06/01/2012*
+    link: /post/analise-donkey-kong-country
   - nome: Donkey Kong Country 2
   - nome: Donkey Kong Country 3
   - nome: Goof Troop
     data: 04/01/2012
   - nome: Super Mario World
     data: 04/01/2015*
+    link: /post/analise-super-mario-world
   - nome: Super Metroid
     data: 02/01/2019
   - nome: Top Gear
@@ -512,16 +556,21 @@ x360:
     data: 05/11/2012
   - nome: BioShock 2
     data: 20/11/2013
+    link: /post/analise-bioshock-2
   - nome: Dead Island
     data: 31/12/2014
+    link: /post/analise-dead-island
   - nome: Deadlight
     data: 01/01/2014
+    link: /post/analise-deadlight
   - nome: Far Cry 3
     data: 05/01/2013
     status: 1000G
+    link: /post/analise-farcry-3
   - nome: Forza Horizon 2 - Fast & Furious
     data: 03/04/2015
     status: 1000G
+    link: /post/analise-forza-horizon-2-fast-and-furious
   - nome: Jurassic Park - The Game
     data: 12/06/2023
     status: 1000G
@@ -529,6 +578,7 @@ x360:
     data: 24/06/2023
   - nome: Lost Planet - Extreme Condition
     data: 23/01/2021
+    link: /post/analise-lost-planet
   - nome: Medal of Honor - Warfighter
     data: 02/01/2021
   - nome: Metal Gear Solid V - Ground Zeroes
