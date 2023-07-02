@@ -1,10 +1,6 @@
 ---
 layout: default
 permalink: /jogos-terminados/
-sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
-    lastmod: 2016-08-11T19:40:30-03:00
 ---
 <div class="page-title">
   <img width="96" height="96" src="/imgs/icone-jogando.png"><br>
@@ -46,6 +42,8 @@ sitemap:
     {% include finished-games-table.html platform="android" %}
     {% include finished-games-table.html platform="pc" %}
     <small>*Data da primeira vez terminado após o levantamento da lista inicial.</small>
+    <br>
+    <span><b>Última atualização:</b> {{ site.data.finished-games.last-update }}</span>
 
     <h2 style="text-align:center; margin-top:100px">JOGOS TERMINADOS POR ANO</h2>
     <canvas id="chart-by-year"></canvas>
