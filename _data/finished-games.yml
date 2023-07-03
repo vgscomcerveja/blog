@@ -720,10 +720,12 @@ psn100:
     data: 12/05/2019
     platform: xone
     status: 1000G
+    link: /post/jogos-1000g-xbox-game-pass#gardens-between
   - nome: Old Man's Journey
     data: 07/12/2019
     platform: xone
     status: 1000G
+    link: /post/jogos-1000g-xbox-game-pass#old-mans-journey
   - nome: A Plague Tale - Innocence
     data: 14/04/2020
     platform: xone
@@ -741,6 +743,7 @@ platina:
     data: 23/05/2012
     platform: ps3
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: Tomb Raider - Underworld
     data: 30/05/2012
     platform: ps3
@@ -749,10 +752,12 @@ platina:
     data: 08/06/2012
     platform: ps3
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: Uncharted 2 - Among Thieves
     data: 23/06/2012
     platform: ps3
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: Toy Story 3
     data: 25/11/2012
     platform: ps3
@@ -777,6 +782,7 @@ platina:
     data: 01/09/2015
     platform: vita
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: Guacamelee!
     data: 22/09/2015
     platform: vita
@@ -789,6 +795,7 @@ platina:
     data: 28/10/2015
     platform: ps3
     status: platina
+    link: /post/platinas-faceis-somente-disco-ps3#jurassic-the-hunted
   - nome: Cars 2 - The Videogame
     data: 08/11/2015
     platform: ps3
@@ -797,18 +804,22 @@ platina:
     data: 06/12/2015
     platform: ps3
     status: platina
+    link: /post/platinas-faceis-somente-disco-ps3#terminator-salvation
   - nome: Uncharted - Drake's Fortune Remastered
     data: 27/12/2015
     platform: ps4
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: Uncharted 2 - Among Thieves Remastered
     data: 17/01/2016
     platform: ps4
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: Uncharted 3 - Drake's Deception Remastered
     data: 17/01/2016
     platform: ps4
     status: platina
+    link: /post/platinando-serie-uncharted
   - nome: The Order 1886
     data: 25/03/2016
     platform: ps4
@@ -869,10 +880,12 @@ platina:
     data: 09/05/2017
     platform: ps4
     status: platina
+    ink: /post/adventures-rapidos-e-faceis#the-bunker
   - nome: The Little Acre
     data: 17/05/2017
     platform: ps4
     status: platina
+    ink: /post/adventures-rapidos-e-faceis#little-acre
   - nome: Toy Story Mania!
     data: 22/05/2017
     platform: ps3
@@ -881,18 +894,22 @@ platina:
     data: 07/06/2017
     platform: ps3
     status: platina
+    link: /post/platinas-faceis-somente-disco-ps3#mib-alien-crisis
   - nome: Mr. Massagy
     data: 11/06/2017
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#mr-massagy
   - nome: My Name is Mayo
     data: 11/06/2017
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#my-name-is-mayo
   - nome: Deponia
     data: 15/06/2017
     platform: ps4
     status: platina
+    link: /post/adventures-rapidos-e-faceis#deponia
   - nome: The Wolf Among Us
     data: 18/06/2017
     platform: ps3
@@ -905,22 +922,27 @@ platina:
     data: 12/08/2017
     platform: ps4
     status: platina
+    ink: /post/adventures-rapidos-e-faceis#late-shift
   - nome: Black & White Bushido
     data: 13/08/2017
     platform: ps4
     status: platina
+    link: /post/platinas-menos-de-1-hora
   - nome: Orc Slayer
     data: 14/08/2017
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#orc-slayer
   - nome: Dying - Reborn
     data: 17/08/2017
     platform: vita
     status: platina
+    ink: /post/adventures-rapidos-e-faceis#dying-reborn
   - nome: Puzzle Showdown 4K
     data: 27/08/2017
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#puzzle-showdown-4k
   - nome: Uncharted - The Lost Legacy
     data: 04/09/2017
     platform: ps4
@@ -937,6 +959,7 @@ platina:
     data: 11/01/2018
     platform: ps4
     status: platina
+    ink: /post/adventures-rapidos-e-faceis#demetrios
   - nome: The Walking Dead
     data: 16/02/2018
     platform: ps4
@@ -945,38 +968,47 @@ platina:
     data: 11/01/2018
     platform: vita
     status: platina
+    ink: /post/adventures-rapidos-e-faceis#demetrios
   - nome: Little Adventure on the Prairie
     data: 28/02/2018
     platform: vita
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#little-adventure-on-the-prairie
   - nome: 36 Fragments of Midnight
     data: 01/03/2018
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: 36 Fragments of Midnight
     data: 04/03/2018
     platform: ps4
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Little Adventure on the Prairie
     data: 04/03/2018
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#little-adventure-on-the-prairie
   - nome: Energy Cycle
     data: 10/03/2018
     platform: vita
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#energy-cycle
   - nome: Energy Cycle
     data: 11/03/2018
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#energy-cycle
   - nome: Energy Invasion
     data: 12/03/2018
     platform: vita
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#energy-invasion
   - nome: Energy Balance
     data: 18/03/2018
     platform: vita
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#energy-balance
   - nome: Midnight Deluxe
     data: 12/04/2018
     platform: vita
@@ -997,6 +1029,7 @@ platina:
     data: 03/06/2018
     platform: ps4
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#energy-invasion
   - nome: Full Throttle Remastered
     data: 05/06/2018
     platform: vita
@@ -1013,6 +1046,7 @@ platina:
     data: 23/06/2018
     platform: vita
     status: platina
+    link: /post/jogos-ridiculamente-faceis-de-platinar#mecho-tales
   - nome: Puss in Boots
     data: 24/06/2018
     platform: ps3
@@ -1041,6 +1075,7 @@ platina:
     data: 09/12/2018
     platform: vita
     status: platina
+    link: /post/platinas-menos-de-1-hora#burly-men-at-sea
   - nome: Shadow of the Tomb Raider
     data: 11/01/2019
     platform: ps4
@@ -1057,18 +1092,21 @@ platina:
     data: 11/06/2019
     platform: ps4
     status: platina
-  - nome: Storm Boy
+  - nome: Storm Boy - The Game
     data: 24/08/2019
     platform: ps4
     status: platina
+    link: /post/platinas-menos-de-1-hora#storm-boy
   - nome: Metagal
     data: 22/11/2019
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Metagal
     data: 23/11/2019
     platform: ps4
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Need for Speed - Most Wanted
     data: 10/12/2019
     platform: vita
@@ -1089,14 +1127,17 @@ platina:
     data: 03/03/2020
     platform: vita
     status: platina
+    link: /post/platinas-menos-de-1-hora#breeder
   - nome: Drowning
     data: 05/03/2020
     platform: ps4
     status: platina
+    link: /post/platinas-menos-de-1-hora#drowning
   - nome: Planet RIX-13
     data: 05/03/2020
     platform: ps4
     status: platina
+    link: /post/platinas-menos-de-1-hora#planet-rix-13
   - nome: Deep Space Rush
     data: 20/06/2020
     platform: vita
@@ -1113,18 +1154,22 @@ platina:
     data: 20/07/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Hoggy 2
     data: 21/07/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Jack N' Jill DX
     data: 22/07/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Gravity Duck
     data: 22/07/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Mochi Mochi Boy
     data: 23/07/2020
     platform: vita
@@ -1133,6 +1178,7 @@ platina:
     data: 24/07/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: The Last of Us - Part II
     data: 01/08/2020
     platform: ps4
@@ -1141,14 +1187,17 @@ platina:
     data: 01/08/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Zero Zero Zero Zero
     data: 04/08/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Super Weekend Mode
     data: 04/08/2020
     platform: vita
     status: platina
+    link: /post/jogos-com-11-trofeus-de-ouro-para-desempoeirar-seu-vita
   - nome: Need for Speed - Rivals
     data: 20/09/2020
     platform: ps3
