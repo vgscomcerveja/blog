@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - Nintendo Sixty Fooouur!"
 date: 2011-11-19 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/11/19/aquisicao-nintendo-64.html
 tags: [nintendo, n64, categoria-colecao-pessoal, serie-colecionando-games]

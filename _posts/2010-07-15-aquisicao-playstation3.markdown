@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - PlayStation 3 Slim"
 date: 2010-07-15 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2010/07/15/aquisicao-playstation3.html
 tags: [sony, ps3, categoria-colecao-pessoal, serie-colecionando-games]

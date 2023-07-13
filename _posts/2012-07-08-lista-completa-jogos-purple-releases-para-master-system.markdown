@@ -4,7 +4,7 @@ title: "Lista completa de jogos 'Portuguese Purple Releases' do Master System"
 date: 2012-07-08 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
-session: Game DB
+session: Colecionando Games // Listas
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/07/08/lista-jogos-purple-releases-para-master-system.html
 tags:

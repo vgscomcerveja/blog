@@ -3,7 +3,7 @@ layout: post
 title: "Últimas aquisições #06 - Abr~Jun/16"
 date: 2016-08-09 19:50
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2016/08/09/ultimas-aquisicoes-06.html
 tags:

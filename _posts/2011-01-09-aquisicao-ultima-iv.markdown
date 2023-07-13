@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - Última IV (Master System)"
 date: 2011-01-09 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/09/aquisicao-ultima-iv.html
 tags:

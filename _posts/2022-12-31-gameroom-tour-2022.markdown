@@ -3,7 +3,7 @@ layout: post
 title: "Gameroom tour 2022, a despedida!"
 date: 2022-12-31 07:00
 author: felipebbarbosa
-session: Especial
+session: Colecionando Games // Especial
 categories: games colecionando
 tags: [categoria-colecao-pessoal, categoria-especial, serie-colecionando-games]
 thumbnail: /imgs/posts/especial/13_gameroom_tour2022/post_thumbnail.jpg

@@ -3,7 +3,7 @@ layout: post
 title: "Lista completa da coleção Favoritos do PlayStation 3"
 date: 2022-10-26 21:20
 author: felipebbarbosa
-session: Colecionando.Games
+session: Colecionando Games // Listas
 categories: games colecionando
 tags: [serie-colecionando-games, ps3]
 thumbnail: /imgs/posts/colecionando_games/04_favoritos/post_thumbnail.jpg

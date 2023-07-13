@@ -3,7 +3,7 @@ layout: post
 title: "Variação rara do jogo Chaves Kart para PlayStation 3"
 date: 2021-06-18 23:00
 author: felipebbarbosa
-session: Colecionando.Games
+session: Colecionando Games
 categories: games colecionando
 tags: [serie-colecionando-games, ps3]
 thumbnail: /imgs/posts/colecionando_games/01_chaves_kart/post_thumbnail.jpg

@@ -3,7 +3,7 @@ layout: post
 title: "O início da coleção de videogames!"
 date: 2010-06-11 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2010/06/11/inicio-da-colecao.html
 tags:

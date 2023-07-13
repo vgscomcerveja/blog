@@ -3,7 +3,7 @@ layout: post
 title: "Lista completa das edições 'JOGO+FILME' da WB Games Brasil"
 date: 2021-12-16 21:50
 author: felipebbarbosa
-session: Colecionando.Games
+session: Colecionando Games // Listas
 categories: games colecionando
 tags: [serie-colecionando-games, ps3, ps4, xbox-360, xbox-one, wii]
 thumbnail: /imgs/posts/colecionando_games/03_wbgames_br/post_thumbnail.jpg

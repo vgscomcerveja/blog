@@ -3,7 +3,7 @@ layout: post
 title: "3 edições de colecionador fantásticas da Naughty Dog!"
 date: 2017-08-08 20:00
 author: felipebbarbosa
-session: Edição de Colecionador
+session: Colecionando Games // Edição de Colecionador
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2017/08/08/3-edicoes-de-colecionador-naughty-dog.html
 tags:

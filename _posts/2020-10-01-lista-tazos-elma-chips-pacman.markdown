@@ -3,7 +3,7 @@ layout: post
 title: "Lista completa dos tazos do Pac-Man (Elma Chips, 2020)"
 date: 2020-10-01 20:30
 author: felipebbarbosa
-session: Game DB
+session: Colecionando Games
 categories: games colecionando
 tags: [categoria-lista, categoria-utilidade-publica, serie-game-db]
 related: complete-lists

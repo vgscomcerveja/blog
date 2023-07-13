@@ -3,9 +3,9 @@ layout: post
 title: "30+ melhores jogos da década 2010-2019!"
 date: 2022-11-06 17:00
 author: felipebbarbosa
-session: VCC Recomenda! // Pecados Gamísticos
+session: VCC Recomenda! // Especial
 categories: games jogando
-tags: [microsoft, xbox, xbox-one, categoria-lista, serie-vcc-recomenda, serie-pecados-gamisticos]
+tags: [microsoft, xbox, xbox-one, categoria-lista, categoria-especial, serie-vcc-recomenda, serie-pecados-gamisticos]
 thumbnail: /imgs/posts/toplist/15_melhor_decada_2010/post_thumbnail.jpg
 cover: /imgs/posts/toplist/15_melhor_decada_2010/post_header.jpg
 ---

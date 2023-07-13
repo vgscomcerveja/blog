@@ -3,7 +3,7 @@ layout: post
 title: "Uncharted 2: Among Thieves Fortune Hunter Edition"
 date: 2015-01-14 19:00
 author: felipebbarbosa
-session: Edição de Colecionador
+session: Colecionando Games // Edição de Colecionador
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2015/01/14/uncharted-2-among-thieves-fortune-hunter-edition.html
 tags:

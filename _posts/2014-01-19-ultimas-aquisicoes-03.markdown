@@ -3,7 +3,7 @@ layout: post
 title: "Últimas aquisições #03"
 date: 2014-01-19 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2014/01/19/ultimas-aquisicoes-03.html
 tags:

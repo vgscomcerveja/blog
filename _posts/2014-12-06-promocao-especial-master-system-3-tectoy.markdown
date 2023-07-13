@@ -3,7 +3,7 @@ layout: post
 title: "Cartucho de Promoção Especial do Master System III Compact da Tectoy"
 date: 2014-12-06 19:00
 author: felipebbarbosa
-session: Mosca Branca
+session: Colecionando Games // Mosca Branca
 categories: games colecionando
 redirect_from: /colecionando/mosca-branca/2014/12/06/promocao-especial-master-system-3-tectoy.html
 tags:

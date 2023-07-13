@@ -3,7 +3,7 @@ layout: post
 title: "Lista completa dos jogos 'Long box' do PS1"
 date: 2012-03-30 19:00
 author: felipebbarbosa
-session: Game DB
+session: Colecionando Games // Listas 
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/03/30/lista-jogos-playstation-longbox.html
 tags:

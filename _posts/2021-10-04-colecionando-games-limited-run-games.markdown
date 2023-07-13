@@ -3,7 +3,7 @@ layout: post
 title: "Limited Run e a paixão por jogos em mídia física"
 date: 2021-10-04 22:00
 author: felipebbarbosa
-session: Colecionando.Games
+session: Colecionando Games // Listas
 categories: games colecionando
 tags: [serie-colecionando-games, ps3, ps4]
 thumbnail: /imgs/posts/colecionando_games/02_limited_run/post_thumbnail.jpg

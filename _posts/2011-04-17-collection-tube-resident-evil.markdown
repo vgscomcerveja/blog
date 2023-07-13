@@ -3,10 +3,10 @@ layout: post
 title: "Resident Evil Collection"
 date: 2011-04-17 19:00
 author: felipebbarbosa
-session: Collection Tube
+session: Colecionando Games // Collection Tube
 categories: games colecionando
 redirect_from: /colecionando/collection-tube/2011/04/17/collection-tube-resident-evil.html
-tags: [resident-evil, capcom]
+tags: [resident-evil, capcom, serie-colecionando-games]
 thumbnail: /imgs/posts/collection_tube/01_resident_evil/post_thumbnail.jpg
 cover: /imgs/posts/collection_tube/01_resident_evil/post_header.jpg
 ---

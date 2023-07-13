@@ -4,7 +4,7 @@ title: "34 jogos de Master System exclusivos da Tectoy no Brasil"
 date: 2011-01-22 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
-session: Game DB
+session: Colecionando Games // Listas
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html
 tags:

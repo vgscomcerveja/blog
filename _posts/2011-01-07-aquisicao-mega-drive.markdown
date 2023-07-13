@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - Mega Drive"
 date: 2011-01-08 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-mega-drive.html
 tags: [sega, mega-drive, categoria-colecao-pessoal, serie-colecionando-games]

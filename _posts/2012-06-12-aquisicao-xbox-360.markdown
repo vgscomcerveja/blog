@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - Xbox 360"
 date: 2012-06-12 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2012/06/12/aquisicao-xbox-360.html
 tags: [microsoft, xbox-360, categoria-colecao-pessoal, serie-colecionando-games]

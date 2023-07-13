@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - Sonic Blast (Master System)"
 date: 2012-09-04 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2012/09/04/aquisicao-sonic-blast-master-system.html
 tags:

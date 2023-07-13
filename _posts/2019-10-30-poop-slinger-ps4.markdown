@@ -3,7 +3,7 @@ layout: post
 title: "Poop Slinger, o 'jogo de bosta' que se tornou raro!"
 date: 2019-10-30 22:30
 author: felipebbarbosa
-session: Mosca Branca
+session: Colecionando Games // Mosca Branca
 categories: games colecionando
 tags: [sony, ps4, serie-mosca-branca, serie-colecionando-games]
 thumbnail: /imgs/posts/mosca_branca/04_poop_slinger/post_thumbnail.jpg

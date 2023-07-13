@@ -3,7 +3,7 @@ layout: post
 title: "Aquisição - Jogos de PS3 por ótimos preços"
 date: 2011-01-08 19:00
 author: felipebbarbosa
-session: Coleção Pessoal
+session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-jogos-ps3-ponto-frio.html
 tags: [sony, ps3, categoria-colecao-pessoal, serie-colecionando-games]

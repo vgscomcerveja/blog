@@ -18,7 +18,6 @@ Mas enfim, ainda sim, conseguir jogar umas coisinhas e selecionei (em ordem cron
 <!--more-->
 
 ## Indiana Jones e a Última Cruzada
-
 ##### Master System
 
 {% include image.html url="/imgs/posts/especial/14_meme2022/indiana-jones.jpg" full="true" %}
