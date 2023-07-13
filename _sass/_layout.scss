@@ -10,7 +10,7 @@
   -o-transition: height 0.12s;
   transition: height 0.12s;
   text-align: center;
-  border-bottom: 4px solid #ccc;
+  box-shadow: 0 5px 5px #4c4c4c;
   background-color: white;
 
   .site-nav {
@@ -88,6 +88,10 @@
       border: 0;
     }
   }
+
+  .subheader {
+    background-color: #2489bc;
+  }
 }
 
 #header-logo #logo-grande {
@@ -130,7 +134,6 @@
   position: fixed;
   width: 100%;
   background-color: $vcc-color;
-  border-bottom: 4px solid $vcc-color-escuro;
   height: 60px;
   top: 0;
 
@@ -177,6 +180,10 @@
       background-color: inherit;
       border: 0;
     }
+  }
+
+  .subheader {
+    background-color: transparent;
   }
 }
 
@@ -319,6 +326,10 @@
       -ms-transform: translate(100%, 0);
       transform: translate(100%, 0);
     }
+
+    .subheader {
+      background-color: transparent;
+    }
   }
 
   #header-logo #logo-pequeno {
@@ -331,7 +342,10 @@
   #header-logo #logo-grande {
     display: none;
   }
+
 }
+
+
 
 /**
  * Rodapé

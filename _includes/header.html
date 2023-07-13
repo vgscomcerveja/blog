@@ -6,9 +6,7 @@
         <!-- TODO: carregar imagem de fallback -->
       <!-- </object> -->
       <img id="logo-grande" src="{{ '/imgs/header.jpg' | prepend: site.baseurl }}">
-
-      <img id="logo-pequeno" src="{{ '/imgs/logo_branco.svg' | prepend: site.baseurl }}"
-          onerror="this.src={{ '/imgs/logo-branco.png' | prepend: site.baseurl }}">
+      <img id="logo-pequeno" src="{{ '/imgs/logo_branco.svg' | prepend: site.baseurl }}">
       <!--</object> -->
     </a>
   </div>
@@ -58,5 +56,15 @@
       </span>
     </ul>
   </nav>
-
+  {% if page.session %}
+  {% assign tags = page.session | split: " // " |  %}
+  {% assign targetTag = tags[0] | replace: " ", "-" | downcase %}
+  {% if site.data.subsessions[targetTag] %}
+    <div class="subheader">
+        <img src="{{ site.data.subsessions[targetTag].logo }}" height="55px">
+    </div>
+  {% endif %}
+{% endif %}
 </header>
+
+
