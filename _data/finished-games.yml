@@ -1,4 +1,81 @@
-last-update: 02/07/2023
+last-update: 15/07/2023
+stats-by-year:
+  pre-2010: 63
+  y2010: 6
+  y2011: 9
+  y2012: 14
+  y2013: 14
+  y2014: 9
+  y2015: 16
+  y2016: 20
+  y2017: 26
+  y2018: 35
+  y2019: 12
+  y2020: 24
+  y2021: 9
+  y2022: 3
+  y2023: 5
+stats-trophies-by-year:
+  y2012: 
+    android: 0
+    xbox: 0
+    psn: 1
+    platina: 5
+  y2013: 
+    android: 0
+    xbox: 1
+    psn: 1
+    platina: 3
+  y2014: 
+    android: 0
+    xbox: 0
+    psn: 0
+    platina: 1
+  y2015: 
+    android: 0
+    xbox: 2
+    psn: 0
+    platina: 7
+  y2016: 
+    android: 1
+    xbox: 0
+    psn: 5
+    platina: 12
+  y2017: 
+    android: 1
+    xbox: 0
+    psn: 0
+    platina: 21
+  y2018: 
+    android: 2
+    xbox: 3
+    psn: 2
+    platina: 27
+  y2019: 
+    android: 1
+    xbox: 2
+    psn: 0
+    platina: 8
+  y2020: 
+    android: 2
+    xbox: 1
+    psn: 1
+    platina: 21
+  y2021: 
+    android: 0
+    xbox: 0
+    psn: 0
+    platina: 1
+  y2022: 
+    android: 0
+    xbox: 0
+    psn: 0
+    platina: 0
+  y2023: 
+    android: 0
+    xbox: 2
+    psn: 0
+    platina: 0
 android:
   - nome: Dan The Man
     data: 18/01/2017
@@ -393,6 +470,8 @@ ps4:
   - nome: StormBoy
     data: 24/08/2019
     status: platina
+  - nome: Stray
+    data: 15/07/2023
   - nome: The Bunker
     data: 07/05/2017
     status: platina
@@ -1198,80 +1277,3 @@ platina:
     data: 12/02/2023
     platform: ps4
     status: platina
-stats-by-year:
-  pre-2010: 63
-  y2010: 6
-  y2011: 9
-  y2012: 14
-  y2013: 14
-  y2014: 9
-  y2015: 16
-  y2016: 20
-  y2017: 26
-  y2018: 35
-  y2019: 12
-  y2020: 24
-  y2021: 9
-  y2022: 3
-  y2023: 4
-stats-trophies-by-year:
-  y2012: 
-    android: 0
-    xbox: 0
-    psn: 1
-    platina: 5
-  y2013: 
-    android: 0
-    xbox: 1
-    psn: 1
-    platina: 3
-  y2014: 
-    android: 0
-    xbox: 0
-    psn: 0
-    platina: 1
-  y2015: 
-    android: 0
-    xbox: 2
-    psn: 0
-    platina: 7
-  y2016: 
-    android: 1
-    xbox: 0
-    psn: 5
-    platina: 12
-  y2017: 
-    android: 1
-    xbox: 0
-    psn: 0
-    platina: 21
-  y2018: 
-    android: 2
-    xbox: 3
-    psn: 2
-    platina: 27
-  y2019: 
-    android: 1
-    xbox: 2
-    psn: 0
-    platina: 8
-  y2020: 
-    android: 2
-    xbox: 1
-    psn: 1
-    platina: 21
-  y2021: 
-    android: 0
-    xbox: 0
-    psn: 0
-    platina: 1
-  y2022: 
-    android: 0
-    xbox: 0
-    psn: 0
-    platina: 0
-  y2023: 
-    android: 0
-    xbox: 2
-    psn: 0
-    platina: 0
