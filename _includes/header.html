@@ -57,14 +57,16 @@
     </ul>
   </nav>
   {% if page.session %}
-  {% assign tags = page.session | split: " // " |  %}
-  {% assign targetTag = tags[0] | replace: " ", "-" | downcase %}
-  {% if site.data.subsessions[targetTag] %}
-    <div class="subheader">
-        <img src="{{ site.data.subsessions[targetTag].logo }}" height="55px">
-    </div>
+    {% assign tags = page.session | split: " // " |  %}
+    {% assign targetTag = tags[0] | replace: " ", "-" | downcase %}
+    {% if site.data.subsessions[targetTag] %}
+      <div class="subheader">
+          <a href="{{ site.data.subsessions[targetTag].link }}">
+            <img src="{{ site.data.subsessions[targetTag].logo }}" height="55px">
+          </a>
+      </div>
+    {% endif %}
   {% endif %}
-{% endif %}
 </header>
 
 

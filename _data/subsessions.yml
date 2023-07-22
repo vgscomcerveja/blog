@@ -1,6 +1,9 @@
 colecionando-games:
   logo: /imgs/tags/colecionando-games_white.png
+  link: /colecionando-games
 gametrofista:
   logo: /imgs/tags/gametrofista_white.png
+  link: /gametrofista
 vcc-racing:
   logo: /imgs/tags/vccracing_white.png
+  link: /vcc-racing
