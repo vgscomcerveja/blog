@@ -15,67 +15,6 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 5
-stats-trophies-by-year:
-  y2012: 
-    android: 0
-    xbox: 0
-    psn: 1
-    platina: 5
-  y2013: 
-    android: 0
-    xbox: 1
-    psn: 1
-    platina: 3
-  y2014: 
-    android: 0
-    xbox: 0
-    psn: 0
-    platina: 1
-  y2015: 
-    android: 0
-    xbox: 2
-    psn: 0
-    platina: 7
-  y2016: 
-    android: 1
-    xbox: 0
-    psn: 5
-    platina: 12
-  y2017: 
-    android: 1
-    xbox: 0
-    psn: 0
-    platina: 21
-  y2018: 
-    android: 2
-    xbox: 3
-    psn: 2
-    platina: 27
-  y2019: 
-    android: 1
-    xbox: 2
-    psn: 0
-    platina: 8
-  y2020: 
-    android: 2
-    xbox: 1
-    psn: 1
-    platina: 21
-  y2021: 
-    android: 0
-    xbox: 0
-    psn: 0
-    platina: 1
-  y2022: 
-    android: 0
-    xbox: 0
-    psn: 0
-    platina: 0
-  y2023: 
-    android: 0
-    xbox: 2
-    psn: 0
-    platina: 2
 android:
   - nome: Dan The Man
     data: 18/01/2017
@@ -755,7 +694,7 @@ psn100:
     data: 22/03/2020
     platform: ps4
     status: psn100
-1000G:
+xbox1000G:
   - nome: Far Cry 3
     data: 10/01/2013
     platform: x360

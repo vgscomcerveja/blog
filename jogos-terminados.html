@@ -119,77 +119,48 @@ permalink: /felipebbarbosa/jogos/
 {{ finishedGames.pc.size }}
 {% endcapture %} 
 
-{% assign trophiesByYear = finishedGames.stats-trophies-by-year %}
-{% capture platinaByYear %}
-{{ trophiesByYear.y2012.platina }},
-{{ trophiesByYear.y2013.platina }},
-{{ trophiesByYear.y2014.platina }},
-{{ trophiesByYear.y2015.platina }},
-{{ trophiesByYear.y2016.platina }},
-{{ trophiesByYear.y2017.platina }},
-{{ trophiesByYear.y2018.platina }},
-{{ trophiesByYear.y2019.platina }},
-{{ trophiesByYear.y2020.platina }},
-{{ trophiesByYear.y2021.platina }},
-{{ trophiesByYear.y2022.platina }},
-{{ trophiesByYear.y2023.platina }}
+{% assign platinums = finishedGames.platina %}
+{% capture platinumsByYear %}
+{% for platinum in platinums %}
+{{ platinum.data }},
+{% endfor %}
 {% endcapture %}
 
+{% assign psns = finishedGames.psn100 %}
 {% capture psnByYear %}
-{{ trophiesByYear.y2012.psn }},
-{{ trophiesByYear.y2013.psn }},
-{{ trophiesByYear.y2014.psn }},
-{{ trophiesByYear.y2015.psn }},
-{{ trophiesByYear.y2016.psn }},
-{{ trophiesByYear.y2017.psn }},
-{{ trophiesByYear.y2018.psn }},
-{{ trophiesByYear.y2019.psn }},
-{{ trophiesByYear.y2020.psn }},
-{{ trophiesByYear.y2021.psn }},
-{{ trophiesByYear.y2022.psn }},
-{{ trophiesByYear.y2023.psn }}
+{% for psn in psns %}
+{{ psn.data }},
+{% endfor %}
 {% endcapture %}
 
+{% assign achivements = finishedGames.xbox1000G %}
 {% capture xboxByYear %}
-{{ trophiesByYear.y2012.xbox }},
-{{ trophiesByYear.y2013.xbox }},
-{{ trophiesByYear.y2014.xbox }},
-{{ trophiesByYear.y2015.xbox }},
-{{ trophiesByYear.y2016.xbox }},
-{{ trophiesByYear.y2017.xbox }},
-{{ trophiesByYear.y2018.xbox }},
-{{ trophiesByYear.y2019.xbox }},
-{{ trophiesByYear.y2020.xbox }},
-{{ trophiesByYear.y2021.xbox }},
-{{ trophiesByYear.y2022.xbox }},
-{{ trophiesByYear.y2023.xbox }}
+{% for achivement in achivements %}
+{{ achivement.data }},
+{% endfor %}
 {% endcapture %}
 
+{% assign androids = finishedGames.android100 %}
 {% capture androidByYear %}
-{{ trophiesByYear.y2012.android }},
-{{ trophiesByYear.y2013.android }},
-{{ trophiesByYear.y2014.android }},
-{{ trophiesByYear.y2015.android }},
-{{ trophiesByYear.y2016.android }},
-{{ trophiesByYear.y2017.android }},
-{{ trophiesByYear.y2018.android }},
-{{ trophiesByYear.y2019.android }},
-{{ trophiesByYear.y2020.android }},
-{{ trophiesByYear.y2021.android }},
-{{ trophiesByYear.y2022.android }},
-{{ trophiesByYear.y2023.android }}
+{% for android in androids %}
+{{ android.data }},
+{% endfor %}
 {% endcapture %}
+
+
 
 <input type="hidden" id="finishedByYear" value="{{ finishedByYearData }}">
 <input type="hidden" id="finishedByPlatform" value="{{ finishedByPlatform }}">
-<input type="hidden" id="platinaByYear" value="{{ platinaByYear }}">
+<input type="hidden" id="platinumsByYear" value="{{ platinumsByYear }}">
 <input type="hidden" id="psnByYear" value="{{ psnByYear }}">
 <input type="hidden" id="xboxByYear" value="{{ xboxByYear }}">
 <input type="hidden" id="androidByYear" value="{{ androidByYear }}">
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  
+
+  console.log(toArray('platinumsByYear').map(item => item.substring(item.length - 4, item.length)));
+
   const finishedByYear = createDataset(toArray('finishedByYear'));
   const finishedByYearLabels = [
     'pré-2010', 
@@ -217,10 +188,10 @@ permalink: /felipebbarbosa/jogos/
   totalFinal.innerHTML = finishedByPlatform.data.reduce((partialSum, a) => partialSum + Number(a), 0);
 
   const trophiesByYear = [
-    createDataset(toArray('platinaByYear'), 'Platinas'), 
-    createDataset(toArray('psnByYear'), 'PSN 100%'),
-    createDataset(toArray('xboxByYear'), 'Xbox 1000G'), 
-    createDataset(toArray('androidByYear'), 'Android')];
+    createDataset(extractCountByYear('platinumsByYear'), 'Platinas'), 
+    createDataset(extractCountByYear('psnByYear'), 'PSN 100%'),
+    createDataset(extractCountByYear('xboxByYear'), 'Xbox 1000G'), 
+    createDataset(extractCountByYear('androidByYear'), 'Android')];
   const trophiesByYearLabels = [
     '2012', '2013', '2014', 
     '2015', '2016', '2017', '2018', '2019',
@@ -229,7 +200,6 @@ permalink: /felipebbarbosa/jogos/
   const trophiesChart = document.getElementById('trophies-chart');
   createChart(trophiesChart, trophiesByYearLabels, trophiesByYear, true);
   
-
   function createChart(chart, labels, datasets, showLegends = false) {
     new Chart(chart, {
       type: 'bar',
@@ -252,6 +222,16 @@ permalink: /felipebbarbosa/jogos/
     });
   }
 
+  function extractCountByYear(source) {
+    const list = toArray(source);
+    return list
+      .map(item => item.substring(item.length - 4, item.length))
+      .reduce(function(prev, cur) {
+        prev[cur] = (prev[cur] || 0) + 1;
+        return prev;
+      }, {});
+  }
+
   function createDataset(data, label = '') {
     return {
       label,
@@ -261,7 +241,7 @@ permalink: /felipebbarbosa/jogos/
   }
 
   function toArray(elementId) {
-    return document.getElementById(elementId).value.replace(/\n/g, '').split(',');
+    return document.getElementById(elementId).value.replace(/\n/g, '').replace(/,\s*$/, "").split(',');
   }
 
 </script>
