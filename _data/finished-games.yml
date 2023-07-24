@@ -1,4 +1,4 @@
-last-update: 15/07/2023
+last-update: 23/07/2023
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -75,7 +75,7 @@ stats-trophies-by-year:
     android: 0
     xbox: 2
     psn: 0
-    platina: 0
+    platina: 2
 android:
   - nome: Dan The Man
     data: 18/01/2017
@@ -472,6 +472,7 @@ ps4:
     status: platina
   - nome: Stray
     data: 15/07/2023
+    status: platina
   - nome: The Bunker
     data: 07/05/2017
     status: platina
@@ -1275,5 +1276,9 @@ platina:
     status: platina
   - nome: My Friend Peppa Pig
     data: 12/02/2023
+    platform: ps4
+    status: platina
+  - nome: Stray
+    data: 23/07/2023
     platform: ps4
     status: platina
