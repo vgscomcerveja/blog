@@ -147,8 +147,6 @@ permalink: /felipebbarbosa/jogos/
 {% endfor %}
 {% endcapture %}
 
-
-
 <input type="hidden" id="finishedByYear" value="{{ finishedByYearData }}">
 <input type="hidden" id="finishedByPlatform" value="{{ finishedByPlatform }}">
 <input type="hidden" id="platinumsByYear" value="{{ platinumsByYear }}">
@@ -158,9 +156,6 @@ permalink: /felipebbarbosa/jogos/
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-
-  console.log(toArray('platinumsByYear').map(item => item.substring(item.length - 4, item.length)));
-
   const finishedByYear = createDataset(toArray('finishedByYear'));
   const finishedByYearLabels = [
     'pré-2010', 
@@ -241,7 +236,6 @@ permalink: /felipebbarbosa/jogos/
   }
 
   function toArray(elementId) {
-    return document.getElementById(elementId).value.replace(/\n/g, '')replace(/,\s*$/, "").split(',');
+    return document.getElementById(elementId).value.replace(/\n/g, '').replace(/,\s*$/, "").split(',');
   }
-
 </script>
