@@ -14,14 +14,18 @@ stats-by-year:
   y2020: 24
   y2021: 9
   y2022: 3
-  y2023: 5
+  y2023: 7
 android:
+  - nome: Agent A - O enigma disfarçado
+    data: 05/08/2023
   - nome: Dan The Man
     data: 18/01/2017
   - nome: Dandara
     data: 21/05/2020
   - nome: Deus Ex GO
     data: 04/05/2020
+  - nome: Down in Bermuda
+    data: 02/08/2023
   - nome: Gunman Clive
     data: 20/06/2013
     link: /post/analise-gunman-clive

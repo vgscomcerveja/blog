@@ -43,10 +43,7 @@ permalink: /felipebbarbosa/jogos/
     {% include finished-games-table.html platform="pc" %}
     <small>*Data da primeira vez terminado após o levantamento da lista inicial.</small>
     <br>
-    <span><b>Total de jogos:</b> <span id="total-final"></span></span>
-    <br>
-    <span><b>Última atualização:</b> {{ site.data.finished-games.last-update }}</span>
-    
+    <span><b>Total de jogos terminados:</b> <span id="total-final"></span></span>
 
     <h2 style="text-align:center; margin-top:100px">JOGOS TERMINADOS POR ANO</h2>
     <canvas id="chart-by-year"></canvas>
@@ -64,6 +61,9 @@ permalink: /felipebbarbosa/jogos/
     {% include finished-games-table.html platform="1000G" %}
     <h3>Android 100%</h3>
     {% include finished-games-table.html platform="android100" %}
+
+    <br>
+    <span><b>Última atualização:</b> {{ site.data.finished-games.last-update }}</span>
 
   </div>
 
