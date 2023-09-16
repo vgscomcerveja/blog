@@ -14,7 +14,7 @@ stats-by-year:
   y2020: 24
   y2021: 9
   y2022: 3
-  y2023: 9
+  y2023: 10
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -639,6 +639,8 @@ xone:
     status: 1000G
   - nome: Wolfenstein - The New Order
     data: 12/05/2019
+  - nome: Wolfenstein - The Old Blood
+    data: 16/09/2023
 android100:
   - nome: Lara Croft GO
     data: 10/01/2016
