@@ -1210,7 +1210,8 @@
  */
 
 .psn-game-card {
-  background-color: #000f28;
+  background: rgb(0,15,40);
+  background: linear-gradient(156deg, rgba(0,15,40,1) 0%, rgba(0,159,255,1) 100%); 
   float: left;
   width: 100%;
   margin: 10px 0;
@@ -1220,14 +1221,12 @@
 }
 
 .psn-game-card-col1 {
-  float: left;
   width: 125px;
   flex-shrink: 0;
 }
 
 .psn-game-card-col2 {
-  float: left;
-  padding: 10px;
+  padding: 10px 15px;
   h3 {
     font-weight: normal;
     margin-bottom: 1px;
