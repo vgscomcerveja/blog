@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "42 platinas rápidas na promoção 'Totally Digital' da PS Store!"
+title: "42 platinas rápidas em promoção na PS Store | Totally Digital"
 date: 2020-01-25 14:00
 author: felipebbarbosa
 session: Gametrofista
