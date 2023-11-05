@@ -66,11 +66,11 @@ O jogo foi lançado originalmente em 2012 para as plataformas mobile e PC. Essa 
     spacebottom="true" %}
 
 ## Skatemasta Tcheco
-##### Parisoft / EastAsiaSoft
+##### Marcelo Barbosa / EastAsiaSoft
 
 {% include image.html url="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/skatemasta-tcheco.jpg" full="true" %}
 
-Esse não estava na minha lista, mas navegando pelo jogos da promoção me deparei com ele e logo não resisti! Trata-se de um jogo plataforma estilo 8-bits, onde você controla o skatista Tcheco. Repleto de humor, o jogo conta com rolagem automática da tela, onde é necessário pensar rápido para desviar dos obstáculos para progredir e é tão retrô, que ele foi desenvolvido originalmente para rodar no NES, depois que foi portado para os consoles modernos. Para complementar, é mais um jogo na lista que foi criado por uma pessoa só, o [Marcelo Barbosa](https://parisoft.itch.io/)!
+Esse não estava na minha lista, mas navegando pelo jogos da promoção me deparei com ele e logo não resisti! Trata-se de um jogo plataforma estilo 8-bits, onde você controla o skatista Tcheco. Repleto de humor, o jogo conta com rolagem automática da tela, onde é necessário pensar rápido para desviar dos obstáculos para progredir. Para complementar, é mais um jogo na lista que foi criado por uma pessoa só, o Marcelo Barbosa!
 
 Bônus: se ficou curioso, você pode jogar uma [versão web do jogo](https://tcheco.com/skatemasta/) direto no navegador se quiser.
 
