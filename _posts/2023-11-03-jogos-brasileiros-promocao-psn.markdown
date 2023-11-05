@@ -56,7 +56,9 @@ Um metroidvania brasileiro com visual retrô e com platina fácil? Quero para ON
 
 Esse eu acabei não pegando na promoção, mas mesmo assim gostaria de deixar como dica pois é um baita jogo legal, ainda mais para quem curte RPGs de mesa. De mesa? Isso mesmo que você imaginou... Esse é um jogo onde você joga RPG de mesa virtualmente! 🤯
 
-O jogo foi lançado originalmente em 2012 para as plataformas mobile e PC. Essa é uma versão remasterizada para os consoles que saiu em 2018. Com um visual estilo 8-bits esse jogo é cheio de referências, humor inteligente e um gameplay digno de um *roleplay*! 
+O jogo foi lançado originalmente em 2012 para as plataformas mobile e PC. Essa é uma versão remasterizada para os consoles que saiu em 2018. Com um visual estilo 8-bits esse jogo é cheio de referências, humor inteligente e um gameplay digno de um *roleplay*! O jogo teve uma sequência em 2015.
+
+**UPDATE:** O [bundle](https://store.playstation.com/pt-br/product/UP1309-CUSA12693_00-KOPP0BUNDLE0SIEA) com os dois jogos também está em promoção e sai por R$ 18,70.
 
 {% include psn-game-card.html
     cover="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/cover_knights.jpg"
