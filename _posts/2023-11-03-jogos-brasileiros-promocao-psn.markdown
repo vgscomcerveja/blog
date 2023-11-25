@@ -14,6 +14,8 @@ Geralmente nestas promoções da Sony, eu sempre fico de olho nos jogos que são
 
 <!--more-->
 
+{% include warning-alert.html msg="Promoção encerrada no dia 17/11/2023!" %}
+
 Bom, a promoção em questão é a [Essenciais](https://store.playstation.com/pt-br/category/9d01f039-7058-43e2-93c2-e462d977dc63/1), que promete uma economia de até 75% nos jogos e vai até o dia 17/11/2023. Sem mais delongas, segue a lista!
 
 ## Esquadrão 51 Contra os Discos Voadores
