@@ -14,7 +14,7 @@ stats-by-year:
   y2020: 24
   y2021: 9
   y2022: 3
-  y2023: 13
+  y2023: 14
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -618,6 +618,9 @@ x360:
   - nome: Need for Speed - Most Wanted
     data: 08/09/2018
     status: 1000G
+  - nome: Peter Jackson's King Kong
+    data: 24/12/2023
+    status: 1000G
   - nome: Rise of the Tomb Raider
     data: 28/11/2015
     status: 1000G
@@ -755,6 +758,10 @@ xbox1000G:
     status: 1000G
   - nome: TMNT
     data: 26/06/2023
+    platform: x360
+    status: 1000G
+  - nome: Peter Jackson's King Kong
+    data: 24/12/2023
     platform: x360
     status: 1000G
 platina:
