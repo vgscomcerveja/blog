@@ -1,3 +1,11 @@
+{% capture postLink %}
+  {% if post.external %}
+    {{ post.external }}
+  {% else %}
+    {{ post.url | prepend: site.baseurl }}
+  {% endif %}
+{% endcapture %}
+
 <article>
 
   {% if include.show_category %}
@@ -6,19 +14,23 @@
 
   {% if post.thumbnail %}
     <div class="post-cover">
-      {% assign thumb = post.thumbnail | split: "." | first %}
-      <picture>
-        <source type="image/webp" srcset="{{ thumb }}.webp">
-        <img src="{{ post.thumbnail }}" alt="{{ post.title }} Cover">
-      </picture>
+      <a href="{{ postLink }}">
+        {% assign thumb = post.thumbnail | split: "." | first %}
+        <picture>
+          <source type="image/webp" srcset="{{ thumb }}.webp">
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }} Cover">
+        </picture>
+      </a>
     </div>
   {% endif %}
 
   <h2 class="post-title">
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    {% if post.external %}
-      <small class="post-external-name">[{{ post.session }} <span class="icon-link-ext"></span>]</small>
-    {% endif %}
+    <a class="post-link" href="{{ postLink }}">
+      {{ post.title }}
+      {% if post.external %}
+        <small class="post-external-name icon-link-ext"></small>
+      {% endif %}
+    </a>
   </h2>
 
   <div class="post-meta">
@@ -34,8 +46,6 @@
 
   <div class="post-sinopse">
     <p>{{ post.excerpt }}</p>
-    <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
-      Continue lendo
-    </a>
+    <a class="read-more" href="{{ postLink }}">Continue lendo</a>
   </div>
 </article>
