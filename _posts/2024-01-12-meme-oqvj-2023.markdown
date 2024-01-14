@@ -1,0 +1,183 @@
+---
+layout: post
+title: "MeMe - O Que Você Jogou em 2023?"
+date: 2024-01-14 19:00
+author: felipebbarbosa
+session: Proseando // Especial
+categories: games jogando
+tags: [meme-oqvj, categoria-especial, serie-proseando]
+related: meme-oqvj
+thumbnail: /imgs/posts/especial/16_meme2023/post_thumbnail.jpg
+cover: /imgs/posts/especial/16_meme2023/post_header.jpg
+---
+
+Quem acompanha o blog já sabe, mesmo sem muitos posts durante o ano (pretendo mudar isso), o primeiro post do ano é sempre a presença no tradicional **"MeMe do Marvox"**, que chega à sua 13ª edi... Opa, pera aí! Será que vai rolar esse ano? Até agora não teve nenhum anúncio. 😥 Bom, de qualquer forma, como adoro fazer essa releitura do meu ano "gamístico" dizendo o que de melhor (ou pior) a gente jogou no ano que passou, vou fazer meu texto mesmo assim, pois, 2023 foi um ano de recuperação gamística, as coisas já estão praticamente ajeitadas por aqui (estava de mudança no ano passado) e estou conseguindo me organizar para jogar um pouco mais, com isso, a coisa melhorou em relação ao [ano passado](/post/meme-oqvj-2022)!
+
+<!--more-->
+
+Então bora conferir, em ordem cronológica, os dez jogos que foram destaques na minha jogatina do ano de 2023.
+
+## Lara Croft and the Guardian of Light
+
+##### 2010, Crystal Dynamics
+##### Xbox 360
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/01_lara-croft.jpg" full="true" %}
+
+Não foi o primeiro jogo do ano, mas depois de ter zerado novamente o **Jurassic Park: The Game**, só que desta vez no **Xbox 360** (que deixei no menções honrosas justamente por já ter [terminado no PS3 um tempo atrás](/post/meme-o-que-voce-jogou-em-2016)), emendei uma sequência de jogos neste maravilhoso console da **Microsoft**, começando com esse jogo da **Lara Croft** que não se chama **Tomb Raider**, mas que faz parte da franquia. 
+
+Com visão isométrica, essa aventura da musa dos videogames é focada no multiplayer cooperativo local, que no caso, seu parceiro ou parceira de jogatina assume o papel de um guerreiro maia de 2.000 anos chamado **Totec**. Porém, também é possível jogar sozinho como eu fiz. Apesar de apresentar um gameplay um pouco diferente da franquia, o jogo segue a mesma fórmula clássica com quebra-cabeças, exploração e combate. Eu curti! 
+
+## TMNT
+
+##### 2007, Ubisoft
+##### Xbox 360
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/02_tmnt.jpg" full="true" %}
+
+Baseado no filme de 2007 de mesmo nome, esse jogo é meio que exclusivo para o **Xbox 360** em sua geração, pois a versão de PS3 prevista para sair um tempo depois, foi cancelada. Enfim, por ser desenvolvido pela **Ubisoft**, o jogo tem uma pegada meio **Prince of Persia** no quesito de acrobacias e combate, mas posso afirmar que a comparação fica por aí, pois ele não chega nem perto da qualidade da franquia do princípe, além do mais, ele é um jogo curto com apenas 16 fases e também é focado no multiplayer cooperativo... Mas como sempre joguei sozinho.
+
+É um jogo bem mediano, mas que dá para se divertir! Porém, tenho que confessar, minha maior motivação foi os **1000G fáceis**!
+
+## Stray
+
+##### 2022, BlueTwelve Studio
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/03_stray.jpg" full="true" %}
+
+Adorei a ambientação desse jogo! Você controla um gatinho, isso mesmo, um gato, em um mundo pós-apocalíptico dominado por robôs e bactérias mutantes! Sério, tem como dar errado uma combinação dessas? 
+
+Enfim, após se perder do seu bando, seu objetivo é retornar a superfície de uma cidade subterrânea e para isso contará com a ajuda de um robôzinho assistente que fará todo o meio de campo para você conversando e interagindo com outros robôs nativos da cidade. 
+
+Não tenho muito o que dizer, é um jogo bem legal que conta com uma história interessante com bastante exploração com cenários bem elaborados e gameplay bem fluído!
+
+{% include youtubePlayer.html id='4uP2MyUL49s' %}
+
+Como eu adoro jogos de aventura e a temática pós-apocaliptica, curti bastante! ❤
+
+## Down in Bermuda
+
+##### 2023, Yak & Co
+##### Android
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/04_down-bermuda.jpg" full="true" %}
+
+Descobri esse jogo meio por acaso na [loja de aplicativos do Google](https://play.google.com/store/apps/details?id=co.yakand.downinbermuda) e acabei curtindo demais esse joguinho de quebra-cabeça minimalista. 
+
+Você ajudará **Milton**, um aviador que caiu em uma ilha misteriosa e lá ficou por décadas até que você "aparece" para ajudá-lo a escapar, mas para isso você terá que encontrar e resolver uma série de desafios de quebra-cabeças.
+
+Na verdade, são ao todo 6 ilhas misteriosas do arquipélago do **Triângulo das Bermundas** que você terá pela frente até conseguir socorrer Milton de volta para sua casa. O jogo é bem feito e gostosinho de jogar. É uma pena que seja curto, mas mesmo assim, vale muito a pena jogar!
+
+Gostei tanto que fui pesquisar quais outros jogos esta desenvolvedora australiana tinha feito e descobri outro jogo legal:
+
+## Agent A: O enigma disfarçado
+
+##### 2015, Yak & Co
+##### Android
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/05_agent-a.jpg" full="true" %}
+
+Este porém já é um *adventure point-and-click* que, convenhamos, muito legal de jogar, gostei até mais do que o **Down in Bermuda**! Apesar de serem de estilos de jogo diferentes, o visual é até que parecido. 
+
+Aqui, você controla uma agente secreto que precisa investigar quem está por trás dos desaparecimentos dos seus amigos espiões.
+
+Como um bom *adventure point-and-click*, você tem que investigar bastante para solucionar diversos quebra-cabeças e progredir. São ao todos 5 capítulos intrigantes. Recomendo!
+
+## Wolfenstein II: The New Colossus
+
+##### 2017, MachineGames
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/06_wolfenstein-2.jpg" full="true" %}
+
+A partir daqui, entrei numa onda de jogos de tiro em primeira pessoa. Aproveitei que por algum motivo desconhecido, não estou passando mal com eles (*motion sickness*), quero dizer, alguns até cheguei a sentir um leve enjoo, mas era só dar uma pausa ou deixar para jogar outro dia que dava bom. 
+
+Enfim, comecei com a sequência de **Wolfenstein: The New Order** (que já tinha [terminado em 2019](/post/meme-o-que-voce-jogou-em-2019)), um jogo que trouxe de volta a essência dos jogos de tiro *old-school* para os jogos modernos, que tempo depois são conhecidos como *boomer shooters*. E sua sequência não fez feio, apesar de não ter superado seu antecessor, é um BAITA jogo! 
+
+Para quem não conhece a essência da trama da série é só imaginar um mundo onde **Hitler** vence a guerra e você juntamente com diversos outros guerreiros tem que tentar retomar o mundo das mãos nazistas. Obviamente é uma ficção, mas se prepare para além de enfrentar muitos alemães, muitas máquinas poderosas de tecnologia experimental nazista, dentre outras coisas. Bem divertido!
+
+## Battlefield 1
+
+##### 2016, DICE
+##### Xbox One
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/07_battlefield-1.jpg" full="true" %}
+
+Os jogos de tiro que mais me chamam atenção são os que se passam durante a 2ª Guerra Mundial, porém esse me atraiu por se passar na primeira grande guerra! Poucos jogos abordam essa época.
+
+Mas ao invés de contar uma única história, aqui você encontra seis histórias de guerra separadas, cada uma com um protagonista diferente e pontos de vista e localidades distintas da guerra, mas todas elas inspiradas em fatos históricos.
+
+Visualmente, o jogo é muito bonito e o gameplay não deixa nada a desejar, só é um pouco curto, mas não deixa de ser um grande jogo FPS! 
+
+## Wolfenstein: The Old Blood
+
+##### 2015, MachineGames
+##### Xbox One
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/08_wolfenstein-old-blood.jpg" full="true" %}
+
+De volta para **Wolfenstein**, desta vez para a expansão autônoma do primeiro jogo, que apesar de ser uma expansão, a história do jogo se passa antes do **The New Order**, uma prequela. O legal que por ser autônoma, você não precisa do primeiro jogo para jogar e também por isso ele é um pouco mais curto que os demais, mas não deixa nada a desejar. Vale muito a pena jogá-lo também! 
+
+## Call of Duty: Vanguard
+
+##### 2021, Sledgehammer Games
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/09_cod-vanguard.jpg" full="true" %}
+
+Como dito, jogos ambientados na Segunda Guerra Mundial me atraem e esse **Call of Duty** foi mais um deles! 
+
+Apesar de ter uma história principal, a maior parte do jogo são histórias de *flashbacks* de vários pontos no tempo e de ordem não cronológica de cada personagem do jogo. Porém, como era um pouco de se esperar, a história não é nem de longe o ponto forte do jogo!
+
+Agora, visualmente o jogo está incrível e até me surpreendi com a capacidade do meu PS4 (que nem é o Pro) rodar quase que liso. O gameplay também está indiscutível, muito prazeroso de jogar! Mas no fim, para quem gosta só da campanha single player como eu, o jogo é bastante curto, se bobear mais curto que a expansão do **Wolfenstein**, então não sei se vale o investimento, mas é um jogo legal!
+
+Aproveitanto a deixa, um comentário para quem gosta de colecionar: Eu comprei a [versão em mídia física](https://www.youtube.com/watch?v=0tvqZEYZ-Wk), mas vou te falar que a campanha principal nem está no disco, tive que fazer dois downloads completos da campanha para conseguir jogar! Triste isso! 
+
+
+## Dying Light
+
+##### 2015, Techland
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/16_meme2023/10_dying-light.jpg" full="true" %}
+
+E para fechar, um jogo que é quase uma pérola escondida (*hidden gem*), pois não vejo muita gente falando dele, mas o pouco que vi, o pessoal falam bem! Basicamente, ele é um *survival horror* de mundo aberto em primeira pessoa com elementos *parkour*. Sim, acho que isso define bem o jogo, que me lembrou bastante **Dead Island**... ah, deve ser porque é da mesma desenvolvedora! 
+
+Você assume o papel de **Kyle Crane** em um cidade dominada por zumbis e mantida em quarentena pelo governo, ou seja, você está preso na cidade e precisa escapar! 
+
+O jogo conta com transição de períodos de tempo, com isso, temos um gameplay durante o dia e um, onde realmente o bicho pega, que é a noite, pois alguns tipos de zumbi só aparecem neste período. No começo, você fará muito uso de armas brancas, então acaba sendo díficil de enfrentar os zumbis, mas com suas habilidades de *parkour*, é fácil passar por eles. 
+
+Enfim, é um jogo com uma história clichê, mas que conforme você vai progredindo, o jogo vai se tornando interessante e prazeroso de jogar! 8,5/10 
+
+### Menções honrosas
+
+E para fechar, algumas menções honrosas:
+
+- **Minha Amiga Peppa Pig (PlayStation 4)** - Comprei esse na esperança de jogar com minha filha, mas como ela é muito pequena ainda, ela não viu diferença do jogo para o desenho animado. Aliás, visualmente é idêntico mesmo. Mas como jogo é de platina fácil, aproveitei para garantir mais uma na coleção! 🏆
+- **Jurassic Park: The Game (Xbox 360)** - Em [2016](/post/meme-o-que-voce-jogou-em-2016) havia terminado a versão de PS3 e curtido bastante. De lá para cá, eu queria conseguir a versão do 360 em mídia física para colocar na coleção, pois no PS3 é somente digital. Pois bem, consegui e aproveitei para garantir mais 1000G também.
+- **Vampire Survivors (Android)** - Joguinho de um desenvolvedor só que de visual você não dá nada para ele, mas depois, você descobre que é totalmente viciante e prazeroso de jogar. Vale a pena [experimentar](https://poncle.itch.io/vampire-survivors).
+- **Resistance: Fall of Man (PlayStation 3)** - Na onda de jogos de tiro em primeira pessoa, retomei da onde tinha parado no ano retrasado e terminei. É um belo jogo, curti e provavelmente jogarei os próximos da franquia.
+- **Peter's Jackson King Kong (Xbox 360)** - Outro jogo que retomei de uma jogatina parada, porém esse foi um pouco mais díficil de terminar devido sua monotomia, pois apesar de começar bem, o jogo é bastante repetitivo e por isso se torna uma eternidade para zerar. Mas foi mais 1000G garantidos no gamescore! 🤣
+
+
+### Todos os zerados
+
+| **12/02** | Minha Amiga Peppa Pig (PS4) 🏆 | 
+| **12/06** | Jurassic Park: The Game (Xbox 360) 🏅 |
+| **24/06** | Lara Croft and the Guardian of Light (Xbox 360) |
+| **26/06** | TMNT (Xbox 360) 🏅 | 
+| **15/07** | Stray (PS4) 🏆 |
+| **02/08** | Down in Bermunda (Android) |
+| **05/08** | Agent A: O enigma disfarçado (Android) |
+| **07/09** | Wolfenstein II: The New Colossus (PS4) |
+| **10/09** | Battlefield 1 (Xbox One) |
+| **16/09** | Wolfenstein: The Old Blood (Xbox One) |
+| **08/10** | Call of Duty: Vanguard (PS4) |
+| **28/10** | Resistance: Fall of Man (PS3) |
+| **25/11** | Dying Light (PS4) |
+| **24/12** | Peter Jackson's King Kong (Xbox 360) 🏅 |
+
+### E é isso...
+
+E o seu ano de 2023, como foi?
