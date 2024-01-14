@@ -1,4 +1,4 @@
-last-update: 28/10/2023
+last-update: 14/01/2024
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -15,6 +15,7 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 14
+  y2024: 1
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -421,6 +422,9 @@ ps4:
     status: platina
   - nome: Stray
     data: 15/07/2023
+    status: platina
+  - nome: Terminator Resistance
+    data: 14/01/2024
     status: platina
   - nome: The Bunker
     data: 07/05/2017
@@ -1246,5 +1250,9 @@ platina:
     status: platina
   - nome: Halloween Puzzle
     data: 02/11/2023
+    platform: ps4
+    status: platina
+  - nome: Terminator Resistance
+    data: 14/01/2024
     platform: ps4
     status: platina
