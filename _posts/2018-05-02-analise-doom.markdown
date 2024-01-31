@@ -19,7 +19,7 @@ me recordo de ter jogado foi o tal de **Blood** da [Monolith Productions](https:
 um dos jogos mais violentos de 1997! Nesta época, eu não tinha muito acesso à jogos, e só joguei
 Blood, por causa da extinta revista **CD Expert**. E além disso, uns dois anos depois, eu ganhei
 o PS1 e conheci [Medal of Honor](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html),
-que me fez perder de vez o total interesse por DOOM (tecnicamente ultrapassado). Entretanto, sinto uma certa inveja de quem
+que me fez perder de vez o total interesse por DOOM (achava ultrapassado). Entretanto, sinto uma certa inveja de quem
 vivenciou esta época do nascimento dos jogos de tiro em primeira pessoa, pois gostaria de tê-lo curtido no lançamento!
 
 Mais de 20 anos se passaram desde o lançamento do clássico e, mesmo sem ter o jogado,
@@ -92,7 +92,7 @@ onde você pode criar seu próprio mapa do jogo. E tem também o modo **Multipla
 desenvolvido pela mesma equipe e que acabou deixando um pouco a desejar, mas é divertido para quem
 curte. Eu confesso que nem dei bola para estes modos, só joguei a campanha principal que já valeu e muito!
 
-E é isso! Talvez não tenha consiguido transmitir o quão legal é esse **DOOM**! Ele superou todas minhas expectativas, pois é violento, agressivo e extremamente delicioso! Recomendo à todos!
+E é isso! Talvez não tenha consiguido transmitir o quão legal é esse **DOOM**, mas ele superou todas minhas expectativas, pois é violento, agressivo e extremamente delicioso! Recomendo à todos!
 
 ---
 
