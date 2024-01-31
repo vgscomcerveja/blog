@@ -12,7 +12,7 @@ thumbnail: /imgs/posts/game_over/18_silent_hill_origins/post_thumbnail.jpg
 cover: /imgs/posts/game_over/18_silent_hill_origins/post_header.jpg
 ---
 
-Após praticamente um ano depois de ter comprado o PSP de um amigo que eu finalmente terminei um jogo nele! E esse jogo foi **Silent Hill: Origins**, o jogo que explica como tudo começou, pois ele se passa sete anos antes dos acontecimentos do primeiro Silent Hill.
+Praticamente um ano após ter comprado o PSP de um amigo, eu finalmente terminei um jogo nele! E esse jogo foi **Silent Hill: Origins**, o jogo que explica como tudo começou, pois ele se passa sete anos antes dos acontecimentos do primeiro Silent Hill.
 
 <!--more-->
 
@@ -24,13 +24,13 @@ _Ele chega a uma casa em chamas nos arredores. Uma menina grita de algum lugar d
 
 _..Ele acorda em Silent Hill."_
 
-Assim começa a história do jogo, alías, é assim que começa a história da série toda, pois esse jogo se passa sete anos antes dos acontecimentos do primeiro SH, e explica muita coisa da série.
+Assim começa a história do jogo, alías, é assim que começa a história da série toda, pois, como dito, esse jogo se passa sete anos antes dos acontecimentos do primeiro Silent Hill e explica muita coisa da série.
 
 {% include image.html url="/imgs/posts/game_over/18_silent_hill_origins/foto1.jpg" description="" %}
 
 Lançado em 2007 pela **Konami**, porém desenvolvido em parceria com a **Climax Studios**, este foi o primeiro jogo da série a ser lançado para PSP e era para ser exclusivo, mas em 2008, ele recebeu uma versão para PS2 desenvolvida pela **Monolith Productions**.
 
-**Silent Hill: Origins** segue bem o estilo da série com criaturas bizarras, enigmas (não tão difíceis), clima sombrio com neblina e trilha sonora sinistra que te deixa tenso o jogo inteiro, principalmente quando você segue os conselhos iniciais do jogo que é de jogar com as luzes apagadas e com fones de ouvido. É uma experiência muito boa!
+**Silent Hill: Origins** segue bem o estilo da série com criaturas bizarras, enigmas (neste caso, não tão difíceis), clima sombrio com neblina e trilha sonora sinistra que te deixa tenso o jogo inteiro, principalmente quando você segue os conselhos iniciais do jogo que é de jogar com as luzes apagadas e com fones de ouvido. É uma experiência muito boa!
 
 Os gráficos eu achei bons para o nível do portátil e a jogabilidade também está bacana, bem adaptada aos controles do PSP. O jogo é em terceira pessoa, mas tem hora que a movimentação da câmera atrapalha um pouco, pois mesmo tendo um botão (L) para resetar a posição, às vezes, isso não é possível e também tem hora que ela muda e os controles ficam invertidos. Calma, eu explico! Tem horas que você está andando com câmera posicionada nas costas do personagem, aí você entra em um beco e automaticamente a câmera muda para uma visão frontal e quando isso acontece você tem que apertar para baixo para andar, ao invés de para cima como você estava fazendo antes, mas nada que estrague a jogabilidade do jogo.
 
