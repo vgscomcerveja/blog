@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2018/05/02/analise-doom.html
-tags: [sony, ps4, doom, categoria-analise, serie-game-over]
+tags: [sony, ps4, categoria-analise, serie-game-over]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/39_doom/post_thumbnail.jpg
 cover: /imgs/posts/game_over/39_doom/post_header.jpg
