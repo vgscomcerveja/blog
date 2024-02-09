@@ -489,10 +489,10 @@
     overflow: hidden;
     text-align: right;
     background-color: white;
-    width: 50%;
+    width: 100%;
 
     @include media-query($on-smartphone) {
-      width: 100%;
+      
 
       h2 {
         font-size: 2.3em;
@@ -508,17 +508,12 @@
     }
 
     h2 {
-      font-size: 1.8em;
+      font-size: 2.3em;
     }
   }
 
   article:first-child {
     margin-top: 0;
-    width: 100%;
-
-    h2 {
-      font-size: 2.3em;
-    }
   }
 }
 
