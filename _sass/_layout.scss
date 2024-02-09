@@ -796,23 +796,13 @@
 
 .pagination {
   text-align: center;
-  padding: 10px;
   background-color: rgba(255, 255, 255, 0.5);
-  border: 1px solid $second-color;
 
   .previous,
   .next {
-    color: white;
-    background: $second-color;
-    padding: 4px 30px 5px;
-    line-height: 1em;
-    font-variant: small-caps;
-    text-transform: lowercase;
-  }
-
-  .previous:hover,
-  .next:hover {
-    background-color: $second-color-dark;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
   }
 
   .previous {
