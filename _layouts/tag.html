@@ -24,10 +24,6 @@ layout: default
   <div class="post-list">
     {% for post in site.tags[page.tag] %}
       {% include article-preview.html show_category="false" %}
-      {% assign loopindex = forloop.index | modulo: 5 %}
-      {% if loopindex == 1 %}
-        {% include googleads.html %}
-      {% endif %}
     {% else %}
       <p>Não tem posts com esta tag!</p>
     {% endfor %}

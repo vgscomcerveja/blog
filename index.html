@@ -6,13 +6,7 @@ layout: default
 
   <div class="post-list">
     {% for post in paginator.posts %}
-
       {% include article-preview.html show_category="true" %}
-
-      {% assign loopindex = forloop.index | modulo: 5 %}
-      {% if loopindex == 1 %}
-        {% include googleads.html %}
-      {% endif %}
     {% endfor %}
   </div>
 

@@ -6,8 +6,6 @@ layout: default
   <img src="{{ page.logo }}" style="margin: 20px 0; max-height: 120px; max-width: 400px;">
 </div>
 
-{% include googleads.html %}
-
 <div class="home">
 
   <div class="ficha-tecnica" style="margin-top: 20px; border: 0">
@@ -24,10 +22,6 @@ layout: default
   <div class="post-list">
     {% for post in site.tags[page.tag] %}
       {% include article-preview.html show_category="false" %}
-      {% assign loopindex = forloop.index | modulo: 5 %}
-      {% if loopindex == 1 %}
-        {% include googleads.html %}
-      {% endif %}
     {% else %}
       <p>Não tem posts com esta tag!</p>
     {% endfor %}
