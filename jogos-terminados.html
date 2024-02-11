@@ -4,10 +4,10 @@ permalink: /felipebbarbosa/jogos/
 ---
 <div class="page-title">
   <img width="96" height="96" src="/imgs/icone-jogando.png"><br>
-  <h1>Jogos Terminados</h1>
+  <h1>Lista de jogos terminados</h1>
 </div>
 
-<div class="home">
+<div class="home full">
 
   <div class="post" style="font-weight: normal; padding:0 20px">
     <h2 style="text-align:center; margin-top:70px">
@@ -66,10 +66,7 @@ permalink: /felipebbarbosa/jogos/
     <span><b>Última atualização:</b> {{ site.data.finished-games.last-update }}</span>
 
   </div>
-
 </div>
-
-{% include side-menu.html %}
 
 <div class="wrapper">
   {% include disqus.html %}
@@ -93,7 +90,8 @@ permalink: /felipebbarbosa/jogos/
 {{ finishedByYear.y2020 }},
 {{ finishedByYear.y2021 }},
 {{ finishedByYear.y2022 }},
-{{ finishedByYear.y2023 }}
+{{ finishedByYear.y2023 }},
+{{ finishedByYear.y2024 }}
 {% endcapture %}
 
 {% capture finishedByPlatform %}
