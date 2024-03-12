@@ -75,14 +75,14 @@ Começando pelo móvel, adianto que é um rack simples, mas que acredito que est
 {% include image.html
     url="/imgs/posts/especial/15_setup-rack/esquema-rack-moderno.jpg" %}
 
-Já os consoles das gerações anteriores possuem um investimento maior no quesito melhoria de imagem, mas ainda, sim, quis manter minha televisão de tubo, uma **Sony Wega de 29"**! Com isso, da maioria dos consoles eu **extraio o sinal RGB via cabo SCART** (EuroSCART) conectado a um **switch SCART** da [Gamescare](https://gamescare.com.br/) que, por sua vez tem seu sinal de saída **convertido para vídeo componente** através de um conversor, também da **Gamescare**, e ligado em outro switch, desta vez de vídeo componente (e olha só, da Gamescare!), pois alguns consoles eu utilizo o cabo vídeo componente direto, como no caso do **Wii**, **PS2** e **Xbox** clássico. Confuso? Bom, está assim o cenário:
+Já os consoles das gerações anteriores possuem um investimento maior no quesito melhoria de imagem, mas ainda, sim, quis manter minha televisão de tubo, uma **Sony Wega de 29"**! Com isso, da maioria dos consoles eu **extraio o sinal RGB via cabo SCART** (EuroSCART) conectado a um **switch SCART** da [GamesCare](https://gamescare.com.br/) que, por sua vez tem seu sinal de saída **convertido para vídeo componente** através de um conversor, também da **GamesCare**, e ligado em outro switch, desta vez de vídeo componente (e olha só, da GamesCare!), pois alguns consoles eu utilizo o cabo vídeo componente direto, como no caso do **Wii**, **PS2** e **Xbox** clássico. Confuso? Bom, está assim o cenário:
 
 {% include image.html
     url="/imgs/posts/especial/15_setup-rack/esquema-rack-retro.jpg" %}
 
 Apenas o **Nintendo 64** e **GameCube** que ainda não estão ligados em RGB ou vídeo componente. O **Nintendo 64** está conectado na entrada **S-video** da TV, pois para extrair o sinal RGB dele é necessário fazer uma modificação no console. Tem várias formas e lugares para fazer, mas ainda não fui atrás para saber os valores. Já o **GameCube**, está ligado via **vídeo composto**, pois seu cabo de vídeo componente é um absurdo de caro! Hoje em dia, acho que já até tem cabos alternativos, mas como geralmente jogo GC pelo Wii, nem fui atrás também!
 
-Os demais consoles não tem modificação nenhuma, bastou comprar os cabos SCART específicos de cada um e pronto! Hoje em dia, inclusive, estes cabos são bem mais acessíveis de encontrar, a própria Gamescare tem a maioria (se não, todos) deles (Obs.: juro que este não é um post patrocinado pela Gamescare! 😅). Na época que resolvi entrar nessa, esses cabos eram só importados e muitas vezes tinha que esperar o fabricante abrir uma janela de compras para você conseguir adquirir o seu, ou seja, tinha que entrar numa espécie de fila de espera. Para ter uma ideia, os meus vieram da [Retro Gaming Cables](https://www.retrogamingcables.co.uk/) da Inglaterra.
+Os demais consoles não tem modificação nenhuma, bastou comprar os cabos SCART específicos de cada um e pronto! Hoje em dia, inclusive, estes cabos são bem mais acessíveis de encontrar, a própria GamesCare tem a maioria (se não, todos) deles (Obs.: juro que este não é um post patrocinado pela GamesCare! 😅). Na época que resolvi entrar nessa, esses cabos eram só importados e muitas vezes tinha que esperar o fabricante abrir uma janela de compras para você conseguir adquirir o seu, ou seja, tinha que entrar numa espécie de fila de espera. Para ter uma ideia, os meus vieram da [Retro Gaming Cables](https://www.retrogamingcables.co.uk/) da Inglaterra.
 
 ## Um pouco de fotos para ajudar entender o setup
 
@@ -92,7 +92,7 @@ Os demais consoles não tem modificação nenhuma, bastou comprar os cabos SCART
 
 {% include image.html
     url="/imgs/posts/especial/15_setup-rack/switch-scart.jpg"
-    description="Seletor SCART da Gamescare com seleção automática" %}
+    description="Seletor SCART da GamesCare com seleção automática" %}
 
 {% include image.html
     url="/imgs/posts/especial/15_setup-rack/conversor-scart-video-componente.jpg"
@@ -100,7 +100,7 @@ Os demais consoles não tem modificação nenhuma, bastou comprar os cabos SCART
 
 {% include image.html
     url="/imgs/posts/especial/15_setup-rack/switch-video-componente.jpg"
-    description="Seletor de vídeo componente da Gamescare também possui seleção automática" %}
+    description="Seletor de vídeo componente da GamesCare também possui seleção automática" %}
 
 {% include image.html
     url="/imgs/posts/especial/15_setup-rack/switch-scart-e-video-componente-lado-a-lado.jpg"
