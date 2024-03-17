@@ -70,3 +70,7 @@ Esse jogos se tornaram muito procurados por colecionadores do mundo inteiro e po
 
 | [Phantasy Star](/colecionando/mosca-branca/2011/04/09/phantasy-star-tectoy.html) |
 | Where in the World is Carmen Sandiego? |
+
+---
+
+Se tiver curiosidade em saber quais foram TODOS os jogos que a Tectoy lançou para o Master System no Brasil, recomendo este [post no **Colecionando.Games**](https://blog.colecionando.games/lista-completa-master-system-tectoy/)

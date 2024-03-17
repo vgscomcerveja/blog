@@ -27,5 +27,5 @@ Que a **Tectoy** fez um excelente trabalho com o **Master System** no Brasil tod
 
 <!--more-->
 
-{% include warning-alert.html msg="Este post foi movido para o projeto <b>Colecionando.Games</b>, acesse <a href='https://blog.colecionando.games/lista-completa-master-system-tectoy/'>aqui</a>." %}
+{% include warning-alert.html msg="Este post foi revisado e movido para o <b>Colecionando.Games</b>, acesse <a href='https://blog.colecionando.games/lista-completa-master-system-tectoy/'>aqui</a>." %}
 
