@@ -108,7 +108,7 @@ Os demais consoles não tem modificação nenhuma, bastou comprar os cabos SCART
 
 ## Para saber mais
 
-Como dito, o objetivo deste post foi apenas apresentar o setup e dar uma breve introdução a esse mundo RGB. Existem muito mais opções e detalhes que quero deixar aqui algumas recomendações de conteúdo para se aprofundar no assunto:
+Como dito, o objetivo deste post foi apenas apresentar o setup e dar uma breve introdução a esse mundo RGB. Existe todo um universo a ser explorado com assuntos mais detalhados, tais como sincronia de cores, monitores profissionais, escalonamento (upscalling), entre outros detalhes que quero deixar aqui algumas recomendações de conteúdo para se aprofundar ainda mais no assunto:
 
 - [RGB Inside](https://www.youtube.com/RGBInside): podcast nacional totalmente dedicado a esse assunto. Apesar de estar atualmente parado, o canal conta com bastante conteúdo importante.
 
@@ -122,7 +122,7 @@ Como dito, o objetivo deste post foi apenas apresentar o setup e dar uma breve i
 
 ---
 
-E aí, você já se aventura ou pretende entrar nesse universo RGB? Confesso que é quase um caminho sem volta, porém, tem que ir com calma, pois por se tratar de tecnologias novas para coisas antigas é bastante nichado e por consequência, o investimento pode ser alto se não tiver paciência.
+E aí, você já se aventura ou pretende entrar nesse universo RGB? Confesso que é quase um caminho sem volta, pois a diferença de qualidade de imagem é absurdamente notória, porém, tem que ir com calma, pois por se tratar de tecnologias novas para coisas antigas é bastante nichado e por consequência, o investimento pode ser alto se não tiver paciência. Além do mais, o importante é se divertir, não importando muito a forma!
 
 
 
