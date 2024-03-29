@@ -1,4 +1,4 @@
-last-update: 14/01/2024
+last-update: 29/03/2024
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -15,7 +15,7 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 14
-  y2024: 1
+  y2024: 2
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -159,6 +159,8 @@ ps2:
   - nome: Metal Gear Solid 2 - Sons of Liberty
   - nome: Metal Gear Solid 3 - Snake Eater
     data: 15/07/2010
+  - nome: Medal of Honor - Frontline
+    data: 29/03/2024
   - nome: Mortal Kombat - Shaolin Monks
   - nome: Need for Speed - Underground
   - nome: Pirates of the Caribbean - The Legend of Jack Sparrow
