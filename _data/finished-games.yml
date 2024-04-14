@@ -15,7 +15,7 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 14
-  y2024: 2
+  y2024: 3
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -184,6 +184,8 @@ ps3:
   - nome: Battleship
     data: 09/06/2018
     status: platina
+  - nome: BioShock - Infinite
+    data: 14/04/2024
   - nome: Call of Duty 4 - Modern Warfare
     data: 11/08/2010
   - nome: Captain America - Super Soldier
