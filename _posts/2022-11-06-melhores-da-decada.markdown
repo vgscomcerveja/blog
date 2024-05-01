@@ -48,8 +48,8 @@ Recentemente, em 2021, o jogo ganhou uma versão remasterizada para diversas pla
 Para fechar meu top 3 de 2010, eis o jogo que me fez voltar com força ao mundo dos games, pois assim que seu lançamento estava próximo, corri atrás de [comprar um PlayStation 3](/post/aquisicao-playstation3) e de quebra, comprei também o [volante G27](https://en.wikipedia.org/wiki/Logitech_G27) da **Logitech** para complementar, resultado: horas e horas jogando **Gran Turismo 5**! Que mesmo apesar dos atrasos para lançamento, fez jus a qualidade da série e conseguiu superar seu antecessor! Pena que hoje não é possível mais jogar online com ele.
 
 {% include mencoes-honrosas.html 
-  mencoes="Need for Speed: Hot Pursuit, BioShock 2, Heavy Rain, God of War III e Limbo"
-  pecados="Super Mario Galaxy 2, Red Dead Redemption e Dante's Inferno" %}
+  mencoes_covers="2010_nfs-hotpursuit.png, 2010_bioshock2.png, 2010_heavy-rain.png, 2010_god-of-war3.png, 2010_limbo.png, 2010_lara-croft-gol.png"
+  pecados_covers="2010_super-mario-galaxy2.png, 2010_red-dead-redemption.png, 2010_dantes-inferno.png, 2010_fallout-new-vegas.png, 2010_metro2033.png, 2010_super-meat-boy.png" %}
 
 ## 2011
 
@@ -77,8 +77,8 @@ Pensa num jogo bonito que é esse tal de **Rayman Origins**! A **Ubisoft** acert
 Um dos grandes baratos do jogo é que você consegue jogar em até 4 jogadores em co-op local, cada um com um personagem diferente: *Rayman*, *Globox* ou dois *Teensies*. Além disso, conforme o jogo avança, novas habilidades você vai ganhando, como correr pelas paredes, deslizar no ar após o salto... Enfim, jogo muito divertido que até me bateu a vontade de rejogá-lo enquanto escrevia esse texto.
 
 {% include mencoes-honrosas.html 
-  mencoes="Mortal Kombat, Dead Island, Alice: Madness Returns e Jurassic Park: The Game"
-  pecados="Dead Space 2, Deus Ex: Human Revolution e Batman: Arkham City" %}
+  mencoes_covers="2011_mortal-kombat.png, 2011_dead-island.png, 2011_alice-madness-returns.png, 2011_jurassic-park.png"
+  pecados_covers="2011_dead-space-2.png, 2011_deus-ex.png, 2011_batman-arkham-city.png, 2011_portal2.png" %}
 
 ## 2012
 
@@ -112,8 +112,8 @@ O jogo conta a envolvente história de *Lee Everett* e a jovem *Clementine* no m
 Com o estilo de jogo "*point-and-click*", você tem que resolver uma série de problemas e tomar muitas decisões importantes, sendo que a cada decisão tomada, a trama do jogo muda completamente. Com isso, o jogo te proporciona diversas maneiras de chegar ao final, aumentando assim o fator *replay*. Eu cheguei a escrever uma [análise](/post/analise-the-walking-dead) dele na época para caso queira conferir mais detalhes.
 
 {% include mencoes-honrosas.html 
-  mencoes="Need for Speed: Most Wanted, Forza Horizon e Max Payne 3"
-  pecados=" Diablo III, New Super Mario Bros U e Journey" %}
+  mencoes_covers="2012_nfs-most-wanted.png, 2012_forza-horizon.png, 2012_max-payne3.png"
+  pecados_covers="2012_diablo3.png, 2012_new-super-mario.png, 2012_journey.png, 2012_borderlands2.png, 2012_dishonored.png, 2012_hitman-absolution.png" %}
 
 ## 2013
 
@@ -147,8 +147,8 @@ O jogo conta com uma quantidade de carros e pistas absurda, sendo mais de 1.200 
 O jogo possui tantos detalhes legais, que modéstia a parte, recomendo a leitura da [minha análise](/post/analise-gran-turismo-6) que fiz anos atrás! A única coisa que dá uma pena é que os servidores já foram desligados e não é mais possível correr online. Mas para quem gostar de platinar jogos, pode jogar sossegado, pois o jogo não conta com troféus online.
 
 {% include mencoes-honrosas.html 
-  mencoes="Guacamelee!, Metal Gear Rising, Need for Speed: Rivals e Rayman Legends"
-  pecados="BioShock Infinite, Luigi's Mansion: Dark Moon e Grand Theft Auto V" %}
+  mencoes_covers="2013_bioshock-infinite.png, 2013_guacamelee.png, 2013_metal-gear-rising.png, 2013_nfs-rivals.png, 2013_rayman-legends.png"
+  pecados_covers="2013_luigis-mansion.png, 2013_gtav.png, 2013_beyond-two-souls.png, 2013_metro-last-light.png" %}
 
 ## 2014
 
@@ -182,8 +182,8 @@ Obviamente o jogo está ainda mais bonito, porém as grandes novidades se devem 
 Em 2018 o jogo recebeu um port para **Nintendo Switch**.
 
 {% include mencoes-honrosas.html 
-  mencoes="Far Cry 4, The Evil Within, Mario Kart 8 e The Last of Us: Left Behind"
-  pecados="Alien Isolation, Terra-Média: Shadow of Mordor e Bayonetta 2" %}
+  mencoes_covers="2014_farcry4.png, 2014_the-evil-within.png, 2014_mario-kart8.png, 2014_sunset-overdrive.png"
+  pecados_covers="2014_alien-isolation.png, 2014_shadow-of-mordor.png, 2014_bayonetta-2.png" %}
 
 ## 2015
 
@@ -219,8 +219,8 @@ Mais um jogo da *Lara*! Desta vez, um jogo diferente. Neste, o foco é totalment
 Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e conseguir avançar para o final da fase. Uma [delícia de jogo](/post/analise-lara-croft-go)!
 
 {% include mencoes-honrosas.html 
-  mencoes="Life is Strange, Ori and the Blind Forest, Sunset Overdrive e Metal Gear Solid V: The Phantom Pain"
-  pecados="Bloodborne, The Witcher 3: Wild Hunt e Until Dawn" %}
+  mencoes_covers="2015_life-is-strange.png, 2015_ori.png, 2015_mgsv.png, 2015_dying-light.png, 2015_grim-fandango.png"
+  pecados_covers="2015_bloodborne.png, 2015_witcher3.png, 2015_until-dawn.png, 2015_fallout4.png" %}
 
 ## 2016
 
@@ -256,8 +256,8 @@ Que jogo excelente! Dos mesmos criadores de **Limbo**, esse é um jogo de quebra
 Apesar de ser monocromático, os gráficos são incrivelmente muito bem detalhados e caprichados que aliada aos efeitos sonoros, dão uma bela imersão à atmosfera do jogo, que por sinal, chega a ser bem sinistra! Seus *puzzles* são bem mais fáceis do que Limbo, mas mesmo assim, são legais de se fazer e a sensação de progressão é bem prazerosa! Recomendo demais!
 
 {% include mencoes-honrosas.html 
-  mencoes="Firewatch, The Last Guardian, Severed e Forza Horizon 3"
-  pecados="Quantum Break, Deus Ex: Mankind Divided e Dark Souls III" %}
+  mencoes_covers="2016_firewatch.png, 2016_the-last-guardian.png, 2016_severed.png, 2016_forza-horizon3.png"
+  pecados_covers="2016_quantum-break.png, 2016_deus-ex.png, 2016_dark-souls3.png, 2016_dishonored2.png" %}
 
 ## 2017
 
@@ -291,8 +291,8 @@ Pensa num jogo *indie* lindíssimo... Esse *metroidvania* da [Team Cherry](https
 Enfim, se você curte o gênero e ainda não jogou esse, está perdendo um **baita jogaço 10/10**!
 
 {% include mencoes-honrosas.html 
-  mencoes="Cuphead, Uncharted: The Lost Legacy, Forza Motorsport 7 e Hellblade: Senua's Sacrifice"
-  pecados="The Legend of Zelda: Breath of the Wild, Super Mario Odyssey e Sonic Mania" %}
+  mencoes_covers="2017_cuphead.png, 2017_uncharted-lost-legacy.png, 2017_forza7.png, 2017_hellblade.png"
+  pecados_covers="2017_zelda-botw.png, 2017_super-mario-odyssey.png, 2017_sonic-mania.png, 2017_prey.png" %}
 
 ## 2018
 
@@ -324,8 +324,8 @@ O quarto título da série *spin-off* da franquia **Forza** se passa em uma mapa
 Como é de se esperar na série, o jogo possui um visual incrível e uma ótima seleção de músicas de trilha sonora! Além de possuir mais de 450 carros licenciados. Novamente, o jogo é um deleite para amantes de jogos de corrida! Um detalhe que vale mencionar, o jogo foi disponibilizado aos assinantes do **Game Pass** no primeiro dia de lançamento!
 
 {% include mencoes-honrosas.html 
-  mencoes="Shadow of the Tomb Raider, Shadow of the Colossus e Battlefield V"
-  pecados="Far Cry 5, Celeste e Red Dead Redemption 2" %}
+  mencoes_covers="2018_shadow-tomb-raider.png, 2018_shadow-colossus.png, 2018_battlefield5.png"
+  pecados_covers="2018_farcry5.png, 2018_celeste.png, 2018_red-dead-redemption2.png, 2018_the-messenger.png" %}
 
 ## 2019
 
@@ -363,8 +363,8 @@ O jogo é basicamente dividido em dois modos: dia e noite! Durante o dia você p
 Talvez o único ponto fraco, é a história, que até começa bem, mas que acaba se desenrolando muito rápido e se torna um enredo bastante raso, quase que desnecessário. Além disso, depois que você completa todas as corridas principais (que não são muitas), o jogo se torna meio sem graça e repetitivo, porém o *multiplayer* dá uma sobrevida ao jogo para quem gosta de jogar online. Mas ainda sim, é um ótimo jogo de corrida!
 
 {% include mencoes-honrosas.html 
-  mencoes="Gears 5, DiRT Rally 2.0 e A Plague Tale: Innocence"
-  pecados="Sekiro: Shadows Die Twice, Death Stranding e Devil May Cry 5" %}
+  mencoes_covers="2019_gears5.png, 2019_dirt-rally2.png, 2019_plague-tale.png"
+  pecados_covers="2019_sekiro.png, 2019_death-stranding.png, 2019_dmc5.png, 2019_control.png, 2019_metro-exodus.png" %}
 
 E aí, quais jogos você colocaria na lista? Foi muito legal montar essa lista, inclusive, relembrar de alguns jogos me fez querer rejogá-los. Já os jogos que coloquei na lista de pecados gamísticos (backlog), me lembrou que ainda tem muito o que jogar pela frente. De toda forma, a década passada foi excelente no quesito jogos de videogames, não?
 

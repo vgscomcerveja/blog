@@ -1,4 +1,27 @@
+<style>
+  .covers-list img {
+    height: 200px;
+    padding: 5px;
+  }
+</style>
+
 <div class="featured-box">
-  <p><b>Menções honrosas</b><br>{{ include.mencoes }}</p>
-  <p><b>Pecados gamísticos</b><br>{{ include.pecados }}</p>
+  <p>
+    <b>Menções honrosas</b><br>
+    <div class="covers-list">
+      {% assign mention_covers = include.mencoes_covers | split: ", " %}
+      {% for cover in mention_covers %}
+        <img src="/imgs/games/{{ cover }}">
+      {% endfor %}
+    </div>
+  </p>
+  <p>
+    <b>Pecados gamísticos</b><br>
+    <div class="covers-list">
+      {% assign sins_covers = include.pecados_covers | split: ", " %}
+      {% for cover in sins_covers %}
+        <img src="/imgs/games/{{ cover }}">
+      {% endfor %}
+    </div>
+  </p>
 </div>
