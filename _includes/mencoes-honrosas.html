@@ -1,13 +1,17 @@
 <style>
+  .featured-box h2 {
+    color: white;
+  }
+
   .covers-list img {
     height: 200px;
-    padding: 5px;
+    padding: 5px 2px;
   }
 </style>
 
 <div class="featured-box">
   <p>
-    <b>Menções honrosas</b><br>
+    <h2>Menções honrosas</h2>
     <div class="covers-list">
       {% assign mention_covers = include.mencoes_covers | split: ", " %}
       {% for cover in mention_covers %}
@@ -16,7 +20,7 @@
     </div>
   </p>
   <p>
-    <b>Pecados gamísticos</b><br>
+    <h2>Pecados gamísticos</h2>
     <div class="covers-list">
       {% assign sins_covers = include.pecados_covers | split: ", " %}
       {% for cover in sins_covers %}
