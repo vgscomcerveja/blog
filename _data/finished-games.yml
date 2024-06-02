@@ -15,7 +15,7 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 14
-  y2024: 3
+  y2024: 4
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -98,6 +98,8 @@ pc:
   - nome: Blood
   - nome: Criatura Crunch, o Monstro
   - nome: Half-Life
+  - nome: Half-Life 2
+    data: 02/06/2024
   - nome: MDK
   - nome: Medal of Honor - Allied Assault
   - nome: Need for Speed Underground
