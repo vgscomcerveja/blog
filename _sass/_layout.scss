@@ -935,7 +935,8 @@
   border-radius: 32px;
   color: white;
   background-color: #02770c;
-  margin: 10px auto;
+  margin: 10px auto 75px;
+  height: 64px;
   width: 100%;
   font-size: 0.95em;
 
@@ -950,11 +951,10 @@
 
   small {
     float: left;
-    margin: 6px 0 0 6px;
     font-weight: 100;
 
     img {
-      margin: 2px 5px;
+      margin: 4px;
     }
   }
 }
