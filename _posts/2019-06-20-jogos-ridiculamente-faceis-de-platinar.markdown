@@ -16,10 +16,9 @@ cover: /imgs/posts/toplist/13_cacadores_trofeus3/post_header.jpg
 
 <!--more-->
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/mecho_tales.jpg" %}
-
-### Mecho Tales {#mecho-tales}
+{% include thumb-heading.html 
+  title="Mecho Tales" subtitle="Arcade Distillery"
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/mecho_tales.jpg" %}
 
 **Mecho Tales** até consegue apresentar um _run and shoot_ minimamente divertido, porém, o jogo deixa muito a desejar, começando pela escolha das texturas do jogo, não tem como alguém achar que aquilo ali estava bonito. É tudo meio psicodélico e confuso. Mas enfim, pelo menos, você não terá que investir muitas horas no game, pois ao todo são apenas 8 fases com 2 estágios cada e alguns chefes.
 
@@ -41,10 +40,9 @@ Acredite, esse é o menos pior da lista.
   obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/orc_slayer.jpg" %}
-
-### Orc Slayer {#orc-slayer}
+{% include thumb-heading.html 
+  title="Orc Slayer" subtitle="Cooply Solutions"
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/orc_slayer.jpg" %}
 
 Quais foram os piores jogos de tiro (FPS) que você já jogou? Se [Orc Slayer](http://www.theorcslayer.com/) não está lista, é porque você ainda não o jogou! Sério, o game peca em praticamente TUDO. Gráficos muito pobres, jogabilidade muito fraca, som bem genérico e a história... bem, que história? Suas opções de armas são apenas um machado, uma espada, uma tocha ou um arco-e-flecha e seu objetivo é matar todos os orcs e porcos voadores da fase... E só!
 
@@ -65,10 +63,9 @@ O jogo foi desenvolvido pela [Cooply Solutions](https://www.cooply.com/) e está
 %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/mr_massagy.jpg" %}
-
-### Mr. Massagy {#mr-massagy}
+{% include thumb-heading.html 
+  title="Mr. Massagy" subtitle="Green Lava Studios"
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/mr_massagy.jpg" %}
 
 Este é até que é um jogo bem feitinho visualmente, porém, sua proposta de jogo não é das melhores! Ao menos não faz sentido para mim. Seu objetivo é ser "bom de lábia" com mulheres solteiras para conseguir uma recompensadora massagem! E sim, o controle vibra para simular a massagem! :D
 
@@ -87,10 +84,9 @@ Desenvolvido pela [Green Lava Studios](https://www.greenlavastudios.com/), o jog
   ondeComprarLink="https://www.playstation.com/en-us/games/mr-massagy-ps4/" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_cycle.jpg" %}
-
-### Energy Cycle {#energy-cycle}
+{% include thumb-heading.html 
+  title="Energy Cycle" subtitle=""
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/energy_cycle.jpg" %}
 
 Um jogo de puzzle onde seu objetivo é deixar todas "bolinhas" da mesma cor. Funciona assim: ao clicar em uma bolinha, ela muda de cor e também muda as cores das bolinhas adjacentes na vertical e horizontal. Parace fácil no começo, mas conforme o desafio vai aumentando, vai ficando complicado. Caso você só esteja interessado na platina, recomendo seguir um [guia](https://psnprofiles.com/guide/7820-energy-cycle-trophy-guide) e assim poderá obter a platina em menos de 30 minutos.
 
@@ -112,12 +108,11 @@ O jogo tem 3 modos: Puzzle mode, Time attack e Infinity layer. Todos eles seguem
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_balance.jpg" %}
+{% include thumb-heading.html 
+  title="Energy Balance" subtitle=""
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/energy_balance.jpg" %}
 
-### Energy Balance {#energy-balance}
-
-Mais um jogo da série "Energy", porém esse é mais díficil e meio controverso no quesito "fácil de platinar". Pois para se tornar fácil, você terá que "burlar o sistema" e usar um programa para resolver os puzzles para você. Entretanto, não é tão simples quanto parece, pois a cada desafio, você terá que modificar o código-fonte deste [software](https://github.com/xuyiqi/EnergyBalance) para ele te dar o resultado, pois os desafios do jogo são aleatórios. Então, caso você não tenha muita familiaridade com programação, isso pode ser tornar um desafio ainda maior do que o do próprio jogo. :)
+Mais um jogo da série "Energy", porém esse é mais díficil e meio controverso no quesito "fácil de platinar". Pois para se tornar fácil, você terá que "burlar o sistema" e usar um programa para resolver os puzzles para você. Entretanto, não é tão simples quanto parece, pois a cada desafio, você terá que modificar o código-fonte deste [software](https://github.com/xuyiqi/EnergyBalance) para ele te dar o resultado, pois os desafios do jogo são aleatórios. Então, caso você não tenha muita familiaridade com programação, isso pode ser tornar um desafio ainda maior do que o do próprio jogo. 🙂
 
 Mas caso se interesse, [aqui tem um tutorial](https://www.playstationtrophies.org/forum/energy-balance/316832-energy-balance-how-download-use-solver.html) de como usar o programa e tudo mais.
 
@@ -133,10 +128,9 @@ Mas caso se interesse, [aqui tem um tutorial](https://www.playstationtrophies.or
   obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_invasion.jpg" %}
-
-### Energy Invasion {#energy-invasion}
+{% include thumb-heading.html 
+  title="Energy Invasion" subtitle=""
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/energy_invasion.jpg" %}
 
 Outro da série "Energy", porém esse não tem nada de puzzles. Ele é meio que um clone do [Breakout](http://blogtectoy.com.br/conheca-breakout-o-classico-jogo-desenvolvido-por-steve-jobs-para-atari/), onde você tem que destruir todos os blocos rebatendo uma bolinha (ou várias) com sua barra (que neste caso não é bem uma barra, sei lá o que é aquilo), sem deixar que a bolinha caia.
 
@@ -154,10 +148,9 @@ Para platinar, você tem chegar nos níveis correspondentes de cada modo, são t
   obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/puzzle_showdown_4k.jpg" %}
-
-### Puzzle Showdown 4K {#puzzle-showdown-4k}
+{% include thumb-heading.html 
+  title="Puzzle Showdown 4K" subtitle=""
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/puzzle_showdown_4k.jpg" %}
 
 Esse não tem muito segredo, basta você montar os quebra-cabeças! Sim, esse é um jogo de montar quebra-cabeças literalmente. Ah, você irá precisar de dois controles, pois tem alguns troféus de multiplayer local. Mas basta plugar o segundo controle e jogar normalmente só com o primeiro.
 
@@ -174,10 +167,9 @@ Mas caso você tenha alguém para jogar contigo, o jogo se torna bem mais fácil
   ondeComprarLink="https://store.playstation.com/en-us/product/UP3493-CUSA07861_00-PUZZLECHAMPHD000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/my_name_is_mayo.jpg" %}
-
-### My Name Is Mayo {#my-name-is-mayo}
+{% include thumb-heading.html 
+  title="My Name is Mayo" subtitle=""
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/my_name_is_mayo.jpg" %}
 
 Fiquei na dúvida de qual jogo eu elegeria como pior jogo desta lista. E este escapou só porque, apesar do seu propósito ser rídiculo, o "acabamento" dele é melhor, pois teve um trabalho artistíco e tudo mais.
 
@@ -194,10 +186,9 @@ Mas como eu disse, o propósito deste "jogo" é rídiculo, pois tudo que você t
   ondeComprarLink="https://store.playstation.com/en-us/product/UP0307-CUSA06397_00-MYNAMEISMAYO0000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/13_cacadores_trofeus3/little_adventure_on_the_prairie.jpg" %}
-
-### Little Adventure on the Prairie {#little-adventure-prairie}
+{% include thumb-heading.html id="little-adventure-prairie"
+  title="Little Adventure on the Prairie" subtitle=""
+  thumb="/imgs/posts/toplist/13_cacadores_trofeus3/little_adventure_on_the_prairie.jpg" %}
 
 Eis o jogo "campeão" desta lista! Imagine que você está aprendendo a desenvolver jogos, aí quando você começa a "brincar" um pouco com movimentação de personagens, controle de colisão, um pouco de inteligência artificial e faz um "projetinho" para explorar seus conhecimentos. Bom, talvez, o seu projeto fique melhor acabado do que esse jogo! É sério! Veja por si só:
 
@@ -205,7 +196,7 @@ Eis o jogo "campeão" desta lista! Imagine que você está aprendendo a desenvol
 
 O lado bom é que dá para conquistar a platina em apenas 15 minutos! Inclusive, a desenvolvedora do jogo, [Infinite Madaa](https://www.infinitemadaa-studios.com/), disse em uma [entrevista](https://psxbrasil.com.br/noticias/estudio-independente-diz-que-platina-facil-de-little-adventure-on-the-prairie-ajudou-nas-vendas/) que a platina fácil ajudou a alavancar as vendas do jogo, possibilitando o investimento num outro jogo melhor no futuro. Mas sejamos sinceros, será que essa estratégia é boa? Para mim, esse estúdio já está mais do que queimado e dificilmente sairá coisa boa de lá!
 
-Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenha interesse! :D
+Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenha interesse! 😅
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=7 pratas=8 bronzes=6
@@ -220,4 +211,4 @@ Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenh
 
 ---
 
-E é isso! Esses foram os piores jogos (por enquanto) que "enfrentei" só por causa dos seus troféus fáceis. Agora, se você não curte troféus ou quer manter sua dignidade, essa lista servirá para você ficar ciente dos jogos que deve passar bem longe! :D
+E é isso! Esses foram os piores jogos (por enquanto) que "enfrentei" só por causa dos seus troféus fáceis. Agora, se você não curte troféus ou quer manter sua dignidade, essa lista servirá para você ficar ciente dos jogos que deve passar bem longe! 😁

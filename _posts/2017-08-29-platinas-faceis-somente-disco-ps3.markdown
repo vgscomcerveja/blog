@@ -21,10 +21,9 @@ Aqui pretendo indicar alguns jogos bons (ou quase isso ^^') que possuem troféus
 Mas não serão somente os troféus fáceis que pintarão por aqui, a ideia é falar dos mais variados jogos, porém com uma ênfase maior em seus achievements! E para começar, vamos com os fáceis: 3 jogos para PS3 tranquilos de platinar, porém, infelizmente, você só os encontra em mídia física (disco):
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/09_cacadores_trofeus1/terminator_salvation.jpg" %}
-
-### Terminator Salvation
+{% include thumb-heading.html 
+  title="Terminator Salvation" subtitle="2009, Evolved Games"
+  thumb="/imgs/posts/toplist/09_cacadores_trofeus1/terminator_salvation.jpg" %}
 
 Não poderia deixar de começar esta série se não fosse com este jogo, "clássico absoluto" entre os caçadores de troféus! **Terminator Salvation** possui esta fama, pois todos seus troféus são de ouro e todos eles são relacionados à história do jogo. Entretanto, tem somente UM troféu que você tem que se atentar antes de começar a jogar, senão vai ter que zerar novamente. É o troféu **Veteran Commander**, onde para conquista-lo você deve terminar o jogo no modo difícil (Hard), que de difícil não tem nada! Mas a grande dificuldade mesmo é joga-lo até o final, porque o jogo não é lá essas coisas!
 
@@ -45,10 +44,9 @@ Bom, só o fato de ser um jogo baseado em filme já diz muita coisa, né? Mas no
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/09_cacadores_trofeus1/jurassic_the_hunted.jpg" %}
-
-### Jurassic: The Hunted
+{% include thumb-heading.html 
+  title="Jurassic: The Hunted" subtitle="2009, Activision"
+  thumb="/imgs/posts/toplist/09_cacadores_trofeus1/jurassic_the_hunted.jpg" %}
 
 Este é meio que desconhecido por muita gente, eu mesmo, só soube de sua existência devido sua facilidade de obtenção do troféu de platina.
 
@@ -79,10 +77,9 @@ Tirando isso, os outros trofeús não tem segredo nenhum, são basicamente relac
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/09_cacadores_trofeus1/mib_alien_crisis.jpg" %}
-
-### MIB: Alien Crisis
+{% include thumb-heading.html 
+  title="MIB: Alien Crisis" subtitle="2012, Activision"
+  thumb="/imgs/posts/toplist/09_cacadores_trofeus1/mib_alien_crisis.jpg" %}
 
 Tivemos robôs exterminadores, dinossauros e agora para finalizar, alienígenas.. só ficou faltando zumbis! :o)
 

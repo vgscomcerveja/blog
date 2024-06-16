@@ -40,89 +40,71 @@ Depois que ganhei o meu PS1 e descobri como fazer minhas cópias "legítimas", o
 Pois bem, confira a lista:
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/banjo.jpg" %}
-
-### Banjo-Kazooie e Banjo-Tooie
-##### Nintendo 64
+{% include thumb-heading.html 
+  title="Banjo-Kazooie e Banjo-Tooie" subtitle="Nintendo 64"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/banjo.jpg" %}
 
 A **Rare** era praticamente sinônimo de **Nintendo** desde à época do Super Nintendo, mas foi no Nintendo 64 que a empresa desencantou em lançar jogos e, o melhor, jogos bons!
 
 E a série Banjo é uma delas, um ótimo jogo de plataforma, mas que eu nunca cheguei à jogar! :(
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/donkey-kong-64.jpg" %}
-
-### Donkey Kong 64
-##### Nintendo 64
+{% include thumb-heading.html 
+  title="Donkey Kong 64" subtitle="Nintendo 64"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/donkey-kong-64.jpg" %}
 
 Outro jogo da **Rare** e, novamente de plataforma! Este eu sempre quis jogar só por ser simplesmente **Donkey Kong**. Gosto demais da trilogia do Super Nintendo (também da Rare), e tenho certeza se este não corresponde à altura deles, mas como foi bem recebido pelas críticas, então está na lista!
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/crash.jpg" %}
-
-### Série Crash Bandicoot
-##### PlayStation
+{% include thumb-heading.html 
+  title="Série Crash Bandicoot" subtitle="PlayStation"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/crash.jpg" %}
 
 Outra série de plataforma, porém agora para PS1! Desenvolvido pela **Naughty Dog**, Crash quase se tornou o mascote do PlayStation, pois era muito carismático e divertido.
 
 Eu até cheguei à jogar os três jogos, mas não lembro de ter finalizado nenhum deles. O bom é que recentemente, saiu para o PS4 a trilogia totalmente remasterizada: [Crash Bandicoot N. Sane Trilogy](https://www.playstation.com/pt-br/games/crash-bandicoot-n-sane-trilogy-ps4/), que no qual pretendo jogar! :)
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/final-fantasy.jpg" %}
-
-### Final Fantasy VII, VIII e IX
-##### PlayStation
+{% include thumb-heading.html 
+  title="Final Fantasy VII, VIII e IX" subtitle="PlayStation"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/final-fantasy.jpg" %}
 
 RPG nunca foi meu gênero favorito, são poucos os jogos que me chamam atenção. Entretanto, alguns eu quero jogar até o final e, estes três Final Fantasy's do PS1 são alguns deles. Eu até cheguei a jogar os três, mas nunca cheguei ao final de nenhum.. batalhas aleatórias são um saco! :(
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/parasite-eve.jpg" %}
-
-### Série Parasite Eve
-##### PlayStation
+{% include thumb-heading.html 
+  title="Série Parasite Eve" subtitle="PlayStation"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/parasite-eve.jpg" %}
 
 Esta série da **Squaresoft** me chamou muita atenção na época, pois era um RPG diferente, era um "RPG estilo Resident Evil", pensava eu. E como adorava RE, tive que jogar. Fiquei fascinado pelo jogo, porém era muito díficil.. Lembro-me de ter enroscado no chefão final de Parasite Eve 2 e depois nunca mais ter jogado, uma pena! Quem sabe um dia?
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/zelda.jpg" %}
-
-### The Legend of Zelda: Ocarina of Time e Majora's Mask
-##### Nintendo 64
+{% include thumb-heading.html 
+  title="The Legend of Zelda: Ocarina of Time e Majora's Mask" subtitle="Nintendo 64"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/zelda.jpg" %}
 
 Como sempre a série **The Legend of Zelda** está presente na lista. E não tem muito o que dizer.. os dois jogos para Nintendo 64 são considerados por muitos os melhores da série. Alguns ainda, apontam como os melhores jogos de todos os tempos. Tenho minhas dúvidas, por isso tenho que conferir! :)
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/goldeneye-007.jpg" %}
-
-### 007 Goldeneye
-##### Nintendo 64
+{% include thumb-heading.html 
+  title="007 Goldeneye" subtitle="Nintendo 64"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/goldeneye-007.jpg" %}
 
 Eu era do "Team PlayStation" na época e sempre sentia inveja dos "Nintendistas" quanto a esse jogo. Tínhamos Medal of Honor, mas não tínhamos o divertido multiplayer com a tela dividida em quatro partes.. que cheguei a brincar algumas vezes. Desde então, tenho a curiosidade de saber como é a campanha principal do jogo.
 
 Já ouvi muita gente dizer que não vale a pena rejoga-lo pois envelheceu muito mau, mas como sou meio teimoso, preciso conferir para tirar essa conclusão. Digo isso, porque um tempinho atrás [rejoguei Medal of Honor](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html) e consegui me divertir tanto quanto na época! ;P
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/super-mario-64.jpg" %}
-
-### Super Mario 64
-##### Nintendo 64
+{% include thumb-heading.html 
+  title="Super Mario 64" subtitle="Nintendo 64"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/super-mario-64.jpg" %}
 
 Apesar de me interessar mais por jogos do gênero de aventura ao estilo de Tomb Raider, Mario 64 era outro jogo que eu sentia uma invejinha de quem tinha N64. Adoro [Super Mario World](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html) do Super Nintendo e, é um pecado gamístico gigante não ter jogado para valer Super Mario 64, concorda? Até porque, essa aventura do Mario também é considerada por muitos o melhor da série!
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/tomb-raider-2.jpg" %}
-
-### Tomb Raider II
-##### PlayStation
+{% include thumb-heading.html 
+  title="Tomb Raider II" subtitle="PlayStation"
+  thumb="/imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/tomb-raider-2.jpg" %}
 
 Muitos podem pensar, "nossa Tomb Raider 2 é o seu maior pecado gamístico da quinta geração?" Pois é, quem é realmente fã da série irá me entender, até porque muitos deles consideram este, o melhor da série clássica e eu ainda não terminei! :(
 

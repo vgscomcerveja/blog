@@ -18,10 +18,9 @@ Mas como não é só de Telltale que vivem os adventures, selecionei 6 deles que
 
 <!--more-->
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/11_cacadores_trofeus2/deponia.jpg" %}
-
-### Deponia {#deponia}
+{% include thumb-heading.html 
+  title="Deponia" subtitle="Deadalic Entertainment"
+  thumb="/imgs/posts/toplist/11_cacadores_trofeus2/deponia.jpg" %}
 
 [Deponia](http://www.deponia.de/depo1/en/) é um daqueles jogos que vai te fazer quebrar bastante a cabeça para poder avançar no jogo. Você terá que
 explorar vários cenários, recolher e combinar itens, conversar com muita gente, associar uma coisa à outra para enfim, progredir!
@@ -50,10 +49,9 @@ se preocupar com os troféus a primeiro momento, para depois voltar em cada ato 
   jogadas="1" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/11_cacadores_trofeus2/the-bunker.jpg" %}
-
-### The Bunker {#the-bunker}
+{% include thumb-heading.html 
+  title="The Bunker" subtitle="2016, Splendy Games"
+  thumb="/imgs/posts/toplist/11_cacadores_trofeus2/the-bunker.jpg" %}
 
 Neste adventure em FMV (Full Motion Video), você assume o papel de John, um jovem que praticamente
 nasceu e cresceu dentro de um bunker (abrigo subterrâneo) durante uma guerra nuclear. Inicialmente,
@@ -86,10 +84,9 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/11_cacadores_trofeus2/the-little-acre.jpg" %}
-
-### The Little Acre {#the-little-acre}
+{% include thumb-heading.html 
+  title="The Little Acre" subtitle="2016, Pewter Games Studio"
+  thumb="/imgs/posts/toplist/11_cacadores_trofeus2/the-little-acre.jpg" %}
 
 Esse jogo conta uma história quase simultânea de Aiden e sua filha Lily que investigam o paradeiro
 do pai de Aiden, que está desaparecido. Digo "quase simultânea", pois você controlará os dois personagens (Aiden e Lily)
@@ -120,10 +117,9 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/11_cacadores_trofeus2/late-shift.jpg" %}
-
-### Late Shift {#late-shift}
+{% include thumb-heading.html 
+  title="Late Shift" subtitle="2017, CtrlMovie"
+  thumb="/imgs/posts/toplist/11_cacadores_trofeus2/late-shift.jpg" %}
 
 Outro jogo ao estilo FMV focado na narrativa, porém ao contrário de **The Bunker**, este possui muitas decisões à serem tomadas e que
 resultam em até sete finais diferentes, o que te instiga a jogá-lo novamente.
@@ -153,10 +149,9 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/11_cacadores_trofeus2/dying-reborn.jpg" %}
-
-### Dying: Reborn {#dying-reborn}
+{% include thumb-heading.html 
+  title="Dying: Reborn" subtitle="2017, Nekcom"
+  thumb="/imgs/posts/toplist/11_cacadores_trofeus2/dying-reborn.jpg" %}
 
 [Dying: Reborn](https://www.nekcomgames.com/page-dying-reborn) não foi muito bem recebido pela crítica, mas eu até que me diverti um pouco com ele. No papel de Mathew, seu objetivo é descobrir como fugir de uma casa misteriosa que na qual você acordou preso.
 
@@ -183,10 +178,9 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
     points="1000" %}
 
 
-{% include image.html heading="true"
-  url="/imgs/posts/toplist/11_cacadores_trofeus2/demetrios.jpg" %}
-
-### Demetrios: The Big Cynical Adventure {#demetrios}
+{% include thumb-heading.html id="demetrios" 
+  title="Demetrios: The Big Cynical Adventure" subtitle="2017, Cowcat"
+  thumb="/imgs/posts/toplist/11_cacadores_trofeus2/demetrios.jpg" %}
 
 Por fim, o jogo com a história mais bizarra da lista! Contada com um humor bem peculiar, conhecida como [humor de banheiro](https://en.wikipedia.org/wiki/Toilet_humour), a história tem como protagonista Bjorn Thonen, um vendedor de antiguidades que tem uma de suas peças furtadas e que resolve investigar o porquê somente ela foi roubada, pois não tinha muito valor, porém acaba descobrindo muito mais do que isso.
 
@@ -215,9 +209,9 @@ Tirando isso, os outros troféus são bem tranquilos, bastando dar uma olhada ne
 
 ---
 
-E é isso! Você curte jogos deste estilo? O que achou da lista? Comentem! :)
+E é isso! Você curte jogos deste estilo? O que achou da lista? Comentem! 😀
 
-O próximo post da série **Game Trofista** será sobre jogos verdadeiramente ruins, que dá até vergonha de
+O próximo post da série **Gametrofista** será sobre jogos verdadeiramente ruins, que dá até vergonha de
 ter jogado! Aguardem! rs
 
 Abraço.

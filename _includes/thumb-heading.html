@@ -1,0 +1,18 @@
+{% assign img = include.thumb | split: "." | first %}
+
+<picture>
+  <source type="image/webp" srcset="{{ img }}.webp">
+  <img src="{{ include.thumb }}" alt="{{ include.title }}" style="margin: 75px 0 10px">
+</picture>
+
+<h2 
+  {% if include.id %}
+    id="{{ include.id }}"
+  {% else %}
+    id="{{ include.title | slugify }}"
+  {% endif %}>
+  {{ include.title }}
+</h2>
+{% if include.subtitle %}
+  <h5>{{ include.subtitle }}</h5>
+{% endif %}

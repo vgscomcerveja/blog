@@ -42,28 +42,25 @@ Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamís
 Meu ano de 2015 foi encerrado jogando o primeiro jogo da trilogia remasterizada de Uncharted do console recém adquirido, o PS4. Sendo assim, 2016 não poderia ser iniciado de maneira diferente:
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/01_uncharted-2.jpg" heading="true" %}
-
-## Uncharted 2 (Remastered) {#uncharted-2}
-##### PlayStation 4
+{% include thumb-heading.html id="uncharted-2"
+  title="Uncharted 2 (Remastered)" subtitle="PlayStation 4" 
+  thumb="/imgs/posts/especial/04_meme2016/01_uncharted-2.jpg" %}
 
 O até então melhor jogo da série voltou ainda mais bonito graficamente na coletânea para PS4, mesmo não atingindo todo o poder do console (pois se trata de uma remasterização) o jogo é ótimo e vale muito a pena ser jogado, principalmente aqueles que ainda não conhecem a série. O mesmo vale para...
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/02_uncharted-3.jpg" heading="true" %}
-
-## Uncharted 3 (Remastered) {#uncharted-3}
-##### PlayStation 4
+{% include thumb-heading.html id="uncharted-3"
+  title="Uncharted 3 (Remastered)" subtitle="PlayStation 4" 
+  thumb="/imgs/posts/especial/04_meme2016/02_uncharted-3.jpg" %}
 
 ..que também está presente na coletânea **Uncharted: The Nathan Drake Collection**! Não sou muito fã de remasterizações, principalmente de jogos da geração passada, mas como sou muito fã da série, gostei! Pegar as três novas platinas foi uma ótima desculpa para rejogar a série! ^^'
 
 Leia mais em: [Análise - Uncharted: The Nathan Drake Collection](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/03_lara-croft-go.jpg" heading="true" %}
-
-## Lara Croft GO {#lara-croft-go}
-##### Android / PS Vita
+{% include thumb-heading.html
+  title="Lara Croft GO" subtitle="Android / PS Vita"
+  thumb="/imgs/posts/especial/04_meme2016/03_lara-croft-go.jpg" %}
 
 E por falar em séries que sou fã, Tomb Raider também entra na lista! Só que desta vez, a musa _Lara Croft_ está numa aventura um pouco diferente. [Lara Croft GO](http://www.laracroftgo.com/) foi uma ótima experiência mobile que tive este ano, um jogo voltado totalmente para os puzzles, foi um ótimo passatempo que devorei em dias!
 
@@ -72,10 +69,9 @@ Joguei a versão de Android no começo do ano e quando saiu a versão para o PS 
 Leia mais em: [Análise - Lara Croft GO](/jogando/analise/2016/12/07/analise-lara-croft-go.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/25_horizon-chase.jpg" heading="true" %}
-
-## Horizon Chase {#horizon-chase}
-##### Android
+{% include thumb-heading.html
+  title="Horizon Chase" subtitle="Android"
+  thumb="/imgs/posts/especial/04_meme2016/25_horizon-chase.jpg" %}
 
 Outra experiência interessante com mobile foi com o excelente jogo de corrida [Horizon Chase](http://www.horizonchase.com/), que trouxe muita nostalgia à nós brasileiros (principalmente) com a jogabilidade, gráficos e trilha sonora fortementes inspirados nos clássicos dos 16-bits: Out Run e Top Gear.
 
@@ -84,28 +80,25 @@ O jogo é nacional e foi desenvolvido pela [Aquiris Game Studio](http://www.aqui
 Ainda não terminei o jogo, mas mesmo assim recomendo com toda certeza!
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/04_house-of-dead.jpg" heading="true" %}
-
-## The House of the Dead: Overkill {#house-dead-overkill}
-##### Wii
+{% include thumb-heading.html id="house-dead-overkill" 
+  title="The House of the Dead: Overkill" subtitle="Wii"
+  thumb="/imgs/posts/especial/04_meme2016/04_house-of-dead.jpg" %}
 
 Em 2016, resolvi tirar poeira do meu Wii e tomar vergonha na cara e jogar seus jogos. Comecei pelo divertido **The House of the Dead: Overkill**, um _rail shooter_ de primeira! Para quem não sabe, _rail shooters_ são aqueles jogos de tiro em 1ª pessoa que você não movimenta o personagem, só atira! Ele percorre seu caminho pré-determinado automaticamente e enquanto isso, você tem que "meter bala" em tudo! E os controles de movimento do Wii são perfeitos para esse tipo de jogos, ainda mais se você tiver o suporte **Wii Zapper** que simula uma arma!
 
 O jogo tem uma pegada daquelas paródias de filmes de terror dos anos 80. Com bastante humor, ação e uma boa trilha sonora, o jogo te empolga para encher de balas os zumbis! Bem divertido!
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/05_jurassic-park.jpg" heading="true" %}
-
-## Jurassic Park: The Game {#jurassic-park}
-##### PlayStation 3
+{% include thumb-heading.html id="jurassic-park"
+  title="Jurassic Park: The Game" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/04_meme2016/05_jurassic-park.jpg" %}
 
 2016 também foi o ano que resolvi dar uma chance aos jogos de aventura estilo _point-and-click_, que particularmente não são os meus favoritos! Mas confesso que essa chance só surgiu porque, não sei porque raios, estava empolgado com a temática Jurassic Park, pois tinha acabado de descobrir que existia um livro que deu origem ao filme (sim, eu confesso, desconhecia sua existência). Li o livro, depois assisti os filmes e queria mais.. Daí lembrei que eu tinha esse jogo no meu PS3, resolvi experimentar.. E não é que gostei, ele conta uma história original que ocorre paralalemente à história do filme, bem legal! O jogo é da **Telltale**, uma desenvolvedora que é especialista neste tipo de jogo!
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/06_resident-evil.jpg" heading="true" %}
-
-## Resident Evil {#resident-evil}
-##### PlayStation
+{% include thumb-heading.html 
+  title="Resident Evil" subtitle="PlayStation"
+  thumb="/imgs/posts/especial/04_meme2016/06_resident-evil.jpg" %}
 
 [Em 2015](/post/meme-o-que-voce-jogou-em-2015) eu havia terminado a campanha da Jill. Em 2016, retomei e terminei a campanha com o Chris. E só tenho uma coisa à dizer: clássico absoluto! Eu adorava esse jogo na época, e confesso que fiquei com um pouco de receio de rejogá-lo por muitos dizerem que o jogo envelheceu mau, mas não achei nada disso! Pode até ser a nostalgia falando mais alto, mas e daí, o que importa é se divertir, certo? :)
 
@@ -114,46 +107,41 @@ Meta 2017: terminar o remake de GameCube e depois a versão de PS3/PS4!
 **Leia mais:** [Análise - Resident Evil (PS1)](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/07_sound-shapes.jpg" heading="true" %}
-
-## Sound Shapes {#sound-shapes}
-##### PS Vita
+{% include thumb-heading.html
+  title="Sound Shapes" subtitle="PS Vita"
+  thumb="/imgs/posts/especial/04_meme2016/07_sound-shapes.jpg" %}
 
 Tá, eu confesso.. só dei uma chance à esse jogo por causa dos seus troféus! Mas não é que o jogo é divertido! No controle de uma "bolinha" (parecida com aquelas de aumentar/diminuir o som do seu CD Player), você deve atravessar vários cenários coletando notas musicais. Sua mecânica de jogo e design de fase são bastantes simples e, ao mesmo tempo, elaborados. O jogo se torna viciante, principalmente se adicionarmos sua trilha sonora, que é toda a essência do jogo, pois ela meio que dita seu avanço na fase.
 
 Em tempo ainda, sobre o troféus.. eles não são tão fáceis assim! Para você ter uma ideia, você só consegue o primeiro deles terminando o jogo. Os outros são ganhos quando você termina cada capítulo dos dois modos extras que abrem ao final! Mas sabe porque esse jogo é procurado pelos caçadores de troféus? Simples, ele é _cross-play_ entre o PS Vita, PS3 e PS4, ou seja, você pode começar a jogar em uma plataforma, salvar e continuar em outra. Tá, mas e daí? E daí que o jogo possui sistema de troféus independentes, ou seja, pegou a platina no PS Vita, salve e carregue o save no PS3 e você ganhará outra platina, mesma coisa no PS4. Sendo assim, se você tiver os três videogames, serão três platinas terminando apenas o jogo uma vez! ;)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/08_the-order-1886.jpg" heading="true" %}
-
-## The Order 1886 {#the-order-1886}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="The Order 1886" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/08_the-order-1886.jpg" %}
 
 Este não joguei por causa dos troféus, mas descobri que tem platina considerada fácil! Bom, o jogo se passa no ano 1886 e você é _Sir Galahad_ e faz parte da ordem dos cavaleiros do rei, mas devido à alguns acontecimentos paranormais (como aparecimento de lobisomens), maus entendidos e corrupções, você é banido da ordem e preso. Para não dar spoilers, vou resumir: o jogo é de ação/aventura em terceira-pessoa com uma jogabilidade boa e gráficos belíssimos. Apesar de não ser muito bem recebido pelas críticas, eu gostei! O jogo é exclusivo para PlayStation 4.
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/09_mgsv-tpp.jpg" heading="true" %}
-
-## Metal Gear Solid V: The Phantom Pain {#metal-gear-solid-v}
-##### Xbox 360
+{% include thumb-heading.html id="metal-gear-solid-v"
+  title="Metal Gear Solid V: The Phantom Pain" subtitle="Xbox 360"
+  thumb="/imgs/posts/especial/04_meme2016/09_mgsv-tpp.jpg" %}
 
 Este é um jogo que me decepcionou um pouco, talvez seja pela expectativa que tinha sobre ele pelo fato de ser um Metal Gear Solid. Mas não é que o jogo seja ruim, pelo contrário, ele é muito bom, mas tem um defeito que me incomoda bastante: por ser de mundo aberto, ele é repetitivo demais à ponto de não me empolgar em jogá-lo. Jogava no máximo uma missão por dia e abandonava, até que abandonei de vez (mas ainda pretendo voltar) quando lançou..
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/10_uncharted-4.jpg" heading="true" %}
-
-## Uncharted 4: A Thief's End {#uncharted-4}
-##### PlayStation 4
+{% include thumb-heading.html id="uncharted-4"
+  title="Uncharted 4: A Thief's End" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/10_uncharted-4.jpg" %}
 
 Sem sombras de dúvidas o melhor jogo que joguei em 2016! Ele não só atendeu, como superou todas minhas expectativas que tinha sobre ele. Até me programei para tirar férias do serviço no mesmo período de lançamento dele! :D
 
 **Leia mais:** [Análise - Uncharted 4: A Thief's End](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/11_guitar-hero-live.jpg" heading="true" %}
-
-## Guitar Hero Live {#guitar-hero-live}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Guitar Hero Live" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/11_guitar-hero-live.jpg" %}
 
 Depois de ter terminado Uncharted 4, **Guitar Hero Live** foi o jogo que me prendeu! Com uma guitarra e jogabilidade um pouco diferente do que estava acostumado na série, o jogo te coloca num verdadeiro show, pois não temos mais aquele visual cartunesco da série, agora é tudo _live action_! E o público e os outros membros da sua banda reagem de acordo com seu desempenho, bem legal!
 
@@ -164,80 +152,72 @@ O jogo possui dois modos: o Live, onde você toca em uma série de shows numa tu
 Se você gosta dos jogos da série, com certeza gostará deste!
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/12_walking-dead.jpg" heading="true" %}
-
-## The Walking Dead {#walking-dead}
-##### PS Vita
+{% include thumb-heading.html id="walking-dead"
+  title="The Walking Dead" subtitle="PS Vita"
+  thumb="/imgs/posts/especial/04_meme2016/12_walking-dead.jpg" %}
 
 Mais um _adventure point-and-click_ da **Telltale**, desta vez, o aclamado **The Walking Dead**, ganhador de vários prêmios de melhor jogo do ano de 2012! Eu sempre tinha curiosidade em experimentar este jogo, mas tinha um pé atrás por se tratar de um gênero de jogo que não sou muito fã. Mas depois de jogar o Jurassic Park, com certeza, esses tipos de jogos entrarão no meu _backlog_ (fila de jogos para jogar).
 
 Esse jogo ganhou vários prêmios pelo simples motivo: históra excepcional! Ela foi criada exclusivamente para jogo, ou seja, não existe nos quadrinhos, muito menos no seriado. Mas mesmo assim é envolvente! Tanto que terminei o primeiro jogo e já parti para o..
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/13_walking-dead-2.jpg" heading="true" %}
-
-## The Walking Dead: Season 2 {#walking-dead-2}
-##### PlayStation 4
+{% include thumb-heading.html id="walking-dead-2"
+  title="The Walking Dead: Season 2" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/13_walking-dead-2.jpg" %}
 
 Continuação direta do primeiro jogo, tanto que as decisões tomadas no primeiro jogo, influenciam o começo desta segunda trama! Mas no meu caso, tive um problema: como joguei o primeiro no PS Vita e o segundo no PS4, ele não conseguiu achar meu _save_ e comecei o segundo com decisões aleatórias do primeiro jogo! Mas nada que estrague o andamento do jogo!
 
 **Leia mais:** [Análise - The Walking Dead (Season 1 & 2)](/jogando/analise/2016/07/07/analise-the-walking-dead.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/14_grim-fandango.jpg" heading="true" %}
-
-## Grim Fandango Remastered {#grim-fandango}
-##### PS Vita
+{% include thumb-heading.html id="grim-fandango"
+  title="Grim Fandango Remastered" subtitle="PS Vita"
+  thumb="/imgs/posts/especial/04_meme2016/14_grim-fandango.jpg" %}
 
 Por falar em _adventure point-and-click_, depois de terminado os dois The Walking Dead, parti para um clássico absoluto dos PCs no final dos anos 90: **Grim Fandango**, que teve uma versão remasterizada em 2015! E para alegria dos assinantes da PS Plus, ele foi disponibilizado gratuitamente no começo do ano passado (2016).
 
 Eu ainda não cheguei a terminá-lo, mas o jogo é muito bom! Talvez a única coisa que me incomodou um pouco, é que às vezes, você fica perdido e tem que ir na base de tentativa e erro, o que acaba cansando um pouco! Mas o jogo está bem fiel ao original, inclusive foi mantida a mesma dublagem para o português da época, bem legal! Acho demais o sotaque do _Manny Calavera_ (personagem principal)! :)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/15_gone-home.jpg" heading="true" %}
-
-## Gone Home {#gone-home}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Gone Home" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/15_gone-home.jpg" %}
 
 Outro jogo disponibilizado gratuitamente pela PS Plus e mais um no estilo _adventure point-and-click_. Só que desta vez, eu não compreendi muito bem qual é do jogo, pois há um grande mistério no ar e você tem que resolvê-lo apenas investigando a mansão que na qual você mora ou deveria morar, pois não há mais ninguém em casa! Mas o fato é que cheguei ao final do jogo sem entender muito bem o que aconteceu por lá.. eu não sei se essa era a intenção do jogo ou se deixei passar alguma coisa pelo caminho! E olha, mesmo investigando tudo com calma, o jogo é bastante curto, em poucas horas você já termina!
 
 **Leia mais:** [Análise - Gone Home (PS4)](/jogando/analise/2016/09/27/analise-gone-home-ps4.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/16_cloudy.jpg" heading="true" %}
-
-## Cloudy with a Chance of Meatballs {#cloudy-chance-meatballs}
-##### PlayStation 3
+{% include thumb-heading.html id="cloudy-chance-meatballs"
+  title="Cloudy with a Chance of Meatballs" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/04_meme2016/16_cloudy.jpg" %}
 
 Se você conhece um pouco dos jogos que são fáceis de platinar, já deve ter pensado: "só jogou este por causa da platina, certo?". E a resposta é sim.. joguei por causa dos troféus! Mas devo confessar também que gosto destes jogos infantis, eles são ótimos para jogar de maneira casual!
 
 Baseado no filme "Tá Chovendo Hambúrguer", o jogo é um simples plataforma 3D voltado para o público infantil. E o mais legal: dá para jogar em co-op! 🙂
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/17_need-for-speed.jpg" heading="true" %}
-
-## Need for Speed {#need-for-speed}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Need for Speed" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/17_need-for-speed.jpg" %}
 
 O _reboot_ da série **Need for Speed** pode não ter agradado à todos! Mas como eu gosto da série, me diverti bastante com ele, mesmo sendo um pouco repetitivo! O jogo reuniu os melhores elementos que a série já teve, customização de carros, corridas em alta velocidade, fugas de polícias e um boa trama (tá.. razoável)!
 
 A jogabilidade (arcade) está aprimorada, sendo muito gostoso de pilotar os carros em alta velocidades. E o visual do jogo está impressionante, apesar que ele foi minha única base de jogos de corrida da geração!
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/18_dkc.jpg" heading="true" %}
-
-## Donkey Kong Country {#donkey-kong-country}
-##### Super Nintendo
+{% include thumb-heading.html 
+  title="Donkey Kong Country" subtitle="Super Nintendo"
+  thumb="/imgs/posts/especial/04_meme2016/18_dkc.jpg" %}
 
 Só uma coisa a se dizer: clássico absoluto! E rejogá-lo fazendo os 101% na companhia de velhos amigos e várias cervejas, não poderia ser melhor! :D
 
 **Leia mais:** [Análise - Donkey Kong Country (SNES)](/jogando/analise/2016/11/16/analise-donkey-kong-country-snes.html)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/19_dino-crisis-3.jpg" heading="true" %}
-
-## Dino Crisis 3 {#dino-crisis-3}
-##### Xbox
+{% include thumb-heading.html 
+  title="Dino Crisis 3" subtitle="Xbox"
+  thumb="/imgs/posts/especial/04_meme2016/19_dino-crisis-3.jpg" %}
 
 Para quem acompanha o blog sabe que no começo do ano passado [eu consegui um Xbox clássico](/colecionando/colecao-pessoal/2016/04/16/ultimas-aquisicoes-05.html) e um tempo depois, [peguei um dos jogos](/colecionando/colecao-pessoal/2016/08/09/ultimas-aquisicoes-06.html) que mais tinha curiosidade em jogar nele: **Dino Crisis 3**!
 
@@ -246,30 +226,27 @@ E que decepção! Eu já não esperava algo muito bom, pois conhecia por cima a 
 Mas não vou desistir.. ainda pretendo pegar para terminá-lo, só para ter certeza do quão ruim ele é! :D
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/20_silent-hill-2.jpg" heading="true" %}
-
-## Silent Hill 2 {#silent-hill-2}
-##### PlayStation 2
+{% include thumb-heading.html 
+  title="Silent Hill 2" subtitle="PlayStation 2"
+  thumb="/imgs/posts/especial/04_meme2016/20_silent-hill-2.jpg" %}
 
 Para compensar a péssima experiência com dinossauros no espaço, parti para pagar um [pecado gamístico](/jogando/toplist/2016/03/12/pecados-gamisticos-sexta-geracao.html) da sexta geração: **Silent Hill 2**!
 
 Considerado por muitos o melhor da franquia, SH2 traz um terror psicológico de primeira com inimigos icônicos, ou melhor, grotescos (como o _Pyramid Head_) e uma trilha sonora que com o uso de fones de ouvido, torna-se uma experiência única! Ainda pretendo escrever sobre ele por aqui, então vou deixar os detalhes para depois! :)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/21_dkc-returns.jpg" heading="true" %}
-
-## Donkey Kong Country Returns {#dkc-returns}
-##### Wii
+{% include thumb-heading.html id="dkc-returns"
+  title="Donkey Kong Country Returns" subtitle="Wii"
+  thumb="/imgs/posts/especial/04_meme2016/21_dkc-returns.jpg" %}
 
 Por falar em jogo bom.. Que jogo é esse? Depois de ter jogado o DKC de SNES com meus amigos, bateu uma vontade de jogar este no Wii.. E quando comecei, fiquei me perguntando: porque eu não ainda não tinha jogado esse jogo antes descentemente? Eu só tinha experimentado as primeiras fases.
 
 Que delícia de jogo, ele pegou tudo o que o DKC tinha de bom (jogabilidade, trilha sonora, etc) e adicionou o uso dos controles de movimentos do Wii na medida certa, nada que torne a jogatina cansativa ou chata como vários jogos de Wii! Este jogo também merece um review.. então aguarde! :)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/22_hitman-go.jpg" heading="true" %}
-
-## Hitman GO: Definitive Edition {#hitman-go}
-##### PS Vita
+{% include thumb-heading.html id="hitman-go"
+  title="Hitman GO: Definitive Edition" subtitle="PS Vita"
+  thumb="/imgs/posts/especial/04_meme2016/22_hitman-go.jpg" %}
 
 Este jogo é dos mesmos criadores de Lara Croft GO, aliás, este veio antes! A ideia é praticamente a mesma, porém tem uma "pegada" como se fosse jogo de tabuleiro, onde os personagens são as peças e se movem como tal. Além disso, você agora assume o papel de um assassino, e você deve cumprir seu objetivo sem chamar muita a atenção dos seus inimigos. O jogo possui alguns recursos diferentes que convém ao caso, como usar latas para distrair inimigos ou então usar mesmas roupas que eles para usar como disfarce e passar despercebido!
 
@@ -278,10 +255,9 @@ Além disso, cada fase possuem 3 desafios variados, um deles é o de simplesment
 Assim como Lara Croft GO, as fases são bem criativas.. vicia! :)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/23_the-last-guardian.jpg" heading="true" %}
-
-## The Last Guardian {#last-guardian}
-##### PlayStation 4
+{% include thumb-heading.html id="last-guardian"
+  title="The Last Guardian" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/04_meme2016/23_the-last-guardian.jpg" %}
 
 Eu só costumo comprar jogos no lançamento quando o jogo é quase certo que me agradará, como foi o caso de Uncharted 4. Com **The Last Guardian** eu não pretendia fazer isso, mas acabei fazendo, e até agora está sendo um caso de amor e ódio. Eu não sei como explicar, o jogo é lindo, você tem ajudar Trico (aquele cachorro-gato-galinha gigante) a chegar não sei onde ainda, passando por várias ruínas resolvendo _puzzles_ que na maioria das vezes você depende do Trico. Mas o que acontece é que às vezes, o Trico te tira do sério, porque ele simplesmente não faz o que você quer, você tem que praticamente domá-lo, pois ele é um animal selvagem e faz o que bem entende.
 
@@ -290,10 +266,9 @@ Mas se parar para analisar, talvez esta seja a grande sacada do jogo, pois quand
 _(Atualização!)_ **Leia mais:** [Análise - The Last Guardian](/post/analise-the-last-guardian)
 
 
-{% include image.html url="/imgs/posts/especial/04_meme2016/24_goof-troop.jpg" heading="true" %}
-
-## Goof Troop {#goof-troop}
-##### Super Nintendo
+{% include thumb-heading.html 
+  title="Goof Troop" subtitle="Super Nintendo"
+  thumb="/imgs/posts/especial/04_meme2016/24_goof-troop.jpg" %}
 
 E para finalizar, **Goof Troop**! Um clássico que joguei em co-op juntamente com meu irmão no fim de tarde do dia de Natal. Para quem não conhece, este é um jogo muito bacana para se jogar em dois. No papel de Pateta e/ou Max, você tem que salvar seu amigo Bafo das mãos dos piratas. O jogo é de aventura com altas doses de _puzzle_ que te fazem pensar bastante!
 

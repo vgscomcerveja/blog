@@ -18,10 +18,10 @@ Geralmente nestas promoções da Sony, eu sempre fico de olho nos jogos que são
 
 Bom, a promoção em questão é a [Essenciais](https://store.playstation.com/pt-br/category/9d01f039-7058-43e2-93c2-e462d977dc63/1), que promete uma economia de até 75% nos jogos e vai até o dia 17/11/2023. Sem mais delongas, segue a lista!
 
-{% include image.html url="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/esquadrao-51.jpg" heading="true" %}
 
-## Esquadrão 51 Contra os Discos Voadores
-##### Loomiarts / WhisperGames
+{% include thumb-heading.html 
+  title="Esquadrão 51 Contra os Discos Voadores" subtitle="Loomiarts / WhisperGames"
+  thumb="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/esquadrao-51.jpg" %}
 
 Este aqui está na minha lista de desejos da Steam desde quando soube da existência do desenvolvimento deste jogo, porém quando lançou a demo, descobri que meu notebook não teria capacidade de rodá-lo. Mas agora isso não é mais um problema, pois ele está disponível para os consoles também! 😍
 
@@ -36,10 +36,10 @@ Enfim, é um jogo que vale muito a pena ser jogado! Mas tem um detalhe que "peca
     link="https://store.playstation.com/pt-br/product/UP5997-CUSA31360_00-0502192421273084"
     spacebottom="true" %}
 
-{% include image.html url="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/kalinur.jpg" heading="true" %}
 
-## Kalinur
-##### Pixel vs Pixel / Penguin Pop Games LLC
+{% include thumb-heading.html 
+  title="Kalinur" subtitle="Pixel vs Pixel / Penguin Pop Games LLC"
+  thumb="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/kalinur.jpg" %}
 
 Um metroidvania brasileiro com visual retrô e com platina fácil? Quero para ONTEM! **Kalinur** é um jogo que apesar de ser feito por apenas uma pessoa, o Ronan Santos, apresenta um gameplay gostoso de jogar e um visual retrô minimalista bem caprichado. No jogo você controla um guerreiro com uma espada dentro de um castelo e deverá explorar diversas salas e derrotar alguns chefes! Tá, é um metroidvania curto e relativamente fácil? Sim! Mas acho que mesmo assim, vale muito a pena, pois além de ser baratinho, você apoia o desenvolvimento local e ainda se diverte. E como bônus, ganha uma platina nova para coleção!
 
@@ -50,10 +50,10 @@ Um metroidvania brasileiro com visual retrô e com platina fácil? Quero para ON
     link="https://store.playstation.com/pt-br/product/UP7103-PPSA16991_00-PPGKALINURPIXELS"
     spacebottom="true" %}
 
-{% include image.html url="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/kpp.jpg" heading="true" %}
 
-## Knights of Pen & Paper +1 Deluxier Edition
-##### Behold Studios / Plug In Digital
+{% include thumb-heading.html 
+  title=" Knights of Pen & Paper +1 Deluxier Edition" subtitle="Behold Studios / Plug In Digital"
+  thumb="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/kpp.jpg" %}
 
 Esse eu acabei não pegando na promoção, mas mesmo assim gostaria de deixar como dica pois é um baita jogo legal, ainda mais para quem curte RPGs de mesa. De mesa? Isso mesmo que você imaginou... Esse é um jogo onde você joga RPG de mesa virtualmente! 🤯
 
@@ -68,10 +68,10 @@ O jogo foi lançado originalmente em 2012 para as plataformas mobile e PC. Essa 
     link="https://store.playstation.com/pt-br/product/UP1309-CUSA11957_00-KNIGHTSPENPAPER1"
     spacebottom="true" %}
 
-{% include image.html url="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/skatemasta-tcheco.jpg" heading="true" %}
 
-## Skatemasta Tcheco
-##### Marcelo Barbosa / EastAsiaSoft
+{% include thumb-heading.html 
+  title="Skatemasta Tcheco" subtitle="Marcelo Barbosa / EastAsiaSoft"
+  thumb="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/skatemasta-tcheco.jpg" %}
 
 Esse não estava na minha lista, mas navegando pelo jogos da promoção me deparei com ele e logo não resisti! Trata-se de um jogo plataforma estilo 8-bits, onde você controla o skatista Tcheco. Repleto de humor, o jogo conta com rolagem automática da tela, onde é necessário pensar rápido para desviar dos obstáculos para progredir. Para complementar, é mais um jogo na lista que foi criado por uma pessoa só, o Marcelo Barbosa!
 
@@ -84,10 +84,9 @@ Bônus: se ficou curioso, você pode jogar uma [versão web do jogo](https://tch
     link="https://store.playstation.com/pt-br/product/UP2005-CUSA24070_00-SKATEMASTATCHECO"
     spacebottom="true" %}
 
-{% include image.html url="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/sophstar.jpg" heading="true" %}
-
-## Sophstar
-##### Banana Bytes / RED ART GAMES
+{% include thumb-heading.html 
+  title="Sophstar" subtitle="Banana Bytes / RED ART GAMES"
+  thumb="/imgs/posts/toplist/24_jogos-brasileiros-promocao-psn/sophstar.jpg" %}
 
 E para fechar a lista, mais um jogo de um desenvolvedor só e mais um jogo de navinha! **Sophstar** foi desenvolvido pelo brasileiro Rafael Lima, da **Banana Bytes** e distribuído pela [Red Art Games](https://www.redartgames.com/) nas versões de console. Trata-se de um shoot 'em up vertical de respeito, não deixando nada a desejar em relação à jogos de renome no estilo.
 

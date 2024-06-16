@@ -26,10 +26,9 @@ Como incentivo para ficarmos em casa durante essa quarentena (devido a pandemia 
 Bom, para começar, todos os jogos da série seguem praticamente o mesmo padrão de troféus, ou seja, é mais ou menos assim: zere na dificuldade mais díficil (demolidor ou crushing se tiver em inglês), mate "X" inimigos usando a arma "Y", encontre todos os tesouros escondidos, mate "X" inimigos com tiro na cabeça (headshot) e por aí vai... Entretanto, cada jogo tem suas particularidades, como por exemplo modo multiplayer com troféus incluídos na lista de troféus principal (obrigatórios para platina) ou se estão em lista separadas em DLCs (opcionais). Enfim, tentarei apontar os detalhes aqui, mas definitivamente **não é um guia detalhado**.
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/uncharted1_header.jpg" heading="true" %}
-
-## Uncharted: Drake's Fortune {#uncharted}
-##### PlayStation 3
+{% include thumb-heading.html id="uncharted"
+  title="Uncharted: Drake's Fortune" subtitle="PlayStation 3"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/uncharted1_header.jpg" %}
 
 O primeiro jogo da série saiu lá no final de 2007 e trouxe uma mudança radical no que a gente estávamos acostumados em ver no trabalho da [Naughty Dog](https://www.naughtydog.com/) (famosa pelo Crash Bandicoot no PS1), onde seu jogo deixou de ser cartunesco para ser algo mais realista!
 
@@ -42,20 +41,18 @@ Ah, o jogo foi lançado antes do sistema de troféus ter sido implementado pela 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=3 pratas=8 bronzes=36 %}
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/uncharted2_header.jpg" heading="true" %}
-
-## Uncharted 2: Among Thieves {#uncharted-2}
-##### PlayStation 3
+{% include thumb-heading.html id="uncharted-2"
+  title="Uncharted 2: Among Thieves" subtitle="PlayStation 3"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/uncharted2_header.jpg" %}
 
 Considerado por muitos o melhor da série no PS3, ele é um dos jogos que, infelizmente, estão **"implatináveis"** hoje em dia, pois ele possui dois troféus relacionados ao modo de multiplayer online que são requisitos para a platina e os [servidores estão desligados](https://www.naughtydog.com/blog/uncharted_the_last_of_us_multiplayer_ps3_offline_september_3_2019). O jogo também contou com dois pacotes de DLCs inteiramente focados no multiplayer que contavam com mais alguns troféus (mas que não eram obrigatórios para platina) que também estão desativados. Mas tirando isso, o jogo seguia mesmo esquema que o anterior, você tinha que zerar duas vezes, realizar as proezas e coletar todos os tesouros.
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=3 pratas=8 dlc_pratas=2 bronzes=36 dlc_bronzes=21 %}
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/uncharted3_header.jpg" heading="true" %}
-
-## Uncharted 3: Drake's Deception {#uncharted-3}
-##### PlayStation 3
+{% include thumb-heading.html id="uncharted-3"
+  title="Uncharted 3: Drake's Deception" subtitle="PlayStation 3"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/uncharted3_header.jpg" %}
 
 O último jogo lançado para o PS3 também está **"implatinável"**, pois assim como seu anterior, ele contava com dois troféus do modo multiplayer e os servidores também foram desligados. O jogo teve 5 DLCs com troféus, tornando ele o jogo com maior quantidade da série, porém todos eles de forma online.
 
@@ -66,10 +63,9 @@ Mas fique tranquilo que na versão de PS4, como você irá ver abaixo, ambos os 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=1 pratas=10 dlc_pratas=15 bronzes=43 dlc_bronzes=35 %}
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/unchartedga_header.jpg" heading="true" %}
-
-## Uncharted: Golden Abyss {#uncharted-golden-abyss}
-##### PS Vita
+{% include thumb-heading.html 
+  title="Uncharted: Golden Abyss" subtitle="PS Vita"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/unchartedga_header.jpg" %}
 
 A série também deu as caras no portátil **PS Vita**, porém desta vez, desenvolvida pela [Bend Studio](https://bendstudio.com/) (hoje conhecida pelo [Days Gone](https://bendstudio.com/games/days-gone/), outro exclusido da Sony). Eu até cheguei a escrever sobre ele [aqui no blog](/post/analise-uncharted-golden-abyss) e o que posso dizer é que, apesar de alguns detalhes, considero um ótimo jogo!
 
@@ -80,10 +76,9 @@ Você pode concluir 100% do jogo em mais ou menos **25 horas**.
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=2 pratas=5 bronzes=48 %}
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/unchartedndc_header.jpg" heading="true" %}
-
-## Uncharted: The Nathan Drake Collection {#uncharted-collection}
-##### PlayStation 4
+{% include thumb-heading.html id="uncharted-collection"
+  title="Uncharted: The Nathan Drake Collection" subtitle="PlayStation 4"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/unchartedndc_header.jpg" %}
 
 Um pouco antes do lançamento da continuação da trilogia, a Naughty Dog resolveu lançar a versão remasterizada, através do trabalho da [Bluepoint Games](https://www.bluepointgames.com/), dos três jogos do PS3 para o PS4 e todos eles em apenas um disco chamado de [Uncharted: The Nathan Drake Collection](/post/analise-uncharted-the-nathan-drake-collection). A ideia deles foi em trazer os jogos para aqueles que não tiveram a oportunidade de jogar no PS3. Eu como fã, achei ótimo e joguei todos eles novamente! :)
 
@@ -103,10 +98,9 @@ Mas, se você gosta de fazer 100%, os jogos contam com uma lista estendida opcio
     title="Uncharted 3: Drake's Deception Remastered" %}
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/uncharted4_header.jpg" heading="true" %}
-
-## Uncharted 4: A Thief's End {#uncharted-4}
-##### PlayStation 4
+{% include thumb-heading.html id="uncharted-4"
+  title="Uncharted 4: A Thief's End" subtitle="PlayStation 4"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/uncharted4_header.jpg" %}
 
 Agora sim, o ápice da série, até mesmo aqueles que não curtiram muitos os primeiros jogos, gostou desse! Eu particularmente, acho ele fantástico, um dos melhores jogos do console com toda certeza!
 
@@ -117,10 +111,9 @@ Para os completonistas que gostam de fazer 100%, você precisará conquistar os 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=1 pratas=9 dlc_pratas=1 bronzes=45 dlc_bronzes=11 %}
 
 
-{% include image.html url="/imgs/posts/toplist/18_platinando_uncharted/unchartedll_header.jpg" heading="true" %}
-
-## Uncharted: The Lost Legacy {#uncharted-lost-legacy}
-##### PlayStation 4
+{% include thumb-heading.html id="uncharted-lost-legacy"
+  title="Uncharted: The Lost Legacy" subtitle="PlayStation 4"
+  thumb="/imgs/posts/toplist/18_platinando_uncharted/unchartedll_header.jpg" %}
 
 Por fim, fazendo uso da mesma fórmula de Uncharted 4, temos o jogo que é meio que um _spin-off_ da série, pois não traz Nathan Drake como protagonista e, sim **Chloe Frazer** e sua parceira improvável, **Nadine Ross**. Mas não se deixe enganar, o jogo é fantástico também, você praticamente não sente falta nenhuma de Drake, as duas são tão carismáticas quanto.
 
@@ -136,4 +129,4 @@ Ah, só para finalizar: um bônus! Existe um jogo de cartas no PS Vita baseado n
 
 É isso aí, pode até ter ficado meio sem sentido falar de cada jogo, pois todos os jogos seguem praticamente a mesma linha de troféus, mas achei interessante falar deles por aqui ~~(porque sou fã e sempre gosto de falar da série)~~.
 
-Espero que tenha curtido! Mas antes de ir, me conte aí: o que você acha da série? Gosta de algum jogo? Já platinou algum? Tem alguma dica que você gostaria de compartilhar? Deixe nos comentários! :)
+Espero que tenha curtido! Mas antes de ir, me conte aí: o que você acha da série? Gosta de algum jogo? Já platinou algum? Tem alguma dica que você gostaria de compartilhar? Deixe nos comentários! 😉

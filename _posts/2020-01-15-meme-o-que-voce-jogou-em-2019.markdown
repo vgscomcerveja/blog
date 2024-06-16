@@ -15,20 +15,18 @@ Feliz 2020! Quem acompanha o blog já sabe: o primeiro post do ano é a presenç
 
 <!--more-->
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/super-metroid_cover.jpg" heading="true" %}
-
-## Super Metroid {#super-metroid}
-##### Super Nintendo (Classic Edition)
+{% include thumb-heading.html 
+  title="Super Metroid" subtitle="Super Nintendo (Classic Edition)"
+  thumb="/imgs/posts/especial/09_meme2019/super-metroid_cover.jpg" %}
 
 Apesar de já estarmos quase na metade de Janeiro e ainda não tive a oportunidade de jogar nenhum clássico (mas já tenho um em mente), gosto de jogar um game retrô logo no início do ano para já começar pagando os [pecados gamísticos](/pecados-gamisticos) que todos nós temos. E em 2019, eu tirei este peso-pesado da minha "lista da vergonha".
 
 **Super Metroid** é um clássico absoluto que acredito que nunca envelhecerá, pois continua ótimo e divertido até mesmo para os padrões atuais! Para [muitos](https://vaojogar.com.br/escrito/como-virei-fa-de-metroid) ele é melhor jogo de SNES. Eu não diria o melhor, mas com certeza estaria num TOP 5 ou até mesmo TOP 3! Jogo imperdível!
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/resident-evil-2_cover.jpg" heading="true" %}
-
-## Resident Evil 2 {#resident-evil-2}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Resident Evil 2" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/09_meme2019/resident-evil-2_cover.jpg" %}
 
 Eis que o tão esperado jogo saiu! E nesta altura, já temos até o anúncio oficial do terceiro para Abril deste ano!
 
@@ -37,18 +35,16 @@ Pois bem, a **Capcom** conseguiu novamente, ela fez outro remake de RE de tirar 
 Ela acertou em praticamente tudo: clima tenso do início ao fim, momentos de nostalgia, jogabilidade excelente, ótima trilha e efeitos sonoros, história envolvente... Enfim, um jogo excelente! Só teve um pequeno deslize que foi a falta de interação entre a Claire com Leon, que no jogo original esteve mais frequente e redondinha. Mas nada que tire o brilho deste jogo RECOMENDADÍSSIMO!
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/top-gear_cover.jpg" heading="true" %}
-
-## Top Gear {#top-gear}
-##### Super Nintendo
+{% include thumb-heading.html 
+  title="Top Gear" subtitle="Super Nintendo"
+  thumb="/imgs/posts/especial/09_meme2019/top-gear_cover.jpg" %}
 
 Que este é um clássico que dispensa comentários, todos sabem! Apesar de eu de ter jogado apenas algumas horas (mas chegando ao final do jogo), ele entrou na lista por ter sido um momento legal, pois foi dividido com um amigo que tinha ótimas recordações com esse jogo (e o Enduro do Atari) na infância e que fazia muito tempo que não jogava. Então, após um convite, passamos uma tarde à la videogames com cerveja, com algumas brejas e muita nostalgia e diversão!
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/wolfenstein_cover.jpg" heading="true" %}
-
-## Wolfenstein: The New Order {#wolfenstein}
-##### Xbox One
+{% include thumb-heading.html id="wolfenstein"
+  title="Wolfenstein: The New Order" subtitle="Xbox One"
+  thumb="/imgs/posts/especial/09_meme2019/wolfenstein_cover.jpg" %}
 
 E se Hitler tivesse ganhado a segunda guerra mundial? O que seria do mundo? Pois bem, contextualizado nesta história alternativa da humanidade, **Wolfenstein** te entrega um jogo de tiro em primeira pessoa bem balanceado e gostoso de jogar. Com um enredo envolvente e personagens interessantes, você estará na pele de _B. J. Blazkowickz_, um soldado norte-americano sobrevivente de um coma, causado por um ferimento na cabeça durante a guerra, de catorze anos. Depois de recuperado, você se une à um grupo de rebeldes para combater o exército alemão!
 
@@ -57,36 +53,32 @@ Apesar da história ser intrigante, é o gameplay que faz tudo valer a pena, [me
 Esse ano pretendo, sem falta, jogar a continuação: **Wolfenstein II: The New Colossus**. Inclusive, ambos estão disponíveis no [Xbox Game Pass](https://www.xbox.com/pt-BR/xbox-game-pass/games)! :)
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/days-gone_cover.jpg" heading="true" %}
-
-## Days Gone {#days-gone}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Days Gone" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/09_meme2019/days-gone_cover.jpg" %}
 
 Jogos pós-apocalípticos com zumbis são meio que meu calcanhar de Aquiles, pois sempre me despertam o interesse em jogá-los. Não sei se é por causa da exploração em mundo deserto e desvastado ou se.. não, é só por isso mesmo. Lógico, que tem que ter um bom gameplay e, se possível, uma ótima narrativa também. E **Days Gone**, apesar dos seus defeitos, consegue entregar um ótimo universo, acompanhado de uma história interessante e uma jogabilidade divertida. Foi um dos jogos que mais me diverti no ano... até platinar, aí não joguei mais! rs
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/sega-heroes_cover.jpg" heading="true" %}
-
-## Sega Heroes {#sega-heroes}
-##### Android
+{% include thumb-heading.html 
+  title="Sega Heroes" subtitle="Android"
+  thumb="/imgs/posts/especial/09_meme2019/sega-heroes_cover.jpg" %}
 
 É _pay-to-win_? Sim! Fica te ofertando pacotes caros de itens o tempo todo? Sim! Mas tirando essas partes ~~extremamente~~ chatas e tendo paciência na sua evolução, é um jogo divertido! Eu o encaro como um jogo casual para passar o tempo, sem pressa nenhuma na evolução dos personagens, pois é totalmente feito para você gastar dinheiro nele. Mas eu recuso a fazer isso... talvez se fosse menos abusivo nos valores! Ah, até temos uma guilda ~~meio morta~~ por lá... procure por "vgscomcerveja". :)
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/nfs-most-wanted_cover.jpg" heading="true" %}
-
-## Need for Speed: Most Wanted {#nfs-most-wanted}
-##### PS Vita
+{% include thumb-heading.html id="nfs-most-wanted"
+  title="Need for Speed: Most Wanted" subtitle="PS Vita"
+  thumb="/imgs/posts/especial/09_meme2019/nfs-most-wanted_cover.jpg" %}
 
 Tava demorando, né? Quem acompanha os memes sabe: todo ano tem pelo menos um **Need for Speed** na minha lista! E no ano passado tivemos a chegada do **NFS: Heat**, que tirando eu, não via muita gente empolgada com seu lançamento. E para me aquecer, resolvi jogar a versão de PS Vita do [NFS: Most Wanted](/post/analise-need-for-speed-most-wanted) que, inclusive, casou muito bem no portátil.
 
 Consegui platiná-lo, mas devo dizer que é uma tarefa meio chatinha devido à presença de troféus de multiplayer online e, pior ainda, não basta apenas jogar na rede com jogadores desconhecidos, alguns troféus exigem que você seja o _host_ das corridas jogando com seus amigos. E a dificuldade para encontrar esse "amigo"? Tive que recorrer aos _boosts_ de sites como o [MyPSt](https://mypst.com.br/) e o [PSN Profiles](https://psnprofiles.com/), mas que mesmo assim era difícil de conciliar os horários de jogatina... enfim, deu trabalho!
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/horizon-chase_cover.jpg" heading="true" %}
-
-## Horizon Chase - World Tour {#horizon-chase}
-##### Android
+{% include thumb-heading.html id="horizon-chase"
+  title="Horizon Chase - World Tour" subtitle="Android"
+  thumb="/imgs/posts/especial/09_meme2019/horizon-chase_cover.jpg" %}
 
 Lá em [2016](/post/meme-o-que-voce-jogou-em-2016#horizon-chase), eu joguei bastante este game, mas devido a uma troca de celular acabei perdendo meu _save_ e, com isso, não cheguei até o final. Pois bem, neste ano que passou eu completei o game, inclusive pegando todas as conquistas do sistema Android. ^^'
 
@@ -95,10 +87,9 @@ Para quem não conhece, esse é um jogo de corrida arcade brasileiro que tem a m
 Jogo imperdível! Acredito que seja um dos melhores (senão o melhor) jogos de corrida para celular!
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/hollow-knight_cover.jpg" heading="true" %}
-
-## Hollow Knight {#hollow-knight}
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Hollow Knight" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/09_meme2019/hollow-knight_cover.jpg" %}
 
 Quando iniciei este game lá no [final de 2017](/post/meme-o-que-voce-jogou-em-2017#hollow-knight), jogando pelo PC, fiquei impressionado com "tamanha" qualidade em um jogo _indie_! Gráficos excepcionais, trilha sonora fantástica, ótimo gameplay, enfim... Não faltam elogios ao jogo! Porém, por algum motivo, acabei abandonando na época.
 
@@ -107,10 +98,9 @@ Retomei, aliás, recomecei para valer neste ano que passou, só que desta vez no
 Com certeza, um dos melhores _metroidvanias_ que joguei nos últimos tempos. Dificuldade um pouco elevada, porém, acredito, que na dose certa (pelo menos para concluir a campanha principal). Você irá passar raiva algumas vezes, mas acredite, é um jogo lindo e prazeroso de jogar! Quando você menos espera, está totalmente viciado e imersivo à ele! **JOGÃO!**
 
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/nfs-heat_cover.jpg" heading="true" %}
-
-## Need for Speed: Heat {#nfs-heat}
-##### PlayStation 4
+{% include thumb-heading.html id="nfs-heat"
+  title="Need for Speed: Heat" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/09_meme2019/nfs-heat_cover.jpg" %}
 
 Posso dizer que assumi ser _fanboy_ da franquia ao pegar esse jogo no lançamento! Pois, apesar de gostar muito da série, sempre esperava um pouco para por as mãos no jogo. Mas enfim, resolvi apostar e investir quase R\$ 230 no jogo, só para matar minhas lombrigas!
 
@@ -132,7 +122,9 @@ Inclusive, os dois últimos estão disponíveis no [Xbox Game Pass e são rápid
 
 ---
 
-{% include image.html url="/imgs/posts/especial/09_meme2019/oqvj19-horiz.jpg" %}
+{% include thumb-heading.html 
+  title="" subtitle=""
+  thumb="/imgs/posts/especial/09_meme2019/oqvj19-horiz.jpg" %}
 
 Lembrando que este post faz parte de uma brincadeira entre amigos e convido você a conferir os posts dos demais participantes:
 

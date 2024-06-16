@@ -17,18 +17,16 @@ Mas enfim, ainda sim, conseguir jogar umas coisinhas e selecionei (em ordem cron
 
 <!--more-->
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/indiana-jones.jpg" heading="true" %}
-
-## Indiana Jones e a Última Cruzada
-##### Master System
+{% include thumb-heading.html 
+  title="Indiana Jones e a Última Cruzada" subtitle="Master System"
+  thumb="/imgs/posts/especial/14_meme2022/indiana-jones.jpg" %}
 
 Finalmente consegui tirar o trauma desse jogo que me perseguia desde a infância quando ganhei o cartucho e **nunca** havia conseguido terminar, no máximo chegava na última fase e olhe lá. Mas desta vez eu consegui e ainda terminei novamente para registrar o feito em [vídeo](https://www.instagram.com/p/CZUYw1CIVgu/) e em [texto](/post/analise-indiana-jones-e-a-ultima-cruzada). E no final das contas, apesar de muita gente criticar, eu adoro esse jogo e não acho ele de todo ruim, mas não pretendo jogá-lo novamente por algum tempo. 😅
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/prince-of-persia.jpg" heading="true" %}
-
-## Prince of Persia
-##### Master System
+{% include thumb-heading.html 
+  title="Prince of Persia" subtitle="Master System"
+  thumb="/imgs/posts/especial/14_meme2022/prince-of-persia.jpg" %}
 
 Seguindo na minha dedicação ao Master System, tirei outro jogo, que é um verdadeiro [pecado gamístico](/pecados-gamisticos), da minha fila de backlog. **Prince of Persia** é um game obrigatório para qualquer entusiasta de videogames e esta versão do console de 8-bits da Sega é um deleite a parte, pois possui uns gráficos diferenciados e muito bonitos em relação ao jogo original.
 
@@ -36,14 +34,15 @@ Para quem não conhece o jogo, você assume o papel do príncipe que foi aprisio
 
 Com uma jogabilidade que a princípio parece travada, mas que ao pegar o jeito, é deliciosa! Você deve explorar os calabouços do castelo até chegar à princesa e, detalhe, você tem 60 minutos para isso e a cada fase que você chega, seu checkpoint é de acordo com o tempo que você levou. Por exemplo, se você levou 10 minutos para passar a primeira fase, você tem 50 minutos restantes para todas as fases restantes. São 14 fases no total. É bem desafiador, mas nada impossível, o segredo é ir com calma e depois que descobrir o melhor caminho, rejogar a fase novamente fazendo um tempo melhor, pois o checkpoint é simplesmente um password que registra seu tempo restante no início daquela fase.
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/prince-of-persia_passwords.jpg" 
+{% include thumb-heading.html 
+  title="" subtitle=""
+  thumb="/imgs/posts/especial/14_meme2022/prince-of-persia_passwords.jpg" 
   description="Rolou até anotações no caderno como fazia quando criança!" %}
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/inside.jpg" heading="true" %}
-
-## Inside
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Inside" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/14_meme2022/inside.jpg" %}
 
 Por falar em clássico, esse com certeza será (se já não é) um jogo obrigatório para todo e qualquer entusiasta de jogos eletrônicos, pois é um baita jogaço! 
 
@@ -54,38 +53,34 @@ No papel de menino que está lutando pela sua sobrevivência em um cenário meio
 Se você já jogou Limbo e curtiu, vai adorar Inside, apesar de ser um pouco mais fácil. E se ainda não jogou, recomendo os dois, inclusive!
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/gt7.jpg" heading="true" %}
-
-## Gran Turismo 7
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Gran Turismo 7" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/14_meme2022/gt7.jpg" %}
 
 Esse era um jogo pelo qual estava bem ansioso para jogar, tanto que praticamente [peguei o jogo](https://www.instagram.com/p/Ce861fVuqCm/) no seu lançamento! Porém, infelizmente, ainda não joguei o tanto que deveria/gostaria. Isso se deve ao meu processo de transição de casa não ter onde ligar o volante. Eu até tentei jogar no controle, mas não rolou, senti que estaria desperdiçando tempo de jogo para quando tivesse o setup completo de volta. Mas parece ser um ótimo jogo, principalmente para os donos de um PlayStation 5 (que ainda não é meu caso)!
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/final-fantasy-7.jpg" heading="true" %}
-
-## Final Fantasy VII
-##### Xbox One
+{% include thumb-heading.html 
+  title="Final Fantasy VII" subtitle="Xbox One"
+  thumb="/imgs/posts/especial/14_meme2022/final-fantasy-7.jpg" %}
 
 Um outro [pecado gamístico](/post/pecados-gamisticos-quinta-geracao) que eu estava empenhado a me redimir, mesmo que jogando numa plataforma mais moderna. Porém, meu Xbox One veio a falecer e ainda não tive tempo ($) de consertá-lo. Eu até tentei por conta, mas sem sucesso. 
 
 Enfim, esse port para os consoles modernos é bem fiel ao original, contanto apenas com alguns melhorias gráficas (para dar suporte HD) e no sistema de batalha. Para tirar 10, só faltou que eles tivessem traduzido as legendas, pois não tem em português. Mas é um clássico que dispensa comentários!
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/resistance.jpg" heading="true" %}
-
-## Resistance: Fall of Man
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="Resistance: Fall of Man" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/14_meme2022/resistance.jpg" %}
 
 Sempre tive a curiosidade de experimentar essa franquia exclusiva da Sony, mas meu temor pelo *motion sickness* (enjoos durante a jogatina) falava mais alto e acabava deixando de lado. Pois bem, resolvi arriscar e descobri que, além de não passar mal, o jogo é muito bom e divertido. Entretanto, ainda não terminei, esse processo de mudança não tem me animado a jogar muito, inclusive, o PS3 está desinstalado até o momento deste post! 😥
 
 Mas enfim, **Resistance** é um jogo produzido pela **Insomniac Games** e só por este fato, o jogo já deve ser levado em consideração, o pessoal sabe o que faz. Para quem não conhece, eles foram responsáveis por **Spyro the Dragon**, **Ratchet & Clank**, **Sunset Overdrive** e mais recentemente, pelo **Marvel's Spider-Man**. Os caras são feras!
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/star-wars.jpg" heading="true" %}
-
-## Star Wars: Jedi Fallen Order
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Star Wars: Jedi Fallen Order" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/14_meme2022/star-wars.jpg" %}
 
 Ganhei esse jogo de presente no [Twitter](https://twitter.com/felipebbarbosa/status/1568937105098772481) e como era um jogo que estava de olho para comprar, resolvi começa-lo de imediato! 
 
@@ -94,10 +89,9 @@ Ambientado obviamente no universo de Star Wars, esse jogo eu acredito que seja c
 O jogo tem uma pegada de aventura que eu curto bastante, porém, com uma pegada *soulslike* também. Mas por algum motivo eu meio que abandonei ele, mas não definitivamente, pois pretendo voltar para ele em breve (já falei que o processo de mudança não me anima muito em jogar videogame? 😅)!
 
 
-{% include image.html url="/imgs/posts/especial/14_meme2022/nfs-hot-pursuit.jpg" heading="true" %}
-
-## Need for Speed: Hot Pursuit Remastered
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Need for Speed: Hot Pursuit Remastered" subtitle="PlayStation 4"
+  thumb="/imgs/posts/especial/14_meme2022/nfs-hot-pursuit.jpg" %}
 
 Eu meio que tinha uma tradição boba que era jogar pelo menos um **Need for Speed** por ano. E notei que o ano retrasado (2021) passou em branco e que precisava corrigir isso, então escolhi esse que foi o responsável por eu voltar a curtir a série em 2010. Porém, agora em sua polêmica versão remasterizada.
 

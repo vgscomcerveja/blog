@@ -34,102 +34,90 @@ O legal de participar pela primeira vez de um MeMe, onde os jogadores são "_das
 <!--more-->
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/1_deadlight.jpg" heading="true" %}
-
-## Deadlight
-##### Xbox 360
+{% include thumb-heading.html 
+  title="Deadlight" subtitle="Xbox 360"
+  thumb="/imgs/posts/especial/01_meme2014/1_deadlight.jpg" %}
 
 O primeiro jogo que joguei e finalizei em 2014 foi **Deadlight**, um jogo _indie sidescroller_ bacana para **Xbox 360** e **PC**. Com a temática de _survival horror_ este jogo me conquistou pelos belos gráficos e pela simplificidade da jogabilidade. Fiz uma pequena análise dele no [Game Over 15](/jogando/analise/2014/01/02/analise-deadlight-xbox-360.html).
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/2_gran_turismo_6.jpg" heading="true" %}
-
-## Gran Turismo 6
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="Gran Turismo 6" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/01_meme2014/2_gran_turismo_6.jpg" %}
 
 Estou jogando GT6 desde seu lançamento em 2013, e quase platinei naquele ano mesmo. Porém, continuei jogando em 2014, concluí todos os eventos, mas ainda me falta um troféu para platina: _Autobarmy_. Para conquistá-lo, você tem que percorrer um total de 12.718 km, ou seja, não tem segredo, só demanda tempo mesmo! Tirando isso, o jogo é excelente, eles simplificaram algumas coisas que o deixou mais divertido.
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/3_the_last_of_us_left_behind.jpg" heading="true" %}
-
-## The Last of Us: Left Behind
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="The Last of Us: Left Behind" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/01_meme2014/3_the_last_of_us_left_behind.jpg" %}
 
 **The Last of Us** foi o melhor jogo de 2013 e talvez, um dos melhores de todos os tempos! Quem ainda não jogou, recomendo fortemente! **Left Behind** é um DLC jogável para ele lançado no ano passado é uma espécie de complemento a história, vale a pena jogá-lo! Escrevi um pouco sobre ele no [Game Over 16](/jogando/analise/2014/03/09/analise-the-last-of-us-left-behind-dlc-ps3.html).
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/4_the_last_of_us.jpg" heading="true" %}
-
-## The Last of Us
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="The Last of Us" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/01_meme2014/4_the_last_of_us.jpg" %}
 
 Depois de jogar o DLC, me bateu uma vontade de jogá-lo de novo, que não resisti! Joguei e terminei duas vezes, uma no modo _Sobrevivente_ e depois no _Sobrevivente+_, que jogo lindo! Mas ainda não peguei todos os troféus, promessa para este ano! Fiz uma análise de dele em 2013 no [Game Over 07](/jogando/analise/2013/06/23/analise-the-last-of-us-ps3.html).
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/5_spec_ops_the_line.jpg" heading="true" %}
-
-## Spec Ops: The Line
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="Spec Ops: The Line" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/01_meme2014/5_spec_ops_the_line.jpg" %}
 
 Este foi um jogo que me surprendeu ano passado, pois confesso que só joguei porque estava de graça para assinantes da PS+. Com uma história envolvente, uma ótima trilha sonora e uma boa jogabilidade em terceira pessoa, não tem erro! Para saber o que eu achei dele, confira o [Game Over 17](/jogando/analise/2014/07/19/analise-spec-ops-the-line-ps3.html).
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/12_gears_of_war.jpg" heading="true" %}
-
-## Gears of War
-##### Xbox 360
+{% include thumb-heading.html 
+  title="Gears of War" subtitle="Xbox 360"
+  thumb="/imgs/posts/especial/01_meme2014/12_gears_of_war.jpg" %}
 
 Depois de escrever sobre meus [pecados gamísticos (sétima geração)](/jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html), resolvi que era hora de começar a "pagar meus pecados" e nada melhor do que começar com **Gears of War**, certo? Errado. Pois ainda não consegui terminá-lo, não sei por qual motivo, eu abandonei! :/
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/6_silent_hill_origins.jpg" heading="true" %}
-
-## Silent Hill: Origins
-##### PSP
+{% include thumb-heading.html 
+  title="Silent Hill: Origins" subtitle="PSP"
+  thumb="/imgs/posts/especial/01_meme2014/6_silent_hill_origins.jpg" %}
 
 Resolvi tirar poeira do meu PSP e acabei zerando meu primeiro jogo no portátil: **Silent Hill: Origins**. O jogo é bem interessante, ao estilo clássico da série e é experiência interessante jogar com fones de ouvido e no escuro como é recomendado pelo próprio jogo! Escrevi sobre ele no [Game Over 18](/jogando/analise/2014/08/03/analise-silent-hill-origins-psp.html).
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/7_medal_of_honor.jpg" heading="true" %}
-
-## Medal of Honor
-##### PlayStation
+{% include thumb-heading.html 
+  title="Medal of Honor" subtitle="PlayStation"
+  thumb="/imgs/posts/especial/01_meme2014/7_medal_of_honor.jpg" %}
 
 Quando estava organizando minhas coisas da mudança (para quem não sabe, eu me casei em 2014! :D), bateu uma saudade de jogar novamente **Medal of Honor**. Ele foi o primeiro que coloquei para testar quando liguei minha velha televisão de tubo. Mas como o jogo é muito bom, joguei até o final! :D
 
 Confira o [Game Over 19](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html) para saber como foi minha experiência em rejogar um FPS antigo!
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/11_super_mario_galaxy.jpg" heading="true" %}
-
-## Super Mario Galaxy
-##### Wii
+{% include thumb-heading.html 
+  title="Super Mario Galaxy" subtitle="Wii"
+  thumb="/imgs/posts/especial/01_meme2014/11_super_mario_galaxy.jpg" %}
 
 Minha segunda tentativa fracassada de "pagar meu pecados" foi com **Super Mario Galaxy**. Comecei a jogá-lo, me empolguei, mas depois abandonei.. Porquê? Não faço a menor ideia! :/
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/8_acdc_live_rockband.jpg" heading="true" %}
-
-## AC/DC Live: Rockband Track Pack
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="AC/DC Live: Rockband Track Pack" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/01_meme2014/8_acdc_live_rockband.jpg" %}
 
 Vira e mexe eu acabou jogando esses "jogos de guitarra", eu gosto bastante, mas sempre jogo casualmente, nunca tinha pego para terminar a campanha principal. Até que resolvi que tava na hora de terminar algum, e o escolhido foi **AC/DC Live - Rockband** que é muito bom por ser puro e simplesmente AC/DC! :D
 
 No [Game Over 20](/jogando/analise/2014/11/04/analise-acdc-live-rockband-ps3.html) você pode conferir uma pequena análise dele.
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/9_need_for_speed_most_wanted.jpg" heading="true" %}
-
-## Need for Speed: Most Wanted
-##### PlayStation 3
+{% include thumb-heading.html 
+  title="Need for Speed: Most Wanted" subtitle="PlayStation 3"
+  thumb="/imgs/posts/especial/01_meme2014/9_need_for_speed_most_wanted.jpg" %}
 
 Me tornei fã da série a partir do **Underground** em 2003, mas joguei os dois _Undergrounds_ e depois abandonei a série novamente, voltando apenas em 2010 com o **Hot Pursuit**, apartir daí, venho jogando tudo e o **Most Wanted** foi o último que joguei antes de partir para o **Rivals**. Confira minha análise dele no [Game Over 21](/jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html).
 
 
-{% include image.html url="/imgs/posts/especial/01_meme2014/10_dead_island.jpg" heading="true" %}
-
-## Dead Island
-##### Xbox 360
+{% include thumb-heading.html 
+  title="Dead Island" subtitle="Xbox 360"
+  thumb="/imgs/posts/especial/01_meme2014/10_dead_island.jpg" %}
 
 E o último jogo que joguei e zerei em 2014 foi **Dead Island**. Este fui meio que insistente para terminá-lo. Não sei se recomendaria este jogo para alguém, pois achei muito maçante no início, que quase cheguei a abandoná-lo. Mas quando resolvi focar apenas na campanha principal (_Main Quest_), até que chegou a ficar mais interessante.
 

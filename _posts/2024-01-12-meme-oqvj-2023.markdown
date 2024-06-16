@@ -17,34 +17,28 @@ Quem acompanha o blog já sabe, mesmo sem muitos posts durante o ano (pretendo m
 
 Então bora conferir, em ordem cronológica, os dez jogos que foram destaques na minha jogatina do ano de 2023.
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/01_lara-croft.jpg" heading="true" %}
 
-## Lara Croft and the Guardian of Light
-
-##### 2010, Crystal Dynamics
-##### Xbox 360
+{% include thumb-heading.html 
+  title="Lara Croft and the Guardian of Light" subtitle="2010 - Crystal Dynamics, Xbox 360"
+  thumb="/imgs/posts/especial/16_meme2023/01_lara-croft.jpg" %}
 
 Não foi o primeiro jogo do ano, mas depois de ter zerado novamente o **Jurassic Park: The Game**, só que desta vez no **Xbox 360** (que deixei no menções honrosas justamente por já ter [terminado no PS3 um tempo atrás](/post/meme-o-que-voce-jogou-em-2016)), emendei uma sequência de jogos neste maravilhoso console da **Microsoft**, começando com esse jogo da **Lara Croft** que não se chama **Tomb Raider**, mas que faz parte da franquia. 
 
 Com visão isométrica, essa aventura da musa dos videogames é focada no multiplayer cooperativo local, que no caso, seu parceiro ou parceira de jogatina assume o papel de um guerreiro maia de 2.000 anos chamado **Totec**. Porém, também é possível jogar sozinho como eu fiz. Apesar de apresentar um gameplay um pouco diferente da franquia, o jogo segue a mesma fórmula clássica com quebra-cabeças, exploração e combate. Eu curti! 
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/02_tmnt.jpg" heading="true" %}
 
-## TMNT
-
-##### 2007, Ubisoft
-##### Xbox 360
+{% include thumb-heading.html 
+  title="TMNT" subtitle="2007 - Ubisoft, Xbox 360"
+  thumb="/imgs/posts/especial/16_meme2023/02_tmnt.jpg" %}
 
 Baseado no filme de 2007 de mesmo nome, esse jogo é meio que exclusivo para o **Xbox 360** em sua geração, pois a versão de PS3 prevista para sair um tempo depois, foi cancelada. Enfim, por ser desenvolvido pela **Ubisoft**, o jogo tem uma pegada meio **Prince of Persia** no quesito de acrobacias e combate, mas posso afirmar que a comparação fica por aí, pois ele não chega nem perto da qualidade da franquia do princípe, além do mais, ele é um jogo curto com apenas 16 fases e também é focado no multiplayer cooperativo... Mas como sempre joguei sozinho.
 
 É um jogo bem mediano, mas que dá para se divertir! Porém, tenho que confessar, minha maior motivação foi os **1000G fáceis**!
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/03_stray.jpg" heading="true" %}
 
-## Stray
-
-##### 2022, BlueTwelve Studio
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Stray" subtitle="2022 - BlueTwelve Studio, PlayStation 4"
+  thumb="/imgs/posts/especial/16_meme2023/03_stray.jpg" %}
 
 Adorei a ambientação desse jogo! Você controla um gatinho, isso mesmo, um gato, em um mundo pós-apocalíptico dominado por robôs e bactérias mutantes! Sério, tem como dar errado uma combinação dessas? 
 
@@ -56,12 +50,10 @@ Não tenho muito o que dizer, é um jogo bem legal que conta com uma história i
 
 Como eu adoro jogos de aventura e a temática pós-apocaliptica, curti bastante! ❤
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/04_down-bermuda.jpg" heading="true" %}
 
-## Down in Bermuda
-
-##### 2023, Yak & Co
-##### Android
+{% include thumb-heading.html 
+  title="Down in Bermuda" subtitle="2023 - Yak & Co, Android"
+  thumb="/imgs/posts/especial/16_meme2023/04_down-bermuda.jpg" %}
 
 Descobri esse jogo meio por acaso na [loja de aplicativos do Google](https://play.google.com/store/apps/details?id=co.yakand.downinbermuda) e acabei curtindo demais esse joguinho de quebra-cabeça minimalista. 
 
@@ -71,12 +63,10 @@ Na verdade, são ao todo 6 ilhas misteriosas do arquipélago do **Triângulo das
 
 Gostei tanto que fui pesquisar quais outros jogos esta desenvolvedora australiana tinha feito e descobri outro jogo legal:
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/05_agent-a.jpg" heading="true" %}
 
-## Agent A: O enigma disfarçado
-
-##### 2015, Yak & Co
-##### Android
+{% include thumb-heading.html 
+  title="Agent A: O enigma disfarçado" subtitle="2015 - Yak & Co, Android"
+  thumb="/imgs/posts/especial/16_meme2023/05_agent-a.jpg" %}
 
 Este porém já é um *adventure point-and-click* que, convenhamos, muito legal de jogar, gostei até mais do que o **Down in Bermuda**! Apesar de serem de estilos de jogo diferentes, o visual é até que parecido. 
 
@@ -84,12 +74,10 @@ Aqui, você controla uma agente secreto que precisa investigar quem está por tr
 
 Como um bom *adventure point-and-click*, você tem que investigar bastante para solucionar diversos quebra-cabeças e progredir. São ao todos 5 capítulos intrigantes. Recomendo!
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/06_wolfenstein-2.jpg" heading="true" %}
 
-## Wolfenstein II: The New Colossus
-
-##### 2017, MachineGames
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Wolfenstein II: The New Colossus" subtitle="2017 - MachineGames, PlayStation 4"
+  thumb="/imgs/posts/especial/16_meme2023/06_wolfenstein-2.jpg" %}
 
 A partir daqui, entrei numa onda de jogos de tiro em primeira pessoa. Aproveitei que por algum motivo desconhecido, não estou passando mal com eles (*motion sickness*), quero dizer, alguns até cheguei a sentir um leve enjoo, mas era só dar uma pausa ou deixar para jogar outro dia que dava bom. 
 
@@ -97,12 +85,10 @@ Enfim, comecei com a sequência de **Wolfenstein: The New Order** (que já tinha
 
 Para quem não conhece a essência da trama da série é só imaginar um mundo onde **Hitler** vence a guerra e você juntamente com diversos outros guerreiros tem que tentar retomar o mundo das mãos nazistas. Obviamente é uma ficção, mas se prepare para além de enfrentar muitos alemães, muitas máquinas poderosas de tecnologia experimental nazista, dentre outras coisas. Bem divertido!
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/07_battlefield-1.jpg" heading="true" %}
 
-## Battlefield 1
-
-##### 2016, DICE
-##### Xbox One
+{% include thumb-heading.html 
+  title="Battlefield 1" subtitle="2016 - DICE, Xbox One"
+  thumb="/imgs/posts/especial/16_meme2023/07_battlefield-1.jpg" %}
 
 Os jogos de tiro que mais me chamam atenção são os que se passam durante a 2ª Guerra Mundial, porém esse me atraiu por se passar na primeira grande guerra! Poucos jogos abordam essa época.
 
@@ -110,21 +96,17 @@ Mas ao invés de contar uma única história, aqui você encontra seis história
 
 Visualmente, o jogo é muito bonito e o gameplay não deixa nada a desejar, só é um pouco curto, mas não deixa de ser um grande jogo FPS! 
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/08_wolfenstein-old-blood.jpg" heading="true" %}
 
-## Wolfenstein: The Old Blood
-
-##### 2015, MachineGames
-##### Xbox One
+{% include thumb-heading.html 
+  title="Wolfenstein: The Old Blood" subtitle="2015 - MachineGames, Xbox One"
+  thumb="/imgs/posts/especial/16_meme2023/08_wolfenstein-old-blood.jpg" %}
 
 De volta para **Wolfenstein**, desta vez para a expansão autônoma do primeiro jogo, que apesar de ser uma expansão, a história do jogo se passa antes do **The New Order**, uma prequela. O legal que por ser autônoma, você não precisa do primeiro jogo para jogar e também por isso ele é um pouco mais curto que os demais, mas não deixa nada a desejar. Vale muito a pena jogá-lo também! 
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/09_cod-vanguard.jpg" heading="true" %}
 
-## Call of Duty: Vanguard
-
-##### 2021, Sledgehammer Games
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Call of Duty: Vanguard" subtitle="2021 - Sledgehammer Games, PlayStation 4"
+  thumb="/imgs/posts/especial/16_meme2023/09_cod-vanguard.jpg" %}
 
 Como dito, jogos ambientados na Segunda Guerra Mundial me atraem e esse **Call of Duty** foi mais um deles! 
 
@@ -134,12 +116,10 @@ Agora, visualmente o jogo está incrível e até me surpreendi com a capacidade 
 
 Aproveitanto a deixa, um comentário para quem gosta de colecionar: Eu comprei a [versão em mídia física](https://www.youtube.com/watch?v=0tvqZEYZ-Wk), mas vou te falar que a campanha principal nem está no disco, tive que fazer dois downloads completos da campanha para conseguir jogar! Triste isso! 
 
-{% include image.html url="/imgs/posts/especial/16_meme2023/10_dying-light.jpg" heading="true" %}
 
-## Dying Light
-
-##### 2015, Techland
-##### PlayStation 4
+{% include thumb-heading.html 
+  title="Dying Light" subtitle="2015 - Techland, PlayStation 4"
+  thumb="/imgs/posts/especial/16_meme2023/10_dying-light.jpg" %}
 
 E para fechar, um jogo que é quase uma pérola escondida (*hidden gem*), pois não vejo muita gente falando dele, mas o pouco que vi, o pessoal falam bem! Basicamente, ele é um *survival horror* de mundo aberto em primeira pessoa com elementos *parkour*. Sim, acho que isso define bem o jogo, que me lembrou bastante **Dead Island**... ah, deve ser porque é da mesma desenvolvedora! 
 
