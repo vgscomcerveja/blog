@@ -18,10 +18,10 @@ Mas como não é só de Telltale que vivem os adventures, selecionei 6 deles que
 
 <!--more-->
 
-### Deponia {#deponia}
-
-{% include image.html
+{% include image.html heading="true"
   url="/imgs/posts/toplist/11_cacadores_trofeus2/deponia.jpg" %}
+
+### Deponia {#deponia}
 
 [Deponia](http://www.deponia.de/depo1/en/) é um daqueles jogos que vai te fazer quebrar bastante a cabeça para poder avançar no jogo. Você terá que
 explorar vários cenários, recolher e combinar itens, conversar com muita gente, associar uma coisa à outra para enfim, progredir!
@@ -49,10 +49,11 @@ se preocupar com os troféus a primeiro momento, para depois voltar em cada ato 
   online="Não"
   jogadas="1" %}
 
-### The Bunker {#the-bunker}
 
-{% include image.html
+{% include image.html heading="true"
   url="/imgs/posts/toplist/11_cacadores_trofeus2/the-bunker.jpg" %}
+
+### The Bunker {#the-bunker}
 
 Neste adventure em FMV (Full Motion Video), você assume o papel de John, um jovem que praticamente
 nasceu e cresceu dentro de um bunker (abrigo subterrâneo) durante uma guerra nuclear. Inicialmente,
@@ -63,7 +64,7 @@ Com isso, ele precisa gerenciar e tomar conta de tudo sozinho, porém algumas co
 
 O jogo é bem curto, algo em torno de 2 horas você já consegue finalizá-lo, porém a história é até que interessante. Ele também não conta com muita dificuldade, pois o foco maior está na narrativa e os puzzles são bem simples e fáceis. O jogo também não conta com muitas tomadas de decisões que afetam o progresso da história, com exceção da sua escolha final, resultando assim e em apenas dois finais diferentes.
 
-{% include image.html
+{% include image.html 
    url="/imgs/posts/toplist/11_cacadores_trofeus2/ss_the-bunker.jpg"
    description="Apesar do clima sombrio do jogo, ele não é nenhum pouco assustador!" %}
 
@@ -81,13 +82,14 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="Disponível no Xbox One!"
+    content="Também disponível no Xbox One!"
     points="1000" %}
 
-### The Little Acre {#the-little-acre}
 
-{% include image.html
+{% include image.html heading="true"
   url="/imgs/posts/toplist/11_cacadores_trofeus2/the-little-acre.jpg" %}
+
+### The Little Acre {#the-little-acre}
 
 Esse jogo conta uma história quase simultânea de Aiden e sua filha Lily que investigam o paradeiro
 do pai de Aiden, que está desaparecido. Digo "quase simultânea", pois você controlará os dois personagens (Aiden e Lily)
@@ -114,13 +116,14 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="Disponível no Xbox One!"
+    content="Também disponível no Xbox One!"
     points="1000" %}
 
-### Late Shift {#late-shift}
 
-{% include image.html
+{% include image.html heading="true"
   url="/imgs/posts/toplist/11_cacadores_trofeus2/late-shift.jpg" %}
+
+### Late Shift {#late-shift}
 
 Outro jogo ao estilo FMV focado na narrativa, porém ao contrário de **The Bunker**, este possui muitas decisões à serem tomadas e que
 resultam em até sete finais diferentes, o que te instiga a jogá-lo novamente.
@@ -146,13 +149,14 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
   jogadas="1 (com algumas repetições de capítulos)" %}
 
 {% include achivement-unlock.html
-    content="Disponível no Xbox One!"
+    content="Também disponível no Xbox One!"
     points="1000" %}
 
-### Dying: Reborn {#dying-reborn}
 
-{% include image.html
+{% include image.html heading="true"
   url="/imgs/posts/toplist/11_cacadores_trofeus2/dying-reborn.jpg" %}
+
+### Dying: Reborn {#dying-reborn}
 
 [Dying: Reborn](https://www.nekcomgames.com/page-dying-reborn) não foi muito bem recebido pela crítica, mas eu até que me diverti um pouco com ele. No papel de Mathew, seu objetivo é descobrir como fugir de uma casa misteriosa que na qual você acordou preso.
 
@@ -175,13 +179,14 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="Disponível no Xbox One!"
+    content="Também disponível no Xbox One!"
     points="1000" %}
 
-### Demetrios: The Big Cynical Adventure {#demetrios}
 
-{% include image.html
+{% include image.html heading="true"
   url="/imgs/posts/toplist/11_cacadores_trofeus2/demetrios.jpg" %}
+
+### Demetrios: The Big Cynical Adventure {#demetrios}
 
 Por fim, o jogo com a história mais bizarra da lista! Contada com um humor bem peculiar, conhecida como [humor de banheiro](https://en.wikipedia.org/wiki/Toilet_humour), a história tem como protagonista Bjorn Thonen, um vendedor de antiguidades que tem uma de suas peças furtadas e que resolve investigar o porquê somente ela foi roubada, pois não tinha muito valor, porém acaba descobrindo muito mais do que isso.
 
@@ -205,14 +210,14 @@ Tirando isso, os outros troféus são bem tranquilos, bastando dar uma olhada ne
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="Disponível no Xbox One!"
+    content="Também disponível no Xbox One!"
     points="1000" %}
 
 ---
 
 E é isso! Você curte jogos deste estilo? O que achou da lista? Comentem! :)
 
-O próximo **Caçadores de Troféus** será sobre jogos verdadeiramente ruins, que dá até vergonha de
+O próximo post da série **Game Trofista** será sobre jogos verdadeiramente ruins, que dá até vergonha de
 ter jogado! Aguardem! rs
 
 Abraço.

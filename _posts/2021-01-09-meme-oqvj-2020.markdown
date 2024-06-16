@@ -15,11 +15,11 @@ cover: /imgs/posts/especial/10_meme2020/post_header.jpg
 
 <!--more-->
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/02_firewatch.jpg" heading="true" %}
+
 ## Firewatch
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/02_firewatch.jpg" full="true" %}
 
 Vamos começar a lista com essa belezinha. **Firewatch** é um belo jogo indie desenvolvido pelo estúdio [Campo Santo](https://www.camposanto.com), onde você assume o papel de **Henry**, um homem de "meia-idade" que está com uma vida bastante "bagunçada" e resolve aceitar o emprego de guarda florestal para fugir de seus problemas. Depois uma breve introdução, você já estará apto para realizar as tarefas do seu novo emprego. 
 
@@ -27,11 +27,11 @@ O jogo é em primeira pessoa e seus objetivos são de praticamente realizar trab
 
 Aos poucos você vai conhecendo melhor ela e ela você, tudo na base das suas respostas, que dependendo pode influenciar no humor dela, fazendo que deixe de conversar contigo caso seja rude ou fale alguma besteira. É díficil de explicar o quão prazeroso é jogar esse game, mas uma coisa é fato: eu recomendo!
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/03_codwwii.jpg" heading="true" %}
+
 ## Call of Duty: WWII
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/03_codwwii.jpg" full="true" %}
 
 Fazia tempo que não jogava um **Call of Duty**, o último tinha sido o primeiro **Modern Warfare** ainda no PS3, e o motivo é simples: além de alguns deles me causarem enjôo (literalmente, devido ao meu problema com [motion sickness](https://gamercaduco.com/2012/06/11/motion-sickness-ou-cinetose-e-a-influencia-nos-games/)), a temática moderna não me atraia muito. Quando saiu esse que se passa na Segunda Guerra Mundial, resolvi arriscar e torcer para não me causar tonturas. A boa notícia é que não causou! Só aí o jogo já ganhou alguns pontos comigo.
 
@@ -39,31 +39,31 @@ Não sei dizer se é um dos melhores da série (até porque não joguei muitos),
 
 Uma curiosidade legal é que este foi o primeiro jogo depois do **Call of Duty** original a não ter um sistema de regeneração de vida, ou seja, você dependerá dos seus companheiros e/ou kits médicos para recuperar sua vida. Muito bom jogo!
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/04_re3.jpg" heading="true" %}
+
 ## Resident Evil 3
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/04_re3.jpg" full="true" %}
 
 Estava ansioso por este, pois além de ser fã da série clássica e ter ficado muito satisfeito com o remake do segundo, o terceiro jogo é meu favorito da franquia. Além disso, ele saiu no dia do meu aniversário, não tinha como deixar de comprar no lançamento, né?
 
 Comprei e devorei o jogo, joguei do começo ao fim se deliciando bastante. O jogo é curto? É. Tem seus defeitos? Tem. Podiam ter caprichado mais? Podiam. Mas curti demais e até escrevi sobre ele [aqui](/post/analise-resident-evil-3) caso queria conferir.
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/05_sor4.jpg" heading="true" %}
+
 ## Streets of Rage 4
-
 ##### Xbox One
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/05_sor4.jpg" full="true" %}
 
 Apesar de ter muita gente que estava ansioso por esse jogo, confesso que eu não era um deles (eu tive um SNES na época). Mas como o jogo entrou, no dia do lançamento, no catálogo dos assinantes **Xbox Game Pass**, joguei e achei um máximo! O jogo é praticamente perfeito, ótimos gráficos, trilha sonora impecável e jogabilidade deliciosa. O jogo resgatou o auge dos *beat 'em ups* dos anos 90. 
 
 Não tem muito o que falar, o jogo está imperdível! Até fiz questão de comprar a mídia física depois no PS4.
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/06_plague-tale.jpg" heading="true" %}
+
 ## A Plague Tale: Innocence
-
 ##### Xbox One
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/06_plague-tale.jpg" full="true" %}
 
 Mais um que veio do Game Pass, neste você tem como protagonistas os irmãos **Amicia** e **Hugo**, onde buscam respostas para os diversos acontecimentos do seu vilarejo. De ratos "possuídos" à ataques de soldados da inquisição, você terá que agir com cautela e estratégia para não ser pego por nenhum deles.
 
@@ -71,11 +71,11 @@ O jogo é muito bem trabalhado com ótimos gráficos e tem como foco principal, 
 
 E não poderia deixar de comentar, é fácil obter os 1000G do jogo! :D
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/01_mobile.jpg" heading="true" %}
+
 ## Limbo, Monument Valley, Deus Ex GO e Dandara
-
 ##### Android
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/01_mobile.jpg" full="true" %}
 
 Para não dizer que apenas joguei no PlayStation ou Xbox no ano, também tive o momento mobile, onde me dediquei a diversos jogos no celular (Android). O primeiro deles foi **Monument Valley**, na verdades, os dois primeiros, pois joguei o II e o I. Dois belíssimos jogos de puzzle desenvolvidos pelo estúdio independente [ustwo](https://www.ustwogames.co.uk), que usam e abusam da arquitetura de objetos impossíveis, lhe causando agradáveis ilusões de óticas. É muito relaxante e divertido resolver os puzzles. Uma pena que ambos os jogos são bem curtinhos, dá pra terminá-los numa "sentada" só, se quiser.
 
@@ -85,11 +85,11 @@ E por falar em estratégia, **Deus Ex GO** é outro jogo que você terá que que
 
 Para fechar os jogos mobile, **Dandara**, o "metroidvania" casca-grossa brasileiro desenvolvido pela [Long Hat House](http://www.longhathouse.com). Onde já destaco que o grande diferencial do jogo é, com certeza, sua jogabilidade, pois não é possível andar para frente ou para trás igual aos outros jogos, aqui você só pode saltar em locais que possuem sal, sem respeitar muito as leis da física, podendo inclusive, saltar para o teto sem problemas. Eu achei que não iria conseguir avançar muito pelo celular, mas na minha opinião, o jogo funcionou muito bem com o touch. Entretanto, terminá-lo não será uma tarefa fácil, pois em alguns momentos exigirá das suas [habilidades nos dedos](https://www.instagram.com/p/CAWf8N3Hekh/). Mas nada muito impossível. Uma delícia de jogo!
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/07_tlou2.jpg" heading="true" %}
+
 ## The Last of Us: Part II
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/07_tlou2.jpg" full="true" %}
 
 Este é o jogo que eu estava mais aguardando no ano e, que para piorar, ele tinha sofrido um adiamento por tempo indeterminado devido a pandemia, aumentando ainda mais a ansiedade. Mas felizmente foi de "apenas" alguns meses e o jogo saiu no meio do ano, em Junho (a data inicial era em Fevereiro). Digo felizmente, pois já imaginava o pior de que nem sairia no ano. Mas enfim, o que dizer sobre TLOU2?
 
@@ -99,55 +99,55 @@ Ele te coloca no meio questões humanas, que te fazem ter empatia pelos dois lad
 
 Além disso, nos quesitos técnicos, o jogo está impecável! Gráficos lindos, trilha continua ótima e a jogabilidade está ainda mais prazerosa. Mas isso não é nada, os caprichos nos detalhes fazem de **The Last of Us: Part II** um jogo ímpar e que na minha opinião mereceu levar todos os prêmios que levou!
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/08_nfs-rivals.jpg" heading="true" %}
+
 ## Need for Speed: Rivals
-
 ##### PlayStation 3
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/08_nfs-rivals.jpg" full="true" %}
 
 A tradição anual de jogar pelo menos um **Need for Speed** que ficou para trás foi cumprida. O escolhido desta vez foi o **Rivals**, um jogo de 2013 que muita o considera o último NFS bom lançado. Eu tenho minhas dúvidas, pois me diverti bastante com o **Heat** lançado em 2019. Mas realmente, ele é um jogo divertido também.
 
 Nele você tem duas campanhas, uma como piloto e a outra como policial. Ambas são legais e contam com uma jogabilidade semelhante ao [NFS: Hot Pursuit (2010)](/post/analise-need-for-speed-hot-pursuit) (que inclusive teve uma versão remasterizada meio sem vergonha em 2020 por completar 10 anos), onde você pode fazer uso de armas contra seus oponentes, sejam elas camas de pregos, choques e até PEMs (pulso eletromagnéticos). O jogo também conta com o sistema de Autolog, que você pode comparar seus resultados com dos seus amigos, além de poder participar do jogo de outras pessoas mesmo no modo campanha, já que o mapa é aberto. Bem legal!
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/09_stranger-things3.jpg" heading="true" %}
+
 ## Stranger Things 3: The Game
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/09_stranger-things3.jpg" full="true" %}
 
 Quando joguei o primeiro jogo deles no celular em [2017](/post/meme-o-que-voce-jogou-em-2017#stranger-things) foi uma grata surpresa, pois além de ser gratuito, o jogo era bem divertido e lembrava bem alguns clássicos dos 16-bits, tais como True Lies e Zelda.
 
 O terceiro, que na verdade é o segundo jogo, é baseado na **Temporada 3** da série de mesmo nome da **Netflix** e segue a mesma pegada do anterior, porém com os gráficos um pouco mais elaborados, mas o estilo de jogo continua o mesmo. O jogo é fiel a série, então se você ainda não assistiu, não recomendo o jogo, pois tem muitos spoilers. Mas é divertido para quem já assistiu a série.
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/10_thps12.jpg" heading="true" %}
+
 ## Tony Hawk's Pro Skater 1+2
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/10_thps12.jpg" full="true" %}
 
 Estava muito cético quanto à qualidade deste jogo, pois não é a primeira vez que a série tenta ressurgir e acaba fracassando no final (cof..cof.. Tony Hawk's Pro Skater HD). Mas para nossa alegria, não é o caso deste, pois acertaram a mão e trouxeram um verdadeiro clássico de volta a vida! 
 
 O jogo é um remake de qualidade dos dois primeiros títulos da franquia, que além de trazer tudo que era bom na série, aprimoraram e inovaram em alguns aspectos, mas o jogo continua sendo aquele jogo divertido do PS1. Até a trilha sonora é a mesma e ainda com algumas novidades, como a inclusão da música [Confisco do Charlie Brown Jr](https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu?highlight=spotify:track:0qhwZ19NLe1FpQSmb4ZZau) que é uma homenagem ao falecido vocalista Chorão. Além disso, o jogo conta com novos skatistas além dos clássicos, inclusive com a brasileira [Letícia Bufoni](https://www.instagram.com/leticiabufoni/), que marca presença por lá também. Se curtiu a série clássica, com certeza, irá curtir esse!
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/11_doom-eternal.jpg" heading="true" %}
+
 ## DOOM Eternal
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/11_doom-eternal.jpg" full="true" %}
 
 Me apaixonei pela série tardiamente em 2017 quando joguei e terminei o reboot da série, o [DOOM (2016)](/post/analise-doom), no ano seguinte teve o anúncio de sua sequência e desde então estava ansioso para enfrentar mais demônios no inferno! Porém, quando coloquei as mãos nele, o jogo não prendeu logo de cara como gostaria, talvez eu não tenha curtido tanto as partes de plataforma dele ou talvez o lançamento do TLOU2 tenha atrapalhado um pouco (o Diogo irá pegar no meu pé por causa disso), mas quando voltei para ele, só uma coisa a se dizer: que jogaço!
 
 Porém, ele não é um jogo fácil, muito pelo contrário, se você por um acaso acha DOOM difícil, esse aqui o negócio pega para valer. Mas vou te falar, do que ele tem de difícil, ele tem de delicioso. Você vai morrer algumas vezes, mas a cada etapa que você vence, melhor você vai ficando e aprendendo a usar todos os recursos que o jogo te dá. Quando perceber estará executando demônios de forma gloriosa (bom, isso é meio que essencial), até que aparece um novo demônio mais poderoso como chefe. Enfim, um jogo imperdível na minha opinião! Ainda se você é fã da série, pois tem muitas referências aos jogos anteriores.
 
+
+{% include image.html url="/imgs/posts/especial/10_meme2020/12_spiderman-miles.jpg" heading="true" %}
+
 ## Marvel's Spider-Man: Miles Morales
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/10_meme2020/12_spiderman-miles.jpg" full="true" %}
 
 E para fechar o ano, não resisti a mais um lançamento e comprei ~~o "DLC de luxo"~~ a sequência do jogo do "Miranha", que desta vez, você assume o papel de **Miles Morales**, o segundo Homem-Aranha de Nova York. O jogo está lindo (e deve ser ainda mais no PS5) e no controle de Miles, você tem novos poderes e habilidades, criando assim uma dinâmica aprimorada de combate e furtividade. A história continua exatamente da onde parou o primeiro e flui muito bem! É uma pena que ele seja um pouco curto, mas que na minha opinião, vale a pena mesmo assim! Como fã do "cabeça de teia", estou ansioso para ver os próximos capítulos da série.
 
-### Mençoes honrosas
+### Menções honrosas
 
 - **Battletoads (Xbox One)** - Mais um lançamento que o Game Pass disponibilizou no dia de estréia, mas apesar de ser bonito, o jogo não me pegou como Streets of Rage 4. Talvez ele tinha que ter saído antes dele.
 - **Chrono Trigger (Nintendo DS)** - Estou tentando me redimir deste [pecado gamístico](/post/pecados-gamisticos-jogos-de-rpg), mas confesso que não está sendo uma tarefa fácil, talvez eu vou tentar de outra forma, não no portátil.

@@ -16,11 +16,11 @@ E aí como está sendo sua quarentena? Espero que bem! Que tal aproveitar esse t
 
 <!--more-->
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/burly_men_at_sea.jpg" heading="true" %}
+
 ## Burly Men At Sea {#burly-men-at-sea}
-
 ##### PS Vita / PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/burly_men_at_sea.jpg" full="true" %}
 
 Talvez esse seja o mais longo da lista, pois sua platina pode ser obtida em mais ou menos **1h30** se seguir um [guia](https://youtu.be/d22z39APq94), mas é quase desnecessário. O jogo é sobre um conto popular de um trio de pescadores que resolvem se aventurar além de suas rotinas diárias. Com um visual minimalista, o foco do jogo é totalmente na divertida narrativa que pode ser finalizada em minutos (entre 30-60 min), porém para pegar conquistar todos os troféus, você deverá fazer todos os finais alternativos, por isso que ele é o mais demorado da lista.
 
@@ -28,11 +28,11 @@ O jogo já foi disponibilizado gratuitamente aos assinantes da PS+ no passado, m
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=6 pratas=14 bronzes=4 %}
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/black_white_bushido.jpg" heading="true" %}
+
 ## Black & White Bushido {#black-white-bushido}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/black_white_bushido.jpg" full="true" %}
 
 Outro jogo com o visual minimalista, porém desta vez, um [jogo de luta em arena com samurais](https://store.playstation.com/pt-br/product/UP2269-CUSA05608_00-BUSHIDO000000000)! O jogo é propositalmente em preto e branco (tirando o sangue vermelho), pois as cores fazem parte da mecânica do jogo, onde seu lutador pode se esconder entre as sombras e atacar furtivamente seu oponente. A jogabilidade é bem rápida e divertida e como o cenário está em constante mudança, você tem que agir rápido para derrotar seus inimigos ou então para usufruir da sua camuflagem nas sombras.
 
@@ -48,11 +48,11 @@ Para platinar, você terá que basicamente realizar algumas façanhas nos três 
   platinas=1 ouros=10 pratas=2 bronzes=0
   xboxAvailable="true" xboxConsole="Xbox One" xboxPoints="1000" %}
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/storm_boy.jpg" heading="true" %}
+
 ## Storm Boy - The Game {#storm-boy}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/storm_boy.jpg" full="true" %}
 
 Já ouviu falar do livro **Storm Boy**? Pois é, eu também não conhecia! [O jogo](https://store.playstation.com/pt-br/product/UP1195-CUSA14247_00-STORMBOYPS400000) é baseado neste livro infantil escrito pelo australiano **Colin Thiele** em 1964 e que recentemente (2019) também ganhou um [longa metragem](https://www.rottentomatoes.com/m/storm_boy_2019). Entretanto, no caso do game, não espere muito bem por um, pois ele está mais para um livro interativo (muito bem feito) do que para um jogo. Quando digo isso, acredite, é porque você não terá desafio nenhum, você só tem que praticamente avançar pela história, que é até legalzinha para um livro... INFANTIL!
 
@@ -62,11 +62,11 @@ Para platinar não tem segredo, você consegue completar a lista de troféus ent
   platinas=1 ouros=11 pratas=0 bronzes=0
   xboxAvailable="true" xboxConsole="Xbox One" xboxPoints="1000" %}
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/the_mooseman.jpg" heading="true" %}
+
 ## The Mooseman {#mooseman}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/the_mooseman.jpg" full="true" %}
 
 Mais um jogo com pouco gameplay e uma ótima história para contar! Entretanto, o gameplay não é tão simples quanto de **Storm Boy** e o visual é bem mais trabalhado e caprichado, o jogo até parece uma obra de arte usando somente uma paleta de cores entre azul, preto, branco e cinza. Um dos ponto fortes do jogo!
 
@@ -82,11 +82,11 @@ Além disso, [o jogo](https://store.playstation.com/pt-br/product/UP1675-CUSA121
   platinas=1 ouros=5 pratas=3 bronzes=2
   xboxAvailable="true" xboxConsole="Xbox One" xboxPoints="1000" %}
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/drowning.jpg" heading="true" %}
+
 ## Drowning {#drowning}
-
 ##### PS Vita / PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/drowning.jpg" full="true" %}
 
 O mais chato de toda a lista, sim acredite! Os outros são até interessantes, mas esse é meio depressivo. Recomendo fortemente um guia para não perder muito tempo nele, pois você terá que fazer vários finais diferentes. Acho que até o criador sabe que é meio deprimente que, na [versão de PS4](https://store.playstation.com/pt-br/product/UP1675-CUSA14543_00-SYPS4DROWNING000), é possível pular os capítulos antes mesmo de terminar o jogo pela primeira vez.
 
@@ -96,11 +96,11 @@ O jogo tem para [PS Vita](https://store.playstation.com/pt-br/product/UP1675-PCS
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=9 pratas=3 bronzes=4 %}
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/breeder_hometown.jpg" heading="true" %}
+
 ## Breeder Hometown: Director's Cut {#breeder}
-
 ##### PS Vita / PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/breeder_hometown.jpg" full="true" %}
 
 Esse não é tão chato quanto **Drowning**, mas tenho que confessar, está muito longe de ser um jogo bom também! Com um visual, que lembra um pouco o clássico [EarthBound](https://pt.wikipedia.org/wiki/EarthBound) de SNES (~~olhando de bem longe~~), [o jogo](https://store.playstation.com/pt-br/product/UP1675-CUSA17138_00-SYPS4BREEDERHOME) conta a história de um senhor de idade, David, que fugiu do asilo e retornou para sua antiga casa. Ao andar pelos cômodos, você se recordará de momentos da infância, transportando jogador para aquela época. Tudo que precisa fazer é completar algumas tarefas, ao estilo pegue um objeto, vá para determinado local para usá-lo e pegar outro objeto e assim por diante, porém tudo muito simples e sem adversários (inimigos) para te dificultar ou algo do tipo.
 
@@ -108,11 +108,11 @@ O jogo é bem simples de completar e provavelmente você pegará a maioria dos t
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=11 pratas=0 bronzes=0 %}
 
+
+{% include image.html url="/imgs/posts/toplist/17_platinas-fds/planet_rix13.jpg" heading="true" %}
+
 ## Planet RIX-13 {#planet-rix-13}
-
 ##### PS Vita / PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/17_platinas-fds/planet_rix13.jpg" full="true" %}
 
 Por fim, um adventure 2D com visual retrô que basicamente conta a história de um viajante do espaço que caiu em um planeta desconhecido e que agora você precisará explorá-lo e solucionar alguns puzzles para conseguir escapar dele.
 

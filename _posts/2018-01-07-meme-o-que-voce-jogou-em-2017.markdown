@@ -40,11 +40,11 @@ Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamís
 
 Confira:
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/13_dan-the-man.jpg" heading="true" %}
+
 ## Dan The Man {#dan-the-man}
-
 ##### Android
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/13_dan-the-man.jpg" %}
 
 Dos mesmos criadores de Fruit Ninja e Jetpack Joyride, este é um joguinho de ação e plataforma bastante frenético e com visual retrô da [Halfbrick Studios](https://halfbrick.com/our-games/dan-the-man/). Te garanto, é impossível não viciar neste game!
 
@@ -54,11 +54,11 @@ seus diversos inimigos, lembrando bastante o **Metal Slug**, porém sem armas! :
 
 Ele é gratuito com propagandas, porém você pode optar por remover as propagandas, comprando!
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/12_resident-evil.jpg" heading="true" %}
+
 ## Resident Evil {#resident-evil}
-
 ##### Game Cube
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/12_resident-evil.jpg" %}
 
 Há anos que tenho a vontade de jogar este remake de [Resident Evil](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html),
 e olha, peguei para jogar e a primeira coisa em que se nota é a "tamanha" qualidade gráfica deste jogo... É impressionante!
@@ -67,11 +67,11 @@ O jogo conta com a mesma essência do [RE clássico do PS1](/jogando/analise/201
 
 Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/11_severed.jpg" heading="true" %}
+
 ## Severed {#severed}
-
 ##### PS Vita
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/11_severed.jpg" %}
 
 Este foi um jogo que me surpreendeu positivamente. Peguei para jogar só pelo simples fato de ser
 da [DrinkBox Studios](http://drinkboxstudios.com/), a desenvolvedora _indie_ responsável por [Guacamelee!](/jogando/analise/2016/02/15/analise-guacamelee-psvita.html), que se você não conhece, vale a pena dar olhada também!
@@ -83,11 +83,11 @@ você tem que adotar uma estratégia diferente de ataque. E pelo incrível que p
 
 Escrevi sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html). ;)
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/10_horizon-zero-dawn.jpg" heading="true" %}
+
 ## Horizon Zero Dawn {#horizon-zero-dawn}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/10_horizon-zero-dawn.jpg" %}
 
 Este jogo dispensa comentários, pois pensem comigo, uma ruiva “badass” que luta contra robôs de
 diversos tamanhos em um mundo pós-apocaliptico sem muitos recursos, não tinha como dar errado, tinha?
@@ -98,11 +98,11 @@ usando lanças e arcos e flechas, e além do mais, a história é fascinante!
 
 Escrevi sobre ele no [Game Over #38](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html).
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/09_tomb-raider-2.jpg" heading="true" %}
+
 ## Tomb Raider II {#tomb-raider-2}
-
 ##### PlayStation
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/09_tomb-raider-2.jpg" %}
 
 Considero TR2 um dos meus maiores [pecados gamísticos da geração 32-bits](/jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html). Porém,
 estava disposto à "pagar este pecado" quando decidi encarar as aventuras de Lara Croft neste clássico do PS1.
@@ -111,11 +111,11 @@ Estava indo tudo bem, avançando legal, até que do nada... Perco meu save do [M
 
 Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/08_wonder-boy-dragons-trap.jpg" heading="true" %}
+
 ## Wonder Boy: The Dragon's Trap {#wonder-boy}
-
 ##### PC
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/08_wonder-boy-dragons-trap.jpg" %}
 
 Remake de um jogo que aqui no Brasil ficou mais conhecido como **Turma da Mônica em O Resgate** do
 saudoso Master System (devido um hack oficial da Tectoy na época).
@@ -129,11 +129,11 @@ Turma da Mônica de volta ao jogo, que fiz questão de experimentar e ficou real
 
 Ainda não terminei o jogo, meta para este ano! Mas mesmo assim já recomendo o jogo!
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/07_uncharted-lost-legacy.jpg" heading="true" %}
+
 ## Uncharted: The Lost Legacy {#uncharted-lost-legacy}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/07_uncharted-lost-legacy.jpg" %}
 
 Mais um Uncharted para conta! Quem acompanha o blog sabe que sou fã da série e que com este lançamento de 2017,
 não poderia ser diferente: terminado e platinado! :D
@@ -146,11 +146,11 @@ muito bem contar!
 
 Recomendo! :)
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" heading="true" %}
+
 ## Brutal Legend {#brutal-legend}
-
 ##### PlayStation 3
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" %}
 
 Este é um verdadeiro _hidden gem_ (como os gringos gostam de chamar as jóias obscuras),
 pois deve ter passado despercebido por muita gente (eu inclusive) e é bem divertido!
@@ -163,11 +163,11 @@ ser dublado por Jack Black!
 Ah, um detalhe importante, o jogo é produzido por **Tim Schafer** (Double Fine) que foi responsável
 pelos grandes clássicos na época da LucasArts: Full Throttle, Grim Fandango e outros!
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/05_cuphead.jpg" heading="true" %}
+
 ## Cuphead {#cuphead}
-
 ##### PC
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/05_cuphead.jpg" %}
 
 Este jogo me chamou a atenção desde [a primeira vez que ouvi falar sobre ele](/noticias/2016/07/24/resumo-da-semana.html),
 e tudo por causa de seu belíssimo visual! Não deu outra, quando o jogo saiu, tive que jogá-lo...
@@ -179,11 +179,11 @@ irá te fazer perder as contas de quantas vezes irá morrer para conseguir derro
 
 Altamente recomendado! :)
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/04_stranger-things.jpg" heading="true" %}
+
 ## Stranger Things: The Game {#stranger-things}
-
 ##### Android
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/04_stranger-things.jpg" %}
 
 Este jogo saiu momentos antes da estreia da segunda temporada da série no [Netflix](https://www.netflix.com/br/title/80057281) e,
 como estava ansioso pela série, resolvi experimentar o [joguinho oficial](https://play.google.com/store/apps/details?id=com.bonusxp.legend&hl=pt_BR)
@@ -197,11 +197,11 @@ Cada personagem tem uma habilidade diferente, sendo assim, há áreas e inimigos
 personagem consegue passar. Por ser gratuito, o jogo é bem legal e viciante,
 pois a sensação de progressão e recompensa é rápida, vale cada centavo gasto! :o)
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/03_gran-turismo-sport.jpg" heading="true" %}
+
 ## Gran Turismo Sport {#gran-turismo-sport}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/03_gran-turismo-sport.jpg" %}
 
 Este quase foi a grande decepção do ano! Pois, como sabem, eu sou fã da série Gran Turismo e curti
 muito os últimos que saíram para o PS3 (GT5 e [GT6](/jogando/analise/2016/09/20/analise-gran-turismo-6.html))..
@@ -216,11 +216,11 @@ atrás (não sei se já era previsto) e [lançou os campeonatos offline na atual
 trazendo de volta o jogo a vida, pois apesar de tudo, ele conta com um ótimo visual e uma jogabilidade excelente ao
 nível de um bom GT!
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/02_doom.jpg" heading="true" %}
+
 ## DOOM {#doom}
-
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/02_doom.jpg" %}
 
 Quando todo mundo dizia que este **DOOM** estava fantástico, eu não dei muita bola devido ao meu problema
 com jogos FPS ([eles me causam Motion Sickness](/jogando/2017/12/21/5-caracteristicas-que-me-incomodam-nos-games.html)).
@@ -232,11 +232,11 @@ mal com ele, o que é uma luz no fim do túnel! rsrs
 DOOM é um "senhor" FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
 O jogo te incentiva a não ficar parado, sair atirando em tudo o que vê pela frente (porém, com cautelas) é a melhor estratégia!
 
+
+{% include image.html url="/imgs/posts/especial/05_meme2017/01_hollow-knight.jpg" heading="true" %}
+
 ## Hollow Knight {#hollow-knight}
-
 ##### PC
-
-{% include image.html url="/imgs/posts/especial/05_meme2017/01_hollow-knight.jpg" %}
 
 E por fim, mais um jogo indie! Este descobri vendo listas de melhores do ano no mês de Dezembro e
 já entrou na minha lista também!

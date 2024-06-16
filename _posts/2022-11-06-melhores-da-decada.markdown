@@ -18,21 +18,24 @@ Brincadeira... A década passada foi bastante especial para mim, pois foi em 201
 
 Enfim, vamos à lista... Dividos por ano, selecionei os três melhores jogos **que eu joguei** de cada ano e ainda de quebra, mencionei outros três jogos bons como menções honrosas. Ah, também citei outros três jogos que ainda não joguei e estão no meu backlog, os também conhecidos como [pecados gamísticos](/pecados-gamisticos/), que inclusive, podem até ser melhores do que minha seleção! Bom, esse post é uma homenagem à década passada que foi muito importante para mim no mundos dos jogos, mas quem sabe não animo e faço da década anterior também! :D
 
-## 2010
+
+{% include section-heading.html title="- 2010 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_dkc-returns.jpg" heading="true" %}
 
 #### Donkey Kong Country Returns
 ##### Nintendo Wii
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_dkc-returns.jpg" full="true" %}
 
 Nada melhor do que começar a lista com o retorno do gorila mais famoso do mundo dos games, não? E como esse retorno foi em grande estilo, **Donkey Kong Country Returns** não poderia ficar de fora, pois ele foi um dos jogos que mais me cativou no **Nintendo Wii**, até mesmo mais que **Super Mario Galaxy** (que acredite ou não, ainda não fui até o final). 
 
 O jogo trouxe de volta a progressão lateral, visual belíssimo e ainda uma dose de desafios, que inclusive, alguns até podem dizer que o ponto fraco do jogo é a dificuldade ou a jogabilidade que faz-se necessário movimentos com Wii remote, entretanto, eu achei o jogo desafiador na medida certa e a obrigatoriedade de fazer movimentos com as mãos para avançar não achei forçada e para mim, foi até prazerosa inclusive. Mas caso isso seja um empecilho para você, a versão de 3DS que saiu em 2013 pode ser uma alternativa interessante.
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_alan-wake.jpg" heading="true" %}
+
 #### Alan Wake
 ##### Xbox 360
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_alan-wake.jpg" full="true" %}
 
 Nada de **Halo** ou **Gears of War**, assim que o [Xbox 360 entrou em minha coleção](/post/aquisicao-xbox-360), o primeiro jogo que praticamente coloquei nele foi **Alan Wake**, e olha, vou te contar que o jogo me prendeu do início ao fim! 
 
@@ -40,10 +43,11 @@ No papel de um escritor de livros de terror, você tem que investigar os mistér
 
 Recentemente, em 2021, o jogo ganhou uma versão remasterizada para diversas plataformas e com isso mais jogadores pôde conhecer essa aventura de terror e suspense da [Remedy Entertainment](https://www.remedygames.com/), que inclusive, anunciou (finalmente) [uma sequência](https://youtu.be/zyJvCq4HvQ4)! 
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_gran-turismo-5.jpg" heading="true" %}
+
 #### Gran Turismo 5 
 ##### PlayStation 3
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2010_gran-turismo-5.jpg" full="true" %}
 
 Para fechar meu top 3 de 2010, eis o jogo que me fez voltar com força ao mundo dos games, pois assim que seu lançamento estava próximo, corri atrás de [comprar um PlayStation 3](/post/aquisicao-playstation3) e de quebra, comprei também o [volante G27](https://en.wikipedia.org/wiki/Logitech_G27) da **Logitech** para complementar, resultado: horas e horas jogando **Gran Turismo 5**! Que mesmo apesar dos atrasos para lançamento, fez jus a qualidade da série e conseguiu superar seu antecessor! Pena que hoje não é possível mais jogar online com ele.
 
@@ -51,26 +55,30 @@ Para fechar meu top 3 de 2010, eis o jogo que me fez voltar com força ao mundo 
   mencoes_covers="2010_nfs-hotpursuit.png, 2010_bioshock2.png, 2010_heavy-rain.png, 2010_god-of-war3.png, 2010_limbo.png, 2010_lara-croft-gol.png"
   pecados_covers="2010_super-mario-galaxy2.png, 2010_red-dead-redemption.png, 2010_dantes-inferno.png, 2010_fallout-new-vegas.png, 2010_metro2033.png, 2010_super-meat-boy.png" %}
 
-## 2011
+
+{% include section-heading.html title="- 2011 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_uncharted-3.jpg" heading="true" %}
 
 #### Uncharted 3: Drake's Deception
 ##### PlayStation 3
 
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_uncharted-3.jpg" full="true" %}
-
 Sou suspeito para [falar de **Uncharted**](/post/platinando-serie-uncharted), mas o terceiro título da série que nasceu no **PlayStation 3** tinha a dura missão de superar seu antecessor, que é uma obra-prima. Muitos dizem que não conseguiu, mas olha, se não conseguiu mesmo foi por muito pouco, pois **Drake's Deception** para mim é um deleite para quem gosta de aventura estilo **Tomb Raider** e os filmes do **Indiana Jones**!
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_super-mario-3d-land.jpg" heading="true" %}
 
 #### Super Mario 3D Land
 ##### Nintendo 3DS
 
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_super-mario-3d-land.jpg" full="true" %}
-
 O último portátil da **Nintendo** antes do **Switch** é recheado de ótimos jogos e esse do *Mario* é um deles e ainda por cima faz jus ao uso do 3D com uma bela ambientação e jogabilidade. É um dos poucos jogos que o 3D não cansa... tá, cansa sim, mas é muito melhor que a maioria dos jogos. Vale a pena conferir!
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_rayman-origins.jpg" heading="true" %}
 
 #### Rayman Origins
 ##### PC, PlayStation 3, Vita e Xbox 360
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2011_rayman-origins.jpg" full="true" %}
 
 Pensa num jogo bonito que é esse tal de **Rayman Origins**! A **Ubisoft** acertou a mão em trazer de volta seu personagem clássico. Mas esse jogo tá longe de ser apenas um jogo bonito, sua jogabilidade em progressão lateral chega a ser desafiadora em vários momentos, principalmente se você quiser coletar todos os *Lums* e *Electoons*.
 
@@ -80,30 +88,34 @@ Um dos grandes baratos do jogo é que você consegue jogar em até 4 jogadores e
   mencoes_covers="2011_mortal-kombat.png, 2011_dead-island.png, 2011_alice-madness-returns.png, 2011_jurassic-park.png"
   pecados_covers="2011_dead-space-2.png, 2011_deus-ex.png, 2011_batman-arkham-city.png, 2011_portal2.png" %}
 
-## 2012
+
+{% include section-heading.html title="- 2012 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_far-cry-3.jpg" heading="true" %}
 
 #### Far Cry 3
 ##### PC, PlayStation 3 e Xbox 360
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_far-cry-3.jpg" full="true" %}
 
 Esse é um jogaço! Lembro de ter passado a virada do ano de 2012 para 2013 jogando ele. Minha esposa (namorada na época) tinha feito plantão na véspera e chegou muito cansada em casa, então praticamente virei o ano jogando enquanto ela dormia! :D
 
 Mas enfim, **Far Cry 3**, além de ser um excelente FPS de mundo aberto, apresentou um dos vilões mais icônicos dos videogames: *Vaas Montenegro*, quem jogou, com certeza, se lembra dele! Eu até cheguei a escrever uma pequena [análise](/post/analise-farcry-3) do jogo na época para quem quiser conferir.
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_spec-ops-the-line.jpg" heading="true" %}
+
 #### Spec Ops: The Line
 ##### PC, PlayStation 3 e Xbox 360
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_spec-ops-the-line.jpg" full="true" %}
 
 Eis outro jogo que estou com vontade de rejogar! Principalmente para relembrar as decisões importantes que tinha que tomar durante o jogo e também para ver se elas ainda serão impactantes praticamente dez anos depois.
 
 Baseado no romance [Heart of Darkness](https://pt.wikipedia.org/wiki/Heart_of_Darkness_(romance)) do escritor [*Joseph Conrad*](https://pt.wikipedia.org/wiki/Joseph_Conrad), esse é um ótimo jogo de tiro em terceira pessoa que se passa na (ficticia) guerra em *Dubai*, porém o grande atrativo do jogo está nas "polêmicas" tomadas de decisões, daquelas do tipo, que sempre algo será sacrificado, você só tem que escolher qual. Também escrevi uma [análise](/post/analise-spec-ops-the-line) dele da época.
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_twd.jpg" heading="true" %}
+
 #### The Walking Dead
 ##### PC, PlayStation 3, PlayStation 4, Vita, Xbox 360 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2012_twd.jpg" full="true" %}
 
 Muitas mídias especilizadas elegeram este como sendo o **"Jogo do Ano de 2012"** e olha, concordo bastante, pois esse trabalho da **Telltale Games**, realmente, foi algo surpreendente e inovador para época, além, é claro, de ser um baita jogo!
 
@@ -115,30 +127,34 @@ Com o estilo de jogo "*point-and-click*", você tem que resolver uma série de p
   mencoes_covers="2012_nfs-most-wanted.png, 2012_forza-horizon.png, 2012_max-payne3.png"
   pecados_covers="2012_diablo3.png, 2012_new-super-mario.png, 2012_journey.png, 2012_borderlands2.png, 2012_dishonored.png, 2012_hitman-absolution.png" %}
 
-## 2013
+
+{% include section-heading.html title="- 2013 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tlou.jpg" heading="true" %}
 
 #### The Last of Us
 ##### PlayStation 3
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tlou.jpg" full="true" %}
 
 Este aqui dispensa comentários, não? Provavelmente **o melhor jogo da década!** A **Naughty Dog** conseguiu unir drama, ação, aventura, suspense, terror e até *stealth* em um jogo que te prende do início ao fim! 
 
 No controle de *Joel*, um durão sobrevivente veterano, você está em um mundo pós-apocalíptico, onde os seres humanos estão quase em extinção devido a uma praga que transforma as pessoas em zumbis. Apesar de ser muito divertido enfrentar esses zumbis (de variados tamanhos e característica), a parte mais envolvente é sua rica história e ambientação. [Recomendo demais esse jogo](/post/analise-the-last-of-us)!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tomb-raider.jpg" heading="true" %}
+
 #### Tomb Raider
 ##### PC, PlayStation 3 e Xbox 360
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_tomb-raider.jpg" full="true" %}
 
 O renascimento da maior musa dos videogames veio em grande categoria, com uma *Lara Croft*, menos experiente e mais humana, porém extremamente corajosa e guerreira, pois precisa lutar pela vida em uma ilha tropical misteriosa onde seu navio naufragou devido à uma forte tempestade. 
 
 O engraçado é que assim como **Uncharted** bebeu da fonte de **Tomb Raider**, essa nova aventura de *Lara* se inspirou bastante na franquia de *Nathan Drake*. Porém, é um jogo mais aprimorado, com cover automático, sistema de evolução e bastante exploração. Enfim, [um jogaço](/post/analise-tomb-raider-2013)!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_gran-turismo-6.jpg" heading="true" %}
+
 #### Gran Turismo 6
 ##### PlayStation 3
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2013_gran-turismo-6.jpg" full="true" %}
 
 O segundo jogo da série **Gran Turismo** para o **PlayStation 3** foi o primeiro da história a receber uma certificação da FIA (Federação Internacional de Automobilismo) de tão próximo à realidade ele foi.
 
@@ -150,30 +166,34 @@ O jogo possui tantos detalhes legais, que modéstia a parte, recomendo a leitura
   mencoes_covers="2013_bioshock-infinite.png, 2013_guacamelee.png, 2013_metal-gear-rising.png, 2013_nfs-rivals.png, 2013_rayman-legends.png"
   pecados_covers="2013_luigis-mansion.png, 2013_gtav.png, 2013_beyond-two-souls.png, 2013_metro-last-light.png" %}
 
-## 2014
+
+{% include section-heading.html title="- 2014 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_wolfenstein.jpg" heading="true" %}
 
 #### Wolfenstein: The New Order
 ##### PlayStation 3, PlayStation 4, Xbox 360 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_wolfenstein.jpg" full="true" %}
 
 Este é o sétimo título da série **Wolfenstein**, um FPS que nasceu lá no início da década 90 antes mesmo de **DOOM**, que para quem não conhece, conta uma história alternativa em que a Alemanha Nazista venceu a Segunda Guerra Mundial. Com isso, você assume o papel do soldado *B.J. Blazkowicz* que não medirá esforços para impedir que os nazistas continuem no controle do mundo.
 
 Apesar de não ser mais desenvolvido pela **id Software** (e sim pela **MachineGames**), o jogo é uma delícia de jogar, pois possui uma narrativa interessante e um combate muito bem feito. Inclusive, ele foi muito bem recebido pela crítica especializada. Jogaço!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_forza-horizon-2.jpg" heading="true" %}
+
 #### Forza Horizon 2
 ##### Xbox 360 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_forza-horizon-2.jpg" full="true" %}
 
 O "*spin-off*" da série **Forza Motorsport** deu muito certo! Tanto que sua continuação é um deleite para os fãs de jogos de corrida. Quase duas vezes maior que seu antecessor, desta vez, a exploração em mundo aberto é em partes da Itália e França. Além disso, agora o jogo conta com climas de um dia nebulento com diversas intensidades de chuvas e neblinas. Porém, na versão do **Xbox 360** não conta com clima de chuva, infelizmente.
 
 O jogo oferece mais de 200 carros e 168 eventos (cada um com diversas corridas), além da interatividade online, desafios e corridas de exibições, que são um show à parte. Enfim, é um belíssimo jogo de corrida arcade, onde lembra um pouco de **OutRun**, que foca no prazer de pilotar e curtir ótimas músicas admirando uma bela paisagem.
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_dkc-tropical-freeze.jpg" heading="true" %}
+
 #### Donkey Kong Country: Tropical Freeze 
 ##### Wii U
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2014_dkc-tropical-freeze.jpg" full="true" %}
 
 O segundo jogo do gorila da **Nintendo** é igualmente excelente ao seu antecessor, porém ainda mais desafiador! Ele foi o responsável por eu querer o console **Wii U** na época.
 
@@ -185,12 +205,14 @@ Em 2018 o jogo recebeu um port para **Nintendo Switch**.
   mencoes_covers="2014_farcry4.png, 2014_the-evil-within.png, 2014_mario-kart8.png, 2014_sunset-overdrive.png"
   pecados_covers="2014_alien-isolation.png, 2014_shadow-of-mordor.png, 2014_bayonetta-2.png" %}
 
-## 2015
+
+{% include section-heading.html title="- 2015 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_rise-tomb-raider.jpg" heading="true" %}
 
 #### Rise of the Tomb Raider
 ##### PC, PlayStation 4, Xbox 360 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_rise-tomb-raider.jpg" full="true" %}
 
 Sou suspeito para falar da série, mas o segundo jogo da trilogia (iniciada em 2013) da nova *Lara Croft* é fantástico! Lançado em 2015 exclusivamente para os consoles da **Microsoft**, foi muito bem recebido pela crítica, pois a **Crystal Dynamics** pegou a fórmula que deu certo e melhorou ainda mais.
 
@@ -200,19 +222,21 @@ Quem curtiu o primeiro, com certeza irá curtir essa sequência, pois agora as �
 
 Enfim, jogaço! Os jogadores de **PlayStation** e **PC**, só foram usufruir deste jogo em 2016 quando ele saiu para **Windows** e **PlayStation 4** (no final do ano). Em 2019 ele saiu para o **Google Stadia** também, mas isso é quase irrelevante. Eu joguei no **Xbox 360**, pois não tinha o **Xbox One** na época e não aguentei esperar sair no PS4.
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_axiom-verge.jpg" heading="true" %}
+
 #### Axiom Verge
 ##### PC, PlayStation 4, Vita e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_axiom-verge.jpg" full="true" %}
 
 Se você é fã do "gênero" *metroidvania* e ainda não jogou **Axiom Verge** está perdendo seu tempo, pois esse jogo é uma baita homenagem ao gênero e ainda mais ao clássico **Super Metroid**!
 
 Desenvolvido por praticamente um pessoa só, o [*Thomas Happ*](https://www.thomashapp.com/), esse jogo conta com gráficos pixelizados estilo retrô, ótima trilha sonora (também desenvolvida pelo Thomas), história interessante e um excelente gameplay com *backtracking*, *power-ups* e tudo mais, ou seja, o jogo tem tudo o que os fãs do gênero gostam! Neste ano, 2022, o jogo ganhou [uma sequência](https://youtu.be/BhWRJb2hLi0).
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_lara-croft-go.jpg" heading="true" %}
+
 #### Lara Croft GO
 ##### Andriod, iOS, PC, PS Vita, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2015_lara-croft-go.jpg" full="true" %}
 
 Mais um jogo da *Lara*! Desta vez, um jogo diferente. Neste, o foco é totalmente nos puzzles! Sua movimentação pelo cenário é baseado em turnos, ou seja, cada fase tem uma trilha pré-determinada por onde você pode andar, e a cada passo dado, é considerado um turno. Entretanto, nestas trilhas também existem inimigos e armadilhas estrategicamente posicionados para dificultar sua vida!
 
@@ -222,21 +246,24 @@ Sendo assim, você tem que pensar numa estratégia para dar os passos corretos e
   mencoes_covers="2015_life-is-strange.png, 2015_ori.png, 2015_mgsv.png, 2015_dying-light.png, 2015_grim-fandango.png"
   pecados_covers="2015_bloodborne.png, 2015_witcher3.png, 2015_until-dawn.png, 2015_fallout4.png" %}
 
-## 2016
+
+{% include section-heading.html title="- 2016 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_uncharted-4.jpg" heading="true" %}
 
 #### Uncharted 4: A Thief's End
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_uncharted-4.jpg" full="true" %}
 
 Pensa num jogo que estava ansioso para jogar... Inclusive, [comprei no lançamento](/post/analise-uncharted-4) e ainda conciliei com minhas férias para poder jogar tranquilamente. Nesta aventura de *Nathan Drake*, mostra um cara "aposentado" tentando levar uma vida normal ao lado de sua esposa. Porém, esse estilo de vida não é muito a cara dele e a "desculpa perfeita" para partir para uma nova aventura foi quando o seu irmão mais velho, que até então era dado como morta à mais de 15 anos, aparece precisando de ajuda para encontrar o lendário tesouro pirata de *Henry Avery*.
 
 Enfim, esse na minha opinião é o melhor jogo da série, pois pegou tudo que tinha de ótimo nos jogos anteriores, aprimorou e ainda apresentou novas mecânicas, tudo isso em cima de uma história de aventura fantástica somado à belíssimos gráficos e trilha sonora... Sim, sou [muito fã da série](/post/platinando-serie-uncharted), como você deve ter percebido! :D
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_doom.jpg" heading="true" %}
+
 #### DOOM
 ##### PC, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_doom.jpg" full="true" %}
 
 Este o jogo me fez tornar fã da série! Mesmo sem ter jogado o **DOOM clássico**, consegui sentir a atenção que deram para esse "reboot" manter a essência do que os caras da **id Software** buscavam no início da década de 90! **DOOM** é um jogo de tiro "raíz", onde ficar parado não é a melhor opção! Ele te coloca no meio de uma ação frenética ao som de um rock pesado enfrentando demônios dos mais variados tipos e tamanhos. Sua adrenalina vai às alturas, para mim, foi uma [experiência extremamente divertida](/post/analise-doom)!
 
@@ -244,10 +271,11 @@ O grande atrativo do jogo é, com certeza, sua mecânica quase que perfeita e vi
 
 Enfim, se você curte jogos de tiro, deveria dar uma atenção à DOOM! Sempre que alguém me pede uma recomendação de jogo, eu indico ele! :D
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_inside.jpg" heading="true" %}
+
 #### Inside
 ##### PC, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2016_inside.jpg" full="true" %}
 
 Quando comecei a escrever esse texto, esse jogo *indie* não constava na minha lista ainda, porém, joguei ele recentemente e tomou um lugar no pódio de 2016! 
 
@@ -259,12 +287,14 @@ Apesar de ser monocromático, os gráficos são incrivelmente muito bem detalhad
   mencoes_covers="2016_firewatch.png, 2016_the-last-guardian.png, 2016_severed.png, 2016_forza-horizon3.png"
   pecados_covers="2016_quantum-break.png, 2016_deus-ex.png, 2016_dark-souls3.png, 2016_dishonored2.png" %}
 
-## 2017
+
+{% include section-heading.html title="- 2017 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_horizon-zero-dawn.jpg" heading="true" %}
 
 #### Horizon Zero Dawn
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_horizon-zero-dawn.jpg" full="true" %}
 
 Começar o, talvez, **melhor ano da década** (olhem o peso da menções honrosas e também dos jogos que ainda não joguei) com um jogo que não me prendeu de cara, mas que ao dar uma segunda chance, se tornou [um dos meus jogos favoritos](/post/analise-horizon-zero-dawn) do PS4. Pensem comigo, uma ruiva *badass* que luta contra robôs com um arco-e-flecha em um mundo pós-apocaliptico não tinha como dar errado, né?
 
@@ -272,19 +302,21 @@ Este RPG de ação foi a aposta da **Guerrilla Games**, conhecida por **Killzone
 
 Mas enfim, o jogo conta história de *Aloy*, uma guerreira exilada, que está em busca de informações sobre seu verdadeiro passado. Mas, além da excelente trama, o que cativa neste jogo é a ambientação com belíssimos gráficos e o combate, é muito interessante como eles conseguiram tornar uma luta contra "animais-robôs" bastante versátil e inteligente.
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_re7-biohazard.jpg" heading="true" %}
+
 #### Resident Evil 7: biohazard
 ##### PC, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_re7-biohazard.jpg" full="true" %}
 
 Já este jogo, eu torci o nariz por muito tempo, só pelo fato dele ser um jogo que não tinha cara de **Resident Evil** por ser em primeira pessoa. Mas assim que resolvi dar uma chance à ele, me prendeu do início ao fim. Queimei a língua bonito. Quem fala que esse jogo não é **Resident Evil**, ou essa pessoa simplesmente não jogou ou não conhece o legado da série.
 
 No papel do jovem *Ethan*, você deve investigar o paradeiro de sua namorada *Mia*, que desapareceu há alguns anos e nisto acaba chegando à cidade de *Dulvey*, mais especificamente na propriedade da família *Baker*, que após entrar, vai ser complicado de sair, pois a família é totalmente bizarra e, digamos, antagonistas do jogo. Mas enfim, o jogo, apesar de ser em primeira pessoa, tem muito elementos da série clássica, como por exemplo, reunir objetos para resolver *puzzles*, baús de armazenamento, dispositivo para salvar seu progresso (sim, não tem save automático) e recursos (munições e medicamentos) limitados. Eu [recomendo esse jogo](/post/analise-resident-evil-7) de olhos fechados, é um baita jogo de terror!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_hollow-knight.jpg" heading="true" %}
+
 #### Hollow Knight
 ##### PC, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2017_hollow-knight.jpg" full="true" %}
 
 Pensa num jogo *indie* lindíssimo... Esse *metroidvania* da [Team Cherry](https://www.teamcherry.com.au/), além de possuir gráficos e trilha sonora excepcionais, tem um *gameplay* delicioso, onde a dificuldade está na dose certa, pois não é um jogo nada fácil, mas também está longe de ser um jogo impossível, pelo menos para concluir a campanha principal. O jogo tem uma pegada *soulslike* também, onde para derrotar cada chefe é necessário habilidades e estratégias diferentes. Além disso, caso você morra, sua alma fica ali no ponto que morreu e você tem a chance de recuperar seus pertences ao conseguir chegar nesse ponto novamente.
 
@@ -294,30 +326,34 @@ Enfim, se você curte o gênero e ainda não jogou esse, está perdendo um **bai
   mencoes_covers="2017_cuphead.png, 2017_uncharted-lost-legacy.png, 2017_forza7.png, 2017_hellblade.png"
   pecados_covers="2017_zelda-botw.png, 2017_super-mario-odyssey.png, 2017_sonic-mania.png, 2017_prey.png" %}
 
-## 2018
+
+{% include section-heading.html title="- 2018 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_god-of-war.jpg" heading="true" %}
 
 #### God of War
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_god-of-war.jpg" full="true" %}
 
 Eleito como o melhor jogo do ano pela [The Game Awards (TGA)](https://thegameawards.com), esse "reinício" da saga foi realmente merecedor do título de GOTY! Com uma mecânica quase que totalmente diferente do que estavámos acostumados da série e com um *Kratos* mais maduro, temos um jogo mais cadenciado e preciso (não basta apenas ficar apertando quadrado), além de um visual extraordinário!
 
 Eu disse "reinício" com aspas no começo, pois o jogo faz parte da ordem cronológica da série, sendo sequência dos eventos ocorridos em **God of War III**. Ligeiramente baseado na mitologia nórdica (outra diferença, pois os anteriores eram baseados na mitologia grega), o jogo se passa na antiga Noruega no reino de *Midgard*. E desta vez, *Kratos* está acompanhado do seu filho *Atreus*, cujo o objetivo é espalhar as cinzas de sua esposa no pico mais alto dos noves reinos, que obviamente não será nada fácil. Enfim, outro jogaço!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_spider-man.jpg" heading="true" %}
+
 #### Marvel's Spider-Man
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_spider-man.jpg" full="true" %}
 
 Esse é um daqueles jogos que eu não dava nada para ele, não me empolgava... até chegar perto do lançamento, pois, depois de assistir alguns trailers, fiquei totalemente empolgado e comprei no dia 1 do lançamento! E valeu cada centavo! 
 
 Um jogo de mundo aberto na cidade de Nova Iorque do cabeça de teia, onde o sistema de combate é super fluído e dinâmico, a movimentação pelo cenário balançando pelos prédios é natural e prazerosa, os gráficos são belíssimos, uma ótima trilha sonora e por fim, uma trama bacana digna de uma HQ, não tinha como ser ruim, né? Pois bem, e não é mesmo... é uma baita jogo desenvolvido pela **Insomniac Games**!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_forza-horizon-4.jpg" heading="true" %}
+
 #### Forza Horizon 4
 ##### PC e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2018_forza-horizon-4.jpg" full="true" %}
 
 O quarto título da série *spin-off* da franquia **Forza** se passa em uma mapa aberto e fictício do Reino Unido. Uma das grandes novidades é o sistema dinâmico das quatro estações do ano: Verão, Primavera, Outono e Inverno, onde a cada semana a estação é alterada. Algumas áreas do mapa só são acessadas dependendo da estação que tiver, por exemplo, no inverno é possível correr em lagos e rios congelados.
 
@@ -327,12 +363,14 @@ Como é de se esperar na série, o jogo possui um visual incrível e uma ótima 
   mencoes_covers="2018_shadow-tomb-raider.png, 2018_shadow-colossus.png, 2018_battlefield5.png"
   pecados_covers="2018_farcry5.png, 2018_celeste.png, 2018_red-dead-redemption2.png, 2018_the-messenger.png" %}
 
-## 2019
+
+{% include section-heading.html title="- 2019 -" %}
+
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_re2.jpg" heading="true" %}
 
 #### Resident Evil 2
 ##### PC, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_re2.jpg" full="true" %}
 
 Se tem uma coisa que a **Capcom** sabe fazer muito bem é remake de jogos da série **Resident Evil**. E o do segundo jogo da série foi um deleite à parte, quase que perfeito! O único detalhe que o jogo pecou foi na continuidade entre as duas jornadas dos personagens principais. 
 
@@ -340,10 +378,11 @@ Para quem não conhece, o jogo original tinha duas campanhas, a do *Leon* e da *
 
 Mas tirando isso e algumas partes do jogo original que foram removidas, o jogo é excelente! Ótimos gráficos e ambientação, os zumbis estão mais fortes e difíceis de serem derrubados, o sistema de save é no método antigo via máquina de escrever, escassez de recursos e ainda por cima tem o *Tirante*... Enfim, ótimo jogo!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_days-gone.jpg" heading="true" %}
+
 #### Days Gone
 ##### PlayStation 4
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_days-gone.jpg" full="true" %}
 
 Conhecida pela franquia **Syphon Filter** e por trazer a série **Uncharted** ao portátil da **Sony (PS Vita)**, a **Bend Studio**, resolveu apostar em uma nova IP própria e acabou que acertou em cheio criando um jogo pós-apocalíptico de mundo aberto onde você anda por aí com uma moto matando zumbis, legal demais! 
 
@@ -351,10 +390,11 @@ No controle de *Deacon St. John*, um viajante e caçador de recompensas, você d
 
 Apesar de ser uma temática meio batida no mundo games, eu adoro e nessa aventura, um dos fatores que me empolgou é que o jogo não te larga em um mundo aberto sem ter o que fazer, as missões são legais e enriquecessem a trama principal. Além de que enfrentar zumbis é muito prazeroso e esse jogo tem uns momentos tensos, onde você tem que enfrentar hordas inteiras (e os zumbis desse jogo corre!) que só são possíveis de vencer pensando numa estratégia de combate. Enfim, um jogo bem legal, que eu recomendo!
 
+
+{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_nfs-heat.jpg" heading="true" %}
+
 #### Need for Speed: Heat
 ##### PC, PlayStation 4 e Xbox One
-
-{% include image.html url="/imgs/posts/toplist/15_melhor_decada_2010/2019_nfs-heat.jpg" full="true" %}
 
 E para fechar a lista, um **Need for Speed**... Sim! Eu sou meio *"putinha"* da série, então sou suspeito para falar, mas para mim, eles acertaram a mão nesse jogo e criaram um NFS bem acima da média e aos moldes do que os fãs gostam: muitos carros com possibilidade de customização detalhada, corridas ilegais com perseguições de polícias, um ótimo gameplay e uma trilha sonora empolgante!
 
