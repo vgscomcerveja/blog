@@ -15,9 +15,12 @@
 {% assign img = include.url | split: "." | first %}
 
 <figure 
-
-  {% if include.full != null %}
-    style="width:100%"
+  {% if include.heading != null %}
+    style="width: 100%; margin-top: 75px"
+  {% else %}
+    {% if include.full != null %}
+      style="width: 100%"
+    {% endif %}
   {% endif %}
 >
   <a href="{{ include.url }}"
