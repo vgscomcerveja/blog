@@ -682,6 +682,9 @@ android100:
   - nome: Monument Valley
     data: 24/04/2020
     status: android100
+  - nome: Sudoku - Classic Puzzle Game
+    data: 01/07/2024
+    status: android100
 psn100:
   - nome: PAC-MAN Championship Edition DX
     data: 16/10/2012
