@@ -8,38 +8,33 @@ sitemap:
 ---
 <div class="page-title">
   <img width="96" height="96" src="/imgs/icone-jogando.png"><br>
-  <h1>Parceiros</h1>
+  <h1>Blogroll</h1>
 </div>
 
-<div class="home">
+<div class="home full post-content">
 
-  <div class="wrapper">
-
-    <p>Aqui você encontra todos os parceiros e amigos do blog, cujo os conteúdos são ótimos e recomendo! :)</p>
-        
-    <div class="cards">
-      {% for partner in site.data.partners %}
-        <a href="{{ partner.site }}" class="card" target="_blank" title="{{ partner.name }}">
-          <img src="{{ partner.logo }}">
-          <b>{{ partner.name }}</b>
-          <small>{{ partner.site }}</small>
-        </a>
-      {%  endfor %}
-    </div>
-
-    <p>Caso você também tenha um blog/site e interesse em formar uma parceira, entre contato através do link abaixo!</p>
-
-    <p style="text-align:center">
-      <br>
-      <a href="https://goo.gl/forms/K2pYcjgaqFVEwCy42"
-        style="font-size:1em; background-color:#2288bb; border:0; color:white; padding:8px 15px;"
-        target="_blank">Seja um parceiro!</a>
-    </p>
-
+  <p>Aqui você encontra todos os parceiros e amigos do blog cujo os conteúdos são ótimos e eu recomendo! :)</p>
+      
+  <div class="cards">
+    {% for partner in site.data.partners %}
+      <a href="{{ partner.site }}" class="card" target="_blank" title="{{ partner.name }}">
+        <img src="{{ partner.logo }}">
+        <small>{{ partner.site }}</small>
+      </a>
+    {%  endfor %}
   </div>
 
+  <hr></hr>
+
+  <p style="text-align:center">Caso você também tenha um blog/site e tem interesse em inclui-lo nessa lista, entre contato!</p>
+
+  <p style="text-align:center">
+    <a href="https://goo.gl/forms/K2pYcjgaqFVEwCy42"
+      style="font-size:1em; background-color:#2288bb; border:0; color:white; padding:8px 15px; text-decoration: none;"
+      target="_blank">Seja um parceiro!</a>
+  </p>
+
 </div>
 
-{% include side-menu.html %}
 
 
