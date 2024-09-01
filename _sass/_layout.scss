@@ -181,8 +181,8 @@
 #header-logo.smaller #logo-pequeno {
   display: block;
   float: left;
-  width: 300px;
-  margin: 8px 10px 2px;
+  margin: 2px 6px;
+  height: 45px;
 }
 
 #header-logo.smaller #logo-grande {
@@ -320,9 +320,9 @@
 
   #header-logo #logo-pequeno {
     display: block;
-    float: left;
-    width: 300px;
-    margin: 8px 10px 2px;
+    height: 45px;
+    margin: 5px auto;
+
   }
 
   #header-logo #logo-grande {
