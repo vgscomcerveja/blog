@@ -1,4 +1,4 @@
-last-update: 29/03/2024
+last-update: 03/01/2025
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -15,10 +15,12 @@ stats-by-year:
   y2021: 9
   y2022: 3
   y2023: 14
-  y2024: 4
+  y2024: 8
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
+  - nome: Buddy Gator
+    data: 08/08/2024
   - nome: Dan The Man
     data: 18/01/2017
   - nome: Dandara
@@ -45,6 +47,8 @@ android:
   - nome: Monument Valley II
     data: 22/04/2020
     status: android100
+  - nome: Monument Valley III
+    data: 25/12/2024
   - nome: Stranger Things - The Game
     data: 08/10/2017
     status: android100
@@ -350,6 +354,9 @@ ps4:
   - nome: Gone Home
     data: 29/08/2016
     link: /post/analise-gone-home
+  - nome: Gris
+    data: 23/12/2024
+    status: platina
   - nome: Guitar Hero Live
     data: 23/05/2016
   - nome: Hellblade - Senua's Sacrifice
@@ -648,6 +655,8 @@ xone:
   - nome: Forza Horizon 4
     data: 19/11/2018
     status: 1000G
+  - nome: Halo - Combat Evolved Anniversary
+    data: 31/12/2024
   - nome: Old Man's Journey
     data: 06/12/2019
     status: 1000G
@@ -1261,7 +1270,11 @@ platina:
     data: 02/11/2023
     platform: ps4
     status: platina
-  - nome: Terminator Resistance
+  - nome: Terminator - Resistance
     data: 14/01/2024
+    platform: ps4
+    status: platina
+  - nome: Gris
+    data: 23/12/2024
     platform: ps4
     status: platina
