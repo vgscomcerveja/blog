@@ -1,0 +1,103 @@
+---
+layout: post
+title: "MeMe - O Que Você Jogou em 2024?"
+date: 2025-01-05 22:00
+author: felipebbarbosa
+session: Proseando // Especial
+categories: games jogando
+tags: [meme-oqvj, categoria-especial, serie-proseando]
+related: meme-oqvj
+thumbnail: /imgs/posts/especial/17_meme2024/post_thumbnail.jpg
+cover: /imgs/posts/especial/17_meme2024/post_header.jpg
+---
+
+Quem acompanha o blog já sabe, mesmo sem muitos posts durante o ano, o primeiro post do ano é sempre a presença no tradicional **"MeMe do Marvox"**, que aos trancos e barrancos, chega à sua [14ª edição](https://www.instagram.com/p/DES5FtUSg7G7LRV6XvrNI55Tk-xJ7uQF_wUAms0/)! Como adoro fazer essa releitura do meu ano "gamístico" dizendo o que de melhor (ou pior) a gente jogou no ano que passou, meu texto seguirá aparecendo por aqui!
+
+<!--more-->
+
+Em 2023, eu tinha iniciado uma saga pessoal de jogos de tiro em primeira pessoa, que particularmente, sempre curti o gênero, porém tinha me afastado deles por diversos motivos. Mas agora estou correndo atrás do "prejuízo" e, sendo assim, eles dominaram minha lista de 2024! E convenhamos, não foi o melhor ano em questão de quantidade, mas consegui riscar alguns clássicos de qualidade da minha lista e estou muito feliz por isso! 
+
+Então bora conferir, os oito jogos que foram destaques na minha jogatina do ano de 2024.
+
+
+{% include thumb-heading.html 
+  title="Terminator: Resistance" subtitle="2019 - Teyon, PlayStation 4"
+  thumb="/imgs/posts/especial/17_meme2024/01_terminator-resistance.jpg" %}
+
+Passei um tempinho procurando esse jogo para encontrar em mídia física para **PlayStation 4**, pois estava díficil de aparecer uma cópia no Brasil. Mas quando consegui, fui logo jogar, pois estava ansioso para jogá-lo após ver algumas críticas positivas sobre ele! Inclusive, foi surpreendente, pois a desenvolvedora é a mesma do jogo do **Rambo** para **Xbox 360** e **PlayStation 3**, que todos sabem, possui uma qualidade muito duvidosa que ainda não tive a coragem de experimentar! Por outro lado, depois desse jogo do **Exterminador do Futuro**, eles lançaram o muito bem falado **RoboCop: Rogue City** para **PlayStation 5**, **Xbox Series** e **PC**. Acho que eles acertaram a mão!
+
+Bom, como você deve ter notado, o jogo é baseado na série de filmes do **Exterminador do Futuro**, mais precisamente na guerra dos dois primeiros filmes. Ele é de tiro em primeira pessoa e você assume o papel de **Jacob Rivers**, um desconhecido que tenta que escapar das ruínas de Pasadena e acaba se tornando um grande guerreiro da resistência liderada por **John Connor**. Não vou me aprofundar muito, mas o grande triunfo do jogo é te transportar para atmosfera de sobrevivência dos filmes, é muito tenso enfrentar os robôs da **Skynet**!
+
+{% include thumb-heading.html 
+  title="Prince of Persia: Lost Crown" subtitle="2024 - Ubisoft, PlayStation 4"
+  thumb="/imgs/posts/especial/17_meme2024/06_prince-of-persia-lost-crown.jpg" %}
+
+Gosto muito da franquia **Prince of Persia**, então quando vi muita gente falar bem do último lançamento do príncipe, não resisti, acabei comprando muito perto do lançamento. Porém, não tenho muito o que falar dele, pois o jogo não me pegou naquele momento e não avancei muito. Mas não me leve a mal, tenho certeza que vou curtir esse jogo ainda, pois é um metroidvania de respeito e lindíssimo! Quem sabe esse ano?
+
+{% include thumb-heading.html 
+  title="Medal of Honor: Frontline" subtitle="2002 - Electronic Arts, PlayStation 2"
+  thumb="/imgs/posts/especial/17_meme2024/02_medal-of-honor-frontline.jpg" %}
+
+Outra franquia que sou fã! Joguei muito os primeiros jogos, depois por algum motivo, acabei pulando os jogos da geração do PS2 e depois só joguei os dois "últimos" no PS3 e 360. Mas felizmente estou resolvendo isso e terminei o **Frontline**, o primeiro dessa geração para os consoles. Não sei se foi a nostalgia de assumir novamente o papel do tenente **Jimmy Patterson** do primeiro jogo, mas que jogo gostoso de jogar! A ambientação da segunda guerra mundial sempre me pega, gosto bastante dos jogos que abordam essa época!
+
+{% include thumb-heading.html 
+  title="BioShock: Infinite" subtitle="2013 - Irrational Games, PlayStation 3"
+  thumb="/imgs/posts/especial/17_meme2024/03_bioshock-infinite.jpg" %}
+
+Finalmente! Se eu falar que comprei esse jogo no lançamento em 2013 e, assim como o **Prince of Persia**, o jogo não me prendeu de cara! Não sei se é porque tinha dado uma saturada de **BioShock**, pois acabava de zerar os dois primeiros jogos da série e na empolgação, comprei o Infinite, sei lá, só sei que levou 11 anos para eu ver o quão grandioso esse jogo é! 
+
+Apesar de ter destoado um pouco do clima sombrio e escuro dos dois primeiros jogos da série, não tem como falar que não é **BioShock**! Jogo lindo e de jogabilidade deliciosa, simplesmente recomendo! Me arrependo de ter demorado tanto para dar atenção à ele, mas antes tarde do que nunca!
+
+{% include thumb-heading.html 
+  title="Half-Life 2" subtitle="2004 - Valve, PC / Steam"
+  thumb="/imgs/posts/especial/17_meme2024/04_half-life-2.jpg" %}
+
+Por falar em antes tarde do que nunca, olha o tamanho do clássico que tirei da minha lista! O que falar de **Half-Life 2**? O jogo que ganhou o prêmio do melhor jogo da década! Praticamente dispensa comentários, um clássico absoluto, que ainda, 20 anos depois, continua excelente de jogar! Eu não peguei o hype da época, mas fico imaginando o quão maravilhoso foi ter apreciado essa obra de arte no lançamento. 
+
+O jogo se passa 20 anos após o incidente de **Black Mesa** do primeiro jogo e **Gordon Freeman**, retorna sem ter envelhecido após todo esse tempo desaparecido para ajudar na guerra contra o governo. O jogo tem tantos detalhes únicos e inovadores que até hoje os desenvolvedores se inspiram nele. Jogaço!
+
+{% include thumb-heading.html 
+  title="DOOM 64" subtitle="1997 - id Software, Nintendo 64"
+  thumb="/imgs/posts/especial/17_meme2024/05_doom-64.jpg" %}
+
+Outro jogaço, porém já me adianto que esse não cheguei no final, mas avancei bastante a ponto de poder dizer que é um baita jogo e talvez, injustiçado na época que foi lançado, pois ainda possuia gráficos e jogabilidades muito parecidas com os dois primeiros **DOOM**! Por falar nisso, esse é uma sequência direta do **DOOM II** se passando após os eventos do jogo, com o único soldado sobrevivente retornando à Terra. Quanto aos demônios? Eles sobreviveram e você terá que lutar contra eles novamente! 
+
+Apesar de ser um jogo muito bom e gostoso de jogar, não é nada fácil e esse é principal motivo de eu não ter zerado ele ainda, empaquei por volta do capítulo 16 ou 17 e acabei abandonando (mas o password está anotado), aliás, abandonei os games em geral, fiquei um tempo sem jogar. Estava jogando em Junho e só fui voltar a jogar agora no finalzinho do ano em Dezembro com:
+
+{% include thumb-heading.html 
+  title="Gris" subtitle="2018 - Nómada Studio, PlayStation 4"
+  thumb="/imgs/posts/especial/17_meme2024/07_gris.jpg" %}
+
+Após um hiato de quase 6 meses sem jogar, voltei com outro baita jogo e não é um FPS desta vez! **Gris** é um jogo independente maravilhoso que trata de um assunto delicado como a depressão de forma excepcional! Visualmente é lindo e a jogabilidade é bastante simples, você não enfrenta inimigos e nem morre se cair de lugares altos! Tudo que você tem que fazer é avançar, enfrentar seus obstáculos e recuperar sua voz! Não vou conseguir descrever ao quão lindo esse jogo é! Vale muito a pena jogá-lo, pois é único!
+
+{% include thumb-heading.html 
+  title="Halo: Combat Evolved Anniversary" subtitle="2014 - 343 Industries, Xbox One (The Master Chief Collection)"
+  thumb="/imgs/posts/especial/17_meme2024/08_halo.jpg" %}
+
+E quando achei que já tinha passado a régua do ano, eis que ao apagar das luzes, tiro outro clássico da minha lista de jogos de FPS! **Halo** é sem sombras de dúvidas, um dos grandes títulos do gênero. Lançado em 2001 junto com o lançamento do primeiro **Xbox**, **Halo** virou uma franquia de sucesso para a **Microsoft**. Porém, apesar de ser o primeiro, o que eu joguei é a versão remasterizada de 2014 do remake de 2011 lançado no aniversário de dez anos do jogo, que possui um novo motor para atualização gráfica! 
+
+Gostei bastante do primeiro jogo, tanto que já estou jogando sua sequência: **Halo 2**, também na versão de aniversário com gráficos melhorados! 
+
+### Menções honrosas
+
+- **Forza Horizon 5 (Xbox One)** - Esse é um jogo bom para uma partida despretenciosa, gosto bastante e, inclusive, comprei a divertida expansão do **Hot Wheels**! Vira e mexe eu jogo um pouco.
+- **Top Racer Collection (PS4)** - Coletânea muito legal desenvolvida pelo pessoal da **QUByte Interactive** que traz de volta a trilogia **Top Gear** do **Super Nintendo**, porém com diversas melhorias, tais como, modo on-line para multi-jogador, modo time attack, dá para comparar os rankings com seus amigos e diversas outras melhorias, até novos carros tem! Tá bem legal. 
+- **Buddy Gator - Tile (Android)** - Um bom passatempo, onde você tem raciocinar rápido para conseguir as três estrelas de cada nível. Vale a pena [conferir](https://play.google.com/store/apps/details?id=com.fcs.buddygator.tile), é de graça! 😅
+- **Monument Valley III (Android)** - Se você é assinante da **Netflix**, saiba que eles juntamente com a **Ustwo Games** (desenvolvedora da série), lançaram o terceiro jogo dessa série linda! Jogo muito bom, pena que, assim como seus antecessores, é muito curto! Mas vale a pena.
+
+### Todos os zerados
+
+| **14/01** | Terminator: Resistance (PS4) 🏆 |
+| **29/03** | Medal of Honor: Frontline (PS2) |
+| **14/04** | BioShock: Infinite (PS3) |
+| **02/06** | Half-Life 2 (PC / Steam) |
+| **08/08** | Buddy Gator (Android) |
+| **23/12** | Gris (PS4) 🏆 |
+| **25/12** | Monument Valley III (Android) |
+| **31/12** | Halo: Combat Evolved Anniversary (Xbox One) |
+
+**Total:** 8 jogos
+
+--- 
+
+E aí, o que jogou em 2024?
