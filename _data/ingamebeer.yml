@@ -1,0 +1,111 @@
+- game: Call of Duty WWII
+  game_logo: /imgs/logos/call-of-duty-wwii.png
+  beer: Caneco de Cerveja
+  pics:
+    - /imgs/ingamebeer/call-of-duty-ww2_caneco-de-cerveja.jpg
+- game: Days Gone
+  game_logo: /imgs/logos/days-gone.png
+  beer: PRB
+  pics:
+    - /imgs/ingamebeer/days-gone_prb_1.jpg
+    - /imgs/ingamebeer/days-gone_prb_2.jpg
+    - /imgs/ingamebeer/days-gone_prb_3.jpg
+- game: Dead Island
+  game_logo: /imgs/logos/dead-island.png
+  beer: Brainkiller
+  pics:
+    - /imgs/ingamebeer/dead-island_brainkiller_1.jpg
+    - /imgs/ingamebeer/dead-island_brainkiller_2.jpg
+- game: Dead Island
+  game_logo: /imgs/logos/dead-island.png
+  beer: Carcass - Amber Ale
+  pics:
+    - /imgs/ingamebeer/dead-island_carcass_1.jpg
+- game: Dead Island
+  game_logo: /imgs/logos/dead-island.png
+  beer: DeadIslander
+  pics:
+    - /imgs/ingamebeer/dead-island_deadislander_1.jpg
+    - /imgs/ingamebeer/dead-island_deadislander_2.jpg 
+- game: Firewatch
+  game_logo: /imgs/logos/firewatch.png
+  beer: Red Eagle
+  pics:
+    - /imgs/ingamebeer/firewatch_red-eagle_1.jpg
+    - /imgs/ingamebeer/firewatch_red-eagle_2.jpg
+- game: Resident Evil VII biohazard
+  game_logo: /imgs/logos/resident-evil-7.png
+  beer: Dulvey Beer
+  pics: 
+    - /imgs/ingamebeer/resident-evil-7_dulvey-beer_1.jpg
+    - /imgs/ingamebeer/resident-evil-7_dulvey-beer_2.jpg
+- game: Resident Evil 2
+  game_logo: /imgs/logos/resident-evil-2.png
+  beer: Dulvey Beer
+  pics: 
+    - /imgs/ingamebeer/resident-evil-2_dulvey-beer_1.jpg
+    - /imgs/ingamebeer/resident-evil-2_dulvey-beer_2.jpg
+    - /imgs/ingamebeer/resident-evil-2_dulvey-beer_3.jpg
+- game: Resident Evil 3
+  game_logo: /imgs/logos/resident-evil-3_black.png
+  beer: Dulvey Beer
+  pics: 
+    - /imgs/ingamebeer/resident-evil-3_dulvey-beer_1.jpg
+    - /imgs/ingamebeer/resident-evil-3_dulvey-beer_2.jpg
+    - /imgs/ingamebeer/resident-evil-3_dulvey-beer_3.jpg
+- game: Resident Evil 3
+  game_logo: /imgs/logos/resident-evil-3_black.png
+  beer: Zapata Beer
+  pics: 
+    - /imgs/ingamebeer/resident-evil-3_zapata-beer.jpg
+- game: Sunset Overdrive
+  game_logo: /imgs/logos/sunset-overdrive.webp
+  beer: Kick Ass Brewing Co.
+  pics:
+    - /imgs/ingamebeer/sunset-overdrive_kick-ass-brewing_1.png
+- game: The Last of Us - Parte 2
+  game_logo: /imgs/logos/the-last-of-us-part-2.png
+  beer: Atwood Beer
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-part-2_atwood-beer_1.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_atwood-beer_2.jpg
+- game: The Last of Us - Parte 2
+  game_logo: /imgs/logos/the-last-of-us-part-2.png
+  beer: Central Light - Premium Beer
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-part-2_central-light_1.jpg
+- game: The Last of Us - Parte 2
+  game_logo: /imgs/logos/the-last-of-us-part-2.png
+  beer: Harstine Brewery
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_1.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_2.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_3.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_4.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_5.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_6.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_7.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_harstine-brewery_8.jpg
+- game: The Last of Us - Parte 2
+  game_logo: /imgs/logos/the-last-of-us-part-2.png
+  beer: Manke IPA
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-part-2_manke-ipa_1.jpg
+- game: The Last of Us - Parte 2
+  game_logo: /imgs/logos/the-last-of-us-part-2.png
+  beer: Ollala Beer
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-part-2_ollala-beer_1.jpg
+- game: The Last of Us - Parte 2
+  game_logo: /imgs/logos/the-last-of-us-part-2.png
+  beer: Ruston Lager
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-part-2_ruston-lager_1.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_ruston-lager_2.jpg
+    - /imgs/ingamebeer/the-last-of-us-part-2_ruston-lager_3.jpg
+- game: Wolfenstein - The New Order
+  game_logo: /imgs/logos/wolfenstein-the-new-order.png
+  beer: Kier's Bier
+  pics:
+    - /imgs/ingamebeer/wolfenstein-the-new-order_kiers-bier_1.png
+    - /imgs/ingamebeer/wolfenstein-the-new-order_kiers-bier_2.png

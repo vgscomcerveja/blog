@@ -1,0 +1,32 @@
+---
+layout: side-project
+permalink: /ingamebeer/
+logo: /imgs/ingamebeer.png
+---
+
+<div class="home full">
+
+    {% assign gamebeers = site.data.ingamebeer | sort: "beer" %}
+    
+    {% for gamebeer in gamebeers %}
+        <div style="margin-top: 40px;">
+            <h2 style="text-align: center;">
+                {{ gamebeer.beer }} em 
+                {% if gamebeer.game_logo %}
+                    <img src="{{ gamebeer.game_logo }}" style="max-width: 150px;">
+                {% else %}
+                    {{ gamebeer.game }}
+                {% endif %}       
+            </h2>
+
+            <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: auto;">
+                {% for pic in gamebeer.pics %}
+                    <a href="{{ pic }}">
+                        <img src="{{ pic }}" width="420px" style="max-width:100%">
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+
+</div>
