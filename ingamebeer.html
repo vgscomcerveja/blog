@@ -26,6 +26,20 @@ logo: /imgs/ingamebeer.png
                     </a>
                 {% endfor %}
             </div>
+
+            <div style="display: flex; justify-content: center; align-items: center; color:gray; font-weight: normal; font-size: 0.8em; margin-top: 5px">
+                Capturadas no <img src="{{ gamebeer.captured_on_logo }}" 
+                    title="{{ gamebeer.captured_on }}" height="15px" style="margin: 0 3px"> 
+                por
+                
+                {% if gamebeer.captured_by_link %}
+                    <a href="{{ gamebeer.captured_by_link }}" target="_blank" style="color:gray; text-decoration: none;">
+                        &nbsp;{{ gamebeer.captured_by }}
+                    </a>
+                {% else %}
+                    {{ gamebeer.captured_by }}
+                {% endif %}
+            </div>
         </div>
     {% endfor %}
 
