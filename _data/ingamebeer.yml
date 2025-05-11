@@ -87,10 +87,28 @@
   game_logo: /imgs/logos/resident-evil-3_black.png
   beer: Zapata Beer
   pics: 
-    - /imgs/ingamebeer/resident-evil-3_zapata-beer.jpg
+    - /imgs/ingamebeer/resident-evil-3_zapata-beer.png
+  captured_on: Steam
+  captured_on_logo: /imgs/logos/steam.png
+  captured_by: Revil
+  captured_by_link: https://residentevil.com.br/artigos/aniversario-de-1-ano-de-residet-evil-3-com-easter-eggs-e-referencias/
+- game: Resident Evil 3
+  game_logo: /imgs/logos/resident-evil-3_black.png
+  beer: Cerveja não identificada
+  pics: 
+    - /imgs/ingamebeer/resident-evil-3_unknown-beer.jpg
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+- game: Resident Evil - Outbreak File 2
+  game_logo: /imgs/logos/resident-evil-outbreak-file-2.webp
+  beer: Zapata Beer
+  pics: 
+    - /imgs/ingamebeer/resident-evil-outbreak-file-2_zapata-beer_1.png
+  captured_on: PS2
+  captured_on_logo: /imgs/logos/ps2.png
+  captured_by: Revil
+  captured_by_link: https://residentevil.com.br/artigos/aniversario-de-1-ano-de-residet-evil-3-com-easter-eggs-e-referencias/
 - game: Sunset Overdrive
   game_logo: /imgs/logos/sunset-overdrive.webp
   beer: Kick Ass Brewing Co.
