@@ -6,6 +6,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Days Gone
   game_logo: /imgs/logos/days-gone.png
   beer: PRB
@@ -16,6 +17,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Dead Island
   game_logo: /imgs/logos/dead-island.png
   beer: Brainkiller
@@ -26,6 +28,7 @@
   captured_on_logo: /imgs/logos/ps3.png
   captured_by: Bruno Zambelli (@minhagaleriadegames)
   captured_by_link: https://www.instagram.com/minhagaleriadegames
+
 - game: Dead Island
   game_logo: /imgs/logos/dead-island.png
   beer: Carcass - Amber Ale
@@ -35,6 +38,7 @@
   captured_on_logo: /imgs/logos/ps3.png
   captured_by: Bruno Zambelli (@minhagaleriadegames)
   captured_by_link: https://www.instagram.com/minhagaleriadegames
+
 - game: Dead Island
   game_logo: /imgs/logos/dead-island.png
   beer: DeadIslander
@@ -45,6 +49,7 @@
   captured_on_logo: /imgs/logos/ps3.png
   captured_by: Bruno Zambelli (@minhagaleriadegames)
   captured_by_link: https://www.instagram.com/minhagaleriadegames
+
 - game: Firewatch
   game_logo: /imgs/logos/firewatch.png
   beer: Red Eagle
@@ -54,6 +59,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Resident Evil VII biohazard
   game_logo: /imgs/logos/resident-evil-7.png
   beer: Dulvey Beer
@@ -63,6 +69,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Resident Evil 2
   game_logo: /imgs/logos/resident-evil-2.png
   beer: Dulvey Beer
@@ -73,6 +80,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Resident Evil 3
   game_logo: /imgs/logos/resident-evil-3_black.png
   beer: Dulvey Beer
@@ -83,6 +91,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Resident Evil 3
   game_logo: /imgs/logos/resident-evil-3_black.png
   beer: Zapata Beer
@@ -92,6 +101,7 @@
   captured_on_logo: /imgs/logos/steam.png
   captured_by: Revil
   captured_by_link: https://residentevil.com.br/artigos/aniversario-de-1-ano-de-residet-evil-3-com-easter-eggs-e-referencias/
+
 - game: Resident Evil 3
   game_logo: /imgs/logos/resident-evil-3_black.png
   beer: Cerveja não identificada
@@ -100,6 +110,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Resident Evil - Outbreak File 2
   game_logo: /imgs/logos/resident-evil-outbreak-file-2.webp
   beer: Zapata Beer
@@ -109,6 +120,16 @@
   captured_on_logo: /imgs/logos/ps2.png
   captured_by: Revil
   captured_by_link: https://residentevil.com.br/artigos/aniversario-de-1-ano-de-residet-evil-3-com-easter-eggs-e-referencias/
+
+- game: Silent Hill - Shattered Memories
+  game_logo: /imgs/logos/silent-hill-shattered-memories.png
+  beer: Kings ICE Beer
+  pics: 
+    - /imgs/ingamebeer/silent-hill-shattered-memories_kings-beer_1.jpg
+  captured_on: PSP
+  captured_on_logo: /imgs/logos/psp.png
+  captured_by: Felipe B. Barbosa
+
 - game: Sunset Overdrive
   game_logo: /imgs/logos/sunset-overdrive.webp
   beer: Kick Ass Brewing Co.
@@ -117,6 +138,7 @@
   captured_on: Xbox One
   captured_on_logo: /imgs/logos/xbox-one.png
   captured_by: Felipe B. Barbosa
+
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
   beer: Atwood Beer
@@ -126,6 +148,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
   beer: Central Light - Premium Beer
@@ -134,6 +157,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
   beer: Harstine Brewery
@@ -149,6 +173,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
   beer: Manke IPA
@@ -157,6 +182,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
   beer: Ollala Beer
@@ -165,6 +191,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
   beer: Ruston Lager
@@ -175,6 +202,7 @@
   captured_on: PS4
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
+
 - game: Wolfenstein - The New Order
   game_logo: /imgs/logos/wolfenstein-the-new-order.png
   beer: Kier's Bier
