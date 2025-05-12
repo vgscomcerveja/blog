@@ -13,7 +13,9 @@ logo: /imgs/ingamebeer.png
             <h2 style="text-align: center;">
                 "{{ gamebeer.beer }}" em 
                 {% if gamebeer.game_logo %}
-                    <img src="{{ gamebeer.game_logo }}" style="max-width: 150px;">
+                    <img src="{{ gamebeer.game_logo }}" 
+                        title="{{ gamebeer.game }}"
+                        style="max-width: 150px; max-height: 60px;">
                 {% else %}
                     {{ gamebeer.game }}
                 {% endif %}       
