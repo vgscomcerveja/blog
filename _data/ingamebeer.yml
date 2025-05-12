@@ -60,6 +60,15 @@
   captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
 
+- game: It came from the Desert
+  game_logo: /imgs/logos/it-came-from-the-desert.png
+  beer: Cerveja não identificada
+  pics:
+    - /imgs/ingamebeer/it-came-from-the-desert_unknown-beer.jpg
+  captured_on: Amiga
+  captured_on_logo: /imgs/logos/amiga.png
+  captured_by: um autor desconhecido
+
 - game: Resident Evil VII biohazard
   game_logo: /imgs/logos/resident-evil-7.png
   beer: Dulvey Beer
