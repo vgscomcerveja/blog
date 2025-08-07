@@ -91,7 +91,8 @@ permalink: /felipebbarbosa/jogos/
 {{ finishedByYear.y2021 }},
 {{ finishedByYear.y2022 }},
 {{ finishedByYear.y2023 }},
-{{ finishedByYear.y2024 }}
+{{ finishedByYear.y2024 }},
+{{ finishedByYear.y2025 }}
 {% endcapture %}
 
 {% capture finishedByPlatform %}
@@ -153,11 +154,11 @@ permalink: /felipebbarbosa/jogos/
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
   const finishedByYear = createDataset(toArray('finishedByYear'));
-  const finishedByYearLabels = [
-    'pré-2010', 
-    '2010', '2011', '2012', '2013', '2014', 
-    '2015', '2016', '2017', '2018', '2019',
-    '2020', '2021', '2022', '2023'];
+  const startYear = 2010;
+  const currentYear = new Date().getFullYear();
+  const finishedByYearLabels = ['pré-2010', 
+    ...Array.from({ length: currentYear - startYear + 1 }, (_, i) => startYear + i)  
+  ];
   const chartByYear = document.getElementById('chart-by-year');
   createChart(chartByYear, finishedByYearLabels, [finishedByYear]);
 
@@ -183,13 +184,9 @@ permalink: /felipebbarbosa/jogos/
     createDataset(extractCountByYear('psnByYear'), 'PSN 100%'),
     createDataset(extractCountByYear('xboxByYear'), 'Xbox 1000G'), 
     createDataset(extractCountByYear('androidByYear'), 'Android')];
-  const trophiesByYearLabels = [
-    '2012', '2013', '2014', 
-    '2015', '2016', '2017', '2018', '2019',
-    '2020', '2021', '2022', '2023'
-  ];
+  
   const trophiesChart = document.getElementById('trophies-chart');
-  createChart(trophiesChart, trophiesByYearLabels, trophiesByYear, true);
+  createChart(trophiesChart, '', trophiesByYear, true);
   
   function createChart(chart, labels, datasets, showLegends = false) {
     new Chart(chart, {
