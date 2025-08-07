@@ -1,4 +1,4 @@
-last-update: 03/01/2025
+last-update: 06/08/2025
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -16,6 +16,7 @@ stats-by-year:
   y2022: 3
   y2023: 14
   y2024: 8
+  y2025: 2
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -351,6 +352,8 @@ ps4:
   - nome: Firewatch
     data: 22/03/2020
     status: psn100
+  - nome: Full Void
+    data: 13/04/2025
   - nome: Gone Home
     data: 29/08/2016
     link: /post/analise-gone-home
@@ -387,6 +390,9 @@ ps4:
     status: platina
   - nome: Mecho Tales
     data: 25/06/2018
+    status: platina
+  - nome: Metal Gear Solid (Master Collection Vol. 1)
+    data: 22/06/2025
     status: platina
   - nome: Midnight Deluxe
     data: 14/04/2018
@@ -1276,5 +1282,9 @@ platina:
     status: platina
   - nome: Gris
     data: 23/12/2024
+    platform: ps4
+    status: platina
+  - nome: Metal Gear Solid (Master Collection Vol. 1)
+    data: 22/06/2025  
     platform: ps4
     status: platina
