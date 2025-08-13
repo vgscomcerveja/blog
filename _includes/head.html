@@ -7,7 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
 
     {% if page.author %}
         <meta name="author" content="{{ page.author }}">
@@ -36,8 +35,10 @@
 
     {% if page.excerpt %}
         <meta property="og:description" content="{{ page.excerpt | strip_html | truncatewords: 140 }}">
+        <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 140 }}">
     {% else %}
         <meta property="og:description" content="{{ site.description }}">
+        <meta name="description" content="{{ site.description }}">
     {% endif %}
 
     {% if page.thumbnail %}
@@ -49,6 +50,8 @@
         <meta property="og:image:alt" content="{{ page.title }}">
 
         <meta name="twitter:image:src" content="{{ page.thumbnail | prepend: site.url }}">
+
+        <link rel="image_src" href="{{ page.thumbnail | prepend: site.url }}" />
     {% endif %}
 
     {% if page.date %}
