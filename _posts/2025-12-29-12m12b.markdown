@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Big Box PC Game Collectors #12m12b"
+date: 2025-12-29 23:00
+author: felipebbarbosa
+session: Colecionando Games // Especial
+categories: games colecionando
+tags: [categoria-especial, serie-colecionando-games]
+related: 12m12b
+thumbnail: /imgs/posts/especial/18_12m12b/post_thumbnail.jpg
+cover: /imgs/posts/especial/18_12m12b/post_header.jpg
+---
+
+Quando comecei a colecionar jogos de videogame lá em 2010 não imaginaria que colecionar jogos de PC seria uma das coleções mais legais e gostosa de fazer. As famosas "big boxes", apesar de ocuparem muito espaço, são lindonas! Apesar disso, a comunidade voltada para esse tipo de coleção é bem nichada, sendo assim, participar de grupos ajuda bastante. Dentre os grupos que participo está o [Big Box PC Game Collectors](https://www.facebook.com/groups/BBPCGC) no **Facebook**, eles tem uma tradição de final de ano apelidada de **#12m12b**, ou seja, 12 meses 12 caixas de jogos de PC, onde o objetivo é compartilhar as doze melhores aquisições do ano!
+
+<!--more--> 
+
+Eu não sou um membro muito ativo no grupo, porém venho participado desta tradição e já estou no meu [terceiro ano consecutivo](https://www.facebook.com/groups/311204112360601/?multi_permalinks=3521615197986127) e, desta vez resolvi expandir e trazer para cá também, ~~até porque estou precisando tirar as teias de aranhas deste blog~~. Então seguem os 12 jogos que foram destaques na minha coleção de jogos de PC deste ano de 2025: 👇
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/12m12b_2025.jpg" %}
+
+A grande maioria são lançamentos nacionais, apenas o **Rise of the Triad: Dark War** é americano. Além disso, os "joguinhos" de tiro em primeira pessoa dominaram a lista, com 7 representantes do gênero! Porém, vamos listar os jogos em ordem alfabética mesmo:
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/alien-vs-predator.jpg"
+    description="Versão brasileira distribuída pela Electronic Arts" %}
+
+- **Alien versus Predator** - O primeiro *FPS* da lista! Esse eu estava de olho nele à um tempão, porém estava caro demais. Até que um amigo colecionador resolveu substituir sua cópia por uma versão americana completona e anunciou esta versão brasileira por um preço bem aceitável em um grupo do WhatsApp que participo, não pensei duas vezes!
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/blood-omen-legacy-of-kain.jpg"
+    description="Versão brasileira distribuída pela Atlam Toys" %}
+
+- **Blood Omen: Legacy of Kain** - Eu nem sou muito [fã de jogos de RPG](post/pecados-gamisticos-jogos-de-rpg), mas não resisti à uma cópia nacional deste clássico, até porque ela é bem chatinha de aparecer. Já jogou esse?
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/duke-nukem-3d.jpg"
+    description="Versão brasileira distribuída pela Brasoft" %}
+
+- **Duke Nukem 3D** - Desde que comecei a colecionar *big boxes* que este jogo estava na minha lista de desejos e, não imaginava que iria demorar tanto assim para conseguir uma cópia. Mas aí está minha cópia lindona distribuída pela **Brasoft**! Agora os próximos alvos (sonhos?) são as versões [Atomic Edition](https://big-box-pc-games-brasil.fandom.com/pt-br/wiki/Duke_Nukem_3D:_Atomic_Edition) e a [Plutonium PAK](https://big-box-pc-games-brasil.fandom.com/pt-br/wiki/Duke_Nukem_3D:_Plutonium_PAK), quem sabe um dia?
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/global-operations.jpg"
+    description="Versão brasileira distribuída pela Electronic Arts" %}
+
+- **Global Operations** - Mais um *FPS*, este um pouco mais moderno em relação aos outros desta lista e também um jogo mais tático. Dizem que neste formato de *big box* só foi lançado no Brasil, então isso o torna um item interessante de se ter na coleção!
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/heart-of-darkness.jpg"
+    description="Versão brasileira distribuída pela Infogrames" %}
+
+- **Heart of Darkness** - Quem resiste à um clássico deste? Um jogo de aventura cinematográfica, difícil para caramba, mas que tem seu charme único! Este jogo francês de 1998 foi liderado pelo mesmo criador de [Another World](https://www.anotherworld.fr/), **Éric Chahi**, que só por isso já tinha mais que me convencido a ter na coleção, mas o jogo ainda vem com um óculos 3D maneiro! 😎
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/need-for-speed-porsche-2000.jpg"
+    description="Versão brasileira distribuída pela Electronic Arts" %}
+
+- **Need for Speed: Porsche 2000** - Este ano eu fechei a série NFS lançada em *big box* no Brasil, pois além deste, eu também consegui o **Road Challenge** (também conhecido como **High Stakes**) e, se contar como *big box*, o **Collection**! Em alguns lugares do mundo, ele foi lançado como **Porsche Unleashed** e é um jogo de 2000, considerado o último NFS clássico antes da **EA Black Box** assumir o desenvolvimento dos próximos jogos da série.
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/outlaws.jpg"
+    description="Versão brasileira distribuída pela Brasoft" %}
+
+- **Outlaws: Cidade Sem Lei** - Um jogo de tiro em primeira pessoa que possui uma estética única de velho oeste. Lançado em 1997 pela **LucasArts**, eu consegui este jogo num golpe de sorte, pois segundo a vendedora (muito simpática, por sinal) disse que comprei praticamente no mesmo minuto que o anúncio foi ao ar! Ela disse que não deu nem tempo de conferir como tinha ficado o anúncio e eu já tinha comprado. 😬
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/rise-of-the-triad.jpg"
+    description="Versão americana" %}
+
+- **Rise of the Triad: Dark War** - Outro golpe de sorte, ver esse jogo anunciado aqui no Brasil não é todo dia que acontece e ainda mais por um preço muito aceitável! Além disso, este FPS clássico da **Apogee** é muito cobiçado lá fora, belo achado! 
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/shogo.jpg"
+    description="Versão brasileira distribuída pela Paradigma Editora" %}
+
+- **Shogo: Mobile Armor Division** - Por falar em achado, encontrar a versão nacional deste jogo foi mais um golpe de sorte. Vários colecionadores que conheço, nem sequer tinham visto a caixa dele antes. Este é um jogo de tiro em primeira pessoa que também varia para terceira pessoa, pois ele permite você controlar mechs! O jogo é de 1998 e foi produzido pela **Monolith Productions**, a mesma de **Blood**.
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/star-wars-dark-forces.jpg"
+    description="Versão brasileira distribuída pela Brasoft" %}
+
+- **Star Wars: Dark Forces** - O último FPS da lista, desta vez, o jogo de tiro da franquia **Star Wars**. Desenvolvido obviamente pela **Lucas Arts**, este game foi lançado em 1995 e é um deleite tanto para os fãs de guerra nas estrelas quanto para amantes de jogos de tiro. Esta versão brasileira não era tão difícil de encontrar um tempo atrás, mas agora está meio chatinha de aparecer!
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/the-last-express.jpg"
+    description="Versão brasileira distribuída pela Byte & Brothers" %}
+
+- **The Last Express** - Um *adventure* produzido por **Jordan Mechner**, o criador de **Prince of Persia**, não vale a pena ter na coleção? Para mim vale (e muito!). Lançado em 1997 pela **Broderbund** este é um clássico *cult*, pois é desconhecido por muita gente.
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/time-commando.jpg"
+    description="Versão brasileira distribuída pela Activision" %}
+
+- **Time Commando** - Por fim, um clássico dos PCs! Aposto que quem teve um computador em casa em meados dos anos 1990, jogou pelo menos a versão de demonstração deste jogo! Apesar de ter sido relativamente popular na época, essa versão na caixa grande não era tão comum e hoje é meio chatinha de encontrar! Para quem não conhece, este é um jogo de ação/aventura de 1996 que envolve viagem no tempo, que ironicamente não resistiu ao tempo e hoje é um jogo meio difícil de jogar, mas ele marcou época!
+
+## Bônus: Só jogos brasileiros!
+
+E para trazer algo diferenciado para cá além das fotos e textos individuais, resolvi selecionar 12 jogos brasileiros que adquiri durante esse ano. Para quem não sabe, além do minha preferência em colecionar jogos nas suas versões nacionais, eu também tenho uma paixão pelos jogos brasileiros e, no cenário de jogos de PC tem bastante coisa obscura e rara, dá só uma olhada:
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/12m12b_2025_br.jpg"
+    description="Esses são os mais dificeis de encontrar!" %}
+
+- **Pintando com o Senninha** - Um jogo educativo de 1995 desenvolvido pela **MPO Vídeo**, cujo personagem principal é o **Senninha**.
+- **Angélica no Reino Animal** - Desta vez com a **Angélica** como protagonista, este é outro jogo educativo da **MPO**, lançado em 1997.
+- **Vampiromania: O Game** - O jogo baseado na novela **O Beijo do Vampiro** da **Globo**. Este jogo foi desenvolvido pela **Green Land Studios** e publicado pela **Brasoft** em 2002. 
+- **Big Brother Brasil 3D On-line** - Outro jogo da **Green Land Studios**, este é a segunda versão do jogo baseado no reality show BBB, que inovava por trazer suporte para jogar com outras outras pessoas pela internet. 
+- **Deer Hunter: The 2005 Season** - Esse é um jogo desenvolvido por brasileiros, **Southlogic Studios**, sob encomenda da **Atari**, pois se trata de um jogo de caça norte americano.
+- **Matchball Tennis** - Simulador de tênis desenvolvido pela **Espaço Informática** em 2003 e publicado pela **Brasoft**.
+- **Sapo Xulé e o Casamento Indesejado** - Esta é uma [cópia extremamente limitada](https://blog.colecionando.games/sapo-xule-e-o-casamento-indesejado/) do jogo recém lançado do **Sapo Xulé**. Foram produzidas apenas 150 cópias para serem vendidas durante o evento **Retrocon**. Na [caixa vem](https://youtu.be/uS6c_mj8Y0M?si=NUuyfNZv2h9yKOCT) o CD com trilha sonora, um manual estilo retrô, um certificado de autenticidade numero e autografado, além, é claro, da chave do jogo na [**Steam**](https://store.steampowered.com/app/2667990/Sapo_Xul_and_the_Unwanted_Marriage/).
+- **Mars to Earth** - Este é o nome europeu do jogo **Winguel** desenvolvido pela **Espaço Informática** em 2005. Acredito que somente saiu em mídia física por lá.
+- **Aventura em BH** - Um jogo um tanto quanto obscuro desenvolvido pela **Big Jack Studio**, em 2001 (!?). 
+- **Urânio 235** - Um *adventure* em primeira pessoa desenvolvido e publicado pela **Byte & Brothers** em 1996, ele tem um gameplay similar ao **Myst**. O curioso é que ele foi desenvolvido para ensinar química básica aos estudantes do ensino médio.
+- **Solaris 1.0.4.** - Um jogo de navinha desenvolvido pela **Apollo Entertainment** em 2001 e foi publicado pela **Brasoft**, um dos últimos jogos publicado por ela.
+- **Super Mini Racing** - Um joguinho que simula corrida de carros em miniatura em uma pista montada nos diversos cômodos de uma casa. Foi desenvolvido pela **Perceptum Informática** (de Incidente em Varginha) e **Canal Kids** em 2001. Curiosamente, o [site oficial do jogo](https://www.canalkids.com.br/superminiracing1/) continua ativo!
+
+## Bônus extra: Minha participação nos anos anteriores
+
+#### 2024
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/12m12b_2024.jpg"
+    description="Quake, Doom II, Witchaven II, Corridor 7, Outlive, Desperados, Ripper, Carmageddon II, Master Multimídia, The Beverly Hillbillies, Alien Carnage e Rebel Moon Rising" %}
+
+#### 2023
+
+{% include image.html
+    url="/imgs/posts/especial/18_12m12b/12m12b_2023.jpg"
+    description="Tomb Raider, O Museu do Louvre para Crianças, Smurfs Racing, Incidente em Varginha, Resident Evil, Take no Prisoners, Tomb Raider Chronicles, Jonny Quest, Heavy Metal Fakk2, Nocturne, Day of the Tentacle e Barbie: Fashion Designer" %}
+
+E é isso aí! Será que o ano que vem eu consiga pelo menos 12 jogos novos para coleção? Espero que sim! E você? Coleciona jogos de PC na caixa grande? Comenta aí! Feliz 2026!
