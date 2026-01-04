@@ -1,0 +1,89 @@
+---
+layout: post
+title: "O que você jogou em 2025?"
+date: 2026-01-04 18:00
+author: felipebbarbosa
+session: Proseando // Especial
+categories: games jogando
+tags: [meme-oqvj, categoria-especial, serie-proseando]
+related: meme-oqvj
+thumbnail: /imgs/posts/especial/19_meme2025/post_thumbnail.jpg
+cover: /imgs/posts/especial/19_meme2025/post_header.jpg
+---
+
+Quem acompanha o blog já sabe, mesmo sem posts durante o ano, o primeiro post do ano era sempre minha participação no **MeMe do Marvox**, mas como não acontece mais e eu adoro fazer essa releitura do meu ano "gamístico" dizendo o que de melhor (ou pior) a gente jogou no ano que passou, meu texto seguirá aparecendo por aqui de forma independente!
+
+<!--more--> 
+
+Sendo assim, bora conferir os sete jogos que foram destaques na minha jogatina do ano de 2025.
+
+
+{% include thumb-heading.html 
+  title="Halo 2: Anniversary" subtitle="2014 - 343 Industries, Xbox One"
+  thumb="/imgs/posts/especial/19_meme2025/1_halo2.jpg" %}
+
+Minha saga com os jogos de tiro em primeira pessoa que deixei de jogar no passado (pecados gamísticos, parte 5?), não progrediu muito neste ano que passou e praticamente só consegui terminar o **Halo 2** mesmo, isso porque eu comecei no início do ano e só fui terminar em agosto! 😪
+
+Lançado originalmente em 2004 para o **Xbox clássico**, essa obra prima ganhou uma versão remasterizada em 2014 e compõe o pacote do **Halo: The Master Chief Collection** para **Xbox One**.
+
+O legal desta continuação da saga de **Master Chief** é que você joga com os **Covenants** em determinados momentos, podendo assim, conhecer os dois lados da história. Talvez isso tenha sido inovador na época.
+
+{% include thumb-heading.html 
+  title="Full Void" subtitle="2023 - OutOfTheBit, PlayStation 4"
+  thumb="/imgs/posts/especial/19_meme2025/2_full-void.jpg" %}
+
+Certamente inspirado em **Another World**, **Flashback**, **Prince of Persia** e outros do estilo, **Full Void** é um jogo de plataforma cinematográfico 2D com visual retrô pixelado e um mundo distópico. Você é um adolescente que tenta sobreviver neste mundo controlado por inteligência artificial.
+
+O jogo é bem legal e apresenta uns puzzles bem levinhos, mas bastante imersivos. Um jogo muito bem feitinho, pena que é curto. Mas eu recomendo!
+
+{% include thumb-heading.html 
+  title="Metal Gear Solid (Master Collection Vol. 1)" subtitle="2023 - Konami, PlayStation 4"
+  thumb="/imgs/posts/especial/19_meme2025/3_metal-gear-solid.jpg" %}
+
+O que dizer do meu jogo favorito? Esta obra prima de **Hideo Kojima** foi relançada em uma coletânea chamada **Master Collection Vol. 1** em 2023 para diversas plataformas. Nela inclui: **Metal Gear** (1987), **Metal Gear 2: Solid Snake** (1990), **Metal Gear Solid** (1998), **Metal Gear Solid 2: Sons of Liberty** (2001) e **Metal Gear Solid 3: Snake Eater** (2004). Porém, digitalmente você consegue comprar os jogos separadamente, que foi o que fiz. Comprando o **MGS**, por exemplo, você garante os dois jogos de **MSX** também, além das versões especiais do **Metal Gear Solid**, como o **VR Missions**.
+
+Enfim, o jogo é exatamente igual à versão do PS1, porém com troféus! Por causa disso, fiz uma coisa que nunca tinha feito antes: completei todas as *VR missions*! 😎 
+
+Jogaço! Estava com saudade de rejogá-lo!
+
+{% include thumb-heading.html 
+  title="Horizon Chase 2" subtitle="2024 - Aquiris, PlayStation 4"
+  thumb="/imgs/posts/especial/19_meme2025/4_horizon-chase-2.jpg" %}
+
+Estava ansioso para jogar essa sequência que tinha sido lançada com exclusividade para os dispositivos **Apple** em 2022. Para as outras plataformas portanto, só saiu em 2024, dois anos após o lançamento original. Demorei um pouquinho para adquirir o game, mas quando o fiz, posso dizer que o jogo continua divertidíssimo com gráficos e jogabilidade ainda melhores comparados ao seu antecessor. 
+
+A trilha sonora ainda continua sendo um ponto forte, **Barry Leitch** mandou bem demais na composição deste segundo game. É um jogo que vale muito a pena, ainda mais sendo brasileiro!
+
+{% include thumb-heading.html 
+  title="Horizon Chase Turbo" subtitle="2021 - Aquiris, PlayStation Vita"
+  thumb="/imgs/posts/especial/19_meme2025/5_horizon-chase-turbo.jpg" %}
+
+Jogando **Horizon Chase 2** me incentivou a retomar minha jogatina do primeiro game no **PS Vita**. Isso mesmo, pouca gente sabe, mas o **Horizon Chase Turbo** foi lançado oficialmente no portátil da Sony. Em uma época que a loja virtual do console já praticamente nem existia mais, o jogo foi lançado apenas em mídia física e ainda por cima numa edição limitada da [**Eastasiasoft**](https://www.eastasiasoft.com/games/Horizon-Chase-Turbo) na [**Play-Asia**](https://www.play-asia.com/horizon-chase-turbo-limited-edition/13/70ej9l).
+
+Estou tentando platiná-lo, porém o port deste jogo é muito mal otimizado e está sendo uma tarefa quase impossível vencer os torneios, mas ainda não desisti! 
+
+{% include thumb-heading.html 
+  title="Halo 3" subtitle="2014 - 343 Industries, Xbox One"
+  thumb="/imgs/posts/especial/19_meme2025/6_halo-3.jpg" %}
+
+Depois de terminar **Halo 2**, já engatei no **Halo 3**, porém ainda não zerei! Este é o jogo que fecha o arco da história do primeiro game e continua muito gostoso de jogar. Lançado originalmente em 2007 para o **Xbox 360** e relançado em 2014 na coletânea **The Master Chief Collection**, que convenhamos, é uma baita coletânea, praticamente a versão definitiva dos jogos da série até aqui! 
+
+{% include thumb-heading.html 
+  title="Sapo Xulé e o Casamento Indesejado" subtitle="2025 - Squash Studios, PC / Steam"
+  thumb="/imgs/posts/especial/19_meme2025/7_sapo-xule.jpg" %}
+
+Por fim, tivemos o retorno do **Sapo Xulé** ao mundo dos games! Desenvolvido pelos brasileiros da **Squash Studios**, o game conta as ilustrações do próprio **Paulo José** (criador do personagem), trilha sonora original e diversas fases para se divertir! Vale muito a pena, o jogo está disponível na [**Steam**](https://store.steampowered.com/app/2667990/Sapo_Xul_and_the_Unwanted_Marriage/)!
+
+### Todos os zerados
+
+| **15/04** | Full Void (PS4) |
+| **22/06** | Metal Gear Solid (PS4) 🏆 |
+| **17/08** | Halo 2: Anniversary (Xbox One) |
+
+**Total:** 3 jogos 🥲
+
+--- 
+
+E aí, o que jogou em 2025? 
+
+Feliz 2026! 🍻
