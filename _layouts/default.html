@@ -36,18 +36,23 @@
     {% endif %}
 
     {% if site.enable_analytics %}
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-DYEHQ7JP6L"></script>
       <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        window.addEventListener('load', function() {
+          setTimeout(function() {
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-DYEHQ7JP6L';
+            document.head.appendChild(script);
 
-        gtag('config', 'G-DYEHQ7JP6L');
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-DYEHQ7JP6L');
+          }, 1000);
+        });
       </script>
-      <!-- Cloudflare Web Analytics -->
-        <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d149fa21ba174efdb0418266505700c9"}'></script>
-      <!-- End Cloudflare Web Analytics -->
+
+      <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d149fa21ba174efdb0418266505700c9"}'></script>
     {% endif %}
 
   </body>
