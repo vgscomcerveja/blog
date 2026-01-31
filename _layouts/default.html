@@ -31,9 +31,10 @@
       {% include footer.html %}
     {% endif %}
 
-    {% if site.enable_disqus %}
-      <script id="dsq-count-scr" src="//videogamescomcerveja.disqus.com/count.js" async></script>
-    {% endif %}
+    <script src="https://comments.vgscomcerveja.com.br/js/count.min.js"
+      data-isso-count-empty="nenhum comentário"
+      data-isso-count-singular="um comentário"
+      data-isso-count-plural="%n comentários"></script>
 
     {% if site.enable_analytics %}
       <script>

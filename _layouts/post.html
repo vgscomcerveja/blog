@@ -55,7 +55,9 @@ layout: default
         </a>
       {% endif %}
       <span class="post-date icon-calendar">{{ page.date | date: "%b %-d, %Y" }}</span>
-      <span class="post-comments icon-comment-empty"><a href="{{ page.url }}#disqus_thread"></a></span>
+      <span class="post-comments icon-comment-empty">
+          <a href="{{ page.url }}#isso-thread">comentários</a>
+      </span>
     </div>
     <div class="post-meta">
       <small>{{ tags_content }}</small>
@@ -157,6 +159,6 @@ layout: default
       {% endif %}
     </div>
 
-    {% include disqus.html %}
+    {% include comments.html %}
   </div>
 </div>

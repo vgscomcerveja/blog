@@ -41,7 +41,9 @@
       </a>
     {% endif %}
     <span class="post-date icon-calendar">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <span class="post-comments icon-comment-empty"><a href="{{ post.url }}#disqus_thread"></a></span>
+    <span class="post-comments icon-comment-empty">
+      <a href="{{ post.url }}#isso-thread">comentários</a>
+    </span>
   </div>
 
   <div class="post-sinopse">
