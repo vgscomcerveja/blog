@@ -802,7 +802,15 @@
 }
 
 #isso-thread {
-  margin-top: 20px;
+  margin: 20px !important;
+}
+
+.isso-text {
+  font-weight: normal;
+}
+
+.isso-input-wrapper label {
+  text-indent: 0;
 }
 
 .display-flex {
