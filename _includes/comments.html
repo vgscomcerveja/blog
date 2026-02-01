@@ -3,3 +3,43 @@
     data-isso="https://comments.vgscomcerveja.com.br/" 
     src="https://comments.vgscomcerveja.com.br/js/embed.min.js">
 </script>
+
+<script>
+    (function() {
+        const adminName = "Felipe Barbosa"; 
+
+        const injectBadge = () => {
+            document.querySelectorAll('.isso-author').forEach(authorEl => {
+                if (authorEl.textContent.trim() === adminName && !authorEl.querySelector('.admin-badge')) {
+                    const badge = document.createElement('span');
+                    badge.className = 'admin-badge';
+                    badge.innerText = 'ADMIN';
+                    
+                    Object.assign(badge.style, {
+                        backgroundColor: '#e74c3c',
+                        color: '#ffffff',
+                        fontSize: '12px',
+                        fontWeight: 'bold',
+                        padding: '2px 6px',
+                        marginLeft: '10px',
+                        marginTop: '-3px',
+                        verticalAlign: 'middle',
+                        borderRadius: '2px'
+                    });
+
+                    authorEl.appendChild(badge);
+                }
+            });
+        };
+
+        const observer = new MutationObserver((mutations) => {
+            injectBadge();
+        });
+
+        const target = document.getElementById('isso-thread');
+        if (target) {
+            observer.observe(target, { childList: true, subtree: true });
+        }
+    })();
+
+</script>

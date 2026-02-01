@@ -780,36 +780,6 @@
   }
 }
 
-#isso-thread {
-  margin: 20px !important;
-}
-
-.isso-text {
-  font-weight: normal;
-}
-
-.isso-text p {
-  text-indent: 0;
-}
-
-.isso-input-wrapper label {
-  text-indent: 0;
-}
-
-.isso-post-action input {
-  padding: 7px 30px 5px !important;
-  text-align: left;
-  color: white !important;
-  background-color: #2288bb !important;
-  text-transform: uppercase;
-  border: 0 !important;
-}
-
-.isso-post-action input:hover {
-  border-bottom: 3px solid #1b5e80 !important;
-  font-weight: bold;
-}
-
 .display-flex {
   display: inline-flex;
 }
@@ -1327,4 +1297,38 @@
   font-size: 2em;
 }
 
+/*
+ * Comments
+ */
 
+#isso-thread {
+  margin: 20px !important;
+
+  .isso-text {
+    font-weight: normal;
+
+    p {
+      text-indent: 0;
+    }
+  }
+}
+
+.isso-input-wrapper label {
+  text-indent: 0;
+}
+
+.isso-post-action {
+  input {
+    padding: 7px 30px 5px !important;
+    text-align: left;
+    color: white !important;
+    background-color: #2288bb !important;
+    text-transform: uppercase;
+    border: 0 !important;
+  }
+}
+
+.isso-post-action input:hover {
+  border-bottom: 3px solid #1b5e80 !important;
+  font-weight: bold;
+}
