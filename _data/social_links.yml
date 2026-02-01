@@ -15,5 +15,5 @@
   classe: icon-spotify
 
 - title: Feed RSS
-  url: http://feeds.feedburner.com/VideogamesComCerveja
+  url: /feed.xml
   classe: icon-rss
