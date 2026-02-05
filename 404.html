@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: /404.html
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecionando...</title>
+  <script>
+    const path = location.pathname;
+    if (!path.endsWith("/") && !path.includes(".") && !path.includes("404")) {
+      location.replace(path + "/" + location.search + location.hash);
+    }
+  </script>
+</head>
+<body>
+  <h1>Página não encontrada</h1>
+  <p>Verifique o endereço digitado.</p>
+</body>
+</html>
