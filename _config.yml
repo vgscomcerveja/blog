@@ -8,6 +8,7 @@ baseurl: ""
 url: "https://www.vgscomcerveja.com.br"
 twitter_username: vgscomcerveja
 github_username: felipebbarbosa
+permalink: pretty
 
 enable_analytics: true
 
