@@ -10,8 +10,9 @@ permalink: /404.html
   <title>Redirecionando...</title>
   <script>
     const path = location.pathname;
-    if (!path.endsWith("/") && !path.includes(".") && !path.includes("404")) {
-      location.replace(path + "/" + location.search + location.hash);
+    if (path.endsWith("/") && !path.includes(".") && !path.includes("404")) {
+      const newPath = path.slice(0, -1);
+      location.replace(newPath + location.search + location.hash);
     }
   </script>
 </head>
