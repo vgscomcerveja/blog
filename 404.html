@@ -1,13 +1,82 @@
 ---
-layout: default
-permalink: /404.html
 ---
 
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Redirecionando...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oops! Página não encontrada | Videogames com Cerveja</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #1c1c1c;
+      color: #f5f5f5;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+      color: #ffcc00;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+    a {
+      color: #00bfff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #2489bc;
+      color: #1c1c1c;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background: #1b5e80;
+    }
+    .carousel {
+      display: flex;
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      gap: 20px;
+      padding: 0;
+      justify-content: center;
+    }
+    .carousel-item {
+      flex: 0 0 auto;
+      scroll-snap-align: center;
+      background: #2c2c2c;
+      border-radius: 3px;
+      padding: 10px 0 15px;
+      width: 200px;
+    }
+    .carousel-item img {
+      width: 100%;
+      border-radius: 2px;
+    }
+    .carousel-item a {
+      color: #ffcc00;
+      text-decoration: none;
+      font-weight: bold;
+      display: block;
+      margin-top: 10px;
+    }
+    .carousel-item a:hover {
+      text-decoration: underline;
+    }
+
+  </style>
+
   <script>
     const path = location.pathname;
     if (path.endsWith("/") && !path.includes(".") && !path.includes("404")) {
@@ -17,7 +86,22 @@ permalink: /404.html
   </script>
 </head>
 <body>
-  <h1>Página não encontrada</h1>
-  <p>Verifique o endereço digitado.</p>
+  <img src="imgs/vccl.png" height="100px">
+  <h1>404 - Página não encontrada</h1>
+  <p>Você tentou acessar uma fase secreta que não existe.<br>
+      Mas não se preocupe, ainda temos muita história por aqui!</p>
+  <a class="btn" href="{{ site.baseurl }}/">Voltar para o início</a>
+  <p>Ou explore alguns capítulos recentes:</p>
+  <div class="carousel">
+    {% for post in site.posts limit:3 %}
+      <div class="carousel-item">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+          {{ post.title }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
 </body>
 </html>
