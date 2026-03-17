@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Indiana Jones e a Última Cruzada (Master System)"
+title: "Indiana Jones e a Última Cruzada (Master System)"
 date: 2022-04-04 20:30
 author: felipebbarbosa
 session: Game Over

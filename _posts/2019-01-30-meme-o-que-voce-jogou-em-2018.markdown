@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MeMe - O Que Você Jogou em 2018?"
+title: "O que você jogou em 2018?"
 date: 2019-01-30 22:00
 author: felipebbarbosa
 session: Proseando // Especial

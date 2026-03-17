@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Resident Evil 3"
+title: "Resident Evil 3"
 date: 2020-04-21 17:00
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MeMe - O Que Você Jogou Em 2015?"
+title: "O que você jogou em 2015?"
 date: 2016-01-03 19:00
 author: felipebbarbosa
 session: Proseando // Especial

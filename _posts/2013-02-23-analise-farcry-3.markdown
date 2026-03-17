@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Far Cry 3"
+title: "Far Cry 3"
 date: 2013-02-23 19:00
 author: felipebbarbosa
 session: Game Over

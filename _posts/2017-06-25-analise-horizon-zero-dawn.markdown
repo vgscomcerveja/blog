@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Horizon Zero Dawn"
+title: "Horizon Zero Dawn"
 date: 2017-06-25 20:00
 author: felipebbarbosa
 session: Game Over 

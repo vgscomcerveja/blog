@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Lara Croft GO"
+title: "Lara Croft GO"
 date: 2016-12-07 20:00
 author: felipebbarbosa
 session: Game Over

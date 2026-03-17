@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Taz-Mania (Master System)"
+title: "Taz-Mania (Master System)"
 date: 2013-05-27 19:00
 author: felipebbarbosa
 session: Game Over

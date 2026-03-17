@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - The Last Guardian"
+title: "The Last Guardian"
 date: 2017-03-09 20:00
 author: felipebbarbosa
 session: Game Over

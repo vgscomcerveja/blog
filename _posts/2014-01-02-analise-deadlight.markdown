@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Deadlight"
+title: "Deadlight"
 date: 2014-01-02 19:00
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Lost Planet: Extreme Condition"
+title: "Lost Planet: Extreme Condition"
 date: 2021-03-29 19:30
 author: felipebbarbosa
 session: Game Over

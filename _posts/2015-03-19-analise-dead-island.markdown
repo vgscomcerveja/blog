@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Dead Island"
+title: "Dead Island"
 date: 2015-03-19 19:00
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Uncharted: Golden Abyss"
+title: "Uncharted: Golden Abyss"
 date: 2015-12-10 19:00
 author: felipebbarbosa
 session: Game Over

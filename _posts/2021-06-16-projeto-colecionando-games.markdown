@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conheça meu novo projeto, o Colecionando.Games, um site dedicado ao colecionismo de videogames!
+title: Conheça meu novo projeto, o Colecionando.Games!
 date: 2021-06-16 16:00
 author: felipebbarbosa
 session: Drops

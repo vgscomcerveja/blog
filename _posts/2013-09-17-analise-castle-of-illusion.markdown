@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Castle of Illusion (Master System)"
+title: "Castle of Illusion (Master System)"
 date: 2013-09-17 19:00
 author: felipebbarbosa
 session: Game Over

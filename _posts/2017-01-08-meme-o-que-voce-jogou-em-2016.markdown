@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MeMe - O Que Você Jogou em 2016?"
+title: "O que você jogou em 2016?"
 date: 2017-01-08 20:00
 author: felipebbarbosa
 session: Proseando // Especial
@@ -55,7 +55,7 @@ O até então melhor jogo da série voltou ainda mais bonito graficamente na col
 
 ..que também está presente na coletânea **Uncharted: The Nathan Drake Collection**! Não sou muito fã de remasterizações, principalmente de jogos da geração passada, mas como sou muito fã da série, gostei! Pegar as três novas platinas foi uma ótima desculpa para rejogar a série! ^^'
 
-Leia mais em: [Análise - Uncharted: The Nathan Drake Collection](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html)
+Leia mais em: [Uncharted: The Nathan Drake Collection](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html)
 
 
 {% include thumb-heading.html
@@ -66,7 +66,7 @@ E por falar em séries que sou fã, Tomb Raider também entra na lista! Só que 
 
 Joguei a versão de Android no começo do ano e quando saiu a versão para o PS Vita / PS4, joguei novamente! Muito viciante, recomendo!
 
-Leia mais em: [Análise - Lara Croft GO](/jogando/analise/2016/12/07/analise-lara-croft-go.html)
+Leia mais em: [Lara Croft GO](/jogando/analise/2016/12/07/analise-lara-croft-go.html)
 
 
 {% include thumb-heading.html
@@ -104,7 +104,7 @@ O jogo tem uma pegada daquelas paródias de filmes de terror dos anos 80. Com ba
 
 Meta 2017: terminar o remake de GameCube e depois a versão de PS3/PS4!
 
-**Leia mais:** [Análise - Resident Evil (PS1)](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html)
+**Leia mais:** [Resident Evil (PS1)](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html)
 
 
 {% include thumb-heading.html
@@ -136,7 +136,7 @@ Este é um jogo que me decepcionou um pouco, talvez seja pela expectativa que ti
 
 Sem sombras de dúvidas o melhor jogo que joguei em 2016! Ele não só atendeu, como superou todas minhas expectativas que tinha sobre ele. Até me programei para tirar férias do serviço no mesmo período de lançamento dele! :D
 
-**Leia mais:** [Análise - Uncharted 4: A Thief's End](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html)
+**Leia mais:** [Uncharted 4: A Thief's End](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html)
 
 
 {% include thumb-heading.html 
@@ -167,7 +167,7 @@ Esse jogo ganhou vários prêmios pelo simples motivo: históra excepcional! Ela
 
 Continuação direta do primeiro jogo, tanto que as decisões tomadas no primeiro jogo, influenciam o começo desta segunda trama! Mas no meu caso, tive um problema: como joguei o primeiro no PS Vita e o segundo no PS4, ele não conseguiu achar meu _save_ e comecei o segundo com decisões aleatórias do primeiro jogo! Mas nada que estrague o andamento do jogo!
 
-**Leia mais:** [Análise - The Walking Dead (Season 1 & 2)](/jogando/analise/2016/07/07/analise-the-walking-dead.html)
+**Leia mais:** [The Walking Dead (Season 1 & 2)](/jogando/analise/2016/07/07/analise-the-walking-dead.html)
 
 
 {% include thumb-heading.html id="grim-fandango"
@@ -185,7 +185,7 @@ Eu ainda não cheguei a terminá-lo, mas o jogo é muito bom! Talvez a única co
 
 Outro jogo disponibilizado gratuitamente pela PS Plus e mais um no estilo _adventure point-and-click_. Só que desta vez, eu não compreendi muito bem qual é do jogo, pois há um grande mistério no ar e você tem que resolvê-lo apenas investigando a mansão que na qual você mora ou deveria morar, pois não há mais ninguém em casa! Mas o fato é que cheguei ao final do jogo sem entender muito bem o que aconteceu por lá.. eu não sei se essa era a intenção do jogo ou se deixei passar alguma coisa pelo caminho! E olha, mesmo investigando tudo com calma, o jogo é bastante curto, em poucas horas você já termina!
 
-**Leia mais:** [Análise - Gone Home (PS4)](/jogando/analise/2016/09/27/analise-gone-home-ps4.html)
+**Leia mais:** [Gone Home (PS4)](/jogando/analise/2016/09/27/analise-gone-home-ps4.html)
 
 
 {% include thumb-heading.html id="cloudy-chance-meatballs"
@@ -212,7 +212,7 @@ A jogabilidade (arcade) está aprimorada, sendo muito gostoso de pilotar os carr
 
 Só uma coisa a se dizer: clássico absoluto! E rejogá-lo fazendo os 101% na companhia de velhos amigos e várias cervejas, não poderia ser melhor! :D
 
-**Leia mais:** [Análise - Donkey Kong Country (SNES)](/jogando/analise/2016/11/16/analise-donkey-kong-country-snes.html)
+**Leia mais:** [Donkey Kong Country (SNES)](/jogando/analise/2016/11/16/analise-donkey-kong-country-snes.html)
 
 
 {% include thumb-heading.html 
@@ -263,7 +263,7 @@ Eu só costumo comprar jogos no lançamento quando o jogo é quase certo que me 
 
 Mas se parar para analisar, talvez esta seja a grande sacada do jogo, pois quando você consegue avançar é incrível. ~~Bom, eu ainda não terminei.. quando chegar ao final, pretendo escrever sobre ele por aqui!~~
 
-_(Atualização!)_ **Leia mais:** [Análise - The Last Guardian](/post/analise-the-last-guardian)
+_(Atualização!)_ **Leia mais:** [The Last Guardian](/post/analise-the-last-guardian)
 
 
 {% include thumb-heading.html 

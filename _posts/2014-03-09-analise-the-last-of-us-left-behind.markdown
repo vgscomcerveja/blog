@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - The Last of Us: Left Behind"
+title: "The Last of Us: Left Behind"
 date: 2014-03-09 19:00
 author: felipebbarbosa
 session: Game Over

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - AC/DC Live: Rockband Track Pack"
+title: "AC/DC Live: Rockband Track Pack"
 date: 2014-11-04 19:00
 author: felipebbarbosa
 session: Game Over

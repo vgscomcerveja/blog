@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Machinarium"
+title: "Machinarium"
 date: 2013-12-31 19:00
 author: felipebbarbosa
 session: Game Over

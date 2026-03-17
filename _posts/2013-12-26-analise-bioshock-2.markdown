@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - BioShock 2"
+title: "BioShock 2"
 date: 2013-12-26 19:00
 author: felipebbarbosa
 session: Game Over

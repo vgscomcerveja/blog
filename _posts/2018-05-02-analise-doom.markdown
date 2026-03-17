@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - DOOM"
+title: "DOOM"
 date: 2018-05-02 21:00
 author: felipebbarbosa
 session: Game Over

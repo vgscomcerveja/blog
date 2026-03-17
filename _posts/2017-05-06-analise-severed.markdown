@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análise - Severed"
+title: "Severed"
 date: 2017-05-06 18:00
 author: felipebbarbosa
 session: Game Over
