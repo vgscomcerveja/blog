@@ -62,7 +62,7 @@ Esse **Futebol** é uma adaptação do jogo [**Ultimate League Soccer**](https:/
 
 Dentro da minha coleção, tenho uma "sub-coleção" que é a de quadrinhos baseados em videogames. E essa coleção do **Sonic** não poderia faltar! 
 
-Lançada em 2021 pela editora **Novo Século** através da linha **Geektopia**, os quadrinhos vem sendo publicados periodicamente e atualmente está na edição 15. Então, até o momento, a coleção está completa! 
+Lançada em 2021 pela editora **Novo Século** através da linha **Geektopia**, os quadrinhos vem sendo publicados periodicamente e atualmente está na edição 15. Então, até o momento, está faltando 3 edições! 
 
 E para fechar o lote, ainda veio a edição comemorativa de 30 anos na capa dura (que infelizmente está um pouco desgastada)! Adivinhem onde eu encontrei este pacote por um preço bem acessível? Sim, no **Enjoei**.
 
