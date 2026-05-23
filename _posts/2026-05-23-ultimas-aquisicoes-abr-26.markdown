@@ -90,7 +90,7 @@ Junto nesta compra da Amazon, peguei também a [versão traduzida](https://www.a
 
 ##### PC CD-ROM, Brasoft
 
-Agora essa aquisição foi com certeza um dos destaques do mês, pois foi um belo resgate da história devido a se tratar do [primeiro jogo a receber dublagem em português](https://dublagem.fandom.com/wiki/Achados_e_Perdidos) no Brasil e que até então era dado como mídia perdida, era... Agora ele está resgatado e preservado!
+Agora essa aquisição foi com certeza um dos destaques do mês, pois foi um belo resgate da história devido a se tratar do [primeiro jogo a receber dublagem em português](https://dublagem.fandom.com/wiki/Achados_e_Perdidos) no Brasil e que até então era dado como mídia perdida, era... Agora ele está [resgatado e preservado](https://archive.org/details/lost-found-vol-1-achados-perdidos)!
 
 O jogo foi desenvolvido pela **GTE Entertainment** e foi trazido para o Brasil pela **Brasoft** que contratou o estúdio **Caracol** para realizar a dublagem em 1994.
 
