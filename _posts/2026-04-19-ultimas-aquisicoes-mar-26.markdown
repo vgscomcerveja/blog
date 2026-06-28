@@ -7,7 +7,10 @@ session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 tags:
   [
-    ps4, pc, xbox,
+    ps4, pc, xbox, cd-rom, mega-drive,
+    tomb-raider, megaman, street-fighter,
+    quadrinhos, big-box, ps3, sonic, fallout,
+    lego, need-for-speed, cd-expert, tectoy,
     categoria-colecao-pessoal,
     serie-colecionando-games,
   ]

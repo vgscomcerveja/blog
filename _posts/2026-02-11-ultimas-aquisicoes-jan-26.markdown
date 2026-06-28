@@ -7,7 +7,9 @@ session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 tags:
   [
-    xbox-one, ps4, pc,
+    xbox-one, ps4, pc, big-box, cd-rom,
+    nes, quadrinhos, sonic, cd-expert,
+    need-for-speed, jogos-brasileiros, tomb-raider,
     categoria-colecao-pessoal,
     serie-colecionando-games,
   ]

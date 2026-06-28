@@ -7,7 +7,9 @@ session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 tags:
   [
-    ps4, pc,
+    ps4, pc, xbox-360,
+    mortal-kombat, quadrinhos, jogos-brasileiros,
+    cd-expert, cd-rom, big-box, brasoft, monica, 
     categoria-colecao-pessoal,
     serie-colecionando-games,
   ]

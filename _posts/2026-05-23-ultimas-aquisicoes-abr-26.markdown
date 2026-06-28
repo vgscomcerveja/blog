@@ -7,9 +7,9 @@ session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 tags:
   [
-    ps4, pc, xbox, cd-rom, jogos-brasileiros,
-    master-system, sonic, quadrinhos, psp, ps-vita,
-    big-box, doom,
+    ps4, pc, xbox, cd-rom, jogos-brasileiros, ps3,
+    master-system, sonic, quadrinhos, psp, psvita,
+    big-box, doom, game-boy, brasoft,
     categoria-colecao-pessoal,
     serie-colecionando-games,
   ]

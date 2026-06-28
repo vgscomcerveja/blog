@@ -68,10 +68,18 @@
   name: Arcades
 - slug: bgs
   name: Brasil Game Show
+- slug: big-box 
+  name: Big Box
+- slug: brasoft
+  name: Brasoft
 - slug: call-of-duty
-  name: Call of Duty (Série)
+  name: Call of Duty
 - slug: capcom
   name: CAPCOM
+- slug: cd-expert
+  name: CD Expert
+- slug: cd-rom
+  name: CD-ROM
 - slug: core-design
   name: CORE Design
 - slug: criterion
@@ -80,8 +88,10 @@
   name: Crystal Dynamics
 - slug: disney
   name: Disney
+- slug: doom
+  name: DOOM
 - slug: donkey-kong
-  name: Donkey Kong (Série)
+  name: Donkey Kong
 - slug: dreamcast
   name: Dreamcast
 - slug: drinkbox
@@ -92,8 +102,10 @@
   name: EIDOS
 - slug: eletronic-arts
   name: Eletronic Arts
+- slug: fallout
+  name: Fallout
 - slug: farcry
-  name: Far Cry (Série)
+  name: Far Cry
 - slug: game-boy
   name: Game Boy
 - slug: game-cube
@@ -109,47 +121,53 @@
 - slug: gbc
   name: Game Boy Color
 - slug: god-of-war
-  name: God of War (Série)
+  name: God of War
 - slug: gog
   name: GOG.com
 - slug: gran-turismo
-  name: Gran Turismo (Série)
+  name: Gran Turismo
 - slug: guitar-hero
-  name: Guitar Hero (Série)
+  name: Guitar Hero
 - slug: indie
   name: Indies
 - slug: kojima
   name: Hideo Kojima
+- slug: jogos-brasileiros
+  name: Jogos Brasileiros
 - slug: konami
   name: Konami
 - slug: lego
-  name: LEGO (Série)
+  name: LEGO
 - slug: limitedrun
   name: Limited Run
 - slug: livros
   name: Livros
 - slug: mario
-  name: Super Mario (Série)
+  name: Super Mario
 - slug: master-system
   name: Master System
 - slug: mega-drive
   name: Mega Drive
+- slug: megaman
+  name: Megaman
 - slug: mercado-brasileiro
   name: Mercado Brasileiro
 - slug: metal-gear-solid
-  name: Metal Gear Solid (Série)
+  name: Metal Gear Solid
 - slug: mickey
   name: Mickey
 - slug: microsoft
   name: Microsoft
+- slug: monica
+  name: Turma da Mônica
 - slug: mortal-kombat
-  name: Mortal Kombat (Série)
+  name: Mortal Kombat
 - slug: naughty-dog
   name: Naughty Dog
 - slug: nds
   name: Nintendo DS
 - slug: need-for-speed
-  name: Need for Speed (Série)
+  name: Need for Speed
 - slug: nes
   name: NES
 - slug: nintendo
@@ -174,14 +192,16 @@
   name: PSP
 - slug: psvita
   name: PS Vita
+- slug: quadrinhos
+  name: Quadrinhos
 - slug: razer
   name: Razer
 - slug: rare
   name: Rare
 - slug: resident-evil
-  name: Resident Evil (Série)
+  name: Resident Evil
 - slug: rockband
-  name: Rockband (Série)
+  name: Rockband
 - slug: saturn
   name: Saturn
 - slug: sega
@@ -189,19 +209,21 @@
 - slug: sega-cd
   name: Sega CD
 - slug: silent-hill
-  name: Silent Hill (Série)
+  name: Silent Hill
 - slug: silicon-knights
   name: Silicon Knights
 - slug: snes
   name: Super Nintendo
 - slug: sonic
-  name: Sonic (Série)
+  name: Sonic
 - slug: sony
   name: Sony
 - slug: spotify
   name: Spotify
 - slug: square-enix
   name: Square-Enix
+- slug: street-fighter
+  name: Street Fighter
 - slug: switch
   name: Switch
 - slug: tectoy
@@ -211,7 +233,7 @@
 - slug: telltale
   name: Telltale Games
 - slug: tomb-raider
-  name: Tomb Raider (Série)
+  name: Tomb Raider
 - slug: ubisoft
   name: Ubisoft
 - slug: uncharted
@@ -231,7 +253,7 @@
 - slug: xperia-play
   name: Xperia PLAY
 - slug: zelda
-  name: The Legend of Zelda (Série)
+  name: The Legend of Zelda
 
 - slug: horizon-zero-dawn
   name: Horizon Zero Dawn

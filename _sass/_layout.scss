@@ -550,9 +550,10 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
+  font-size: $base-font-size;
   color: $grey-color;
   margin-bottom: 10px;
+  padding: 0 50px;
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
