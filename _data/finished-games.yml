@@ -1,4 +1,4 @@
-last-update: 18/08/2025
+last-update: 17/07/2026
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -17,6 +17,7 @@ stats-by-year:
   y2023: 14
   y2024: 8
   y2025: 3
+  y2026: 3
 android:
   - nome: Agent A - O enigma disfarçado
     data: 05/08/2023
@@ -638,6 +639,10 @@ x360:
     data: 02/01/2021
   - nome: Metal Gear Solid V - Ground Zeroes
     data: 07/09/2015
+  - nome: Metro 2033
+    data: 17/05/2026
+  - nome: Metro - Last Light
+    data: 12/06/2026
   - nome: Need for Speed - Most Wanted
     data: 08/09/2018
     status: 1000G
@@ -665,6 +670,8 @@ xone:
     data: 31/12/2024
   - nome: Halo 2 - Anniversary (The Master Chief Collection)
     data: 17/08/2025
+  - nome: Halo 3 (The Master Chief Collection)
+    data: 02/05/2026
   - nome: Old Man's Journey
     data: 06/12/2019
     status: 1000G

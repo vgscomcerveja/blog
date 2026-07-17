@@ -68,7 +68,7 @@ Apesar de ser um jogo muito bom e gostoso de jogar, não é nada fácil e esse �
   title="Gris" subtitle="2018 - Nómada Studio, PlayStation 4"
   thumb="/imgs/posts/especial/17_meme2024/07_gris.jpg" %}
 
-Após um hiato de quase 6 meses sem jogar, voltei com outro baita jogo e não é um FPS desta vez! **Gris** é um jogo independente maravilhoso que trata de um assunto delicado como a depressão de forma excepcional! Visualmente é lindo e a jogabilidade é bastante simples, você não enfrenta inimigos e nem morre se cair de lugares altos! Tudo que você tem que fazer é avançar, enfrentar seus obstáculos e recuperar sua voz! Não vou conseguir descrever ao quão lindo esse jogo é! Vale muito a pena jogá-lo, pois é único!
+Após um hiato de quase 6 meses sem jogar, voltei com outro baita jogo e não é um FPS desta vez! **Gris** é um jogo independente maravilhoso que trata de um assunto delicado como a depressão e luto de forma excepcional! Visualmente é lindo e a jogabilidade é bastante simples, você não enfrenta inimigos e nem morre se cair de lugares altos! Tudo que você tem que fazer é avançar, enfrentar seus obstáculos e "recuperar sua voz"! Não vou descrever o quão lindo esse jogo é, vale muito a pena jogá-lo, pois é único!
 
 {% include thumb-heading.html 
   title="Halo: Combat Evolved Anniversary" subtitle="2014 - 343 Industries, Xbox One (The Master Chief Collection)"
