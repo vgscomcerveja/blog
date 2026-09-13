@@ -28,7 +28,7 @@ Para quem gosta de exploração de ambientes, o jogo irá lhe agradar bastante, 
 
 Falando nisso, esta é uma mecância bem característica da série, onde após executar uma série de rotinas, você consegue _hackear_ objetos, entre eles cofres, portas, câmeras de vigilância e armas inimigas, que após o _hack_ se tornam suas aliadas. As rotinas para _hackear_ ficaram bem mais fáceis, pois no primeiro jogo, você tinha que montar uma espécie de quebra-cabeças com tubulações, onde um líquido tinha que chegar de um lado ao outro antes que vazasse, ou seja, tinha que agir rápido, pois caso falhasse, perdia vida e/ou o alarme era acionado. Já agora, basta apertar o botão nos momentos certos, ou seja, quando o ponteiro estiver em cima das barras verdes ou azuis, bem mais fácil! :)
 
-{% include image.html url="/imgs/posts/game_over/13_bioshock2/foto1.jpeg" description="Novo sistema de hack!" %}
+{% include image.html url="/imgs/posts/game_over/13_bioshock2/foto1.jpg" description="Novo sistema de hack!" %}
 
 O jogo conta também com novos inimigos, entre eles são as _Big Sisters_, que são as _Little Sisters_ mais velhas e que usam a mesma armadura que a sua, ou seja, um escafandro! :)
 
