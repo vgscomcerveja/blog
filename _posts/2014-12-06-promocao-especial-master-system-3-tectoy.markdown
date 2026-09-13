@@ -29,9 +29,9 @@ Entretanto, para o lançamento do **Sonic The Hedgehog 2** no final de 1992, ela
 
 Porém, o mais legal disso tudo, é que ela usou um meio totalmente fora do convencional para ajudar na divulgação: ela desenvolveu um cartucho especial para que os lojistas deixassem rodando nos videogames de suas vitrines. Este cartucho só tinha apenas duas telas e uma música de fundo:
 
-{% include image.html url="/imgs/posts/mosca_branca/03_promo_master_system_tectoy/promoc11.gif" %}
+{% include image.html url="/imgs/posts/mosca_branca/03_promo_master_system_tectoy/promoc11.jpg" %}
 
-{% include image.html url="/imgs/posts/mosca_branca/03_promo_master_system_tectoy/promoc12.gif" %}
+{% include image.html url="/imgs/posts/mosca_branca/03_promo_master_system_tectoy/promoc12.jpg" %}
 
 Se você tiver curioso, você pode [conferir o cartucho rodando aqui](http://www.retrosega.com/game.php?id=417).
 
