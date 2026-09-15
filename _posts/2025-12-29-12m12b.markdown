@@ -5,8 +5,11 @@ date: 2025-12-29 23:00
 author: felipebbarbosa
 session: Colecionando Games // Especial
 categories: games colecionando
-tags: [categoria-especial, serie-colecionando-games]
-related: 12m12b
+tags: 
+  [
+    categoria-especial, serie-colecionando-games, categoria-colecao-pessoal,
+    jogos-brasileiros, big-box, cd-rom, pc
+  ]
 thumbnail: /imgs/posts/especial/18_12m12b/post_thumbnail.jpg
 cover: /imgs/posts/especial/18_12m12b/post_header.jpg
 ---

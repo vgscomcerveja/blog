@@ -13,7 +13,6 @@ tags:
     need-for-speed, disney, monica, rockband, tectoy,
     categoria-colecao-pessoal, serie-colecionando-games,
   ]
-related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/27_aquisicoes_mai26/post_thumbnail.jpg
 cover: /imgs/posts/colecao/27_aquisicoes_mai26/post_header.jpg
 ---

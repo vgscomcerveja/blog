@@ -13,7 +13,6 @@ tags:
     categoria-colecao-pessoal,
     serie-colecionando-games,
   ]
-related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/23_aquisicoes_jan26/post_thumb.jpg
 cover: /imgs/posts/colecao/23_aquisicoes_jan26/post_header.jpg
 ---

@@ -14,7 +14,6 @@ tags:
     categoria-colecao-pessoal,
     serie-colecionando-games,
   ]
-related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/25_aquisicoes_mar26/thumb.jpg
 cover: /imgs/posts/colecao/25_aquisicoes_mar26/header.jpg
 ---

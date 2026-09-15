@@ -12,7 +12,6 @@ tags:
     disney, tectoy, gran-turismo, tomb-raider, sega,
     categoria-colecao-pessoal, serie-colecionando-games,
   ]
-related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/28_aquisicoes_jun26/post_thumbnail.jpg
 cover: /imgs/posts/colecao/28_aquisicoes_jun26/post_header.jpg
 ---
