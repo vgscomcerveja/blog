@@ -1419,6 +1419,29 @@
   font-size: 1em;
 }
 
+.ingamebeer-order {
+  text-align: right; 
+  margin: 20px 0;
+  font-weight: normal;
+
+  select {
+    padding: 5px 10px; 
+    font-size: 1.2em; 
+    background: none;
+    color: #101010;
+    margin-left: 5px;
+    border-color: #c0c0c0;
+  }
+}
+
+.ingamebeer-item {
+  margin-top: 40px;
+
+  h2 {
+    text-align: center;
+  }
+}
+
 .ingamebeer-stats {  
   display: flex;
   justify-content: center;
