@@ -47,6 +47,18 @@ logo: /imgs/ingamebeer.png
         </div>
     {% endfor %}
 
+    {% assign total_beers = site.data.ingamebeer | map: "beer" | uniq | size %}
+    {% assign total_games = site.data.ingamebeer | map: "game" | uniq | size %}
+    {% assign total_fotos = site.data.ingamebeer | map: "pics" | uniq | size %}
+    {% assign total_users = site.data.ingamebeer | map: "captured_by" | uniq | size %}
+
+    <div class="ingamebeer-stats">
+        <div><span>{{ total_beers }}</span><small>cervejas</small></div>
+        <div><span>{{ total_games }}</span><small>games</small></div>
+        <div><span>{{ total_fotos }}</span><small>capturas</small></div>
+        <div><span>{{ total_users }}</span><small>contribuintes</small></div>
+    </div>
+
     <p class="ingamebeer-footer">
         Encontrou alguma cerveja que não está no catálogo?<br> 
         Envie suas capturas para <a href="mailto:contato@vgscomcerveja.com.br">contato@vgscomcerveja.com.br</a>
