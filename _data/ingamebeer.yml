@@ -50,6 +50,15 @@
   captured_by: Bruno Zambelli (@minhagaleriadegames)
   captured_by_link: https://www.instagram.com/minhagaleriadegames
 
+- game: Dying Light
+  game_logo: /imgs/logos/dying-light_black.png
+  beer: Bottle UP
+  pics:
+    - /imgs/ingamebeer/dying-light_bottle-up.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
 - game: Firewatch
   game_logo: /imgs/logos/firewatch.png
   beer: Red Eagle
@@ -68,6 +77,15 @@
   captured_on: Amiga
   captured_on_logo: /imgs/logos/amiga.png
   captured_by: um autor desconhecido
+
+- game: Metro Exodus
+  game_logo: /imgs/logos/metro-exodus.png
+  beer: Placa de cerveja
+  pics:
+    - /imgs/ingamebeer/metro-exodus_generic-beer.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
 
 - game: Resident Evil VII biohazard
   game_logo: /imgs/logos/resident-evil-7.png
@@ -139,6 +157,36 @@
   captured_on_logo: /imgs/logos/psp.png
   captured_by: Felipe B. Barbosa
 
+- game: Stray
+  game_logo: /imgs/logos/stray.webp
+  beer: Brasserie el Poivross
+  pics:
+    - /imgs/ingamebeer/stray_brasserie-el-poivross_1.jpg
+    - /imgs/ingamebeer/stray_brasserie-el-poivross_2.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: Stray
+  game_logo: /imgs/logos/stray.webp
+  beer: Les Brasseurs de Montpellier
+  pics:
+    - /imgs/ingamebeer/stray_les-brasseurs-de-montpellier_1.jpg
+    - /imgs/ingamebeer/stray_les-brasseurs-de-montpellier_2.jpg
+    - /imgs/ingamebeer/stray_les-brasseurs-de-montpellier_3.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: Stray
+  game_logo: /imgs/logos/stray.webp
+  beer: Placa de cerveja
+  pics:
+    - /imgs/ingamebeer/stray_placa-cerveja.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
 - game: Sunset Overdrive
   game_logo: /imgs/logos/sunset-overdrive.webp
   beer: Kick Ass Brewing Co.
@@ -146,6 +194,57 @@
     - /imgs/ingamebeer/sunset-overdrive_kick-ass-brewing_1.png
   captured_on: Xbox One
   captured_on_logo: /imgs/logos/xbox-one.png
+  captured_by: Felipe B. Barbosa
+
+- game: Terminator Resistance
+  game_logo: /imgs/logos/terminator-resistance.png
+  beer: Bad Fight
+  pics:
+    - /imgs/ingamebeer/terminator-resistance_bad-fight.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: Terminator Resistance
+  game_logo: /imgs/logos/terminator-resistance.png
+  beer: Svzkïen
+  pics:
+    - /imgs/ingamebeer/terminator-resistance_svzkien_1.jpg
+    - /imgs/ingamebeer/terminator-resistance_svzkien_2.jpg
+    - /imgs/ingamebeer/terminator-resistance_svzkien_3.jpg
+    - /imgs/ingamebeer/terminator-resistance_svzkien_4.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: Terminator Resistance
+  game_logo: /imgs/logos/terminator-resistance.png
+  beer: Placa de cerveja
+  pics:
+    - /imgs/ingamebeer/terminator-resistance_placa-cerveja.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: The Last of Us - Remasterizado
+  game_logo: /imgs/logos/the-last-of-us_horizontal.png
+  beer: Atwood Beer
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-remastered_atwood-beer_1.jpg
+    - /imgs/ingamebeer/the-last-of-us-remastered_atwood-beer_2.jpg
+    - /imgs/ingamebeer/the-last-of-us-remastered_atwood-beer_3.jpg
+    - /imgs/ingamebeer/the-last-of-us-remastered_atwood-beer_4.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: The Last of Us - Remasterizado
+  game_logo: /imgs/logos/the-last-of-us_horizontal.png
+  beer: Central Light
+  pics:
+    - /imgs/ingamebeer/the-last-of-us-remastered_central-light.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
 
 - game: The Last of Us - Parte 2
@@ -220,4 +319,33 @@
     - /imgs/ingamebeer/wolfenstein-the-new-order_kiers-bier_2.png
   captured_on: Xbox One
   captured_on_logo: /imgs/logos/xbox-one.png
+  captured_by: Felipe B. Barbosa
+
+- game: Wolfenstein II - The New Colossus
+  game_logo: /imgs/logos/wolfenstein-2.png
+  beer: Bärin Bier
+  pics:
+    - /imgs/ingamebeer/wolfenstein-2_barin-bier_1.jpg
+    - /imgs/ingamebeer/wolfenstein-2_barin-bier_2.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: Wolfenstein II - The New Colossus
+  game_logo: /imgs/logos/wolfenstein-2.png
+  beer: Cervejas não identificadas
+  pics:
+    - /imgs/ingamebeer/wolfenstein-2_desconhecida_1.jpg
+    - /imgs/ingamebeer/wolfenstein-2_desconhecida_2.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
+  captured_by: Felipe B. Barbosa
+
+- game: Wolfenstein II - The New Colossus
+  game_logo: /imgs/logos/wolfenstein-2.png
+  beer: Feinstes Lagerbier Super-bier
+  pics:
+    - /imgs/ingamebeer/wolfenstein-2_super-bier.jpg
+  captured_on: PS4
+  captured_on_logo: /imgs/logos/ps4.png
   captured_by: Felipe B. Barbosa
