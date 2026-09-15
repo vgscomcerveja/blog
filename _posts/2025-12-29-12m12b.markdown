@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Big Box PC Game Collectors #12m12b"
+title: "12+ melhores aquisições de jogos PC em 2025!"
 date: 2025-12-29 23:00
 author: felipebbarbosa
 session: Colecionando Games // Especial
@@ -8,7 +8,7 @@ categories: games colecionando
 tags: 
   [
     categoria-especial, serie-colecionando-games, categoria-colecao-pessoal,
-    jogos-brasileiros, big-box, cd-rom, pc
+    jogos-brasileiros, big-box, cd-rom, pc, brasoft, electronic-arts, need-for-speed,
   ]
 thumbnail: /imgs/posts/especial/18_12m12b/post_thumbnail.jpg
 cover: /imgs/posts/especial/18_12m12b/post_header.jpg
