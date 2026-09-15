@@ -26,7 +26,7 @@
     - /imgs/ingamebeer/dead-island_brainkiller_2.jpg
   captured_on: PS3
   captured_on_logo: /imgs/logos/ps3.png
-  captured_by: Bruno Zambelli (@minhagaleriadegames)
+  captured_by: "@minhagaleriadegames"
   captured_by_link: https://www.instagram.com/minhagaleriadegames
 
 - game: Dead Island
@@ -36,7 +36,7 @@
     - /imgs/ingamebeer/dead-island_carcass_1.jpg
   captured_on: PS3
   captured_on_logo: /imgs/logos/ps3.png
-  captured_by: Bruno Zambelli (@minhagaleriadegames)
+  captured_by: "@minhagaleriadegames"
   captured_by_link: https://www.instagram.com/minhagaleriadegames
 
 - game: Dead Island
@@ -47,7 +47,7 @@
     - /imgs/ingamebeer/dead-island_deadislander_2.jpg 
   captured_on: PS3
   captured_on_logo: /imgs/logos/ps3.png
-  captured_by: Bruno Zambelli (@minhagaleriadegames)
+  captured_by: "@minhagaleriadegames"
   captured_by_link: https://www.instagram.com/minhagaleriadegames
 
 - game: Dying Light
@@ -259,7 +259,7 @@
 
 - game: The Last of Us - Parte 2
   game_logo: /imgs/logos/the-last-of-us-part-2.png
-  beer: Central Light - Premium Beer
+  beer: Central Light
   pics:
     - /imgs/ingamebeer/the-last-of-us-part-2_central-light_1.jpg
   captured_on: PS4
@@ -333,7 +333,7 @@
 
 - game: Wolfenstein II - The New Colossus
   game_logo: /imgs/logos/wolfenstein-2.png
-  beer: Cervejas não identificadas
+  beer: Cerveja não identificada
   pics:
     - /imgs/ingamebeer/wolfenstein-2_desconhecida_1.jpg
     - /imgs/ingamebeer/wolfenstein-2_desconhecida_2.jpg
