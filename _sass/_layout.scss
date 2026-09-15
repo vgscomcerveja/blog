@@ -1026,7 +1026,6 @@
  */
 
 .lastest-newsletters {
-  /*float: left;*/
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
@@ -1141,7 +1140,6 @@
  * related-posts
  */
 .related-posts {
-  /*border-top: 4px solid #ccc;*/
   background-color: #f0f0f0;
   border-radius: 5px;
 
@@ -1369,10 +1367,13 @@
   display: flex;
   flex-direction: column;
   margin: 0 0 50px;
+  max-width: 100%;
 
   a {
     display: flex;  
     align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
   }
 
   img {
@@ -1380,8 +1381,40 @@
     margin: 5px 30px;
   }
 
+  span {
+    overflow: hidden;
+  }
+
   h3 {
     padding: 0;
     margin: 0;
+    line-height: 1em;
   }
+
+  @media (max-width: $on-palm) {
+    a {
+      justify-content: center;
+    }
+  }
+}
+
+/*
+ * ingamebeer
+ */
+
+.ingamebeer-subtitle,
+.ingamebeer-footer {
+  display: block;
+  max-width: 100%;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: normal;
+  background: rgba(141, 108, 159, 0.2);
+  text-indent: 0 !important;
+}
+
+.ingamebeer-footer {
+  margin-top: 100px;
+  background: none;
+  font-size: 1em;
 }

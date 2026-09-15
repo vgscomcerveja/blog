@@ -6,6 +6,8 @@ logo: /imgs/ingamebeer.png
 
 <div class="home full">
 
+    <span class="ingamebeer-subtitle">Catálogo de cervejas que aparecem nos games!</span>
+
     {% assign gamebeers = site.data.ingamebeer | sort: "beer" %}
     
     {% for gamebeer in gamebeers %}
@@ -44,5 +46,10 @@ logo: /imgs/ingamebeer.png
             </div>
         </div>
     {% endfor %}
+
+    <p class="ingamebeer-footer">
+        Encontrou alguma cerveja que não está no catálogo?<br> 
+        Envie suas capturas para <a href="mailto:contato@vgscomcerveja.com.br">contato@vgscomcerveja.com.br</a>
+    </p>
 
 </div>
