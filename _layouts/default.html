@@ -27,7 +27,7 @@
       <meta property="og:type" content="website">
   {% endif %}
   <meta property="og:url" content="{{ page.url | prepend: site.url }}">
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords: 140 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords: 140 }}{% else %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endif %}">
   {% if page.thumbnail %}
     <meta property="og:image" content="{{ page.thumbnail | prepend: site.url }}">
     <meta property="og:image:alt" content="{{ page.title }}">
@@ -88,7 +88,7 @@
           "url": "{{ '/imgs/favicon.png' | prepend: site.url }}"
         }
       },
-      "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords: 140 }}{% else %}{{ site.description }}{% endif %}",
+      "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords: 140 }}{% else %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endif %}",
       "image": "{% if page.thumbnail %}{{ page.thumbnail | prepend: site.url }}{% endif %}"
     }
   </script>
