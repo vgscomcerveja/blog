@@ -3,5 +3,5 @@ require 'rake'
 
 desc "Inicia o servidor de desenvolvimento"
 task :serve do
-  sh "bundle exec jekyll serve --drafts --watch"
+  sh "bundle exec jekyll serve --drafts --watch --config _config.yml,_dev_config.yml"
 end
