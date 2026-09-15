@@ -1,7 +1,103 @@
 <!DOCTYPE html>
 <html lang="br">
 
-  {% include head.html %}
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="theme-color" content="#61964a">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    {% if page.author %}
+        <meta name="author" content="{{ page.author }}">
+    {% else %}
+        <meta name="author" content="Felipe B. Barbosa">
+    {% endif %}
+
+    <meta property="fb:pages" content="157027331034690">
+
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="pt_BR">
+
+    {% if page.title %}
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:type" content="article">
+    {% else %}
+        <meta property="og:title" content="{{ site.title }}">
+        <meta property="og:type" content="website">
+    {% endif %}
+
+    {% if page.url %}
+        <meta property="og:url" content="{{ page.url | prepend: site.url }}">
+    {% else %}
+        <meta property="og:url" content="{{ site.url }}">
+    {% endif %}
+
+    {% if page.excerpt %}
+        <meta property="og:description" content="{{ page.excerpt | strip_html | truncatewords: 140 }}">
+        <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 140 }}">
+    {% else %}
+        <meta property="og:description" content="{{ site.description }}">
+        <meta name="description" content="{{ site.description }}">
+    {% endif %}
+
+    {% if page.thumbnail %}
+        <meta property="og:image" content="{{ page.thumbnail | prepend: site.url }}">
+        <meta property="og:image:secure_url" content="{{ page.thumbnail | prepend: site.url }}">
+        <meta property="og:image:type" content="image/jpeg">
+        <meta property="og:image:width" content="1280">
+        <meta property="og:image:height" content="720">
+        <meta property="og:image:alt" content="{{ page.title }}">
+
+        <meta name="twitter:image:src" content="{{ page.thumbnail | prepend: site.url }}">
+
+        <link rel="image_src" href="{{ page.thumbnail | prepend: site.url }}" />
+    {% endif %}
+
+    {% if page.date %}
+        <meta property="article:publisher" content="https://facebook.com/vgscomcerveja">
+        <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+        <meta property="article:author" content="https://twitter.com/felipebbarbosa">
+    {% endif %}
+
+    {% for category in page.categories limit:1 %}
+        <meta property="article:section" content="{{ category }}">
+    {% endfor %}    
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twiiter:domain" content="{{ site.title }}">
+    <meta name="twitter:site" content="@vgscomcerveja">
+    <meta name="twitter:creator" content="@felipebbarbosa">
+
+    <link rel="shortcut icon" type="image/png" href="{{ '/imgs/favicon.png' }}">
+    <link rel="manifest" href="/manifest.json">
+
+    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Roboto:400,300,100">
+    <link rel="stylesheet" href="{{ '/css/animation.css' | prepend: site.baseurl }}">
+    <!--[if IE 7]><link rel="stylesheet" href="{{ '/css/vcc-ie7.css' | prepend: site.baseurl }}><![endif]-->
+    <link rel="stylesheet" href="{{ '/css/vcc.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/css/lightbox.min.css' | prepend: site.baseurl }}">
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js')
+          .then(reg => console.info('registered sw', reg))
+          .catch(err => console.error('error registering sw', err));
+      }
+    </script>
+
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b4405d761d41bd43429e5f961/af7263ec98842bcf656b2c54d.js");</script>
+
+  </head>
 
   <body>
 
@@ -28,8 +124,55 @@
     </main>
 
     {% if layout.footer != false %}
-      {% include footer.html %}
+      <footer class="site-footer">
+        &copy; 2026 Videogames com Cerveja
+
+        <br>
+
+        <a href="/sobre/blog/">Sobre</a>
+        |
+        <a href="/parceiros">Blogroll</a>
+        |
+        <a href="https://goo.gl/forms/p3bhAcAWAaKvR6QS2" target="_blank">Contato</a>
+        |
+        <a href="/newsletter">Newsletter</a>
+        |
+        <a href="/loja">Loja</a>
+        |
+        <span>
+          {% for socialLink in site.data.social_links %}
+            <a href="{{ socialLink.url }}" title="{{ socialLink.title }}" class="{{ socialLink.classe }}"></a>
+          {% endfor %}
+        </span><br>
+        <small>
+          Os ícones utilizados no site são do <a href="https://icons8.com" title="Icons8" target="_blank">Icons8</a>, 
+          os emojis são os <a href="https://www.flaticon.com/br/autores/roundicons" title="Roundicons" target="_blank">Roundicons</a>
+          do <a href="https://www.flaticon.com/br/" title="Flaticon">Flaticon</a> e 
+          os gráficos do <a href="https://www.chartjs.org/" title="Chart.js" target="_blank">Chart.js</a>.
+        </small>
+      </footer>
     {% endif %}
+
+    <script src="{{ "/js/lightbox-plus-jquery.min.js" | prepend: site.baseurl }}"></script>
+
+    <script src="{{ "/js/header.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/spoiler.js" | prepend: site.baseurl }}"></script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '162406337502128');
+      fbq('track', "PageView");
+    </script>
+    <noscript>
+      <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=162406337502128&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
 
     <script src="https://comments.vgscomcerveja.com.br/js/count.min.js"
       data-isso-count-empty="nenhum comentário"
