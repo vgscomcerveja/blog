@@ -5,7 +5,7 @@ date: 2022-11-06 17:00
 author: felipebbarbosa
 session: VCC Recomenda! // Especial
 categories: games jogando
-tags: [microsoft, xbox, xbox-one, categoria-lista, categoria-especial, serie-vcc-recomenda, serie-pecados-gamisticos]
+tags: [microsoft, xbox, xbox-one, need-for-speed, tomb-raider, resident-evil, categoria-lista, categoria-especial, serie-vcc-recomenda, serie-pecados-gamisticos]
 thumbnail: /imgs/posts/toplist/15_melhor_decada_2010/post_thumbnail.jpg
 cover: /imgs/posts/toplist/15_melhor_decada_2010/post_header.jpg
 ---

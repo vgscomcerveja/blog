@@ -23,6 +23,7 @@ tags:
     ps3,
     mortal-kombat,
     master-system,
+    need-for-speed,
     sega,
     sonic,
     meme-oqvj,

@@ -16,6 +16,7 @@ tags:
     naughty-dog,
     tomb-raider,
     sony,
+    need-for-speed,
     categoria-lista,
     categoria-especial,
     categoria-noticias,

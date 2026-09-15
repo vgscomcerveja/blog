@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Colecionando Games // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2013/10/20/ultimas-aquisicoes-02.html
-tags: [sony, ps3, sega, master-system, tomb-raider, categoria-colecao-pessoal]
+tags: [sony, ps3, sega, master-system, tomb-raider, categoria-colecao-pessoal, need-for-speed]
 games:
   [
     gtav,

@@ -24,6 +24,7 @@ tags:
     gran-turismo,
     indie,
     meme-oqvj,
+    need-for-speed,
     categoria-especial,
     serie-proseando,
   ]

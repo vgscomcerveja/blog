@@ -10,6 +10,7 @@ tags:
   [
     sony,
     ps3,
+    need-for-speed,
     complete-lists,
     categoria-lista,
     categoria-utilidade-publica,
