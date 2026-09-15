@@ -50,9 +50,11 @@ layout: default
     <div class="post-meta">
       {% assign author = site.data.authors[page.author] %}
       {% if author %}
-        <a href="{{ author.site }}" target="_blank">
-          <span class="post-author icon-user">{{ author.name }}</span>
-        </a>
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <a href="{{ author.site }}" itemprop="url" target="_blank">
+            <span class="post-author icon-user" itemprop="name">{{ author.name }}</span>
+          </a>
+        </span>
       {% endif %}
       <span class="post-date icon-calendar">{{ page.date | date: "%b %-d, %Y" }}</span>
       <span class="post-comments icon-comment-empty">
