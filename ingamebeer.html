@@ -63,10 +63,12 @@ logo: /imgs/ingamebeer.png
     {% assign total_games = site.data.ingamebeer | map: "game" | uniq | size %}
     {% assign total_fotos = site.data.ingamebeer | map: "pics" | uniq | size %}
     {% assign total_users = site.data.ingamebeer | map: "captured_by" | uniq | size %}
+    {% assign total_platforms = site.data.ingamebeer | map: "captured_on" | uniq | size %}
 
     <div class="ingamebeer-stats">
         <div><span>{{ total_beers }}</span><small>cervejas</small></div>
         <div><span>{{ total_games }}</span><small>games</small></div>
+        <div><span>{{ total_platforms }}</span><small>plataformas</small></div>
         <div><span>{{ total_fotos }}</span><small>capturas</small></div>
         <div><span>{{ total_users }}</span><small>contribuintes</small></div>
     </div>
