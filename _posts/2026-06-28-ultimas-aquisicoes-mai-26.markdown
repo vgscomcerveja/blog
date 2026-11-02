@@ -139,7 +139,7 @@ Esse aqui eu fiquei namorando um bom tempo até entrou em "promoção" e não re
 
 ##### PC, Byte & Brothers
 
-Esse é um daqueles jogos que se enquadram na categoria de mais um *lost media* resgatado e em breve preservado. Trata-se de um jogo onde você é o diretor e consegue que criar histórias escolhendo os cenários, adicionando músicas, sons e efeitos sonoros, ou seja, editor de vídeos temático.
+Esse é um daqueles jogos que se enquadram na categoria de mais um *lost media* resgatado e ~~em breve~~ [preservado](https://archive.org/details/popeye-luz-camera-acao). Trata-se de um jogo onde você é o diretor e consegue que criar histórias escolhendo os cenários, adicionando músicas, sons e efeitos sonoros, ou seja, editor de vídeos temático.
 
 {% include image.html full="true" 
   url="/imgs/posts/colecao/27_aquisicoes_mai26/popeye-luz-camera-acao.jpg"

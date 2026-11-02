@@ -38,7 +38,7 @@ Se não estou enganado, são ao todos 3 jogos, então está faltando apenas o **
 
 Se tem uma coisa que gosto de fazer em revistas antigas é olhar as propagandas de época. Sempre acabo descobrindo ou redescobrindo jogos "novos" que na época não dava atenção! Numa dessas propagandas, eu vi esse software da **Positivo**. Como um bom curioso, fui pesquisar na internet e dei a sorte de encontrar uma cópia à venda e, como estava bem baratinha, trouxe para coleção!
 
-Trata-se de um editor de textos voltado para crianças desenvolvido pela **Fácil Informática** em parceria com a **Positivo**. A caixa veio bem recheada, pois além do CD-ROM, vem um manual de mais de 200 página que é inclusive encadernado com espiral (igual à um caderno) e também veio outra coisa que gosto bastante: um catálogo! ❤️
+Trata-se de um editor de textos voltado para crianças desenvolvido pela **Fácil Informática** em parceria com a **Positivo**. A caixa veio bem recheada, pois além do CD-ROM, vem um manual de mais de 200 página que é inclusive encadernado com espiral (igual à um caderno) e também veio outra coisa que gosto bastante: [um catálogo](https://archive.org/details/catalogo-positivo)! ❤️
 
 {% include image.html full="true" 
   url="/imgs/posts/colecao/29_aquisicoes_jul26/facil-crianca-10.jpg"

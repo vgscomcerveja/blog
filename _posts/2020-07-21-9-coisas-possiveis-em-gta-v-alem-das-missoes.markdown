@@ -36,7 +36,7 @@ O mercado financeiro também está presente em GTA V e é uma das boas formas de
 {% include image.html full="true"
     url="/imgs/posts/toplist/20_gtav/gtav_cassino.jpg" %}
 
-A jogatina também está presente em GTA V. Na DLC Cassino e Resort Diamond, lançada em 2019, você pode apostar em um luxuoso cassino e até se aventurar no Three Card Poker, que pode não ser tão conhecido como outras modalidades como Texas Hold'em e [Omaha](https://www.replaypoker.com/pt/free-poker-games/omaha-poker), mas é muito praticada em cassinos do mundo todo. Também estão disponíveis outros jogos de azar, como o blackjack (que por aqui é mais conhecido como 21), roleta, roda da fortuna e caça-níqueis.
+A jogatina também está presente em GTA V. Na DLC Cassino e Resort Diamond, lançada em 2019, você pode apostar em um luxuoso cassino e até se aventurar no Three Card Poker, que pode não ser tão conhecido como outras modalidades como Texas Hold'em e Omaha, mas é muito praticada em cassinos do mundo todo. Também estão disponíveis outros jogos de azar, como o blackjack (que por aqui é mais conhecido como 21), roleta, roda da fortuna e caça-níqueis.
 
 ## Jogar golfe
 
