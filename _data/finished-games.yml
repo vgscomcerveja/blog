@@ -1,4 +1,4 @@
-last-update: 17/07/2026
+last-update: 16/11/2026
 stats-by-year:
   pre-2010: 63
   y2010: 6
@@ -1295,5 +1295,9 @@ platina:
     status: platina
   - nome: Metal Gear Solid (Master Collection Vol. 1)
     data: 22/06/2025  
+    platform: ps4
+    status: platina
+  - nome: Road Bustle
+    data: 08/11/2026
     platform: ps4
     status: platina
